@@ -1,0 +1,745 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="true" translatedname="English">
+  <character.Scrawler>Rotten Сrawler</character.Scrawler>
+  <character.Smudraptor>Rotraptor</character.Smudraptor>
+  <character.Stigerthresher>Rotten Thresher</character.Stigerthresher>
+  <character.Shammerheadspawn>Rot</character.Shammerheadspawn>
+  <character.STransformedMudraptor>Mudraptor</character.STransformedMudraptor>
+  <!-- Mission descriptions -->
+  <missionname.cargosoda>苏打水运输</missionname.cargosoda>
+  <missiondescription.cargosoda>[location2]的苏打水要用完了。把这批货物送给他们你就可以得到[reward]马克。</missiondescription.cargosoda>
+  <missionsuccess.cargosoda>货物已成功交付。</missionsuccess.cargosoda>
+  <missionfailure.cargosoda>你没有把货物运输到目的地。</missionfailure.cargosoda>
+  <missionname.artmod_abandonedoutposthumans>前哨站恢复</missionname.artmod_abandonedoutposthumans>
+  <missiondescription.artmod_abandonedoutposthumans>我们失去了与前哨站[location1]的联系。我们怀疑它被联盟之外的组织控制了。摧毁前哨站的反应堆，赶走寮屋居民，确保他们永远都不会再回来。</missiondescription.artmod_abandonedoutposthumans>
+  <missionsuccess.artmod_abandonedoutposthumans>寮屋居民被成功地赶出了前哨。</missionsuccess.artmod_abandonedoutposthumans>
+  <missionfailure.artmod_abandonedoutposthumans>前哨站的反应堆仍然完好，联盟的敌人依然在逍遥法外。你，这个联盟的罪人！</missionfailure.artmod_abandonedoutposthumans>
+  <missionheader0.artmod_abandonedoutposthumans>反应堆已摧毁。</missionheader0.artmod_abandonedoutposthumans>
+  <missionmessage0.artmod_abandonedoutposthumans>前哨站的反应堆已被摧毁。这能保证这帮寮屋居民不会再尝试回来。离开前哨站以完成任务。</missionmessage0.artmod_abandonedoutposthumans>
+  <missionname.artmod_abandonedoutpostassassinate>刺杀前哨站领袖</missionname.artmod_abandonedoutpostassassinate>
+  <missiondescription.artmod_abandonedoutpostassassinate>我们失去了与前哨站[location1]的联系。We found out that the so-called "noseless" are now based there. There's a bounty on the head of the group's leader's – eliminate the leader to claim the reward.</missiondescription.artmod_abandonedoutpostassassinate>
+  <missionsuccess.artmod_abandonedoutpostassassinate>The leader of the bandit group has been successfully eliminated.</missionsuccess.artmod_abandonedoutpostassassinate>
+  <missionmessage0.artmod_abandonedoutpostassassinate>The leader of the bandit group has been successfully eliminated. Undock from the outpost to complete the mission.</missionmessage0.artmod_abandonedoutpostassassinate>
+  <missionfailure.artmod_abandonedoutpostassassinate>Eliminating the leader of the bandit group failed.</missionfailure.artmod_abandonedoutpostassassinate>
+  <missionname.artpirate1>Pirate Vessel</missionname.artpirate1>
+  <missiondescription.artpirate1>These area have being terrorized by pirates. Unlike the regular rabble, these are well-armed and pose a serious threat. Eliminate them to get [reward] credits.</missiondescription.artpirate1>
+  <missionsuccess.artpirate1>The pirate vessel's crew was successfully eliminated.</missionsuccess.artpirate1>
+  <missionfailure.artpirate1>The pirate vessel's crew was not eliminated.</missionfailure.artpirate1>
+  <missionsonarlabel.artpirate1>Pirate sighting</missionsonarlabel.artpirate1>
+  <missionheader0.artpirate1>Pirates detected</missionheader0.artpirate1>
+  <missionmessage0.artpirate1>Neutralize the crew or sink the submarine to the bottom of the sea!</missionmessage0.artpirate1>
+  <missionheader1.artpirate1>Pirates eliminated</missionheader1.artpirate1>
+  <missionmessage1.artpirate1>Navigate the submarine to [location2] to claim your reward.</missionmessage1.artpirate1>
+  <!-- ArtsMission descriptions -->
+  <missionname.SRmod1>Salvaging an artifact</missionname.SRmod1>
+  <missiondescription.SRmod1>Researchers of [location1] have picked up an infrasonic signal highly similar to those emitted by alien artifacts previously discovered on Europa. Investigate the signal and retrieve the potential artifact.</missiondescription.SRmod1>
+  <missionsuccess.SRmod1>The artifact has been successfully retrieved.</missionsuccess.SRmod1>
+  <missionfailure.SRmod1>Retrieving the artifact failed.</missionfailure.SRmod1>
+  <missionheader0.SRmod1>Artifact collected</missionheader0.SRmod1>
+  <missionmessage0.SRmod1>The artifact is now on board. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.SRmod1>
+  <missionname.SRmod2>Salvaging an artifact</missionname.SRmod2>
+  <missiondescription.SRmod2>Researchers of [location1] have picked up an infrasonic signal highly similar to those emitted by dangerous alien artifacts previously discovered on Europa. Investigate the signal and retrieve the potential artifact.</missiondescription.SRmod2>
+  <missionsuccess.SRmod2>The artifact has been successfully retrieved.</missionsuccess.SRmod2>
+  <missionfailure.SRmod2>Retrieving the artifact failed.</missionfailure.SRmod2>
+  <missionheader0.SRmod2>Artifact collected</missionheader0.SRmod2>
+  <missionmessage0.SRmod2>The artifact is now on board. Be careful and navigate the submarine out of the cavern to claim the reward.</missionmessage0.SRmod2>
+  <missionname.SRmod3>Salvaging an artifact</missionname.SRmod3>
+  <missiondescription.SRmod3>Researchers of [location1] have picked up an infrasonic signal highly similar to those emitted by most dangerous alien artifacts previously discovered on Europa. Investigate the signal and retrieve the potential artifact.</missiondescription.SRmod3>
+  <missionsuccess.SRmod3>The artifact has been successfully retrieved.</missionsuccess.SRmod3>
+  <missionfailure.SRmod3>Retrieving the artifact failed.</missionfailure.SRmod3>
+  <missionheader0.SRmod3>Artifact collected</missionheader0.SRmod3>
+  <missionmessage0.SRmod3>The artifact is now on board. Navigate the submarine out of the cavern to claim the reward.... And dont die.</missionmessage0.SRmod3>
+  <missionsonarlabel.SRmod1>Infrasonic signal</missionsonarlabel.SRmod1>
+  <missionsonarlabel.SRmod2>Infrasonic signal</missionsonarlabel.SRmod2>
+  <missionsonarlabel.SRmod3>Infrasonic signal</missionsonarlabel.SRmod3>
+  <!-- Afflictions -->
+  <afflictionname.ha-ha>???</afflictionname.ha-ha>
+  <afflictiondescription.ha-ha>You feel a growing anxiety...</afflictiondescription.ha-ha>
+  <afflictionname.infernoburn>Hot migraine</afflictionname.infernoburn>
+  <afflictiondescription.infernoburn>Terribly painful sensation in the head, as if the brain were melting.</afflictiondescription.infernoburn>
+  <afflictioncauseofdeath.infernoburn>Deadly overheating of the brain.</afflictioncauseofdeath.infernoburn>
+  <afflictioncauseofdeathself.infernoburn>Your brain has melted.</afflictioncauseofdeathself.infernoburn>
+  <afflictionname.IncubationS>???</afflictionname.IncubationS>
+  <afflictiondescription.IncubationS>You feel a growing anxiety and discomfort in your chest...</afflictiondescription.IncubationS>
+  <afflictionname.artmod_anomalyfunctionalnecrosis>Hallucinations?</afflictionname.artmod_anomalyfunctionalnecrosis>
+  <afflictiondescription.artmod_anomalyfunctionalnecrosis>Your eyes fill with blood, it also flows from various parts of your body. Your stomach turns inside out and you hear strange sounds that no one else hears, your body is overflowing with energy... And inexplicably growing anger.</afflictiondescription.artmod_anomalyfunctionalnecrosis>
+  <afflictioncauseofdeath.artmod_anomalyfunctionalnecrosis>The cause of death is unknown.</afflictioncauseofdeath.artmod_anomalyfunctionalnecrosis>
+  <afflictioncauseofdeathself.artmod_anomalyfunctionalnecrosis>You died from a psi-infection.</afflictioncauseofdeathself.artmod_anomalyfunctionalnecrosis>
+  <afflictiondescription.artmod_incurablefunctionalnecrosis>The patient looks like a living corpse.</afflictiondescription.artmod_incurablefunctionalnecrosis>
+  <afflictionname.craser_bleeding>Anomalous bleeding</afflictionname.craser_bleeding>
+  <afflictiondescription.craser_bleeding>Blood flows rapidly from all orifices of the body...</afflictiondescription.craser_bleeding>
+  <afflictioncauseofdeath.craser_bleeding>Death from anomalous bleeding.</afflictioncauseofdeath.craser_bleeding>
+  <afflictioncauseofdeathself.craser_bleeding>You died from anomalous bleeding.</afflictioncauseofdeathself.craser_bleeding>
+  <afflictionname.theheavenpsychosis>Anomalous paralysis</afflictionname.theheavenpsychosis>
+  <afflictiondescription.theheavenpsychosis>The patient's body stiffens and the muscles stop working.</afflictiondescription.theheavenpsychosis>
+  <afflictiondescription.Soulless>The patient appears to be all right, but his eyes are dimmed, and the life seems to be fading away inside him.</afflictiondescription.Soulless>
+  <afflictioncauseofdeath.Soulless>The cause of death is unknown.</afflictioncauseofdeath.Soulless>
+  <afflictioncauseofdeathself.Soulless>The last drops of "life" have flown away from your body.</afflictioncauseofdeathself.Soulless>
+  <afflictionname.oasispsychosis>Anomalous hallucinations</afflictionname.oasispsychosis>
+  <afflictiondescription.oasispsychosis>The patient's eyes are covered with a veil, and his mind is clearly somewhere else.</afflictiondescription.oasispsychosis>
+  <afflictionname.artaddiction>Anomalous addiction</afflictionname.artaddiction>
+  <afflictiondescription.artaddiction>The patient seems to be pleased with everything... Too pleased.</afflictiondescription.artaddiction>
+  <afflictionname.artwithdrawal>Anomalous withdrawal</afflictionname.artwithdrawal>
+  <afflictiondescription.artwithdrawal>The patient is showing symptoms of a normal drug withdrawal, but something is not right...</afflictiondescription.artwithdrawal>
+  <afflictiondescription.artvisualwithdrawal>You feel a growing anxiety... And a strange, painful, body-breaking craving to touch the healing artifact again.</afflictiondescription.artvisualwithdrawal>
+  <afflictioncauseofdeath.artwithdrawal>Death from anomalous withdrawal.</afflictioncauseofdeath.artwithdrawal>
+  <afflictioncauseofdeathself.artwithdrawal>You died from anomalous withdrawal.</afflictioncauseofdeathself.artwithdrawal>
+  <afflictionname.burnresist>Burn protection</afflictionname.burnresist>
+  <afflictiondescription.burnresist>You take less damage from burns.</afflictiondescription.burnresist>
+  <afflictionname.burnresistS>Burn protection+</afflictionname.burnresistS>
+  <afflictiondescription.burnresistS>You take significantly less damage from burns.</afflictiondescription.burnresistS>
+  <afflictionname.bleedingresist>Bleeding protection</afflictionname.bleedingresist>
+  <afflictiondescription.bleedingresist>Your wounds bleed less.</afflictiondescription.bleedingresist>
+  <afflictionname.bleedingresistS>Bleeding protection+</afflictionname.bleedingresistS>
+  <afflictiondescription.bleedingresistS>Your wounds bleed significantly less.</afflictiondescription.bleedingresistS>
+  <afflictionname.chemresist>Stun protection</afflictionname.chemresist>
+  <afflictiondescription.chemresist>You are less susceptible to stuns.</afflictiondescription.chemresist>
+  <afflictionname.chemresistS>Stun protection+</afflictionname.chemresistS>
+  <afflictiondescription.chemresistS>You are immune to stuns.</afflictiondescription.chemresistS>
+  <afflictionname.dontusetoomuch>Cellular degradation</afflictionname.dontusetoomuch>
+  <afflictiondescription.dontusetoomuch>General deterioration of the body condition associated with the use of certain medicines containing a red crystal.</afflictiondescription.dontusetoomuch>
+  <causeofdeathdescription.dontusetoomuch>Death from cellular degradation.</causeofdeathdescription.dontusetoomuch>
+  <selfcauseofdeathdescription.dontusetoomuch>Your body has "collapsed".</selfcauseofdeathdescription.dontusetoomuch>
+  <afflictionname.redroundpill>Adrenalin</afflictionname.redroundpill>
+  <afflictiondescription.redroundpill>The patient is less susceptible to pain and able to move faster, but is subject to constant cellular degradation.</afflictiondescription.redroundpill>
+  <afflictionname.RedSyrgineSTRG>Titan's Resolve</afflictionname.RedSyrgineSTRG>
+  <afflictiondescription.RedSyrgineSTRG>The patient is much less susceptible to pain and his blood coagulates almost instantly. There are problems with movement.</afflictiondescription.RedSyrgineSTRG>
+  <afflictionname.BlueSyrgineSPEED>Spartan Speed</afflictionname.BlueSyrgineSPEED>
+  <afflictiondescription.BlueSyrgineSPEED>The patient exhibits a significantly increased speed of movement and is less susceptible to blunt trauma.</afflictiondescription.BlueSyrgineSPEED>
+  <afflictionname.fastfish>Like a fish in water</afflictionname.fastfish>
+  <afflictiondescription.fastfish>The patient moves much faster in the water.</afflictiondescription.fastfish>
+  <afflictionname.fastrepair>Fast hands</afflictionname.fastrepair>
+  <afflictiondescription.fastrepair>The speed of repairing electrics, mechanisms and hull has been increased, as well as the speed of melee attacks.</afflictiondescription.fastrepair>
+  <afflictionname.morevigor>Improved health</afflictionname.morevigor>
+  <afflictiondescription.morevigor>The patient's vitality is improved.</afflictiondescription.morevigor>
+  <afflictionname.moremorevigor>Fortified Health</afflictionname.moremorevigor>
+  <afflictiondescription.moremorevigor>Patient survival is greatly improved.</afflictiondescription.moremorevigor>
+  <afflictionname.psihelmetresist>Protection from psi-impact</afflictionname.psihelmetresist>
+  <afflictiondescription.psihelmetresist>Like ethanol, but better!</afflictiondescription.psihelmetresist>
+  <afflictionname.psi_internaldamage>Internal brain damage</afflictionname.psi_internaldamage>
+  <afflictiondescription.psi_internaldamage>A completely unexplored phenomenon that can lead to the death of a patient.</afflictiondescription.psi_internaldamage>
+  <afflictioncauseofdeath.psi_internaldamage>Death by psionic influence</afflictioncauseofdeath.psi_internaldamage>
+  <afflictioncauseofdeathself.psi_internaldamage>Your brain has liquefied.</afflictioncauseofdeathself.psi_internaldamage>
+  <afflictionname.transformationgift>?</afflictionname.transformationgift>
+  <afflictiondescription.transformationgift>Constant weird feelings...</afflictiondescription.transformationgift>
+  <afflictionname.artmod_drunk>Drunk</afflictionname.artmod_drunk>
+  <afflictiondescription.artmod_drunk>The smell of alcohol rises from them like a vapor, their speech slurs a little, and their eyes fail to focus.</afflictiondescription.artmod_drunk>
+  <afflictionname.bracletbuff>Bracelet</afflictionname.bracletbuff>
+  <afflictiondescription.bracletbuff>The artifact on his wrist had dug deep into his skin and, apparently, into flesh, muscle, and blood vessels. There is no way to remove it without injuring the wearer.</afflictiondescription.bracletbuff>
+  <afflictionname.bracletbuff_hostvisual1>Bonds</afflictionname.bracletbuff_hostvisual1>
+  <afflictiondescription.bracletbuff_hostvisual1>It looks like the artifact stuck firmly into the hand...However, you do not feel discomfort - only a surge of strength, and over time, the feeling only grows.</afflictiondescription.bracletbuff_hostvisual1>
+  <afflictionname.bracletbuff_hostvisual2>Deep Bonds</afflictionname.bracletbuff_hostvisual2>
+  <afflictiondescription.bracletbuff_hostvisual2>The artifact dug into the hand like a glove. You feel an even greater surge of strength, but at the same time, painful sensations inside yourself that do not have a clear source...</afflictiondescription.bracletbuff_hostvisual2>
+  <!-- Artifacts --><!-- 114514 -->
+  <entityname.artmod_vampireartifact>治愈异星遗物</entityname.artmod_vampireartifact>
+  <entitydescription.artmod_vampireartifact>在异星遗迹中发现的造物。</entitydescription.artmod_vampireartifact>
+  <entityname.artmod_oasisartifact>治愈异星遗物</entityname.artmod_oasisartifact>
+  <entitydescription.artmod_oasisartifact>在异星遗迹中发现的造物。</entitydescription.artmod_oasisartifact>
+  <entityname.artmod_theheavenartifact>治愈异星遗物</entityname.artmod_theheavenartifact>
+  <entitydescription.artmod_theheavenartifact>在异星遗迹中发现的造物。</entitydescription.artmod_theheavenartifact>
+  <entityname.rust1artifact>损坏的异星遗物</entityname.rust1artifact>
+  <entitydescription.rust1artifact>在异星遗迹中发现的造物。不过这货是损坏了的。</entitydescription.rust1artifact>
+  <entityname.rust2artifact>损坏的异星遗物</entityname.rust2artifact>
+  <entitydescription.rust2artifact>在异星遗迹中发现的造物。不过这货是损坏了的。</entitydescription.rust2artifact>
+  <entityname.rust3artifact>损坏的异星遗物</entityname.rust3artifact>
+  <entitydescription.rust3artifact>在异星遗迹中发现的造物。不过这货是损坏了的。</entitydescription.rust3artifact>
+  <entityname.artmod_silentartifact>疯子异星遗物</entityname.artmod_silentartifact>
+  <entitydescription.artmod_silentartifact>在异星遗迹中发现的造物。</entitydescription.artmod_silentartifact>
+  <entityname.artmod_zombieartifact>疯子异星遗物</entityname.artmod_zombieartifact>
+  <entitydescription.artmod_zombieartifact>在异星遗迹中发现的造物。</entitydescription.artmod_zombieartifact>
+  <entityname.artmod_mindbentartifact>疯子异星遗物</entityname.artmod_mindbentartifact>
+  <entitydescription.artmod_mindbentartifact>在异星遗迹中发现的造物。</entitydescription.artmod_mindbentartifact>
+  <entityname.artmod_incubatorartifact>损坏的异星遗物</entityname.artmod_incubatorartifact>
+  <entitydescription.artmod_incubatorartifact>在异星遗迹中发现的造物。不过这货是损坏了的。</entitydescription.artmod_incubatorartifact>
+  <entityname.artmod_heartoftheswarmartifact>奈氏异星遗物</entityname.artmod_heartoftheswarmartifact>
+  <entitydescription.artmod_heartoftheswarmartifact>在异星遗迹中发现的造物。它和心脏一样在跳动。</entitydescription.artmod_heartoftheswarmartifact>
+  <entityname.artmod_heartofEuropeartifact>奈氏异星遗物</entityname.artmod_heartofEuropeartifact>
+  <entitydescription.artmod_heartofEuropeartifact>在异星遗迹中发现的造物。它如同一颗炙热的心。</entitydescription.artmod_heartofEuropeartifact>
+  <entityname.artmod_pulseartifact>法拉第异星遗物</entityname.artmod_pulseartifact>
+  <entitydescription.artmod_pulseartifact>在异星遗迹中发现的造物。</entitydescription.artmod_pulseartifact>
+  <entityname.artmod_sparkartifact>法拉第异星遗物</entityname.artmod_sparkartifact>
+  <entitydescription.artmod_sparkartifact>在异星遗迹中发现的造物。</entitydescription.artmod_sparkartifact>
+  <entityname.artmod_electrodeathartifact>法拉第异星遗物</entityname.artmod_electrodeathartifact>
+  <entitydescription.artmod_electrodeathartifact>在异星遗迹中发现的造物。</entitydescription.artmod_electrodeathartifact>
+  <entityname.artmod_vacuumartifact>天空异星遗物</entityname.artmod_vacuumartifact>
+  <entitydescription.artmod_vacuumartifact>在异星遗迹中发现的造物。</entitydescription.artmod_vacuumartifact>
+  <entityname.artmod_biohazardartifact>天空异星遗物</entityname.artmod_biohazardartifact>
+  <entitydescription.artmod_biohazardartifact>在异星遗迹中发现的造物。上面粘乎乎的。</entitydescription.artmod_biohazardartifact>
+  <entityname.artmod_brazierartifact>发热异星遗物</entityname.artmod_brazierartifact>
+  <entitydescription.artmod_brazierartifact>在异星遗迹中发现的造物。</entitydescription.artmod_brazierartifact>
+  <entityname.artmod_meltingartifact>发热异星遗物</entityname.artmod_meltingartifact>
+  <entitydescription.artmod_meltingartifact>在异星遗迹中发现的造物。</entitydescription.artmod_meltingartifact>
+  <entityname.artmod_infernoartifact>发热异星遗物</entityname.artmod_infernoartifact>
+  <entitydescription.artmod_infernoartifact>在异星遗迹中发现的造物。</entitydescription.artmod_infernoartifact>
+  <entityname.artmod_alientrinket1_shock>异星火花放电器</entityname.artmod_alientrinket1_shock>
+  <entitydescription.artmod_alientrinket1_shock>在异星遗迹中发现的小型造物。
+闪闪发亮。触摸它的时候有微微的刺痛感。</entitydescription.artmod_alientrinket1_shock>
+  <entityname.artmod_alientrinket2_wax>异星蜂蜡</entityname.artmod_alientrinket2_wax>
+  <entitydescription.artmod_alientrinket2_wax>在异星遗迹中发现的小型造物。
+柔软柔韧，不过不管怎么摆弄它，它都会恢复原来的形状。</entitydescription.artmod_alientrinket2_wax>
+  <entityname.artmod_alientrinket3_brainbreaker>异星三角形</entityname.artmod_alientrinket3_brainbreaker>
+  <entitydescription.artmod_alientrinket3_brainbreaker>在异星遗迹中发现的小型造物。
+它看起来像一个循环图形，让人感觉不应该存在于这个世界。长时间观察它并没有给你带来什么收获，除了偏头痛。</entitydescription.artmod_alientrinket3_brainbreaker>
+  <entityname.artmod_alientrinket4_eyes>异星物体</entityname.artmod_alientrinket4_eyes>
+  <entitydescription.artmod_alientrinket4_eyes>在异星遗迹中发现的小型造物。
+仅仅是看着它就会产生一种奇怪的不适感，好像有人在聚精会神地看着你。</entitydescription.artmod_alientrinket4_eyes>
+  <entityname.artmod_alientrinket5_figure>异形图形</entityname.artmod_alientrinket5_figure>
+  <entitydescription.artmod_alientrinket5_figure>在异星遗迹中发现的小型造物。
+它的形状看起来十分的复杂。异星造物的表面摸起来感觉暖暖的。</entitydescription.artmod_alientrinket5_figure>
+  <entityname.artmod_alientrinket6_hugebracelet>异星手镯</entityname.artmod_alientrinket6_hugebracelet>
+  <entitydescription.artmod_alientrinket6_hugebracelet>在异星遗迹中发现的小型造物。
+对有所了解的人来说，它看起来像是地球上的首饰——手镯？对于其他人来说它只是一件形状怪异的造物罢了。你可以用背包槽位佩戴这玩意...不建议</entitydescription.artmod_alientrinket6_hugebracelet>
+  <entityname.artmod_alientrinket7_piece>异星小玩意</entityname.artmod_alientrinket7_piece>
+  <entitydescription.artmod_alientrinket7_piece>在异星遗迹中发现的小型造物。
+表面有许多小通气孔，它在不断地往外吹气。</entitydescription.artmod_alientrinket7_piece>
+  <entityname.artmod_alientrinket8_psihealsphere>异星球体</entityname.artmod_alientrinket8_psihealsphere>
+  <entitydescription.artmod_alientrinket8_psihealsphere>在异星遗迹中发现的小型造物。
+盯着球的中心看，你可以感受到放松。</entitydescription.artmod_alientrinket8_psihealsphere>
+  <entityname.artmod_alientrinket9_slowdownsphere>异星球体</entityname.artmod_alientrinket9_slowdownsphere>
+  <entitydescription.artmod_alientrinket9_slowdownsphere>在异星遗迹中发现的小型造物。
+神秘能量驱动着它搏动，它让你感觉四肢越来越无力。</entitydescription.artmod_alientrinket9_slowdownsphere>
+  <entityname.artmod_alientrinket10_lamp>异星灯</entityname.artmod_alientrinket10_lamp>
+  <entitydescription.artmod_alientrinket10_lamp>在异星遗迹中发现的小型造物。
+最受木卫二人欢迎的异星造物，稀有度是东雪莲，同时有价无市。上面镶嵌着一个类似按钮的东西，按下按钮时会激活一个组件使其发光，用来当做舱外照明灯使用。它可以悬浮在水中，不会往下沉。</entitydescription.artmod_alientrinket10_lamp>
+  <entityname.artmod_alientrinket11_chief>异星尖顶</entityname.artmod_alientrinket11_chief>
+  <entitydescription.artmod_alientrinket11_chief>在异星遗迹中发现的小型造物。
+三面尖利，像一把旧时代制造的匕首。内涵着无穷能量。</entitydescription.artmod_alientrinket11_chief>
+  <!-- Items --><!-- 114514 -->
+  <entityname.bluejelly>蓝色凝胶</entityname.bluejelly>
+  <entitydescription.bluejelly>拆解异星造物得到的三种凝胶之一。摸起来特别凉，木卫二上对这团史莱姆有许多说法，但大家普遍认为这玩意是异星造物的冷却主体。
+可以在研究站出售或者用来制造药品。</entitydescription.bluejelly>
+  <entityname.redjelly>红色凝胶</entityname.redjelly>
+  <entitydescription.redjelly>拆解异星造物得到的三种凝胶之一。在灯光下可以看到有黑色的小颗粒在里面流动。科学家声称，这部分是负责异星造物的自我修复。
+可以在研究站出售或者用来制造药品。</entitydescription.redjelly>
+  <entityname.greenjelly>绿色凝胶</entityname.greenjelly>
+  <entitydescription.greenjelly>拆解异星造物得到的三种凝胶之一。表面在不断的膨胀和收缩，到目前为止没人能推导出异星造物为什么需要它...理论、实验毫无进展，最终联盟终止了对其的研究。
+可以在研究站出售或者用来制造药品。</entitydescription.greenjelly>
+  <entityname.bluesoda>苏打水——"小丑的伤心事"</entityname.bluesoda>
+  <entitydescription.bluesoda>联盟旗下某家未具名的公司最近推出的几种苏打水之一。
+这种苏打水总是冰凉凉的，喝起来没什么味道。它让你感到安逸...
+"有了它，你的思想会漂浮于欧罗巴的冰层之上。"</entitydescription.bluesoda>
+  <entityname.redsoda>苏打水——"欧罗巴的关心"</entityname.redsoda>
+  <entitydescription.redsoda>联盟旗下某家未具名的公司最近推出的几种苏打水之一。
+有一种特别浓的味道，出人意料的好喝。
+"让欧罗巴来关照你。"</entitydescription.redsoda>
+  <entityname.greensoda>苏打水——"希波克拉底的血清"</entityname.greensoda>
+  <entitydescription.greensoda>联盟旗下某家未具名的公司最近推出的几种苏打水之一。
+喝起来有一种奇怪的味道，好像每分每秒都在变化。
+"然后让所有化学反应都开始。"</entitydescription.greensoda>
+  <entityname.crystalshard>治愈水晶碎片</entityname.crystalshard>
+  <entitydescription.crystalshard>从治愈异星遗物中提取的物质。
+这可是木卫二科学研究的热点。
+可以用来制造其他物品。</entitydescription.crystalshard>
+  <entityname.crystalchunk>治愈水晶碎块</entityname.crystalchunk>
+  <entitydescription.crystalchunk>从治愈异星遗物中提取的物质。
+比碎片更加稀有，水晶碎块的体积更大，重量更重。只需要抚摸其凹凸不平的表面就可以感受它内在的治愈能量。
+可以用来制造其他物品。</entitydescription.crystalchunk>
+  <entityname.crystalslab>治愈水晶</entityname.crystalslab>
+  <entitydescription.crystalslab>一个形状和纯度都极度完美的水晶，如同奇迹一般完好无损地从治愈异星遗物中提取出来。
+红色的水晶表面好像有血液在流动...它的治愈能量可以渗透身体的每一个地方，这样的至宝无疑会让整个研究站点都沸腾起来。（）</entitydescription.crystalslab>
+  <entityname.genetherapyS>Bon-kenny刺激器</entityname.genetherapyS>
+  <entitydescription.genetherapyS>基于天才科学家"Mcbone_kenney"的“基因疗法”制作，添加了治愈水晶碎块和氧矿碎片，并混合了一些现代医学产物。
+彻底清除各种毒素和画皮感染，恢复患者氧气水平，轻微愈合出血，甚至可以治疗未知的疾病。不过它有许多副作用，不能频繁使用或者当常用药。</entitydescription.genetherapyS>
+  <entityname.DSreanimator>智障的九条命</entityname.DSreanimator>
+  <entitydescription.DSreanimator>一种基于治愈水晶碎块的实验制剂。
+这曾被木卫二联盟认为是不朽的科学突破，直到发现这种药物有一个致命缺陷——所有智力或多或少发达的生物在用其复活时都没有恢复其应有的发达大脑。因此这种药物目前多用于复活欧罗巴动物样本以供研究之用，或者是用于复活“智障"（Bots）
+在活着的生命体上使用这针制剂没有效果。</entitydescription.DSreanimator>
+  <entityname.morehealthsyringe>AJ-注射药</entityname.morehealthsyringe>
+  <entitydescription.morehealthsyringe>治愈水晶碎片和类固醇的药物混合物。
+提高使用者的生存能力。这对于出舱战斗和稳定重伤人员的伤势非常有用。
+有成瘾性。</entitydescription.morehealthsyringe>
+  <entityname.moremorehealthsyringe>DAI-注射药</entityname.moremorehealthsyringe>
+  <entitydescription.moremorehealthsyringe>治愈水晶碎块和类固醇的药物混合物。
+极大地提高使用者的生存能力。这对于出舱战斗和稳定重伤人员的伤势非常有用。
+有成瘾性，比AJ-注射药强。</entitydescription.moremorehealthsyringe>
+  <entityname.bluejellymed>奥萨拉</entityname.bluejellymed>
+  <entitydescription.bluejellymed>一种由蓝色凝胶和疗素制造的药物，可以防止烧伤。
+不知道其作用原理，科学家们只是把两种东西搅拌了一下就得到了奥萨拉。副作用是会对使用者造成器官损伤，这限制了其疗效。不过即使是这样，工程师和水手们在处理易燃物品时还是会用它。</entitydescription.bluejellymed>
+  <entityname.redjellymed>止血灵</entityname.redjellymed>
+  <entitydescription.redjellymed>一种由红色凝胶和疗素制造的药物，可以减少伤口出血。
+这种药物易于制造且没有副作用，因此在联盟和分离主义者里很受欢迎。"我没时间流血。"这句话又流行了起来。</entitydescription.redjellymed>
+  <entityname.greenjellymed>明胶</entityname.greenjellymed>
+  <entitydescription.greenjellymed>一种由绿色凝胶和疗素制造的药物，让使用者获得眩晕抗性。
+用未知用途的一团史莱姆制造药物可不是个靠谱的注意。虽然目前没有报告显示其有什么副作用，但还是没有人认可这种药物。不过，出于某些奇怪的原因，小丑们很喜欢它...</entitydescription.greenjellymed>
+  <entityname.bluejellymedS>奥萨拉+</entityname.bluejellymedS>
+  <entitydescription.bluejellymedS>添加了治愈水晶的药物。
+他们稍稍微的改变了一下药物的作用原理——现在它可以效率最大化的影响使用者，不再包含副作用。同时也略微增强了对烧伤的抵抗力。
+会导致细胞降解。</entitydescription.bluejellymedS>
+  <entityname.redjellymedS>止血灵+</entityname.redjellymedS>
+  <entitydescription.redjellymedS>添加了治愈水晶的药物。
+他们稍稍微的改变了一下药物的作用原理——现在它可以效率最大化的影响使用者，不再包含副作用。同时也略微增强了对出血的抵抗力。
+会导致细胞降解。</entitydescription.redjellymedS>
+  <entityname.greenjellymedS>明胶+</entityname.greenjellymedS>
+  <entitydescription.greenjellymedS>添加了治愈水晶的药物。
+他们稍稍微的改变了一下药物的作用原理——现在它可以效率最大化的影响使用者，不再包含副作用。同时也略微增强了对眩晕的抵抗力。
+会导致细胞降解。</entitydescription.greenjellymedS>
+  <entityname.medkit>医疗箱</entityname.medkit>
+  <entitydescription.medkit>小型急救箱，旨在为出血和失血患者提供急救，防止烧伤。
+还有附加的四个注射器槽位</entitydescription.medkit>
+  <entityname.pills1>防化药</entityname.pills1>
+  <entitydescription.pills1>清除体内毒物、毒素和画皮感染的廉价办法，效率有点低，不过很安全。
+为了获得最佳效果，建议一次服用两到三片。有过量风险，不建议服用更大的剂量，不然就寄了。</entitydescription.pills1>
+  <entityname.pills2>抗降解剂</entityname.pills2>
+  <entitydescription.pills2>治疗晶体药物使细胞降解的唯一办法。很多研究人员都提出过研究更加高效的药物或设备。不过都被联盟否决了，原因是他们认为这是对时间和资源的低效浪费。
+为了获得最佳效果，建议一次服用两到三片。有过量风险，不建议服用更大的剂量，不然就寄了。</entitydescription.pills2>
+  <entityname.pills3>安抚剂</entityname.pills3>
+  <entitydescription.pills3>一种药片，以我们未发现的方式消除异星造物对使用者产生的影响。
+为了获得最佳效果，建议一次服用两到三片。有过量风险，不建议服用更大的剂量，不然就寄了。</entitydescription.pills3>
+  <entityname.pills6>心灵手巧丸</entityname.pills6>
+  <entitydescription.pills6>提高修复电气、机械设备的速度，提高喷船效率。意料之外的是，它还可以增加近战攻速。
+联盟生产的实验性药物，它的配方和作用原理是机密，除了高层和实验人员以外几乎没人知道。
+会导致细胞降解。</entitydescription.pills6>
+  <entityname.pills7>鱼之种</entityname.pills7>
+  <entitydescription.pills7>显著加快在水中的移动速度。
+联盟生产的实验性药物，它的配方和作用原理是机密，除了高层和实验人员以外几乎没人知道。
+会导致细胞降解。</entitydescription.pills7>
+  <entityname.redsyrgine>泰坦试剂</entityname.redsyrgine>
+  <entitydescription.redsyrgine>一块完美的治愈水晶和类固醇的合成物。
+让使用者身体更加灵活，伤害抗性提高，加速血液凝结。
+有成瘾性。</entitydescription.redsyrgine>
+  <entityname.bluesyrgine>斯巴达试剂</entityname.bluesyrgine>
+  <entitydescription.bluesyrgine>一块完美的治愈水晶和兴奋剂的合成物。
+显著提高使用者的移动速度。就是跑得太快可能会导致受伤，所以使用者也会产生一些对此的抵抗力。
+有成瘾性。</entitydescription.bluesyrgine>
+  <entityname.clowngreensurgine>母亲的抚摸</entityname.clowngreensurgine>
+  <entitydescription.clowngreensurgine>一种来源不明的神秘药物。不过一些不寻常的人声称这是小丑们所创造。
+研究前哨站会高价购买这种药物。强烈建议别在人类身上用这个。
+<!--这句我有点看不懂，原文是：At the research station, they are ready to pay a substantial amount for it.HIGHLY not recommended for use on humans.-->
+</entitydescription.clowngreensurgine>
+  <!-- New "usual" weapons -->
+  <entityname.winchester>Winchester</entityname.winchester>
+  <entitydescription.winchester>A relic from Earth modified for an underwater western.</entitydescription.winchester>
+  <entityname.wichesterround>Winchester bullet</entityname.wichesterround>
+  <entitydescription.wichesterround>.300 caliber bullet. Can stop a man... And a crawler.</entitydescription.wichesterround>
+  <entityname.wichesterroundhard>Winchester bullet with physicorium</entityname.wichesterroundhard>
+  <entitydescription.wichesterroundhard>A .300 caliber bullet with a pointed physicorium tip. Deals significant damage to the target.</entitydescription.wichesterroundhard>
+  <entityname.wichesterrounddepletedfuel>Winchester bullet with depleted fuel</entityname.wichesterrounddepletedfuel>
+  <entitydescription.wichesterrounddepletedfuel>.300 caliber bullet, fashioned out of depleted fuel. Along with increased penetration, the ammo has been special-made to also inflict radiation sickness on the target.</entitydescription.wichesterrounddepletedfuel>
+  <entityname.artmod_autoshotgun>Half-autoshotgun</entityname.artmod_autoshotgun>
+  <entitydescription.artmod_autoshotgun>An improved, self-loading version of the regular shotgun. Holds less ammo, but has a significantly increased rate of fire.</entitydescription.artmod_autoshotgun>
+  <entityname.fisshotgunshell>Physicorium shotgun shells</entityname.fisshotgunshell>
+  <entitydescription.fisshotgunshell>Instead of fraction, they are filled with a huge amount of physicorium, which reduces damage, but significantly increases the amount of fragments and, slightly, armor penetration.</entitydescription.fisshotgunshell>
+  <entityname.autopistol>Autopistol</entityname.autopistol>
+  <entitydescription.autopistol>Based on a revolver, this pistol fires bullets at high speed, but has less stopping power.
+Skills that improve the damage of the revolver also work on this weapon.</entitydescription.autopistol>
+  <entityname.autopistolmagazine>Autopistol magazine</entityname.autopistolmagazine>
+  <entitydescription.autopistolmagazine>Contains 24 bullets.</entitydescription.autopistolmagazine>
+  <entityname.artmod_drumsmg>Drum SMG</entityname.artmod_drumsmg>
+  <entitydescription.artmod_drumsmg>Submachine gun with drum magazine. It uses small-caliber cartridges that are loaded directly into the built-in magazine.
+It has low damage and does not penetrate armor, but the huge rate of fire, capacity and lightness of this weapon make it ideal against unarmored targets.</entitydescription.artmod_drumsmg>
+  <entityname.drumsmg_round>Drum SMG bullet</entityname.drumsmg_round>
+  <entitydescription.drumsmg_round>The main and only caliber for drum PP. Has no stopping power. Due to its small size, it is lost forever when thrown away.</entitydescription.drumsmg_round>
+  <entityname.alienartifactpiece>Alien makeshift grenade</entityname.alienartifactpiece>
+  <entitydescription.alienartifactpiece>When thrown, the internal components of the device are activated, causing the creation of attractive kinetic waves, followed by an explosion after a few seconds.
+It is not known exactly who invented this thing, but now its drawings, like the drawings of an assault rifle, are widely distributed among submariners.</entitydescription.alienartifactpiece>
+  <entityname.compactgrenadelauncher>Wrist grenade launcher</entityname.compactgrenadelauncher>
+  <entitydescription.compactgrenadelauncher>Compact self-loading grenade launcher. Despite the massive appearance, it is quite light.
+The mechanism is unreliable and periodically explodes, which does not pose a threat to the weapon itself, but does pose a threat to its operator. Despite this drawback, the weapon is still used as a convenient replacement for a conventional grenade launcher.
+Due to its design, it can only be held with the left hand.</entitydescription.compactgrenadelauncher>
+  <entityname.plpistol>Broken laser pistol</entityname.plpistol>
+  <entitydescription.plpistol>Strange weapon. It looks broken and barely functional.</entitydescription.plpistol>
+  <entityname.plsmg>Broken laser SMG</entityname.plsmg>
+  <entitydescription.plsmg>Strange weapon. It looks broken and barely functional.</entitydescription.plsmg>
+  <entityname.plrifle>Broken laser rifle</entityname.plrifle>
+  <entitydescription.plrifle>Strange weapon. It looks broken and barely functional.</entitydescription.plrifle>
+  <entityname.lpistol>Laser pistol</entityname.lpistol>
+  <entitydescription.lpistol>One of the experimental weapons with infinite ammo.
+Looks like someone knows more about the use of alien materials than should.</entitydescription.lpistol>
+  <entityname.lsmg>Laser SMG</entityname.lsmg>
+  <entitydescription.lsmg>One of the experimental weapons with infinite ammo.
+Looks like someone knows more about the use of alien materials than should.</entitydescription.lsmg>
+  <entityname.lrifle>Laser rifle</entityname.lrifle>
+  <entitydescription.lrifle>One of the experimental weapons with infinite ammo.
+Looks like someone knows more about the use of alien materials than should.</entitydescription.lrifle>
+  <entityname.lmachinegun>Laser machinegun</entityname.lmachinegun>
+  <entitydescription.lmachinegun>One of the experimental weapons with infinite ammo.
+Looks like someone knows more about the use of alien materials than should.</entitydescription.lmachinegun>
+  <entityname.lgrenadelauncher>Turbolaser</entityname.lgrenadelauncher>
+  <entitydescription.lgrenadelauncher>One of the experimental weapons with infinite ammo.
+Looks like someone knows more about the use of alien materials than should.</entitydescription.lgrenadelauncher>
+  <entityname.artpirateminigun>Pirate "Deepgun"</entityname.artpirateminigun>
+  <entitydescription.artpirateminigun>Pirate weapons. The converted wrist grenade launcher, in which the Deepgun components placed, was painted black and barbed wire was stuck on the barrels.
+It has a lower firerate and can contain only small sets of ammunition. It also requires skillful use, as the recoil hits the hand hard and reduces accuracy.</entitydescription.artpirateminigun>
+  <entityname.piratealienminigun>Pirate "Arzi"</entityname.piratealienminigun>
+  <entitydescription.piratealienminigun>Pirate weapons. Covered with cracks and spilled paint. The upper section of the body is completely smooth, allowing this weapon to be carried on the back.
+Unlike the original "Arzi" does not require ammunition due to several alien batteries installed inside. It also empowers shots, allowing them to pierce armor and deal burst damage.
+However, it breaks quickly and cannot be repaired in the event of a breakdown.</entitydescription.piratealienminigun>
+  <entityname.onlypiratealienminigun>Pirate "Arzi"</entityname.onlypiratealienminigun>
+  <entitydescription.onlypiratealienminigun>Upgraded weapons. Unfortunately broken and not of interest even as scrap metal.</entitydescription.onlypiratealienminigun>
+  <entityname.piratenucleargun>Pirate rapid Fissile Accelerator</entityname.piratenucleargun>
+  <entitydescription.piratenucleargun>An ordinary accelerator adapted for the needs of pirates. Broken ends.</entitydescription.piratenucleargun>
+  <entityname.piratethermalgoggles>Pirate mask and thermal glases</entityname.piratethermalgoggles>
+  <entitydescription.piratethermalgoggles>Unlike a regular thermal glases, this one is much weaker and is only able to see entities through obstacles at close range.</entitydescription.piratethermalgoggles>
+  <entityname.artminigun>EW-P1 "Deepgun"</entityname.artminigun>
+  <entitydescription.artminigun>One of several prototypes of new types of weapons.
+The very first in the series. It is an improved microgun capable of working under water and equipped with a built-in flashlight on the battery.
+It has the ability to roll up to a compact state, in which it is much easier to carry.The fold/deploy system is not perfect, as it forces the operator to release the weapon from his hands, and is also capable of irretrievably "eat" the ammunition and battery, so it is necessary to pull them out before folding.
+Does not sink in water and turns on the backlight in it.</entitydescription.artminigun>
+  <entityname.artminigun_und>EW-P1 "Deepgun" - minimized mode</entityname.artminigun_und>
+  <entitydescription.artminigun_und>One of several prototypes of new types of weapons.
+The very first in the series. It is an improved microgun capable of working under water and equipped with a built-in flashlight on the battery.
+It has the ability to roll up to a compact state, in which it is much easier to carry.The fold/deploy system is not perfect, as it forces the operator to release the weapon from his hands, and is also capable of irretrievably "eat" the ammunition and battery, so it is necessary to pull them out before folding.
+Does not sink in water and turns on the backlight in it.</entitydescription.artminigun_und>
+  <entityname.artminigunmagazine>Ammo box for EW-P1</entityname.artminigunmagazine>
+  <entitydescription.artminigunmagazine>A pack of 5.56 caliber rounds with a steel core. Heavy.</entitydescription.artminigunmagazine>
+  <entityname.artminigunminimagazine>Small ammo box for EW-P1</entityname.artminigunminimagazine>
+  <entitydescription.artminigunminimagazine>A pack of 5.56 caliber rounds with a steel core. It contains less ammo, but you can carry several pieces at once.</entitydescription.artminigunminimagazine>
+  <entityname.artminigunmagazinepierc>Penetrating ammo box for EW-P1</entityname.artminigunmagazinepierc>
+  <entitydescription.artminigunmagazinepierc>A pack of 5.56 caliber rounds with a dementonite core. Despite the fact that the properties of dementonite are specific and poorly understood, this material is strong enough to serve as the basis for penetrating ammunition.
+This type of ammo does less damage but will pierce through armor.</entitydescription.artminigunmagazinepierc>
+  <entityname.artminigunminimagazinepierc>Small penetrating ammo box for EW-P1</entityname.artminigunminimagazinepierc>
+  <entitydescription.artminigunminimagazinepierc>A pack of 5.56 caliber rounds with a dementonite core. It contains less ammo, but you can carry several pieces at once.</entitydescription.artminigunminimagazinepierc>
+  <entityname.artminigunmagazinefisic>Physicorium ammo box for EW-P1</entityname.artminigunmagazinefisic>
+  <entitydescription.artminigunmagazinefisic>A pack of 5.56 caliber rounds with a physicorium core. Although they leave less bleeding damage in their wake, they are a more deadly type of ammo.</entitydescription.artminigunmagazinefisic>
+  <entityname.artminigunminimagazinefisic>Small physicorium ammo box for EW-P1</entityname.artminigunminimagazinefisic>
+  <entitydescription.artminigunminimagazinefisic>A pack of 5.56 caliber rounds with a physicorium core. It contains less ammo, but you can carry several pieces at once.</entitydescription.artminigunminimagazinefisic>
+  <entityname.alienminigun>EW-P2 "Arzi"</entityname.alienminigun>
+  <entitydescription.alienminigun>One of several prototypes of new types of weapons.
+Fires a laser at high speed, using less alien battery power and without inducing psychosis. Despite the beautiful appearance, inside the weapon is a mess of various components - conventional and alien - and is heavy, inconvenient to use.
+Gradually breaks down with use. Requires skillful handling of weapons (above 60), otherwise it falls apart faster than usual.
+Consumes alien power cells.</entitydescription.alienminigun>
+  <entityname.bighotflamer>EW-P3 "Glick"</entityname.bighotflamer>
+  <entitydescription.bighotflamer>One of several prototypes of new types of weapons.
+Initially, it was just an outdated version of a heavy flamethrower with a broken sight. It is not known exactly how the components used for this beast are combined, but now this terrible weapon shoots dense fiery clots of anomalous flame. The broken sight remained.
+"Is it hot in here or is it just you, burning to a crisp?"</entitydescription.bighotflamer>
+  <entityname.bighotflamer_fuel>EW-P3 Fuel</entityname.bighotflamer_fuel>
+  <entitydescription.bighotflamer_fuel>Hell of a mix. Fuel tank, compatible with EW-P3 only.
+FLAMMABLE.</entitydescription.bighotflamer_fuel>
+  <entityname.meganucleargun>EW-P4 "BFG"</entityname.meganucleargun>
+  <entitydescription.meganucleargun>One of several prototypes of new types of weapons.
+A prototype obtained from Earth before communication with it was lost. Enhanced with a large amount of alien materials, this weapon fires a dense beam of energy that pierces through any material and inflicts monstrous damage to anything that gets in its way.
+Perhaps the earthlings really killed each other.
+Do not use close to obstacles.</entitydescription.meganucleargun>
+  <entityname.meganucleargun_battery>EW-P4 Energy cell</entityname.meganucleargun_battery>
+  <entitydescription.meganucleargun_battery>Huge capacity battery, compatible only with EW-P4.</entitydescription.meganucleargun_battery>
+  <entityname.crystalllaser>EW-P5 "Craser"</entityname.crystalllaser>
+  <entitydescription.crystalllaser>One of several prototypes of new types of weapons.
+This is rather an unsuccessful experiment of using a red crystal to create a healing device. Instead, it uses the energy of red shards to create a transparent beam that penetrates obstacles and causes burns and bleeding to living beings.
+For some unknown reason, not only does it not ignore the armor the target has, but it also doesn't work on creatures outside the submarine when the operator is inside it. Some anomalies effectively continue to drive researchers crazy.</entitydescription.crystalllaser>
+  <entityname.am_railgun>EW-P6 "Railgun"</entityname.am_railgun>
+  <entitydescription.am_railgun>One of several prototypes of new types of weapons.
+Created as a replacement for "BFG", easier and more economical to manufacture. Uses the principle of a gauss cannon to fire large-caliber rounds, but does not require energy to operate.
+The weapon is massive and uncomfortable. The sight has no functionality. It is likely that the weapon is unfinished.</entitydescription.am_railgun>
+  <entityname.am_railgun_fisshell>EW-P6 Shell, physicorium</entityname.am_railgun_fisshell>
+  <entitydescription.am_railgun_fisshell>Large-caliber physicorium projectile, for EW-P6. Deals massive damage.</entitydescription.am_railgun_fisshell>
+  <entityname.am_railgun_demenshell>EW-P6 Shell, dementonite</entityname.am_railgun_demenshell>
+  <entitydescription.am_railgun_demenshell>Large-caliber dementonite projectile, for EW-P6. Penetrates through any surface, or inflicts multiple damage on a direct hit on a creature.</entitydescription.am_railgun_demenshell>
+  <entityname.artmod_machete>EW-P7 "Plasmoid"</entityname.artmod_machete>
+  <entitydescription.artmod_machete>One of several prototypes of new types of weapons.
+Unusual blunt blade. When powered by batteries, it transforms into a deadly plasma blade.
+It seems that the use of alien technology has reached a point where the creators themselves do not know how the final result works.</entitydescription.artmod_machete>
+  <entityname.artmod_antipsychohelmet>ED-P1 "Psi-Helmet"</entityname.artmod_antipsychohelmet>
+  <entitydescription.artmod_antipsychohelmet>A device that acts as a helmet. When equipped and activated, protects against psychosis and the caretaker effect. Already accumulated psychosis is NOT captured.
+Protection against other psionic effects is not guaranteed.</entitydescription.artmod_antipsychohelmet>
+  <entityname.artmod_batteryrecharger>ED-P2 "Compact charger"</entityname.artmod_batteryrecharger>
+  <entitydescription.artmod_batteryrecharger>A device that charges the batteries embedded in it using the energy of an alien trinket, a "Spark Gap".
+It is inconvenient due to the lack of the usual automation - it requires manual on-off, it consumes the resource of the artifact when it is turned on and there are batteries inside, regardless of their charge level..</entitydescription.artmod_batteryrecharger>
+  <entityname.artmod_quickbatteryrecharger>ED-P2.5 "Quick charger"</entityname.artmod_quickbatteryrecharger>
+  <entitydescription.artmod_quickbatteryrecharger>Modified version of ED-P2. When activated, there is a rapid burst of energy, remotely charging the batteries. The resource of the device is limited.
+An interesting side effect is that this surge also repairs electrical panels.</entitydescription.artmod_quickbatteryrecharger>
+  <entityname.artmod_buffbeacon>ED-P3 "Watcher's beacon"</entityname.artmod_buffbeacon>
+  <entitydescription.artmod_buffbeacon>A device based on a conventional sonar beacon. When activated, it emits an aura similar to that of the Watcher, but with the opposite effect - it weakens small creatures and strengthens people. Causes psychosis.
+Does not overcome the aura of a true Watcher.</entitydescription.artmod_buffbeacon>
+  <entityname.artmod_oxygendispenser>ED-P4 "Compact oxygen generator"</entityname.artmod_oxygendispenser>
+  <entitydescription.artmod_oxygendispenser>A device that, when used, generates oxygen in a small radius, replenishing its level in the room and immediately entering oxygen tanks and, importantly, oxygenite tanks, replenishing their supply. Does not require third-party energy sources for operation, but has a limited resource of use.</entitydescription.artmod_oxygendispenser>
+  <entityname.plasmacutter_plus>ED-P5 "Incendium Cutter"</entityname.plasmacutter_plus>
+  <entitydescription.plasmacutter_plus>Someone compatisfied plasma cutter and some alien parts with incendium, and added liquid oxygen. The final result is not only not exploded, but also cuts objects better than alien weapons.
+Unlike a homemade alien grenade, this sample and its blueprint were immediately in the hands of the Coalition. And, now, in yours.
+Uses oxygen cylinders. Requires high mechanical skill (75), otherwise useless.</entitydescription.plasmacutter_plus>
+  <entityname.pillstube>Pill packaging</entityname.pillstube>
+  <entitydescription.pillstube>For compact storage of a large number of different pills.
+Metal case for protection against water and backlit, so as not to get lost.</entitydescription.pillstube>
+  <entityname.sodacrate>Soda box</entityname.sodacrate>
+  <entitydescription.sodacrate>For compact storage of large amounts of soda.
+The wooden surface is just paint on a metal frame. Inflicted for the sake of pathos, probably.</entitydescription.sodacrate>
+  <entityname.ek_placeablefabricator_fhw>Hacked fabricator</entityname.ek_placeablefabricator_fhw>
+  <entitydescription.ek_placeablefabricator_fhw>A portable fabricator model from the inventor behind the strange alias "Videogames".
+This version has been crudely modified to bypass security protocols and is unable to work from standard blueprints, but is now stuffed with secret blueprints for equipment and weapons.
+(To place it, press "aim" + "E")</entitydescription.ek_placeablefabricator_fhw>
+  <entityname.ek_am_expweaponparts>Unknown Parts</entityname.ek_am_expweaponparts>
+  <entitydescription.ek_am_expweaponparts>Various components of unknown purpose. Basically, they are occasionally found on sunken submarines and, for lack of other choice, are rented out in settlements for a moderate amount. They buy unexpectedly willingly and without unnecessary questions - and answers.</entitydescription.ek_am_expweaponparts>
+  <entityname.laserlootcrate>Sealed box</entityname.laserlootcrate>
+  <entitydescription.laserlootcrate>A box with a combination lock, inside of which, apparently, a sonar beacon. Closed tightly. Maybe this is what the hooded man calls "goods"?</entitydescription.laserlootcrate>
+  <entityname.artmod_psiartifacttransportcase>Dementonite Artifact Container</entityname.artmod_psiartifacttransportcase>
+  <entitydescription.artmod_psiartifacttransportcase>A regular artifact shipping crate covered with dementonite and plates. Looks extremely casually put together and requires an absurd amount of dementonite.
+Maybe it has special effects?</entitydescription.artmod_psiartifacttransportcase>
+  <entityname.artmod_ammopack>Ammo container</entityname.artmod_ammopack>
+  <entitydescription.artmod_ammopack>Small container with big capacity. It can store individual bullets and harpoon shells.</entitydescription.artmod_ammopack>
+  <!-- Labels -->
+  <itemmsgcrystallshardrequired>Requires Red Crystal Shard</itemmsgcrystallshardrequired>
+  <oxygenitetankRequired>Oxygenity tank required</oxygenitetankRequired>
+  <deepgun.online>Deploy</deepgun.online>
+  <deepgun.offline>Collapse</deepgun.offline>
+  <deepgun.light>Flashlight</deepgun.light>
+  <glick.light>Light</glick.light>
+  <psihelmet.onoff>Psi-resist</psihelmet.onoff>
+  <charger.onoff>Battery recharge</charger.onoff>
+  <quickcharger.onoff>Discharge</quickcharger.onoff>
+  <alienlamp.onoff>Light</alienlamp.onoff>
+  <label.lasercrate>?</label.lasercrate>
+  <machete.light>Plasma blade</machete.light>
+  <term.alarm>...ast message. Everyone gather o...</term.alarm>
+  <term.alarm>...his is the last message. Eve...</term.alarm>
+  <term.alarm>...er on the shuttle and return...</term.alarm>
+  <term.alarm>...urn to the research station. Th...</term.alarm>
+  <!-- clowns?... -->
+  <entityname.noseless_clownmask_special>Noseless clown mask</entityname.noseless_clownmask_special>
+  <entitydescription.noseless_clownmask_special>Glory to the Noseless.
+Provides oxygen.</entitydescription.noseless_clownmask_special>
+  <entityname.noseless_clowncostume_special>Clown costume</entityname.noseless_clowncostume_special>
+  <entitydescription.noseless_clowncostume_special>Glory to the Noseless.
+Provides protection against pressure.</entitydescription.noseless_clowncostume_special>
+  <entityname.noseless_clownmask>Noseless clown mask</entityname.noseless_clownmask>
+  <entitydescription.noseless_clownmask>Glory to... Noseless?</entitydescription.noseless_clownmask>
+  <entityname.noseless_clowncostume>Clown costume</entityname.noseless_clowncostume>
+  <entitydescription.noseless_clowncostume>Glory to... The Noseless?</entitydescription.noseless_clowncostume>
+  <entityname.clown_shotgunshell>Shotgun Shell</entityname.clown_shotgunshell>
+  <entitydescription.clown_shotgunshell>It's different from the usual...</entitydescription.clown_shotgunshell>
+  <entityname.clown_revolverround>Revolver Round</entityname.clown_revolverround>
+  <entitydescription.clown_revolverround>It's different from the usual...</entitydescription.clown_revolverround>
+  <entityname.clown_smgmagazine>SMG Magazine</entityname.clown_smgmagazine>
+  <entitydescription.clown_smgmagazine>It's different from the usual...</entitydescription.clown_smgmagazine>
+  <entityname.clown_psipistol>Psionic Pistol</entityname.clown_psipistol>
+  <entitydescription.clown_psipistol>A mysterious high-tech device used by the noseless. Where do they get such technology from?
+Probably best used with a noseless mask or costume. Oddly enough, Medics (skill above 60) handle this weapon the best.</entitydescription.clown_psipistol>
+  <entityname.clown_psismg>Psionic Rifle</entityname.clown_psismg>
+  <entitydescription.clown_psismg>Mysterious exclusive device, items provided for free.
+Best used with a Noseless Mask or Costume. Oddly enough, medics (skill 75) handle this weapon the best</entitydescription.clown_psismg>
+  <entityname.MANhammer>Toy hammer</entityname.MANhammer>
+  <entitydescription.MANhammer>Judging by the heaviness in the rubber, now this hammer is not only extremely annoying, but also lethal.</entitydescription.MANhammer>
+  <entityname.BOYhammer>Toy mallet</entityname.BOYhammer>
+  <entitydescription.BOYhammer>A scaled-down version of a toy hammer that has spearheads lubricated in a strange, smelly goo stuck into it.</entitydescription.BOYhammer>
+  <entityname.The_last_thing_ull_hear>Bike Horn</entityname.The_last_thing_ull_hear>
+  <entitydescription.The_last_thing_ull_hear>There is something very wrong with this beep... It's probably best not to touch it.</entitydescription.The_last_thing_ull_hear>
+  <entityname.artmod_alientrinket11_browtube>Brown thing</entityname.artmod_alientrinket11_browtube>
+  <entitydescription.artmod_alientrinket11_browtube>A mysterious artifact sometimes carried by the Noseless.
+If it doesn't work, hold it in your hands.</entitydescription.artmod_alientrinket11_browtube>
+  <entityname.artmod_alientrinket12_greentube>Green thing</entityname.artmod_alientrinket12_greentube>
+  <entitydescription.artmod_alientrinket12_greentube>A mysterious artifact sometimes carried by the Noseless.
+If it doesn't work, hold it in your hands.</entitydescription.artmod_alientrinket12_greentube>
+  <entityname.artmod_alientrinket13_pinktube>Purple thing</entityname.artmod_alientrinket13_pinktube>
+  <entitydescription.artmod_alientrinket13_pinktube>A mysterious artifact sometimes carried by the Noseless.
+If it doesn't work, hold it in your hands.</entitydescription.artmod_alientrinket13_pinktube>
+  <entityname.artmod_alientrinket14_bluetube>Blue thing</entityname.artmod_alientrinket14_bluetube>
+  <entitydescription.artmod_alientrinket14_bluetube>A mysterious artifact sometimes carried by the Noseless.
+If it doesn't work, hold it in your hands.</entitydescription.artmod_alientrinket14_bluetube>
+  <entityname.artmod_alientrinket15_redtube>Red thing</entityname.artmod_alientrinket15_redtube>
+  <entitydescription.artmod_alientrinket15_redtube>A mysterious artifact sometimes carried by the Noseless.
+If it doesn't work, hold it in your hands.</entitydescription.artmod_alientrinket15_redtube>
+  <entityname.artmod_clownlighter>Lighter</entityname.artmod_clownlighter>
+  <entitydescription.artmod_clownlighter>Mysterious device. Possibly a relic from Earth, but its exact purpose is unknown.</entitydescription.artmod_clownlighter>
+  <!-- traitor missions items -->
+  <entityname.traitoridcard>Universal access card</entityname.traitoridcard>
+  <entitydescription.traitoridcard>A mysterious universal access card. Able to give access to any systems, even sunken submarines, and is not displayed on the status screen.
+The dream of any man with evil intentions.</entitydescription.traitoridcard>
+  <entityname.traitorantidama1>Morphine</entityname.traitorantidama1>
+  <entitydescription.traitorantidama1>A powerful opiate for treating pain associated with internal injuries, but will cause shortness of breath and eventual dependency with overuse.</entitydescription.traitorantidama1>
+  <entityname.traitormazeart>Artifact Beacon</entityname.traitormazeart>
+  <entitydescription.traitormazeart>Pocket Watcher.</entitydescription.traitormazeart>
+  <entityname.safechip>Protector</entityname.safechip>
+  <entitydescription.safechip>Will keep the wearer's brain safe... Until it breaks.</entitydescription.safechip>
+  <entityname.Sek_explosivecharge_c4>Charge C-4</entityname.Sek_explosivecharge_c4>
+  <entitydescription.Sek_explosivecharge_c4>Stolen and hastily altered explosives.
+Timer - minute.</entitydescription.Sek_explosivecharge_c4>
+  <entityname.artmod_ek_thallas_explosblackhole>Charge C-4...</entityname.artmod_ek_thallas_explosblackhole>
+  <entitydescription.artmod_ek_thallas_explosblackhole>It doesn't look like a normal explosive.</entitydescription.artmod_ek_thallas_explosblackhole>
+  <entityname.traitor_bombinstr>Instructions for using the bomb</entityname.traitor_bombinstr>
+  <entitydescription.traitor_bombinstr>Instructions for using the bomb.</entitydescription.traitor_bombinstr>
+  <text.traitor_bombinstr>In fact, everything is very simple.
+First of all, the bomb must be placed (To place it, press "aim" + "E"), and then click on the activation of the detonator. The timer is set to approximately two minutes.
+After the bomb is activated, it will start charging. This will take about a minute, but from now on it cannot be deactivated. At the time of charging, be at the maximum safe distance from the bomb.
+Glory to the Revolution!</text.traitor_bombinstr>
+  <entityname.noseless_toolbox>Noseless Box</entityname.noseless_toolbox>
+  <entitydescription.noseless_toolbox>A container of stuff for killer fun.</entitydescription.noseless_toolbox>
+  <entityname.deliriumine_plus>Deliriumine Plus</entityname.deliriumine_plus>
+  <entitydescription.deliriumine_plus>Toxins that cause psychosis. Now complete.
+Restores every 10 seconds.</entitydescription.deliriumine_plus>
+  <entityname.transformationgiftsyringe_traitor>Stranger's Gift</entityname.transformationgiftsyringe_traitor>
+  <entitydescription.transformationgiftsyringe_traitor>A strange injector filled with a cloudy green liquid. For some unknown reason, it regenerates every 10 minutes.</entitydescription.transformationgiftsyringe_traitor>
+  <!-- traitor missions info -->
+  <killall_megacard_startmission>Scanning furtively around, you notice nobody's looking at you—which makes this the perfect time to snap into action.</killall_megacard_startmission>
+  <killall_megacard_failmessage1>It looks like someone got ahead and now he has your card. You will have to make your face simpler and forget about the mission until the moment you arrive at the station.</killall_megacard_failmessage1>
+  <killall_megacard_successmessage1>Fine. With it, you will have access to everything on this submarine.</killall_megacard_successmessage1>
+  <killall_megacard_start1>The task from the separatist intermediary was extremely short and clear, as was the amount of payment for it. You recall that you hid your universal access card in the ventilation, so that it would not be found during the initial search ... \n[traitorgoalinfos]</killall_megacard_start1>
+  <killall_megacard_infotext1>Find a universal access card. It's somewhere in the vent</killall_megacard_infotext1>
+  <killall_megacard_failmessage2>невозможно проиграть</killall_megacard_failmessage2>
+  <killall_megacard_successmessage2>The task is completed, and you now need to swim to the nearest station. There you will have to tell the legend about how many monsters attacked the submarine, sinking it, killing the entire crew and only you were lucky to survive ... It doesn’t matter if others believe, the main thing is that the intermediary will make sure that the task is completed.
+... You just need to swim to the station.</killall_megacard_successmessage2>
+  <killall_megacard_start2>Well, now you have to kill everyone. This submarine, together with its crew, should sink to the bottom of the sea, and there should be no one left who could tell about what happened. Except you, of course. \n[traitorgoalinfos]</killall_megacard_start2>
+  <killall_megacard_infotext2>Kill all crew</killall_megacard_infotext2>
+  <killall_artbeacon_startmission>A lot of obsessive bad thoughts and strange electronic noises hit your head, causing a brief, terrible migraine. This began to happen after contact with one of the artifacts, and eventually became more and more intense. No doctor could help from this, except for one - who offered a cure in exchange for a favor.
+... Anything, if only this oppressive, painful noise in head would stop.</killall_artbeacon_startmission>
+  <killall_artbeacon_failmessage1>Oh no. Someone found the device first...</killall_artbeacon_failmessage1>
+  <killall_artbeacon_successmessage1>Thank God it's still here.</killall_artbeacon_successmessage1>
+  <killall_artbeacon_start1>Through the gradually diminishing pain, you vaguely remember where an important device is hidden... \n[traitorgoalinfos]</killall_artbeacon_start1>
+  <killall_artbeacon_infotext1>Find important device at [targethullname]</killall_artbeacon_infotext1>
+  <killall_artbeacon_successmessage2></killall_artbeacon_successmessage2>
+  <killall_artbeacon_start2>Holding the device in your hands feels a strange relief. Probably due to the fact that this will all be over soon, one way or another.
+As the hooded man said... "The device functions as a psionic aura of the Watcher. When activated, it will work like a normal beacon, also spreading psionic waves that weaken people and strengthen other creatures. "Protector" is necessary so that the owner of the beacon is immune to the effects device, but it is short-lived and breaks quickly."
+Oh, and most importantly. \n[traitorgoalinfos]</killall_artbeacon_start2>
+  <killall_artbeacon_infotext2>Kill [targetname]</killall_artbeacon_infotext2>
+  <killall_artbeacon_successmessage3>This submarine is sinking faster than your sanity. Fine.</killall_artbeacon_successmessage3>
+  <killall_artbeacon_start3>Oh, thank God, everything went well. Now to cover your tracks... \n[traitorgoalinfos]</killall_artbeacon_start3>
+  <killall_artbeacon_infotext3>Sink the submarine by 50%</killall_artbeacon_infotext3>
+  <killall_artbeacon_successmessage4>Finally, everything ... All that is needed now is to swim to the station and ...
+Without letting you think, terrible pain, frightening thoughts and endless white noise fills your head again. Last time.</killall_artbeacon_successmessage4>
+  <killall_artbeacon_start4>... And that's why you need to get away from it quickly. \n[traitorgoalinfos]</killall_artbeacon_start4>
+  <killall_artbeacon_infotext4>Swim away from the submarine for 100 meters</killall_artbeacon_infotext4>
+  <ZIfailuremessage>Looks like the mission failed. Let's hope they just forget about you...</ZIfailuremessage>
+  <ZIinfotext>All of a sudden, your radio is on. Through the static, a hoarse voice inquired about the progress of the trial of his new "medicine". Somehow justified, you cut off contact with him. It's time for work.</ZIinfotext>
+  <ZIinfotext1>Your goal:[identifier]. You will find it here:[targethullname].</ZIinfotext1>
+  <ZIstartmessage1>First you need to find fake morphine. It is either in ventilation or in sliding plates. \n[traitorgoalinfos]</ZIstartmessage1>
+  <ZIsuccessmessage1>Fine.</ZIsuccessmessage1>
+  <ZIinfotext2>Infect most of the crew with the virus. Fake Morphine regenerates every 5 minutes</ZIinfotext2>
+  <ZIstartmessage2>The customer did not specify exactly how he collects the data. Maybe some sensors are placed, it doesn't matter. \n[traitorgoalinfos]</ZIstartmessage2>
+  <ZIsuccessmessage2>Mission accomplished. The customer will be pleased with the results... If you can swim to the nearest base alive.</ZIsuccessmessage2>
+  <flood_explosion_failmessage>Oops... Looks like someone got the component before you did. You'll have to quit the mission for now.</flood_explosion_failmessage>
+  <flood_explosion_start>Praise the Honkmother!</flood_explosion_start>
+  <flood_explosion_start1>It's time. As the man with the strange noseless face instructed you back on the loading dock, you get to work:\n[traitorgoalinfos]</flood_explosion_start1>
+  <flood_explosion_infotext1>Search the emergency supplies lockers in each compartment. An operative has hidden a button component in one of them.</flood_explosion_infotext1>
+  <flood_explosion_successmessage1>You quickly stash the button in your pocket and try to act casual. HONK!</flood_explosion_successmessage1>
+  <flood_explosion_start2>Next, you'll need to find some explosives before anyone else can get to them!\n[traitorgoalinfos]</flood_explosion_start2>
+  <flood_explosion_infotext2>Retrieve the explosives from vent or sliding plate.</flood_explosion_infotext2>
+  <flood_explosion_successmessage2>The plan is coming together perfectly. You grab the explosives and try not to giggle too much.</flood_explosion_successmessage2>
+  <flood_explosion_start3>Finally, the noseless man said you'll need to find something to set this all off!\n[traitorgoalinfos]</flood_explosion_start3>
+  <flood_explosion_infotext3>Search the steel storage cabinets in [targethullname] and retrieve the detonator.</flood_explosion_infotext3>
+  <flood_explosion_successmessage3>The operative really came through! You have almost all you need to get the party here started.</flood_explosion_successmessage3>
+  <flood_explosion_start4>The last detail remains, the most important. Explosives with a built-in detonator!\n[traitorgoalinfos]</flood_explosion_start4>
+  <flood_explosion_infotext4>&gt;Search the vent or sliding plate in [targethullname]and retrieve explosives with a built-in detonator.</flood_explosion_infotext4>
+  <flood_explosion_successmessage4>Now let's start the show!</flood_explosion_successmessage4>
+  <flood_explosion_start5>You're going to need to set the detonator on a wall in a good location, place the button a safe distance away, wire the two together, and don't forget to place the explosive with the built-in detonator in a dark, cool place and start the timer —  and let it all flood this rust bucket!\n[traitorgoalinfos]</flood_explosion_start5>
+  <flood_explosion_infotext5>Sink the submarine by 75%</flood_explosion_infotext5>
+  <flood_explosion_successmessage5>HONK HONK! There's more than enough water in the sub now to end its mission prematurely.</flood_explosion_successmessage5>
+  <flood_explosion_start6>Now is the time to reel in your rods before you get in trouble! \n[traitorgoalinfos]</flood_explosion_start6>
+  <flood_explosion_infotext6>Swim 100 meters away from the submarine</flood_explosion_infotext6>
+  <flood_explosion_successmessage6>HONK-HONK! Now the others are probably cursing you! If still alive. You wonder how long it will take to swim to the nearest outpost and report back to the noseless man... </flood_explosion_successmessage6>
+  <killall_blackhole_failmessage1>Hell, someone found the bomb first. For now, you should lie low and hope that at the next station there will be an opportunity to pick it up. The assignment is currently on hold.</killall_blackhole_failmessage1>
+  <killall_blackhole_startmission>Looking around furtively, you realize that no one is watching you, which means it's time to act.</killall_blackhole_startmission>
+  <killall_blackhole_successmessage1>A little dusty, but completely intact. Amazing. Instructions for use come with the bomb.</killall_blackhole_successmessage1>
+  <killall_blackhole_start1>You've spent several months working your way into the trust of the crew members. It's time to reap the fruits of your labors - and those of your allies. \n[traitorgoalinfos]</killall_blackhole_start1>
+  <killall_blackhole_infotext1>Your goal:[identifier]. You will find it here:[targethullname].</killall_blackhole_infotext1>
+  <killall_blackhole_failmessage2>невозможно проиграть</killall_blackhole_failmessage2>
+  <killall_blackhole_successmessage2>It was... Something. Job completed successfully. Your Separatist allies will be quite pleased.
+... But now how to get out of here alive?</killall_blackhole_successmessage2>
+  <killall_blackhole_start2>Now, using the bomb, you need to spread panic among the crew. And when they start rushing about, kill them all, for the glory of the Revolution! \n[traitorgoalinfos]</killall_blackhole_start2>
+  <killall_blackhole_infotext2>Kill all crew</killall_blackhole_infotext2>
+  <killall_noseless_failmessage>Someone found the container first. Noseless won't like it. Mission failed.</killall_noseless_failmessage>
+  <killall_noseless_startmission>Looking around furtively, you realize that no one is watching you, which means it's time to act.</killall_noseless_startmission>
+  <killall_noseless_successmessage1>Oh, there she is. Wonderful magical box.</killall_noseless_successmessage1>
+  <killall_noseless_start1>At the station you were at, there was finally a person who understands you. He suggested what needs to be done in order to join the same as you and him. And gave me a magic box. \n[traitorgoalinfos]</killall_noseless_start1>
+  <killall_noseless_infotext1>Your goal:[identifier]. You will find it here:[targethullname].</killall_noseless_infotext1>
+  <killall_noseless_successmessage2>HAHA! Best performance ever! Brilliant! It remains to get to their fellows, and everything will be fine. Finally, there is meaning in your life, there is harmony, there is joy. Praise the Bluefather.</killall_noseless_successmessage2>
+  <killall_noseless_start2>... A box that has everything you need to get the real fun started. Finally, you can have some fun at this performance of the soul!
+The main thing is to smile when you kill them.</killall_noseless_start2>
+  <killall_noseless_infotext2>Kill everyone on the submarine. And have fun</killall_noseless_infotext2>
+  <acidparty_plus_failuremessage>Someone found deliriumine first. Damn. We again become a member of the crew and swim to the station.</acidparty_plus_failuremessage>
+  <acidparty_plus_StartInfoText>Looking around furtively, you realize that no one is watching you, which means it's time to act.</acidparty_plus_StartInfoText>
+  <acidparty_plus_SuccessMessage1>This is it.</acidparty_plus_SuccessMessage1>
+  <acidparty_plus_startmessage1>The party didn't go well last time. It's OK. You know what to do so as not to repeat the mistakes of the predecessor. So. \n[traitorgoalinfos]</acidparty_plus_startmessage1>
+  <killall_noseless_infotext1>Step 1. Find some deliriumine, in vent.</killall_noseless_infotext1>
+  <acidparty_plus_SuccessMessage2>Now they are panicking and crying. ****, again?!</acidparty_plus_SuccessMessage2>
+  <acidparty_plus_startmessage2>They still dont know how much beauty is hidden around. It's time to open their eyes. \n[traitorgoalinfos]</acidparty_plus_startmessage2>
+  <acidparty_plus_info2>Step 2. Inject everyone with this wonderful medicine.</acidparty_plus_info2>
+  <acidparty_plus_SuccessMessage3>**** them. Let them die, ungrateful dogs. You will tell the agent of the noseless in detail what you think about the "quality" patients whom he assured you ... And show. On him.</acidparty_plus_SuccessMessage3>
+  <acidparty_plus_startmessage3>THEY SPILLED EVERYTHING AGAIN! ALL! So much tried to make everything rested in their narrow-mindedness?! **** them. They must drown. NOW.\n[traitorgoalinfos]</acidparty_plus_startmessage3>
+  <acidparty_plus_info3>Blow up the reactor.</acidparty_plus_info3>
+  <transformation_kill_failuremessage>Something didn't go according to plan. You'll have to quit the mission for now.</transformation_kill_failuremessage>
+  <transformation_kill_infotext>What will you do for love...</transformation_kill_infotext>
+  <transformation_kill_successmessage1>This is it.</transformation_kill_successmessage1>
+  <transformation_kill_start1>... But love is somewhere out there, at another station, to which there is no way to get close - there are no creds, no understanding from the crew. And the station where she lives is close to the surface, and radiation spares no one...
+However, at the previous stop, a man in a hood offered his help in exchange for some "little things".
+Time is running out. You will save her, no matter what the cost. \n[traitorgoalinfos]</transformation_kill_start1>
+  <transformation_kill_infotext1>Your goal:[identifier]. You will find it here:[targethullname]</transformation_kill_infotext1>
+  <transformation_kill_successmessage2>Wow...</transformation_kill_successmessage2>
+  <transformation_kill_start2>The hooded man explained something about collecting data, but you didn't really care. \n[traitorgoalinfos]</transformation_kill_start2>
+  <transformation_kill_infotext2>Inject [targetname]</transformation_kill_infotext2>
+  <transformation_kill_successmessage3>It's done, even if it's disgusting.</transformation_kill_successmessage3>
+  <transformation_kill_start3>Now, while the crew is confused by such a "gift" and this "data collection" is going on along the way, you need to kill a couple more people. It looks pointless, but it's the only way to get money. \n[traitorgoalinfos]</transformation_kill_start3>
+  <transformation_kill_infotext3>Kill [targetname]</transformation_kill_infotext3>
+  <transformation_kill_successmessage4>Finally. The deed is done, now you just need to sail back to the station ...
+... My love, we will be together soon.</transformation_kill_successmessage4>
+  <transformation_kill_start4>Now you need to get off this vessel, because no one will be happy that you are a killer. \n[traitorgoalinfos]</transformation_kill_start4>
+  <transformation_kill_infotext4>Swim away from the submarine for 100 meters</transformation_kill_infotext4>
+  <npctitle.artpiratecaptain>Pirate Captain</npctitle.artpiratecaptain>
+  <npctitle.artpiratecaptainlord>Pirate Lord</npctitle.artpiratecaptainlord>
+  <npctitle.artpiratesecurityrecruit>Pirate Recruit</npctitle.artpiratesecurityrecruit>
+  <npctitle.artpiratesecuritygunner>Pirate Gunner</npctitle.artpiratesecuritygunner>
+  <npctitle.artpiratesecuritybrute>Pirate Brute</npctitle.artpiratesecuritybrute>
+  <npctitle.artpiratesecurityelite>Pirate Elite</npctitle.artpiratesecurityelite>
+  <npctitle.artpiratemechanicrecruit>Pirate Mechanic</npctitle.artpiratemechanicrecruit>
+  <npctitle.artpiratemechanicveteran>Pirate Technician</npctitle.artpiratemechanicveteran>
+  <npctitle.artpirateengineerrecruit>Pirate Engineer</npctitle.artpirateengineerrecruit>
+  <npctitle.artpirateengineerveteran>Pirate Physicist</npctitle.artpirateengineerveteran>
+  <npctitle.noseless_clown>Noseless</npctitle.noseless_clown>
+  <npctitle.noseless_clowneng>Noseless Engineer</npctitle.noseless_clowneng>
+  <npctitle.noseless_clownsb>Noseless Security</npctitle.noseless_clownsb>
+  <npctitle.noseless_clownmecha>Noseless Mechanic</npctitle.noseless_clownmecha>
+  <npctitle.noseless_specialclown>Noseless Clown</npctitle.noseless_specialclown>
+  <npctitle.laserbuyer>Stranger</npctitle.laserbuyer>
+  <jobname.who>Unknown</jobname.who>
+  <lt.d>Someone suddenly puts a hand on your shoulder. Turning around sharply, you see a hooded figure. She asked in a hushed, hoarse voice:
+"Do you want to earn extra money?"</lt.d>
+  <lt.d1>Who are you?</lt.d1>
+  <lt.d1o>The man just shrugged.
+"Not an answer. Do you want to earn money?"</lt.d1o>
+  <lt.d2>Why not.</lt.d2>
+  <lt.d2o>"Everybody wants."
+The man chuckled.
+"I have an interest in some of the... Goods, let's say. Goods left in submarines that could not swim to the stations and lying on the bottom. You will immediately recognize them - sealed containers. Bring them to me - and I will not deprive you of a reward. I also have a "special offer" for those who have money."
+Having finished his speech, he turned his back to you, finally throwing:
+"I often move from city to city, so when you find a product or money, look for me in one of them. I'll be waiting."</lt.d2o>
+  <lt.d3>I'll probably refuse...</lt.d3>
+  <lt.d3o>"No, you dont."
+The man chuckled.
+"I have an interest in some of the... Goods, let's say. Goods left in submarines that could not swim to the stations and lying on the bottom. You will immediately recognize them - sealed containers. Bring them to me - and I will not deprive you of a reward. I also have a "special offer" for those who have money."
+Having finished his speech, he turned his back to you, finally throwing:
+"I often move from city to city, so when you find a product or money, look for me in one of them. I'll be waiting."</lt.d3o>
+  <lt.ma1>The mysterious hooded figure turns around and seems to recognize you.
+"Oh, you're still alive. Great."</lt.ma1>
+  <lt.ma2>The mysterious hooded figure turns around and seems to recognize you.
+"Still sailing the waters of Europe. Not bad."</lt.ma2>
+  <lt.r>"What, do you have my goods?"</lt.r>
+  <lt.r1>Yes, here it is.</lt.r1>
+  <lt.r1o>He looked at you like you were an idiot.
+"Don't waste my time."</lt.r1o>
+  <lt.r3>I'm talking about the "special offer".</lt.r3>
+  <lt.r3o1>"5 thousand credits".</lt.r3o1>
+  <lt.r3o1r1>... Five thousand credits for what?</lt.r3o1r1>
+  <lt.r3o1r1o>"Five thousand credits or don't waste my time."</lt.r3o1r1o>
+  <lt.r3o1r1or2>Thanks, but no, I don't want to throw loans into the water.</lt.r3o1r1or2>
+  <lt.r3o1r2>Ok, fine, here your credits.</lt.r3o1r2>
+  <lt.r3o1r2o1>"Fine."
+The figure grunted mysteriously, and handed you a container.
+"No questions about the contents. And this deal never happened."</lt.r3o1r2o1>
+  <lt.r3o1r2o2>"You don't have enough credits."</lt.r3o1r2o2>
+  <lt.r3o2>"What, needed again? Well, you know the price. 5,000 credits."</lt.r3o2>
+  <lt.r3o2r2>Although, you know, nevermind.</lt.r3o2r2>
+  <lt.r2>No...</lt.r2>
+  <lt.dd>The hooded figure glanced at the box in your hands with obvious interest.
+“Well, I see you were able to get the goods I needed. I can give you five thousand credits for it... Or open it for you, but you will owe me fifteen thousand credits.</lt.dd>
+  <lt.dd1>Fifteen thousand?! Why?</lt.dd1>
+  <lt.dd1o>The man smiled familiarly.
+"The content of this product is very valuable to me. However, I am currently experiencing some problems, so I need credits as much as this product.</lt.dd1o>
+  <lt.dd2>Fine, here your credits.</lt.dd2>
+  <lt.dd2o>"Fine."
+After making sure that you gave him the right amount, he took the container from your hands. Turning the lock towards him, he did something with it - it was impossible to see it from such an angle - and the lid of the container opened.
+"The contents are yours," - he said, handing the contents of the container to you. - "And that deal never happened."</lt.dd2o>
+  <lt.dd3>I'd rather get credits for this crate.</lt.dd3>
+  <lt.dd3o1>Grinning, the  hooded figure transferred the credits to you, taking the sealed container.
+"Thanks for helping with the goods."</lt.dd3o1>
+  <lt.dd3o2>"I don't want to upset you, but you don't seem to have enough money for that."</lt.dd3o2>
+  <lt.dd4>I better keep this box to myself for now.</lt.dd4>
+  <lt.dd4o>The hooded sighed heavily.
+"When you change your mind, you know where to find me."</lt.dd4o>
+  <loadingscreentip>Recently, a new type of artifact was discovered in the ruins, which was called "vampire". It is not well understood, but its beneficial properties are already generating interest among divers and scientific minds.</loadingscreentip>
+  <loadingscreentip>Be careful in the deep waters of Europe. Carelessness ruined more than one submarine.</loadingscreentip>
+  <loadingscreentip>New artifacts that have been found recently have become a real shock. Some of them are literally. Now the Coalition wants to get its hands on the new "fruits" of alien technology - and pay solid creds to those who help her in this.</loadingscreentip>
+  <loadingscreentip>More recently, new artifacts have been discovered in the ruins. It turns out that in addition to the three trinkets that open the doors, there are many others that are more interesting and have a variety of effects.</loadingscreentip>
+  <loadingscreentip>A mysterious hooded man traveling between cities can open up new possibilities... For those who have loans.</loadingscreentip>
+  <loadingscreentip>...1orF336FyEGnfdDkKvFfBHejwNaSzQ1orF336FyEGnfdDkKvFfBHejwNaSzQ1orF336FyEGnfdDkKvFfBHejwNaSzQ1orF3...</loadingscreentip>
+  <loadingscreentip>Although the noseless ones have an indirect connection with the red-nosed ones, they are radically different from them. Red-nosed can be annoying with their jokes, but basically their task is clowning, and only a few hide behind it to commit dirty deeds. Noseless are killers, maniacs and psychopaths who use clown themes, having only one common goal - to kill all living things, especially people, in a variety of ways.</loadingscreentip>
+  <loadingscreentip>Colored soda is the best soda in Europe! Buy now and experience its effects for yourself... To the fullest.</loadingscreentip>
+  <entityname.dragonrifle>Strange rifle</entityname.dragonrifle>
+  <entitydescription.dragonrifle>Actually, you shouldn't have it.
+But it's okay, since you got it one way or another. The main thing is to have fun, right?~</entitydescription.dragonrifle>
+</infotexts>
