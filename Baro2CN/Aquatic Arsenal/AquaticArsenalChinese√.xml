@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+  <!-- Jobs -->
+  <jobname.leaddiver>精英潜水员</jobname.leaddiver>
+  <jobdescription.leaddiver>精英潜水员是一个特殊的角色，不同于其他船员，他能够更好地适应水下环境且拥有更高级的航海知识</jobdescription.leaddiver>
+  <jobname.leaddiver1>捕鲸人</jobname.leaddiver1>
+  <jobname.leaddiver2>蛙男</jobname.leaddiver2>
+  <jobname.leaddiver3>潜水教官</jobname.leaddiver3>
+  <jobdescription.leaddiver1>捕鲸人使用与鱼叉枪类似的新武器——一种新的实验鱼叉</jobdescription.leaddiver1>
+  <jobdescription.leaddiver2>蛙男并不看好目前木卫二的舰艇上使用的防御手段，相反，他更喜欢使用传统的188mm大口径舰炮把敌人撅飞三米高</jobdescription.leaddiver2>
+  <jobdescription.leaddiver3>潜水教官擅长水下的团队作业并能够为其他成员提供帮助</jobdescription.leaddiver3>
+  <!-- talent trees -->
+  <talenttree.whaler>捕鲸人</talenttree.whaler>
+  <talenttree.frogman>蛙男</talenttree.frogman>
+  <talenttree.divinginstructor>潜水教官</talenttree.divinginstructor>
+  <!-- talent info-->
+  <talentname.strongcurrents>海洋之子</talentname.strongcurrents>
+  <talentdescription.strongcurrents>当你在水中时你收到的伤害会降低 [attackpowerreduction]% ，并且你所受过的专业训练让洋流对于你的影响降低 [flowresistance]% 。</talentdescription.strongcurrents>
+  <talentname.murkywaters>浑水摸鱼</talentname.murkywaters>
+  <talentdescription.murkywaters>当你在灌入潜艇内部的水中游泳时降低 [statamount1]% 受到的伤害并且增加 [statamount2]% 的游泳速度。</talentdescription.murkywaters>
+  \\
+  <talentname.trophyhunter>寻宝者</talentname.trophyhunter>
+  <talentdescription.trophyhunter>当你或你的队友杀死一只怪物时, 所有队伍成员都会获得[percentage]% 的最大生命值加成。</talentdescription.trophyhunter>
+  <talentname.seadogspirit>熟练水手</talentname.seadogspirit>
+  <talentname.onewithwater>如鱼得水</talentname.onewithwater>
+  <talentname.sealeg>大力腿手</talentname.sealeg>
+  <talentdescription.sealeg>你有力的腿部允许你搬运许多容器和裹尸袋，相较于其他背负裹尸袋或容器的船员，你获得[movementspeed]% 的速度加成，并且你在拖拽尸体时速度不再降低。</talentdescription.sealeg>
+  <talentname.improvisedutilityharpoons>熟手鱼叉</talentname.improvisedutilityharpoons>
+  <talentdescription.improvisedutilityharpoons>对金属的知识以及创造力使你可以制作出新的鱼叉，更好的击杀敌人。</talentdescription.improvisedutilityharpoons>
+  <talentname.masterworkexperimentalharpoons>大师级实验鱼叉</talentname.masterworkexperimentalharpoons>
+  <talentdescription.masterworkexperimentalharpoons>依靠你炉火纯青、无与伦比的鱼叉制造工艺，你能够制造新型实验鱼叉. 同时你也是个速成者。</talentdescription.masterworkexperimentalharpoons>
+  <talentdescription.harpoonmaker>另外，大量的时间制作鱼叉使你已精通这门工匠手艺，你有[probability]% 的机会每次可以制作出[extra harpoon]。</talentdescription.harpoonmaker>
+  <talentname.baneofthecryingseals>幽怨之源</talentname.baneofthecryingseals>
+  <talentdescription.baneofthecryingseals>解锁巨型鱼叉大炮的图纸, 这玩意是最接近电磁枪的东西，你可以随身携带. 最好与激光指示器一起使用。</talentdescription.baneofthecryingseals>
+  <talentname.deadmanwalking>死亡搁浅</talentname.deadmanwalking>
+  <talentdescription.deadmanwalking>当你处于濒危状态时，操控你的角色进入布娃娃状态4s，你的敌人将无视你的存在</talentdescription.deadmanwalking>
+  <talentname.divinggoodies>有求必应</talentname.divinggoodies>
+  <talentdescription.divinggoodies>当你在航行途中至少完成一项任务时，你将获得以下奖励： </talentdescription.divinggoodies>
+  \\
+  <talentname.sppschematics>SPP-1 爆弹枪</talentname.sppschematics>
+  <talentdescription.sppschematics>这是你在船上唯一可以信任的朋友. 当发生意外情况时你不必依靠其他人.这把手枪发射的穿甲弹可以帮你解决一切问题.</talentdescription.sppschematics>
+  <talentname.pxschematics>PX-11 潜水手枪</talentname.pxschematics>
+  <talentdescription.pxschematics>这种水下冲锋枪肯定会在黑暗的深处创造奇迹，他的弹药消耗较快，但也兼备一定的穿甲能力</talentdescription.pxschematics>
+  <talentname.eyeforaneye>目光如炬</talentname.eyeforaneye>
+  <talentdescription.eyeforaneye>当你攻击时, 你的下一次射击（单发？）会造成[50]%的额外伤害. 使用喷子的伤害增加[25]% </talentdescription.eyeforaneye>
+  <talentname.underwaterdemolition>炸鱼专家</talentname.underwaterdemolition>
+  <talentdescription.underwaterdemolition>允许你制造一种手持型声呐诱饵的原型机，可以用来分散敌人的注意力。激活后你有 [25] 秒的时间用来远离诱饵，时间到了之后它就会碎裂并且 [detonates] 你放进去的任何东西。</talentdescription.underwaterdemolition>
+  <talentname.bangstickschematics>昭和男儿</talentname.bangstickschematics>
+  <talentdescription.bangstickschematics>锥形爆炸棒是在水中最理想的武器之一，也是旧地球世纪刺雷精神的延续。深海生物的护甲通常难以用普通的利器穿透，那为什么不试试连虎式坦克都能捅开的刺雷呢？</talentdescription.bangstickschematics>
+  <talentname.marinerecon>海军斟茶兵</talentname.marinerecon>
+  <talentdescription.adsschematics>ADS两栖步枪是一种特殊的枪械，其发射爆破子弹而非正常的装药弹，独特的技术允许它在水下射击并且没有任何隐患或问题。此外，你完成 [missions] 时额外获得 [amount]% 的奖励。</talentdescription.adsschematics>
+  <talentname.combatdiver>战斗潜水员</talentname.combatdiver>
+  <talentdescription.apsschematics>APS两栖突击步枪非常适合用来清理洞穴、沉船和深海冰洋中任何有水的地方，它拥有极高的穿甲率，使用7N39型号子弹。此外，你完成 [missions] 时额外获得 [amount]% 的奖励。</talentdescription.apsschematics>
+  <talentname.divinginstructor>潜水教官</talentname.divinginstructor>
+  <talentdescription.divinginstructor>你向其他潜水员分享的潜水知识使他们在水中的生存率以及熟练度大大的增加了。靠近你的玩家获得：</talentdescription.divinginstructor>
+  <talentdescription.divinginstructorstat1>[amount]% [stat]</talentdescription.divinginstructorstat1>
+  <talentdescription.divinginstructorstat2>[amount]% [stat]</talentdescription.divinginstructorstat2>
+  <talentdescription.divinginstructorstat3>[amount]% [stat]</talentdescription.divinginstructorstat3>
+  <afflictionname.overwatched>精英潜水员的庇护</afflictionname.overwatched>
+  <afflictiondescription.overwatched>由精英潜水员带领，精英潜水员可以提高其他潜水员的士气，并增加他们的各项能力。</afflictiondescription.overwatched>
+  <talentname.thickblood>血浓于水</talentname.thickblood>
+  <talentdescription.thickblood>当你的生命值低于 [50]% 时失血不再增加，并且缓慢地恢复生命值，此外在水下时你还获得 [stun]% [stunstat] 的抗性。</talentdescription.thickblood>
+  <!-- Item into -->
+  <entityname.whalerregalia>捕鲸人衣装</entityname.whalerregalia>
+  <entitydescription.whalerregalia>酷炫的服装。</entitydescription.whalerregalia>
+  
+  <entityname.frogmanvestments>蛙人服</entityname.frogmanvestments>
+  <entitydescription.frogmanvestments>我承认这很帅。</entitydescription.frogmanvestments>
+  
+  <entityname.divinginstructorgarments>潜水教练服</entityname.divinginstructorgarments>
+  <entitydescription.divinginstructorgarments>我承认这很帅。</entitydescription.divinginstructorgarments>
+  
+  <entityname.oldseadoghat>老水手帽</entityname.oldseadoghat>
+  <entitydescription.oldseadoghat></entitydescription.oldseadoghat>
+  
+  <entityname.advanceddivingmask>高级潜水面罩</entityname.advanceddivingmask>
+  <entitydescription.advanceddivingmask></entitydescription.advanceddivingmask>
+  
+  <entityname.bluebeanie>蓝色无檐帽</entityname.bluebeanie>
+  <entitydescription.bluebeanie></entitydescription.bluebeanie>
+  
+  <entityname.depthfoamwetsuit>深水海绵潜水服</entityname.depthfoamwetsuit>
+  <entitydescription.depthfoamwetsuit>深水海绵潜水服能承受住4000m深的压力</entitydescription.depthfoamwetsuit>  
+
+  
+  <entityname.antiquedivinghelmet>古董潜水头盔</entityname.antiquedivinghelmet>
+  <entitydescription.antiquedivinghelmet>一顶古色古香的潜水头盔，上面满是凹痕。又大又沉，以前的使用者估计都颈椎病了，就是不知道这玩意还能不能用。</entitydescription.antiquedivinghelmet>  
+
+  <entityname.depthfoamdivinghelmet>深水海绵潜水头盔</entityname.depthfoamdivinghelmet>
+  <entitydescription.depthfoamdivinghelmet>用钢骨架加固的潜水头盔。</entitydescription.depthfoamdivinghelmet>
+
+  <entityname.foamdivingvisor>深水海绵潜水面罩</entityname.foamdivingvisor>
+  <entitydescription.foamdivingvisor>海绵面罩，不会遮挡视野</entitydescription.foamdivingvisor>  
+
+  <entityname.handheldsonardecoy>手持型声呐诱饵信标</entityname.handheldsonardecoy>
+  <entitydescription.handheldsonardecoy>手持型声呐诱饵信标，在你开启它后任何深海生物都会被它吸引，开启25秒后摧毁自身并引爆其中的装药。</entitydescription.handheldsonardecoy>  
+
+  <entityname.silentsonarscanner>静音声呐信标</entityname.silentsonarscanner>
+  <entitydescription.silentsonarscanner>一种独特的水下作业仪器，结合了手持声呐和声呐信标，并且不会发出任何动静。也更加的省电。</entitydescription.silentsonarscanner>  
+
+  <entityname.ads>ADS两栖步枪</entityname.ads>
+  <entitydescription.ads>ADS是一种为水下使用而设计的慢射特种卡宾枪。</entitydescription.ads>  
+
+  <entityname.aps>APS两栖卡宾枪</entityname.aps>
+  <entitydescription.aps>APS是一种为水下使用而设计的慢射特种卡宾枪。</entitydescription.aps>  
+
+  <entityname.adsmagazine>ADS弹匣</entityname.adsmagazine>
+  <entitydescription.adsmagazine>弹匣中装满了钢锥弹，能穿透船体和生物目标。</entitydescription.adsmagazine>  
+
+  <entityname.adsbolt>ADS钢锥弹</entityname.adsbolt>
+  <entitydescription.adsbolt></entitydescription.adsbolt>  
+
+  <entityname.apsmagazine>APS弹匣</entityname.apsmagazine>
+  <entitydescription.apsmagazine>弹匣中装满了钢锥弹，能穿透船体和生物目标。</entitydescription.apsmagazine>  
+
+  <entityname.apsbolt>APS钢锥弹</entityname.apsbolt>
+  <entitydescription.apsbolt></entitydescription.apsbolt>  
+
+  <entityname.sppbolt>SPP-1钢锥弹</entityname.sppbolt>
+  <entitydescription.sppbolt>能够穿透墙壁和生物目标的小型钢锥弹。</entitydescription.sppbolt>  
+
+    <entityname.pxbolt>PX-11钢锥弹</entityname.pxbolt>
+  <entitydescription.pxbolt>能够穿透墙壁和生物目标的小型钢锥弹。</entitydescription.pxbolt>  
+  
+    <entityname.steelboltshell>剃刀弹</entityname.steelboltshell>
+  <entitydescription.steelboltshell></entitydescription.steelboltshell>  
+  
+    <entityname.explosivebangstickcharge>锥形药筒高爆装药</entityname.explosivebangstickcharge>
+  <entitydescription.explosivebangstickcharge>这是一种致命性的爆炸装药，让你的敌人都变成炸肉串！</entitydescription.explosivebangstickcharge>  
+  
+    <entityname.stunbangstickcharge>锥形药筒眩晕装药</entityname.stunbangstickcharge>
+  <entitydescription.stunbangstickcharge>这是一种非致命性装药，非常适合用来捕捉神奇宝贝。</entitydescription.stunbangstickcharge>  
+  
+    <entityname.csbanchor>巨型钛制尖头鱼叉</entityname.csbanchor>
+  <entitydescription.csbanchor>一种又大又沉的鱼叉，顶端带有一个锋利的批头。任何东西被它击中后都只有一个下场——一分为二。</entitydescription.csbanchor>  
+  
+    <entityname.csbhammer>巨型钛制锤头鱼叉</entityname.csbhammer>
+  <entitydescription.csbhammer>一种又大又沉的鱼叉，看起来像一根柱子，顶端有一个装药槽，会对目标造成巨额的钝器伤。正中大飞柱！</entitydescription.csbhammer>  
+  
+    <entityname.alienspear></entityname.alienspear>
+  <entitydescription.alienspear>看起来很奇怪的鱼叉，并不常见。</entitydescription.alienspear>  
+  
+    <entityname.spear></entityname.spear>
+  <entitydescription.spear>鱼叉枪使用的鱼叉，能够穿透较弱的护甲。</entitydescription.spear>  
+  
+    <entityname.explosivespear>高爆鱼叉</entityname.explosivespear>
+  <entitydescription.explosivespear>使用致命装药的高爆鱼叉</entitydescription.explosivespear>  
+  
+    <entityname.spearunique></entityname.spearunique>
+  <entitydescription.spearunique>决胜兵器，哪怕再厚的盔甲也抵挡不住它的矛头。</entitydescription.spearunique>  
+  
+    <entityname.stunexplosivespear>眩晕鱼叉</entityname.stunexplosivespear>
+  <entitydescription.stunexplosivespear>使用非致命装药的眩晕鱼叉。</entitydescription.stunexplosivespear>  
+  
+    <entityname.empexplosivespear>EMP鱼叉</entityname.empexplosivespear>
+  <entitydescription.empexplosivespear>一种特殊的爆炸鱼叉，击中后能产生摧毁电子设备的EMP。</entitydescription.empexplosivespear>  
+  
+    <entityname.flarespear>照明鱼叉</entityname.flarespear>
+  <entitydescription.flarespear>照明鱼叉能够极大地帮助探索洞穴和昏暗的海床。它很亮，但比起太阳还是要逊色一些。</entitydescription.flarespear>    
+  
+    <entityname.glowstickspear>荧光鱼叉</entityname.glowstickspear>
+  <entitydescription.glowstickspear>矛头会亮绿色荧光的鱼叉，在黑暗中比普通鱼叉要更易寻找。</entitydescription.glowstickspear>  
+    
+    <entityname.floatingspear>漂浮鱼叉</entityname.floatingspear>
+  <entitydescription.floatingspear>矛头绑了一些橡胶以保持平衡，抛出去后飞得更慢但轨迹更直，击中墙壁后也不会下沉。</entitydescription.floatingspear>  
+    
+    <entityname.blunttipspear>钝头鱼叉</entityname.blunttipspear>
+  <entitydescription.blunttipspear>钝头鱼叉会对目标造成很大的钝器伤，它的飞行速度很慢，并且无法插在猎物身上。</entitydescription.blunttipspear>  
+    
+    <entityname.blunttipflarespear>钝头照明鱼叉</entityname.blunttipflarespear>
+  <entitydescription.blunttipflarespear>照明鱼叉能够极大地帮助探索洞穴和昏暗的海床。它很亮，但比起太阳还是要逊色一些。</entitydescription.blunttipflarespear>  
+    
+    <entityname.blunttipglowstickspear>钝头荧光鱼叉</entityname.blunttipglowstickspear>
+  <entitydescription.blunttipglowstickspear>矛头会亮绿色荧光的鱼叉，在黑暗中比普通鱼叉要更易寻找。</entitydescription.blunttipglowstickspear>  
+    
+    <entityname.blunttipfloatingspear>钝头漂浮鱼叉</entityname.blunttipfloatingspear>
+  <entitydescription.blunttipfloatingspear>矛头绑了一些橡胶以保持平衡，抛出去后飞得更慢但轨迹更直，击中墙壁后也不会下沉。</entitydescription.blunttipfloatingspear>  
+    
+    <entityname.surplusround>审判之光</entityname.surplusround>
+  <entitydescription.surplusround></entitydescription.surplusround>  
+    
+    <entityname.bangstick>锥形炸药桶</entityname.bangstick>
+  <entitydescription.bangstick>一根金属棒，顶端有一个装药桶，能保证你让在未知的海洋里的安全。</entitydescription.bangstick>  
+    
+    <entityname.csb>海哭弩炮</entityname.csb>
+  <entitydescription.csb>使用最先进的技术将可怕的威力压缩到这种以压缩空气为驱动的矛枪中。发射时能让大海都为之哭泣。</entitydescription.csb>  
+    
+    <entityname.harpoonpistol>鱼叉手枪</entityname.harpoonpistol>
+  <entitydescription.harpoonpistol>鱼叉手枪，鱼叉枪的缩小版。</entitydescription.harpoonpistol>  
+    
+    <entityname.sp>隐藏手枪</entityname.sp>
+  <entitydescription.sp>你的秘密武器。总比遇敌时角落里的那把焊接工具靠谱点。</entitydescription.sp>  
+    
+    <entityname.icepickaxe>冰镐</entityname.icepickaxe>
+  <entitydescription.icepickaxe>伟大的工具，扎进冰块就像是扎进一块黄油，被这玩意打到会很致命。传闻这东西配合尼龙绳索可以召唤撤离传送门。</entitydescription.icepickaxe>  
+    
+    <entityname.kukri>弯刀</entityname.kukri>
+  <entitydescription.kukri>带有弯曲刀片的特殊刀具，在切割物体时会更加方便。</entitydescription.kukri>  
+    
+    <entityname.px>PX-11</entityname.px>
+  <entitydescription.px>Px-11是为水下使用而设计的独特手枪。</entitydescription.px>  
+    
+    <entityname.rustymachete>生锈弯刀</entityname.rustymachete>
+  <entitydescription.rustymachete>当压载舱长满肉球植物时，就掏出这个让它们患上破伤风。</entitydescription.rustymachete>  
+    
+  <entityname.simp>简易便携手枪</entityname.simp>
+  <entitydescription.simp>...或者简称叫SIMP。射出去的真不是糖豆吗？</entitydescription.simp>  
+    
+  <entityname.spp>SPP-1</entityname.spp>
+  <entitydescription.spp>SPP-1是为水下使用而设计的独特手枪。</entitydescription.spp>  
+    
+  <entityname.stingrayshotgun>魔鬼鱼霰弹枪</entityname.stingrayshotgun>
+  <entitydescription.stingrayshotgun></entitydescription.stingrayshotgun>  
+  
+</infotexts>

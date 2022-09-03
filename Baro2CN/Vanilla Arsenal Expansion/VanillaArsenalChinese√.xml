@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<infotext language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+  <entityname.semipistol>半自动手枪</entityname.semipistol>
+  <entitydescription.semipistol></entitydescription.semipistol>
+    <entityname.pistollethal>手枪弹匣</entityname.pistollethal>
+  <entitydescription.pistollethal></entitydescription.pistollethal>
+    <entityname.pistolnonlethal>低致命性手枪弹匣</entityname.pistolnonlethal>
+  <entitydescription.pistolnonlethal></entitydescription.pistolnonlethal>
+    <entityname.pistolround>手枪子弹</entityname.pistolround>
+  <entitydescription.pistolround></entitydescription.pistolround>
+    <entityname.pistolnonlethalround>低致命性手枪子弹</entityname.pistolnonlethalround>
+  <entitydescription.pistolnonlethalround></entitydescription.pistolnonlethalround>
+    <entityname.nonlethalshotgunshell>低致命性霰弹</entityname.nonlethalshotgunshell>
+  <entitydescription.nonlethalshotgunshell></entitydescription.nonlethalshotgunshell>
+    <entityname.baton>警棍</entityname.baton>
+  <entitydescription.baton></entitydescription.baton>
+    <entityname.sabre>海盗弯刀</entityname.sabre>
+  <entitydescription.sabre>飞翔的河南人！</entitydescription.sabre>
+    <entityname.lmg>战术班用轻机枪</entityname.lmg>
+  <entitydescription.lmg></entitydescription.lmg>
+    <entityname.lmgmag>轻机枪弹匣</entityname.lmgmag>
+  <entitydescription.lmgmag></entitydescription.lmgmag>
+    <entityname.lmground>轻机枪子弹</entityname.lmground>
+  <entitydescription.lmground></entitydescription.lmground>
+    <entityname.lightsmg>微型冲锋枪</entityname.lightsmg>
+  <entitydescription.lightsmg></entitydescription.lightsmg>
+    <entityname.sniperrifle>狙击步枪</entityname.sniperrifle>
+  <entitydescription.sniperrifle></entitydescription.sniperrifle>
+    <entityname.snipermagazine>狙击步枪弹匣</entityname.snipermagazine>
+  <entitydescription.snipermagazine></entitydescription.snipermagazine>
+    <entityname.sniperpiercing>狙击步枪弹匣（穿甲弹）</entityname.sniperpiercing>
+  <entitydescription.sniperpiercing></entitydescription.sniperpiercing>
+    <entityname.sniperbullet>狙击步枪子弹</entityname.sniperbullet>
+  <entitydescription.sniperbullet></entitydescription.sniperbullet>
+    <entityname.sniperbulletpiercing>狙击步枪穿甲弹</entityname.sniperbulletpiercing>
+  <entitydescription.sniperbulletpiercing></entitydescription.sniperbulletpiercing>
+</infotext>

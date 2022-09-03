@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+  <!-- ITEMS -->
+  <entityname.mannitolplus>更好的甘露醇</entityname.mannitolplus>
+  <entitydescription.mannitolplus>甘露醇的改进版本。它用于快速治疗神经创伤。————（甘露醇（mannitol）是临床上常用的药物，具有脱水利尿作用，经常用于治疗各种原因引起的脑水肿，以降低颅内压，防止脑疝，也可用于青光眼急性发作和术前降低眼内压等。）</entitydescription.mannitolplus>
+  <entityname.artificialbrain>人工大脑</entityname.artificialbrain>
+  <entitydescription.artificialbrain>当你没脑子时，这颗人造大脑会保证你充满活力</entitydescription.artificialbrain>
+  <entityname.surgeonclothes>外科医生装备</entityname.surgeonclothes>
+  <entitydescription.surgeonclothes>一种无菌的手术磨砂膏，用于预防手术过程中的细菌（或真菌）感染</entitydescription.surgeonclothes>
+  <entityname.surgicalmask>外科口罩</entityname.surgicalmask>
+  <entitydescription.surgicalmask>一种可预防在空气中传播的病原体的口罩，当你在进行外科手术时，这是必要的</entitydescription.surgicalmask>
+  <entityname.brainjar>大脑存储罐</entityname.brainjar>
+  <entitydescription.brainjar>一种可以永远用来存储大脑的容器（江某白永远也用不了捏，因为没脑子）</entitydescription.brainjar>
+  <entityname.surgicaldrapes>外科床单</entityname.surgicaldrapes>
+  <entitydescription.surgicaldrapes>无菌床单，以防止手术过程中的真菌或细菌感染</entitydescription.surgicaldrapes>
+  <entityname.skillbooksurgery>'医疗百科'</entityname.skillbooksurgery>
+  <entitydescription.skillbooksurgery>一本包含许多外科手术和进行这些手术的步骤的百科全书</entitydescription.skillbooksurgery>
+  <entityname.triagetag>自动化分类标签</entityname.triagetag>
+  <entitydescription.triagetag>一种快速分类标签，用于在发生大规模伤亡事件时有效地确定患者所需的护理类型和是否紧急。</entitydescription.triagetag>
+  <entityname.manualtriagetag>分类标签II</entityname.manualtriagetag>
+  <entitydescription.manualtriagetag>手动分类标记,将其涂抹在受伤位置。涂抹于腿部绿色，手臂涂抹黄色，躯干涂抹红色，头部涂抹黑色。</entitydescription.manualtriagetag>
+  <entityname.experimentaltreatment>实验性治疗</entityname.experimentaltreatment>
+  <entitydescription.experimentaltreatment>一种具有较高实验性的药物，使用后可能会获得增益或副作用</entitydescription.experimentaltreatment>
+  <!-- AFFLICTIONS -->
+  <afflictionname.preventativepermit>大难不死
+  </afflictionname.preventativepermit>
+  <afflictiondescription.preventativepermit>严重损伤的可能性较小。</afflictiondescription.preventativepermit>
+  <afflictionname.artificialbrain>人工大脑</afflictionname.artificialbrain>
+  <afflictiondescription.artificialbrain>患者永久失去知觉，但身体仍然活着，人类是有极限的。</afflictiondescription.artificialbrain>
+  <afflictionname.triagetag_green>标记：次要的，不是第一的，第二的，不重要的。</afflictionname.triagetag_green>
+  <afflictiondescription.triagetag_green>患者已被给予“轻微”分诊标签。他们不需要治疗，你可以去摸鱼辣!</afflictiondescription.triagetag_green>
+  <afflictionname.triagetag_yellow>标记：伤势过重</afflictionname.triagetag_yellow>
+  <afflictiondescription.triagetag_yellow>患者已被给予“伤势过重”分诊标签。他们的伤势不堪设想，你在不救他就死辣！</afflictiondescription.triagetag_yellow>
+  <afflictionname.triagetag_red>标签：立刻马上</afflictionname.triagetag_red>
+  <afflictiondescription.triagetag_red>患者已被给予“立即”分诊标签。他们需要立即治疗，不然就死辣！</afflictiondescription.triagetag_red>
+  <afflictionname.triagetag_black>标记：死啦！！</afflictionname.triagetag_black>
+  <afflictiondescription.triagetag_black>你个笨比庸医，就是你把患者害死辣！拜托！不过事已至此，还是好好的安葬他们以及无尽的忏悔吧！！</afflictiondescription.triagetag_black>
+  <!-- JOBS -->
+  <jobname.surgeon>Surgeon</jobname.surgeon>
+  <jobdescription.surgeon>虽然医生更适合急救和快速反应，但外科医生专门从事外科手术的优化。感染风险更低，执行速度更快，如果它与手术有关，外科医生就会接手这份工作。</jobdescription.surgeon>
+  <skillname.surgery>外科医生</skillname.surgery>
+  <!-- TALENTS -->
+  <talenttree.researcher>研究者</talenttree.researcher>
+  <talenttree.hospitalizer>Hospitalizer</talenttree.hospitalizer>
+  <talenttree.fieldsurgeon>Field surgeon</talenttree.fieldsurgeon>
+  <talentname.ntsp_autoimmune>Autoimmunosuppression</talentname.ntsp_autoimmune>
+  <talentdescription.ntsp_autoimmune>Organs that you transplant never get rejected.</talentdescription.ntsp_autoimmune>
+  <talentname.ntsp_firemanscarry>Rapid extraction</talentname.ntsp_firemanscarry>
+  <talentname.ntsp_properfol>Propofol professional</talentname.ntsp_properfol>
+  <talentdescription.ntsp_properfol>[itemname] that you administer instantly takes effect.</talentdescription.ntsp_properfol>
+  <talentname.ntsp_soothingsurgeon>Soothing surgeon</talentname.ntsp_soothingsurgeon>
+  <talentdescription.ntsp_soothingsurgeon>People you operate on suffer less traumatic shock</talentdescription.ntsp_soothingsurgeon>
+  <talentname.ntsp_imadoctornota>I'm a doctor, not a...</talentname.ntsp_imadoctornota>
+  <talentname.ntsp_preventativepermit>Preventative permit</talentname.ntsp_preventativepermit>
+  <talentdescription.ntsp_preventativepermit>The last person you ordered gains [physicalresistance]% damage resistance and is less likely to suffer serious injuries.</talentdescription.ntsp_preventativepermit>
+  <talentname.ntsp_medicallicence>Medical licence</talentname.ntsp_medicallicence>
+  <talentdescription.ntsp_medicallicence>Organs you extract sell for full price.</talentdescription.ntsp_medicallicence>
+  <talentname.ntsp_bedsidemanner>Fine bedside manner</talentname.ntsp_bedsidemanner>
+  <talentdescription.ntsp_bedsidemanner>Patients next to you passively heal at an accelerated rate. The effect is doubled if they are laying in bed.</talentdescription.ntsp_bedsidemanner>
+  <talentname.ntsp_rinseandrepeat>Rinse and repeat</talentname.ntsp_rinseandrepeat>
+  <talentdescription.ntsp_rinseandrepeat>Drainages, endovascular balloons and needles no longer get consumed when you use them.</talentdescription.ntsp_rinseandrepeat>
+  <talentname.ntsp_underpressure>Under pressure</talentname.ntsp_underpressure>
+  <talentdescription.ntsp_underpressure>Unconscious patients next to you gain [amount]% bloodloss, organ damage and neurotrauma resistance.</talentdescription.ntsp_underpressure>
+  <talentname.ntsp_rapiddeoployment>Rapid deployment</talentname.ntsp_rapiddeoployment>
+  <talentdescription.ntsp_rapiddeoployment>Gain additional movement speed equal to [skillpercentage]% of your surgery skill.</talentdescription.ntsp_rapiddeoployment>
+  <talentname.ntsp_humanmachine>The human machine</talentname.ntsp_humanmachine>
+  <talentname.ntsp_firstaidtraining>First aid advances</talentname.ntsp_firstaidtraining>
+  <talentname.ntsp_mannitol>Mannitol maniac</talentname.ntsp_mannitol>
+  <talentname.ntsp_experimental>Unethical sourcing</talentname.ntsp_experimental>
+  <talentname.ntsp_frankenstein>Dr. Frankenstein</talentname.ntsp_frankenstein>
+</infotexts>

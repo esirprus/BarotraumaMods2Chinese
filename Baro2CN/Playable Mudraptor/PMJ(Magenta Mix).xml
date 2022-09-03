@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="false" translatedname="中文(简体)">
+  <!--Job.xml-->
+  <jobName.PlayerMudraptorJob>友好迅猛龙</jobName.PlayerMudraptorJob>
+  <jobdescription.PlayerMudraptorJob>与人类基因相融合培育出的迅猛龙，人类最好的朋友！</jobdescription.PlayerMudraptorJob>
+  <!--Talent Items-->
+  <entityname.backpackpmj>迅猛龙背包</entityname.backpackpmj>
+  <entitydescription.backpackpmj>可以背在身上的背包，可以存储弹药箱、潜水服并且拥有一个工具箱栏位。它比其他的背包要轻得多，所以作为人类可以将它背在身上。你甚至可以单手拎起一个背包，这使得一次携带多个背包成为可能。</entitydescription.backpackpmj>
+  <entityname.backpackpmjbio>迅猛龙生物背包</entityname.backpackpmjbio>
+  <entitydescription.backpackpmjbio>可以背在身上的背包，可以存储弹药箱、潜水服并且拥有一个工具箱栏位，它的内衬是发光海绵。WARNING：这玩意不是给人类背的。</entitydescription.backpackpmjbio>
+  <entityname.backpackpmj2>迅猛龙大卡车背包</entityname.backpackpmj2>
+  <entitydescription.backpackpmj2>可以背在身上的背包，可以存储弹药箱、潜水服并且拥有多达两个的工具箱栏位！穿戴时减少25%移动速度（即使你是迅猛龙）。WARNING：我百分百确定这玩意的使用者不应该是人类。</entitydescription.backpackpmj2>
+  <entityname.flarepmj>生物照明弹</entityname.flarepmj>
+  <entitydescription.flarepmj>一块会发光的海绵，接触到皮肤时会发出强光。</entitydescription.flarepmj>
+  <entityname.raptorguitar>迅猛龙吉他</entityname.raptorguitar>
+  <entitydescription.raptorguitar>一把由吉他迅猛龙自制的深蓝色吉他。</entitydescription.raptorguitar>
+  <!--Armor Items-->
+  <entityname.mudraptorequiphelmet>迅猛龙头盔</entityname.mudraptorequiphelmet>
+  <entitydescription.mudraptorequiphelmet>为泥偶迅猛龙制作的坚固头盔。</entitydescription.mudraptorequiphelmet>
+  <entityname.mudraptorpiratehelmet>迅猛龙海盗头盔</entityname.mudraptorpiratehelmet>
+  <entitydescription.mudraptorpiratehelmet>为泥偶迅猛龙制作的坚固海盗头盔。</entitydescription.mudraptorpiratehelmet>
+  <entityname.mudraptorveteranhelmet>迅猛龙老兵头盔</entityname.mudraptorveteranhelmet>
+  <entitydescription.mudraptorveteranhelmet>一顶坚固的迅猛龙老兵头盔</entitydescription.mudraptorveteranhelmet>
+  <entityname.mudraptorequiparmor>迅猛龙护甲</entityname.mudraptorequiparmor>
+  <entitydescription.mudraptorequiparmor>泥偶迅猛龙穿的坚固护甲（别穿在人身上）。</entitydescription.mudraptorequiparmor>
+  <entityname.mudraptorpiratearmor>迅猛龙海盗护甲</entityname.mudraptorpiratearmor>
+  <entitydescription.mudraptorpiratearmor>泥偶迅猛龙穿的坚固海盗护甲（别穿在人身上）。</entitydescription.mudraptorpiratearmor>
+  <entityname.mudraptorveteranarmor>迅猛龙老兵护甲</entityname.mudraptorveteranarmor>
+  <entitydescription.mudraptorveteranarmor>泥偶迅猛龙穿的坚固老兵护甲（别穿在人身上）。</entitydescription.mudraptorveteranarmor>
+
+    <entityname.raptorstartitem>友善迅猛龙</entityname.raptorstartitem>
+  <entitydescription.raptorstartitem></entitydescription.raptorstartitem>
+  
+    <entityname.flarepmj>生物灯</entityname.flarepmj>
+  <entitydescription.flarepmj>接触到皮肤时发出明亮的光！</entitydescription.flarepmj>
+  
+    <entityname.iceflarepmj>极寒生物灯</entityname.iceflarepmj>
+  <entitydescription.iceflarepmj>一块冰冷的海绵，拿着的时候会发出非常耀眼的光芒，同时可以减缓周围敌人的速度。你自己或人类不受照明弹效果的影响。</entitydescription.iceflarepmj>
+      
+    <entityname.fireflarepmj>炽热生物灯</entityname.fireflarepmj>
+  <entitydescription.fireflarepmj>一块火红的海绵，拿着的时候会发出非常耀眼的光芒，同时会缓慢地烧伤周围的敌人。你自己或人类不受照明弹效果的影响。</entitydescription.fireflarepmj>
+
+  <entityname.raptorcowboyhat>西部龙仔帽</entityname.raptorcowboyhat>
+    <entitydescription.raptorcowboyhat>船员声喧哗吵闹、机器声嘈杂不休、枪炮声震耳欲聋，在水下重现西部牛仔的浪漫————但最重要的是，请该死的海盗吃一发核弹。</entitydescription.raptorcowboyhat>
+  <!--Mudraptor Talents-->我丢进去测试一下
+  <talenttree.PMJTree1>大卡车</talenttree.PMJTree1>
+  <talenttree.PMJTree2>深海捕食者</talenttree.PMJTree2>
+  <talenttree.PMJTree3>进化者</talenttree.PMJTree3>
+  <!-- 1-1 -->
+  <talentName.PMJJump>大步流星</talentName.PMJJump>
+  <talentdescription.PMJJumpDesc>你强而有力的腿能让你跳的更高，允许你全速搬运物品和拖动角色，这是迅猛龙的胜利！</talentdescription.PMJJumpDesc>
+  <!-- 1-2 -->
+  <talentName.PMJFlare>生物灯</talentName.PMJFlare>
+  <talentdescription.PMJFlareDesc>一块海绵，拿着的时候会发出非常耀眼的光芒。</talentdescription.PMJFlareDesc>
+  <talentName.PMJFlareIce>极寒生物灯</talentName.PMJFlareIce>
+  <talentdescription.PMJFlareIceDesc>一块冰冷的海绵，拿着的时候会发出非常耀眼的光芒，同时可以减缓周围敌人的速度。你自己或人类不受照明弹效果的影响。</talentdescription.PMJFlareIceDesc>
+  <talentName.PMJFlareFire>炽热生物灯</talentName.PMJFlareFire>
+  <talentdescription.PMJFlareFireDesc>一块火红的海绵，拿着的时候会发出非常耀眼的光芒，同时会缓慢地烧伤周围的敌人。你自己或人类不受照明弹效果的影响。</talentdescription.PMJFlareFireDesc>
+  <!-- 1-3 -->
+  <talentName.PMJBackpack>迅猛龙背包</talentName.PMJBackpack>
+  <talentdescription.PMJBackpackDesc>解锁配方：迅猛龙背包，一个用来运输大型货物的物品。人类可以背上它，尽管看起来有点傻。它足够轻，可以用一只手拿起，因此可以同时拿起两个。(1个箱子+1个大型物品)</talentdescription.PMJBackpackDesc>
+  <talentName.PMJBackpackBio>负重前行</talentName.PMJBackpackBio>
+  <talentdescription.PMJBackpackBioDesc>解锁配方：迅猛龙生物背包，一个用来运输较多大型货物的物品。它的内衬是生物照明材料，使其在装备时发出光芒。非常重，人类背上它会非常的痛苦。(1个箱子+2个大型物品)</talentdescription.PMJBackpackBioDesc>
+  <!-- 1-4 -->
+  <talentName.PMJBackpack2>任重道远</talentName.PMJBackpack2>
+  <talentdescription.PMJBackpack2Desc>解锁配方：迅猛龙大篷车背包，一个用来运输很多大型货物的物品。装备时使你的速度降低25%。人类绝对不应该穿这个。(2箱+4件大型物品)</talentdescription.PMJBackpack2Desc>
+  <!-- 2-1 -->
+  <talentName.PMJMonsterRes>天生强大</talentName.PMJMonsterRes>
+  <talentdescription.PMJMonsterResDesc>在学习如何更好的生存下去时，你突然发觉你好像是一头强壮的迅猛龙。获得40%伤害减免。</talentdescription.PMJMonsterResDesc>
+  <!-- 2-2 -->
+  <talentName.PMJMonsterInstinct>野兽先辈</talentName.PMJMonsterInstinct>
+  <talentdescription.PMJMonsterInstinctDesc>在你看来，撕碎对手的老办法仍然强而有效。你的生物攻击伤害提升125%。毕竟这可是大自然赐予你的能力。</talentdescription.PMJMonsterInstinctDesc>
+  <talentName.PMJHumanoidInstinct>智慧之光</talentName.PMJHumanoidInstinct>
+  <talentdescription.PMJHumanoidInstinctDesc>撕咬、啃食、抓挠，这些行为本能都已经被你不小心的忘记了，但那些驯服你的人向你展示了更为高效的“本能”。获得30%物品（近战/枪械）攻击伤害加成和20%潜艇炮塔伤害加成。</talentdescription.PMJHumanoidInstinctDesc>
+  <!-- 2-3 -->
+  <talentname.PMJWaterThermal>如鱼得水</talentname.PMJWaterThermal>
+  <talentdescription.PMJWaterThermal>I'm Back.获得50%眩晕抗性。当被淹没在水中时，你获得50%生物攻击伤害加成。</talentdescription.PMJWaterThermal>
+  <talentname.PMJWaterSonar>百毒不侵</talentname.PMJWaterSonar>
+  <talentdescription.PMJWaterSonar>与人类相处和在陆地上的时光使你更进一步了解身体的热量如何发挥作用。获得50%烧伤抗性和中毒抗性。</talentdescription.PMJWaterSonar>
+  <!-- 2-4 -->
+  <talentName.PMJRelentless>铁血无情</talentName.PMJRelentless>
+  <talentdescription.cannotfallunconsciousforsecondsPMJ>你的眼睛炯炯有神，对血有一种燃烧的激情。获得20%的移动速度和20%的最大生命值加成（+50 HP）。</talentdescription.cannotfallunconsciousforsecondsPMJ>
+  <talentdescription.cannotfallunconsciousforsecondsPMJ2>每当你的生命值下降到0以下时，你将在整整一分钟内保持完全清醒的状态。</talentdescription.cannotfallunconsciousforsecondsPMJ2>
+  <!-- 3-1 -->
+  <talentname.PMJSleepTime>睡熊猛醒</talentname.PMJSleepTime>
+  <talentdescription.PMJSleepTime>当你进入布娃娃状态[seconds]秒时，给予沉睡的迅猛龙Buff：随时间缓慢治疗受到的伤害（不在水中时）。在此效果下，烧伤的恢复速度比正常的伤害恢复速度慢得多。</talentdescription.PMJSleepTime>
+  <!-- 3-2 -->
+  <talentname.PMJSleepTime2>摸鱼病毒</talentname.PMJSleepTime2>
+  <talentdescription.PMJSleepTime2>你的打盹在某种程度上被人类认为是“可爱”的。如果你打盹时他们在你身边，他们也会获得“沉睡的迅猛龙”的buff，降低他们114.514%的汉化效率。在这个效果下，他们还能从他们阅读的书籍中获得50%的技能点加成。</talentdescription.PMJSleepTime2>
+  <talentname.PMJGuitarRaptor>梦“龙”乐队</talentname.PMJGuitarRaptor>
+  <talentdescription.PMJGuitarRaptorDesc>我也不知道迅猛龙该怎么弹吉他，但总之你已经从周围的人那里学到了吉他弹奏技巧。任何人听到你的音乐时都会被音乐感染，获得全技能的+10增益。如果你继续演奏，你周围的人将随机获得10点经验。</talentdescription.PMJGuitarRaptorDesc>
+  <!-- 3-3 -->
+  <talentname.PMJBestFriend>木卫二上人类最好的朋友</talentname.PMJBestFriend>
+  <talentdescription.PMJBestFriendDesc>你对人类的保护是永远没够的，当人类不小心滑倒时你总是能够精确的抓住他以免摔成钝器伤。被你拯救了鼻梁骨的人类获得25%步行/跑步速度加成。40%游泳速度加成。75%水流冲击抵抗（包括你自己）。</talentdescription.PMJBestFriendDesc>
+  <!-- 3-4 -->
+  <talentname.PMJBond_Captain>最佳表演</talentname.PMJBond_Captain>
+  <talentdescription.PMJBond_CaptainDesc>你难道不是船上最耀眼最传奇的那条迅猛龙吗？你的名声可是无人不知！每当你的船员完成任务，每个人都会获得10%的额外经验和金钱。当你靠近船员时，他们获得15%的眩晕和伤害抗性。你的驾驶技能提升30，攻击力提升10%。</talentdescription.PMJBond_CaptainDesc>
+  <talentname.PMJBond_Security>看门龙</talentname.PMJBond_Security>
+  <talentdescription.PMJBond_SecurityDesc>你被安全官们训练成了欧罗巴上最好的看守者，他们也许本来期待的是网络黑客来着。你获得了“石墙”天赋。靠近船员时，他们获得35%的眩晕抗性。炮塔攻击速度和充能速度增加10%。炮塔耗能减少10%。你的攻击速度提高10%，远程武器扩散减少20%。</talentdescription.PMJBond_SecurityDesc>
+  <talentname.PMJBond_Engineer>氚猛龙</talentname.PMJBond_Engineer>
+  <talentdescription.PMJBond_EngineerDesc>和工程师这帮理工宅男待久了也许丘脑也能学会怎么拿土豆发电，当然，还会染上辐射病。获得“电化学家”天赋，当激活时你获得35的辐射病。靠近其他人时他们获得10%对眩晕、伤害和恶心的抗性，增加30点电气技能，增加40%的物品修复速度。</talentdescription.PMJBond_EngineerDesc>
+  <talentname.PMJBond_Mechanic>工具龙</talentname.PMJBond_Mechanic>
+  <talentdescription.PMJBond_MechanicDesc>在经过漫长的修船和打螺丝后，你已经熟悉了机械师的一切技能。你获得了“贼不走空”天赋。靠近其他人时他们获得10%对眩晕和伤害的抗性，增加30点机械技能，增加30%的船体修复速度和矿物采掘速度。</talentdescription.PMJBond_MechanicDesc>
+  <talentname.PMJBond_Doctor>神之左爪</talentname.PMJBond_Doctor>
+  <talentdescription.PMJBond_DoctorDesc>你粘着船医喋喋不休的问着奇怪问题，结果船医嫌你太鸡儿烦给你打晕了。醒来的时候你突然习得了“基因收割者”天赋，靠近其他人时他们的物理伤害会缓慢的治愈，同时获得20%眩晕、中毒和成瘾品抗性，增加30点医疗技能，增加30%的医疗效果。</talentdescription.PMJBond_DoctorDesc>
+  <!-- Afflictions! -->
+  <afflictionname.PMJBestFriendBuff>我最好的朋友</afflictionname.PMJBestFriendBuff>
+  <afflictiondescription.PMJBestFriendBuff>你身边的迅猛龙用它的友谊支持着你前进。增加20%的跑步速度和40%的游泳速度，增加75%水流阻力。</afflictiondescription.PMJBestFriendBuff><!--  原文：The Mudraptor close to you is bolstering your actions with its loyalty. +20% Walk/Run Speed. +40% Swim Speed. +75% Water Flow Resistance. -->
+  <afflictionname.PMJimplacable>铁血无情</afflictionname.PMJimplacable>
+  <afflictiondescription.PMJimplacable>我还能战斗一分钟，朋友们！</afflictiondescription.PMJimplacable>
+  <afflictionname.PMJSleepTimeIcon>摸鱼病毒</afflictionname.PMJSleepTimeIcon>
+  <afflictiondescription.PMJSleepTimeIcon>你看到了摸鱼迅猛龙正在打盹，这让你身上伤慢慢的痊愈。在睡着的摸鱼迅猛龙旁边看书效果一定很好。</afflictiondescription.PMJSleepTimeIcon>
+  <afflictionname.pmjguitarraptorbuff>迅猛龙的小夜曲</afflictionname.pmjguitarraptorbuff>
+  <afflictiondescription.pmjguitarraptorbuff>迅猛龙拉的肖邦让你感到悲痛欲绝，但不知道为什么做事情更有动力和热情。</afflictiondescription.pmjguitarraptorbuff>
+  <afflictionname.PMJFamiliarWaterBuff>如鱼得水</afflictionname.PMJFamiliarWaterBuff>
+  <afflictiondescription.PMJFamiliarWaterBuff>你很清楚你在谁你是哪，这就像你的家，你闭着眼也能找到所有东西。</afflictiondescription.PMJFamiliarWaterBuff>
+  <afflictionname.PMJBond_CaptainBuff>最佳表演</afflictionname.PMJBond_CaptainBuff>
+  <afflictiondescription.PMJBond_CaptainBuff>在你身边的是木卫二有史以来最出名且最传奇的迅猛龙！</afflictiondescription.PMJBond_CaptainBuff>
+  <afflictionname.PMJBond_SecurityBuff>看门龙</afflictionname.PMJBond_SecurityBuff>
+  <afflictiondescription.PMJBond_SecurityBuff>你的武器操作和炮塔伤害被路过的看门龙提升了！</afflictiondescription.PMJBond_SecurityBuff>
+  <afflictionname.PMJBond_EngineerBuff>氚猛龙</afflictionname.PMJBond_EngineerBuff>
+  <afflictiondescription.PMJBond_EngineerBuff>你的电气技能和物品修复速度被路过的氚猛龙提升了！</afflictiondescription.PMJBond_EngineerBuff>
+  <afflictionname.PMJBond_MechanicBuff>工具龙</afflictionname.PMJBond_MechanicBuff>
+  <afflictiondescription.PMJBond_MechanicBuff>你的机械技能和船体修复速度被路过的工具龙提升了！</afflictiondescription.PMJBond_MechanicBuff>
+  <afflictionname.PMJBond_DoctorBuff>神之左爪</afflictionname.PMJBond_DoctorBuff>
+  <afflictiondescription.PMJBond_DoctorBuff>你的医疗技能和医疗物品效果被路过的大夫龙提升了！</afflictiondescription.PMJBond_DoctorBuff>
+</infotexts>
+
+简介：
+你好呀~这是俺的升级进化版可操控迅猛龙Mod！原作者的Mod你可以在这里找到：https://steamcommunity.com/sharedfiles/filedetails/?id=2848527408
+
+一 定 要 安 装 L U A 不 然 会 得 脑 溢 血！ ！ ！
+ 
+由于潜渊症的Mod制作非常受限，所以这个Mod在单人游戏中的可游玩内容少的雅痞！请一定要去多人游戏里寻找几个好兄弟或者抓几个野人选择人类陪你一起玩这个Mod！！！
+
+All heads remain the same as Elly's mod. Head 1, 2 and 3 are the only valid ones.
+
+与原始Mod的主要差别如下：
+
+然并卵的设定 - 更改了迅猛龙的种族简介，为了达成对迅猛龙的驯服和友好相处，人类将自己的DNA与迅猛龙的DNA拼接，创造出了——智慧迅猛龙！同时赋予了它们更多的进化选择，是选择跟进文明走向智慧——还是选择本性回归狂野？
+
+天赋树重做 - 迅猛龙的天赋树没有任何原版天赋凑数，而且还拥有一些用于分化迅猛龙职业的天赋。
+
+医疗界面更新 - 现在迅猛龙拥有专属的医疗界面，并且纠正了肢体损伤的问题！
+
+宠物标签 - 给玩家迅猛龙增加了Pet Tag，让他们可以与门进行深入交流。
+
+支持战役中途加入 - 使用了LUA中记载的一些黑暗魔法...修复了迅猛龙玩家无法在战役中半途加入！
+
+耳机支持 - 玩家迅猛龙会在游戏开始时被归类为敌对阵营，导致聊天频道与人类不互通。但是LUA在高喊巴拉啦能量古娜拉黑暗之神后修复了这个问题！现在玩家迅猛龙可以正常的和人类交流了！(但是不支持自定义频道，并且如果你戴着耳机在本地频道输入消息也是行不通的，得把耳机摘下来才行。)
+
+平衡性调整 - 迅猛龙的天赋物品现在制作起来需要更多的材料，and are no longer auto-given on mission completion. The armour given by the Armour items are now a fair bit tougher than before so they wont come off as easily.<!-- 没搞完 -->
+
+肢体修改 - Your jaw and arms can no longer be severed while you're alive and as a result completely gut your functionality.
+
+不再饥饿 - 你不能再去吃掉别人或别的生物的尸体（欧!漏 ！），and accidentally consume it's inventory.
+
+杂七杂八：
+你可以在破碎的潜艇里拉悲伤的肖邦。（共有11首迅猛龙专属音乐）
+用你能一拳打死巨石强森的体格搬运货物。
+可以戴上酷炫的迅猛龙头！
+用你锋利的喙撕裂潜艇上的每一道门，气死船上的机械师。
+通过不断地进化你锋利的嘴，把每一个来犯的爬行者都撕得粉碎。
+迅猛龙弱梯（还是不能爬梯子）
+背叛你的无数祖辈，加入人类的阵营，使用人类的武器代替你的嘴大杀四方。
+受伤，睡觉，然后充换新生！
+用你巨大的体型挡住人类枪线，事后咬他几口责怪他朝你开枪。
+难以适应异星遗迹。
+
+感谢这些作者：
+Elly - 可操控迅猛龙的原作者，感谢你的许可让我可以修改你的Mod！
+
+Nessinby - 帮助我编写XML并且为治疗界面UI、迅猛龙背包和肢体系统提供了建议
+
+EvilFactory - 制作了 LUA for Barotrauma！
+
+Me - Lua脚本、屎一样的XML、新的天赋和一些新的贴图。
+  
+简介在下面：
+!!! 需要服务端LUA以正常工作 !!!
+https://steamcommunity.com/sharedfiles/filedetails/?id=2559634234
+由老虎脱粒机汉化组汉化 参与成员：RunrunXi 古斯塔夫 江某白 Loafer 
+现在你可以通过这个简洁的mod来实现你成为一头迅猛龙的幻想！
+
+
+(这个MOD中附带的Dugong儒艮号包含着可供迅猛龙玩家爬升的平台)
+
+一些特性如下:
+
+• 成为一只泥头龙!
+• 在陆地上和水中呼吸!
+• 和你的队友交谈（会说人话的迅猛龙）!
+• 不能爬梯子（悲）!
+• 用你的小爪拿东西 (你的手臂如果受到伤可能会有断掉的可能)
+• 可穿上盔甲和头盔!
+• 需要治疗? 只需要大快朵颐!
+• 天赋!
+• 天赋物品!
+- 迅猛龙背包（怎么贴图是个箱子啊喂！） (两个大型物品格，可以装诸如弹药箱和潜水服之类的物品，还有一格工具箱栏)
+- 生物海绵 (更好更亮的照明弹)
+• 通过按下生物攻击键（默认为F键）用你的喙或者腿狠狠的招待你的敌人! 
+• 一艘简单修改过的dugong儒艮号，让你和你的迅猛龙船员都能方便的移动!
+• 可能还有很多我忘了的东西。但是这很coooool不是吗!
+
+想为你的迅猛龙定制个头不？你可以从下面的图片或上面的展示中下载一个！然后对其进行编辑，我会将其包含在这个mod中！^^
+
+
+
+
+特别感谢：
+
+TaddyDaddySuckedMyLaddy
+制作的创意工坊预览图片以及迅猛龙海盗护甲+头盔！
+
+Evil Factory
+让lua代码正常工作！
+
+
+由于这是一个古怪的mod，所以可能会有一些bug：
+• 如果你在一个巡回开始时中途加入，你将以人类形态开始，不过一旦你进入了下一个任务/前哨站，你就可以变回迅猛龙。
+• 如果你死了且身体没了，那么也不会有一个装着你东西的包出现。
+• 不幸的是，你的迅猛龙并不会携带任何东西出生，这意味着你需要在站点购买耳机和ID卡。
+• 迅猛龙护甲可以重复穿叠, 作者正在努力修复中。
+• 很遗憾，迅猛龙不能爬梯子。不过幸运的是，我正在研究并加入一个抓钩来让你到任何你想到的地方！
+
+你找到了更多bug？把它们写在讨论页上，谢谢！
+
+
+
+---///提醒任何想将这个mod中任何东西在自己mod中使用的人！！！///---
+那就用吧，请随意将任何东西与你自己的mod一起用！玩得开心！ ^^

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+  <!-- ChemMaster 2k -->
+  <entityname.chemmaster>制药大师 2000</entityname.chemmaster>
+  <entitydescription.chemmaster>把多种化学物质搓成一粒一粒的小药片。</entitydescription.chemmaster>
+  <lua.chemerror.header>制药大师 2000 - 故障了！</lua.chemerror.header>
+  <lua.chemerror.invaliditem>{id}不是有效的成分。</lua.chemerror.invaliditem>
+  <lua.chemerror.invalidcategory.base>{id}不是有效的药片基。</lua.chemerror.invalidcategory.base>
+  <lua.chemerror.invalidcategory.binder>{id}不是有效的药片粘合剂。</lua.chemerror.invalidcategory.binder>
+  <lua.chemerror.invalidcategory.filler>{id}不是有效的药片填充物。</lua.chemerror.invalidcategory.filler>
+  <lua.chemerror.invalidcategory.active>{id}不是有效的活性成分。</lua.chemerror.invalidcategory.active>
+  <lua.chemerror.invalidcategory.dye>{id}不是有效的药片染色剂。</lua.chemerror.invalidcategory.dye>
+  <lua.chemerror.outputfull>输出槽已满。</lua.chemerror.outputfull>
+  <lua.chemerror.missingbase>缺少药片基。</lua.chemerror.missingbase>
+  <lua.chemerror.missingbinder>缺少药片粘合剂。</lua.chemerror.missingbinder>
+  <lua.chemerror.missingactive>缺少药片填充物。</lua.chemerror.missingactive>
+  <lua.chemerror.capacity>这种配方只能添加{cap}种活性成分。</lua.chemerror.capacity>
+  <lua.chemerror.yield>这个配方啥也产不出来。</lua.chemerror.yield>
+  <label.cm_makeone>制造一个</label.cm_makeone>
+  <label.cm_makeall>制造所有</label.cm_makeall>
+  <label.cm_description>药片说明</label.cm_description>
+  <!-- Pill analyzer -->
+  <entityname.chemalyzer>药片分析仪</entityname.chemalyzer>
+  <entitydescription.chemalyzer>让我查查这枚药片的成分——10%的丁真，10%的嘉然，还有80%的野兽先辈。</entitydescription.chemalyzer>
+  <label.ca_analyze>分析</label.ca_analyze>
+  <lua.chemalyzer.header>成分：</lua.chemalyzer.header>
+  <label.ca_rename>设置描述</label.ca_rename>
+  <!-- pill combos -->
+  <pillcombo.antihusk>抗画皮</pillcombo.antihusk>
+  <!-- other items -->
+  <entityname.custompill>定制药丸</entityname.custompill>
+  <entityname.custompill_horsepill>大药丸</entityname.custompill_horsepill>
+  <entityname.custompill_tablets>药片</entityname.custompill_tablets>
+  <entitydescription.custompill>没人知道这枚药丸是什么成分，吃了会有什么效果。</entitydescription.custompill>
+  <entitydescription.custompill_horsepill>虽然很大但是仍然可以随意塞入你的嘴里
+  </entitydescription.custompill_horsepill>
+  <entitydescription.custompill_tablets>也不是那么的糟糕，对吧？</entitydescription.custompill_tablets>
+  <!-- containers -->
+  <entityname.antidotetoolbox>解毒剂容器</entityname.antidotetoolbox>
+  <entityname.machinetoolbox>机械容器</entityname.machinetoolbox>
+  <entityname.bonetoolbox>骨头容器</entityname.bonetoolbox>
+  <entityname.biohazardtoolbox>生化容器</entityname.biohazardtoolbox>
+  <entityname.bufftoolbox>增益容器</entityname.bufftoolbox>
+  <entityname.surgerycrate>Surgery crate</entityname.surgerycrate>
+  <entityname.antidotecrate>解毒剂箱</entityname.antidotecrate>
+  <entityname.machinecrate>机械箱</entityname.machinecrate>
+  <entityname.bonecrate>骨头箱</entityname.bonecrate>
+  <entityname.biohazardcrate>生化箱</entityname.biohazardcrate>
+  <entityname.buffcrate>增益箱</entityname.buffcrate>
+</infotexts>

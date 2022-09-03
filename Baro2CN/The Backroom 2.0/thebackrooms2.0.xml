@@ -1,0 +1,86 @@
+a<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="true" translatedname="English">
+  <character.backanomod_crawler>腐烂的爬行者</character.backanomod_crawler>
+  <character.backanomod_mudraptor>腐烂的泥偶迅猛龙</character.backanomod_mudraptor>
+  <character.backanomod_tigerthresher>腐烂的虎尾鱼蛇</character.backanomod_tigerthresher>
+  <character.backanomod_hammerheadspawn>腐烂</character.backanomod_hammerheadspawn>
+  <character.backanomod_TransformedMudraptor>纸币</character.backanomod_TransformedMudraptor>
+  <entityname.backanomod_ita_hazmat1>化学防护服
+  </entityname.backanomod_ita_hazmat1>
+  <entitydescription.backanomod_ita_hazmat1>研究操作的标准套装。能与外部环境完全隔离。</entitydescription.backanomod_ita_hazmat1>
+  <entityname.backanomod_ita_lantern1>电灯</entityname.backanomod_ita_lantern1>
+  <entitydescription.backanomod_ita_lantern1>普通电池供电的电灯。</entitydescription.backanomod_ita_lantern1>
+  <entityname.backanomod_backpack1>背包</entityname.backanomod_backpack1>
+  <entitydescription.backanomod_backpack1>方便样品采集和设备转移必不可少。</entitydescription.backanomod_backpack1>
+  <entityname.backanomod_duffelbackpack>破损的背包</entityname.backanomod_duffelbackpack>
+  <entitydescription.backanomod_duffelbackpack>不适合使用。</entitydescription.backanomod_duffelbackpack>
+  <entityname.backanomod_slowgrenade>装置</entityname.backanomod_slowgrenade>
+  <entitydescription.backanomod_slowgrenade>高科技设备。黑色光滑的样子。一侧有按钮。看起来像……手榴弹？</entitydescription.backanomod_slowgrenade>
+  <entityname.backanomod_supershotgun>四管霰弹枪</entityname.backanomod_supershotgun>
+  <entitydescription.backanomod_supershotgun>它看起来像一把不错的老式双管霰弹枪，只是更重，而且还有两个枪管。</entitydescription.backanomod_supershotgun>
+  <entityname.backanomod_pirateboardingaxe>撬棍</entityname.backanomod_pirateboardingaxe>
+  <entitydescription.backanomod_pirateboardingaxe>焊接在斧头上的撬棍。沾满了鲜血和铁锈。</entitydescription.backanomod_pirateboardingaxe>
+  <entityname.backanomod_plrifle>破损的步枪</entityname.backanomod_plrifle>
+  <entitydescription.backanomod_plrifle>奇怪的武器。它看起来很破，几乎没有功能。</entitydescription.backanomod_plrifle>
+  <entityname.backanomod_clown_psipistol>灵能手枪</entityname.backanomod_clown_psipistol>
+  <entitydescription.backanomod_clown_psipistol>神秘的高科技装备。</entitydescription.backanomod_clown_psipistol>
+  <entityname.backanomod_clown_psismg>灵能步枪</entityname.backanomod_clown_psismg>
+  <entitydescription.backanomod_clown_psismg>神秘的高科技装备。</entitydescription.backanomod_clown_psismg>
+  <entityname.backanomod_MANhammer>玩具锤</entityname.backanomod_MANhammer>
+  <entitydescription.backanomod_MANhammer>从橡胶的沉重程度来看，现在这把锤子不仅烦人还致命。</entitydescription.backanomod_MANhammer>
+  <entityname.backanomod_BOYhammer>玩具槌</entityname.backanomod_BOYhammer>
+  <entitydescription.backanomod_BOYhammer>一种玩具锤的缩小版，其矛头被一种奇怪的、有臭味的粘液润滑。</entitydescription.backanomod_BOYhammer>
+  <entityname.backanomod_The_last_thing_ull_hear>自行车喇叭</entityname.backanomod_The_last_thing_ull_hear>
+  <entitydescription.backanomod_The_last_thing_ull_hear>这哔哔声有点不对劲……最好不要碰它。</entitydescription.backanomod_The_last_thing_ull_hear>
+  <entityname.backanomod_alientrinket4_eyes>异星遗物</entityname.backanomod_alientrinket4_eyes>
+  <entitydescription.backanomod_alientrinket4_eyes>一个看起来非常奇怪的物体，表面布满邪恶的眼睛。看久了让你有一种不寒而栗的感觉。</entitydescription.backanomod_alientrinket4_eyes>
+  <entityname.backanomod_alientrinket12_greentube>Green thing</entityname.backanomod_alientrinket12_greentube>
+  <entitydescription.backanomod_alientrinket12_greentube>A flask thing.</entitydescription.backanomod_alientrinket12_greentube>
+  <entityname.backanomod_clownmask>无鼻小丑面具</entityname.backanomod_clownmask> 
+
+  <entitydescription.backanomod_clownmask>蓝色的头发看起来很危险。</entitydescription.backanomod_clownmask>
+  <entityname.backanomod_clowncostume>蓝色小丑服装</entityname.backanomod_clowncostume>
+  <entitydescription.backanomod_clowncostume>Fashionable.</entitydescription.backanomod_clowncostume>
+  <entityname.idcard1>钥匙卡</entityname.idcard1>
+  <entitydescription.idcard1>带有三个红线的标识符。</entitydescription.idcard1>
+  <entityname.idcard2>钥匙卡</entityname.idcard2>
+  <entitydescription.idcard2>带有三条蓝线的标识符。</entitydescription.idcard2>
+  <entityname.idcard3>钥匙卡</entityname.idcard3>
+  <entitydescription.idcard3>带有三个棕色线条的标识符。</entitydescription.idcard3>
+  <!--<entityname.></entityname.>
+<entitydescription.></entitydescription.>-->
+  <afflictionname.backanomod_IncubationS>???</afflictionname.backanomod_IncubationS>
+  <afflictiondescription.backanomod_IncubationS>你感到胸口越来越焦虑和不适……</afflictiondescription.backanomod_IncubationS>
+  <afflictionname.backanomod_anomalyfunctionalnecrosis>幻觉？</afflictionname.backanomod_anomalyfunctionalnecrosis>
+  <afflictiondescription.backanomod_anomalyfunctionalnecrosis>你的眼睛里充满了血液，它也从你身体的各个部位流出。你的胃里翻了出来，你听到别人听不到的奇怪声音，你的身体充满了能量……还有莫名其妙的愤怒。</afflictiondescription.backanomod_anomalyfunctionalnecrosis>
+  <afflictioncauseofdeath.backanomod_anomalyfunctionalnecrosis>死因不明。</afflictioncauseofdeath.backanomod_anomalyfunctionalnecrosis>
+  <afflictioncauseofdeathself.backanomod_anomalyfunctionalnecrosis>你死于 psi 感染。</afflictioncauseofdeathself.backanomod_anomalyfunctionalnecrosis>
+  <afflictiondescription.backanomod_incurablefunctionalnecrosis>病人看起来像一具活的尸体。</afflictiondescription.backanomod_incurablefunctionalnecrosis>
+  <afflictionname.backanomod_drunk>异常醉酒</afflictionname.backanomod_drunk>
+  <afflictiondescription.backanomod_drunk>病人有中毒的迹象，但他的身体没有酒精。</afflictiondescription.backanomod_drunk>
+  <afflictionname.backanomod_silence>???</afflictionname.backanomod_silence>
+  <afflictiondescription.backanomod_silence>恐惧地，你意识到你不能说话。</afflictiondescription.backanomod_silence>
+  <!--<afflictionname.></afflictionname.>
+<afflictiondescription.></afflictiondescription.>
+<afflictioncauseofdeath.></afflictioncauseofdeath.>
+<afflictioncauseofdeathself.></afflictioncauseofdeathself.>-->
+  <afflictionname.backanomod_psi_internaldamage>脑损伤</afflictionname.backanomod_psi_internaldamage>
+  <afflictiondescription.backanomod_psi_internaldamage>一种未探索的现象，本质上不是物理的。</afflictiondescription.backanomod_psi_internaldamage>
+  <afflictioncauseofdeath.backanomod_psi_internaldamage>脑损伤死亡</afflictioncauseofdeath.backanomod_psi_internaldamage>
+  <afflictioncauseofdeathself.backanomod_psi_internaldamage>CABBAGE</afflictioncauseofdeathself.backanomod_psi_internaldamage>
+  <story.startblue>恭喜！你还是那个幸运的恶魔，幸运地来到了这里。没有进一步的闲聊，不要在不穿西装或面具的情况下使用这些枪。我知道，但是如果你不使用这些蓝色衣服，那么当你拍摄时，它会给头部很多。在这无尽的他妈的走廊里，你可能并不孤单。不，我说的不是怪物——我说的是那些会寻找出路的人。也许他们想救你？也许不吧。而你，你会杀了他们还是会联合起来寻找出路？我会粉碎他们。但我不在这里，选择权在你，所以你自己决定吧。</story.startblue>
+  <story.start>所以你在这里。以防有人在简报中睡着了，你来这里是为了探索在我们基地开放的新的、未知的幕后室级别。在你之前派出的 T-12 远征队已经消失了。我们甚至无法收到他们遇到的任何消息。你的任务是探索关卡，尽可能获得任何有趣的东西，找出 T-12 探险队成员的遭遇，然后活着离开。最后一个是最重要的。你不能这样出去。出于某种原因，这个关卡不能像退出一样进入，所以你必须寻找其他的出路。至少我们确定它的存在，所以这不是一个自杀任务。祝你好运。</story.start>
+  <story.end>恭喜你，你成功了这个级别。这是故事的结尾第二次远征未知级别的Backrooms。不幸的是，我没有为这个故事想出任何原创的东西，所以我只能说你做得很好。感谢您玩这张地图。</story.end>
+  <story.j1>远征 T-12，期刊：
+从一开始，事情就出现了问题，在进入地板后仅仅几分钟 - 我们已经失去了一名探险队成员。他只是被撞到地板上，然后被压在其中一个房间里。
+一种强烈的感觉，这里有什么地方不对劲。非常类似于 0 级，但是……太活跃了。
+我不得不离开约翰。他刚走到拐角处，有什么东西爆炸了，把他直接扔进了某种化学异常中。由于爆炸，战衣受损，约翰本人也受了伤，这化学垃圾在不到一分钟的时间内把他干掉了。废话。
+操他妈的，我被咬了！一只臭虫凭空出现，红光一闪，既像鱼又像残缺的人。它立刻咬牙切齿地咬住了我的腿，我几乎没有时间拿起武器朝她的头部开枪。显然，这只生物已经足够了，但我们一冷静下来，它的尸体就爆炸了，溅到了一个看起来像酸的东西周围。如果不是防护服，我早就死了。
+该级别的危险等级被批准为X。</story.j1>
+  <story.j4>他们把所有的陷阱都做好了，他们认为通过发出他们的声音和可怕的噪音会消退，但他们只会变得更响亮，原谅我们继续尖叫</story.j4>
+  <story.j3>主啊，为什么事情不能正常工作？第五次，收音机停止工作，我与班长失去了联系。由于随机走廊中周期性出现的奇怪异常，我们不得不分开。
+走廊……它让我想起了我第一次去零层。只是这些绿色生物越来越少，不知从何而来，想要吞噬你。该死的，又一次失去了沟通。我们很分裂，我们只能依靠自己。
+这个胡说八道出现在我的正上方我的大脑正在融化谁发现这个从来没有</story.j3>
+  <story.j2>好吧，现在一切都结束了。我没想到我会像被那些绿色的鱼一样的生物咬伤的狗一样流血而死。勉强能爬上去，他们够不到的地方。过一段时间他们就会死，不过没关系，我就在他们身后。他们仍然嘶嘶作响，喘息着，在我身下弹跳，闻着我的血。可怜的埃里克，因为我的手弯曲，杂志从上面掉了出来，他不得不把他的给我。我想知道他现在在哪里。不过我希望他没事。告别。小心，不要重蹈我的覆辙。</story.j2>
+  <story.j5>笔记：不惜一切代价避免红色和紫色辐射；不要沿着墙壁破碎的黑色走廊行走；再找两张门禁卡打开一扇未知的门；别理他们;别理他们;别理他们;别理他们;别理他们;忽视他们</story.j5>
+</infotexts>

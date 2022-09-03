@@ -1,0 +1,33 @@
+-Fix anomaly bleeding that did not cause blood loss
+-Reagent A no longer loses its potency over time
+-The negative impact of Reagent A now cannot be permanently cured with stabilocin
+-The bracelet can be carried in the inventory and is equipped in the gene splicer slot instead of the bag slot
+-Hooded Man now has a backpack and more fashionable outfit
+-EW-P6 now requires a spike instead of a spark gap to craft.
+-ED-P2.5 now requires wax instead of a spike to craft
+-The spike and spark gap again interact with each other. I hope they will not cause the death of the server.
+-Added a new item - a pirate shield, can be found on pirate submarines
+-ED-P7 is now 10% more efficient than a screwdriver and wrench, 15% more efficient than conventional welding, requires fuel to operate and consumes 10-15% more fuel.
+-Added new alien trinkets, 5
+-Added new "things", 2
+-"Thing" can now spawn in abandoned labs in ruins
+-New rooms in ruins, various minor fixes of old ones
+-Added Improved Tool Belt purchasable from Engineer and City Traders
+
+
+
+  <entitydescription.artmod_alientrinket6_hugebracelet>在异星遗迹中发现的小型造物。对有所了解的人来说，它看起来像是地球上的首饰——手镯？对于其他人来说它只是一件形状怪异的造物罢了。你可以用基因拼接器槽位佩戴这玩意...但这真的值得吗？</entitydescription.artmod_alientrinket6_hugebracelet>
+  
+  <entityname.artmod_alientrinket12_animation>Alien Curio</entityname.artmod_alientrinket12_animation>
+  <entitydescription.artmod_alientrinket12_animation>Minor artifact found in alien ruins.
+Suspiciously resembles one of the previously seen trinkets, only smaller and constantly in motion. And it seems to defy the laws of gravity.</entitydescription.artmod_alientrinket12_animation>
+  <entityname.artmod_alientrinket13_nomnom>Alien Box</entityname.artmod_alientrinket13_nomnom>
+  <entitydescription.artmod_alientrinket13_nomnom>Minor artifact found in alien ruins.
+Irregular shaped box with a hole in the center. Looks like you can put something in there. But it's hardly necessary.</entitydescription.artmod_alientrinket13_nomnom>
+  <entityname.artmod_alientrinket14_whereisit>Alien Cross</entityname.artmod_alientrinket14_whereisit>
+  <entitydescription.artmod_alientrinket14_whereisit>Minor artifact found in alien ruins.
+Buzzing with energy. An extremely rare and valuable find, but even less often it ends up in research centers.</entitydescription.artmod_alientrinket14_whereisit>
+  <entityname.artmod_alientrinket15_mimic>Thing</entityname.artmod_alientrinket15_mimic>
+  <entitydescription.artmod_alientrinket15_mimic>Causes a persistent feeling that this is not what it seems.</entitydescription.artmod_alientrinket15_mimic>
+  <entityname.artmod_alientrinket16_invisible>Something</entityname.artmod_alientrinket16_invisible>
+  <entitydescription.artmod_alientrinket16_invisible>Here is something you can feel and hold in your hands.</entitydescription.artmod_alientrinket16_invisible>

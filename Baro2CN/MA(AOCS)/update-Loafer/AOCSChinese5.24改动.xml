@@ -1,0 +1,16 @@
+  <entityname.pills4>试剂"А"</entityname.pills4>
+  <entitydescription.pills4>能刺激病人体内肾上腺素的分泌，增加其对疼痛的耐受阈值和移动速度。其作用时间无限，但会导致不断加重的细胞降解。要消除这种作用需要试剂"B"。</entitydescription.pills4>
+  <entityname.pills5>试剂"B"</entityname.pills5>
+  <entitydescription.pills5>能消除因使用试剂"A"而引起的肾上腺素持续分泌和细胞降解的影响。</entitydescription.pills5>
+  <entityname.artmod_slowgrenade>ITD-284</entityname.artmod_slowgrenade>
+  <entitydescription.artmod_slowgrenade>战术装置。作用类似于手榴弹，但激活后不是爆炸，而是发射出来源不明的波涌，持续三十秒，使该范围内的生物减速，并增加它们受到的伤害。使用磁轨炮发射它是没用的，因为手榴弹会在未激活的情况下和射弹一起被摧毁。在水中不会下沉。其制造蓝图被严格保密。</entitydescription.artmod_slowgrenade>
+  <entityname.artmod_clastergrenade>IG-16</entityname.artmod_clastergrenade>
+  <entitydescription.artmod_clastergrenade>大号手榴弹。激活后，在自身周围产生空间异常，持续10秒，并引起一系列快速爆炸。“真正勇士的不二之选！”。使用磁轨炮发射它是没用的，因为手榴弹会在未激活的情况下和射弹一起被摧毁。尽管它体积庞大，但在水中不会下沉。其制造蓝图被严格保密。</entitydescription.artmod_clastergrenade>
+  <entityname.artmod_quickbatteryrecharger>ED-P2.5"快速充电器"</entityname.artmod_quickbatteryrecharger>
+  <entitydescription.artmod_quickbatteryrecharger>ED-P2的修改版。当激活时，会有一阵快速的能量爆发，来为电池远程充电。该装置的资源是有限的。这种装置能存在存粹是因为其副作用--这种能量爆发能够修复接线盒，还能使接线盒和电池的最大状态增加到1.5倍，持续10分钟。效果不能叠加。</entitydescription.artmod_quickbatteryrecharger>
+  <entityname.artmod_rustmetalcrate>生锈铁箱</entityname.artmod_rustmetalcrate>
+  <entitydescription.artmod_rustmetalcrate>海盗的生锈铁箱，不知为何缠着铁链。里面肯定有好东西!</entitydescription.artmod_rustmetalcrate>
+  <entityname.artmod_batterycell>破损的电池</entityname.artmod_batterycell>
+  <entitydescription.artmod_batterycell>破损的电池，里面塞着一个外星饰品。不可能拿得出来。</entitydescription.artmod_batterycell>
+  <entityname.artmod_autoinjectorheadset>海盗自注射耳机</entityname.artmod_autoinjectorheadset>
+  <entitydescription.artmod_autoinjectorheadset>一个使用集成电池的改良耳机，一旦使用者的生命体征下降到一定程度，就会自动注射里面的药物。被牢牢地固定在使用者的头上，没法取下。</entitydescription.artmod_autoinjectorheadset>

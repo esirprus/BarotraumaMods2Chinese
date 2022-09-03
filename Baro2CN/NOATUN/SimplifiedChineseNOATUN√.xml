@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="false" translatedname="中文(简体)">
+  <!-- Talents NOATUN -->
+  <entityname.noatunfabricator>NOATUN 制造者</entityname.noatunfabricator>
+  <entitydescription.noatunfabricator>许多人都以为这项古老的技术已经随着时间消逝了……</entitydescription.noatunfabricator>
+  <!-- Weapons NOATUN -->
+  <entityname.noatunflashlight>战术手电筒</entityname.noatunflashlight>
+  <entitydescription.noatunflashlight>可以安装在武器上。</entitydescription.noatunflashlight>
+  <entityname.noatunharpoongun>战术鱼叉枪</entityname.noatunharpoongun>
+  <entitydescription.noatunharpoongun>可发射鱼叉、爆炸鱼叉、刚素鱼叉。但不再是黑暗中了。</entitydescription.noatunharpoongun>
+  <entityname.noatunrevolver>战术左轮手枪</entityname.noatunrevolver>
+  <entitydescription.noatunrevolver>.38 口径，可能对人有效……即使在黑暗中。</entitydescription.noatunrevolver>
+  <entityname.noatunshotgun>战术防暴霰弹枪</entityname.noatunshotgun>
+  <entitydescription.noatunshotgun>旨在控制人群的霰弹枪，尤其是在夜晚。</entitydescription.noatunshotgun>
+  <entityname.noatunsmg>战术冲锋枪</entityname.noatunsmg>
+  <entitydescription.noatunsmg>一把配备有战术手电的 .45 口径冲锋枪。</entitydescription.noatunsmg>
+  <entityname.noatunautoshotgun>战术自动霰弹枪</entityname.noatunautoshotgun>
+  <entitydescription.noatunautoshotgun>一把设计粗犷的自动霰弹枪，拥有巨大的弹药容量和战术手电。沉重粗笨，难以驾驭。</entitydescription.noatunautoshotgun>
+  <entityname.noatunassaultrifle>战术突击步枪</entityname.noatunassaultrifle>
+  <entitydescription.noatunassaultrifle>一种突击步枪，装填 6.8 毫米子弹，配备有战术手电。虽然被联盟禁止，但这些步枪的设计图仍然在木卫二上流传，因为它们是潜艇内防御的最佳选择，或者按照木星分离主义的说法 -  社会革命的首选武器。</entitydescription.noatunassaultrifle>
+  <entityname.noatunnucleargun>战术快速裂变加速器</entityname.noatunnucleargun>
+  <entitydescription.noatunnucleargun>一个使用木卫二上独特的异星材料建造的能量武器原型，配备有战术手电。该武器在枪管末端诱发一种裂变反应，一旦反应过于剧烈且无法遏制，就会以强力的光束将其释放。</entitydescription.noatunnucleargun>
+  <entityname.noatunhandcannon>战术手炮</entityname.noatunhandcannon>
+  <entitydescription.noatunhandcannon>一把巨大的左轮手枪，与一般的枪械相比，它能更好地对付木卫二上的大型外星生物的威胁，即使在黑暗的深渊中。</entitydescription.noatunhandcannon>
+  <entityname.noatunsyringegun>战术注射器枪</entityname.noatunsyringegun>
+  <entitydescription.noatunsyringegun>注射器枪是医护人员的首选远程武器。它可以让你在黑暗中远程治疗或伤害同伴。\n在战斗中的一个战术选择是给注射器枪装上毒药并向敌人发射。使用注射器枪的方法和其他远程武器一样。/n右键瞄准，左键发射。\n注意：经过产品改进，木卫二联盟所有注射器枪远程发射的药品都不再受到距离的影响，就像针头真的扎在你身上一样。</entitydescription.noatunsyringegun>
+  <entityname.noatungrenadelauncher>战术榴弹发射器</entityname.noatungrenadelauncher>
+  <entitydescription.noatungrenadelauncher>一把便携榴弹发射器，可以使用 40 mm 榴弹，配备了一个战术手电。</entitydescription.noatungrenadelauncher>
+  <!-- Casques NOATUN -->
+  <entityname.noatunfacemask>口罩</entityname.noatunfacemask>
+  <entitydescription.noatunfacemask>面对一些疾病时给予一些保护。</entitydescription.noatunfacemask>
+  <entityname.noatunballistichelmet>战术头盔</entityname.noatunballistichelmet>
+  <entitydescription.noatunballistichelmet>可以通过挂载模块让其适应使用环境。</entitydescription.noatunballistichelmet>
+  <entityname.noatunballistichelmet2>装有氧气面罩的战术头盔</entityname.noatunballistichelmet2>
+  <entitydescription.noatunballistichelmet2>这顶头盔上集成了可供使用者呼吸的氧气面罩。</entitydescription.noatunballistichelmet2>
+  <entityname.noatunballistichelmet3>装有健康扫描仪的战术头盔</entityname.noatunballistichelmet3>
+  <entitydescription.noatunballistichelmet3>这顶头盔上集成了一个健康扫描仪。</entitydescription.noatunballistichelmet3>
+  <entityname.noatunballistichelmet4>装有战术灯的战术头盔</entityname.noatunballistichelmet4>
+  <entitydescription.noatunballistichelmet4>这顶头盔上装着一盏战术灯，可在黑暗的环境里提供照明。</entitydescription.noatunballistichelmet4>
+  <entityname.noatunballistichelmet5>装有热成像的战术头盔</entityname.noatunballistichelmet5>
+  <entitydescription.noatunballistichelmet5>这顶头盔上集成了热成像护目镜。</entitydescription.noatunballistichelmet5>
+  <entityname.noatunballistichelmet6>装有航行显示器的战术头盔</entityname.noatunballistichelmet6>
+  <entitydescription.noatunballistichelmet6>这顶头盔上集成了航行显示器。</entitydescription.noatunballistichelmet6>
+  <!-- PDA NOATUN -->
+  <entityname.noatunsubnavpda>潜艇远程控制器</entityname.noatunsubnavpda>
+  <entitydescription.noatunsubnavpda>允许使用者远程操控潜艇。仅适用于兼容的潜艇。</entitydescription.noatunsubnavpda>
+  <entityname.noatundronenavpda>无人机远程控制器</entityname.noatundronenavpda>
+  <entitydescription.noatundronenavpda>允许使用者远程操控无人机。仅适用于兼容的无人机。</entitydescription.noatundronenavpda>
+  <entityname.noatuncommpda>远程访问终端</entityname.noatuncommpda>
+  <entitydescription.noatuncommpda>允许使用者远程访问终端。仅适用于兼容的终端。</entitydescription.noatuncommpda>
+  <entityname.noatunhandheldmonitor>高级手持状态监视器</entityname.noatunhandheldmonitor>
+  <entitydescription.noatunhandheldmonitor>带有一个液晶屏幕的小型设备，使用者可以远程查看潜艇上的电气设备状态和潜艇的受损程度，还可以上报舱室内发生的紧急情况。</entitydescription.noatunhandheldmonitor>
+  <!-- Items NOATUN -->
+  <entityname.noatunscooter>高级水下助推器</entityname.noatunscooter>
+  <entitydescription.noatunscooter>一种电池驱动的水下推进装置，带有集成声呐。</entitydescription.noatunscooter>
+  <entityname.noatunmultitool>多功能维修工具</entityname.noatunmultitool>
+  <entitydescription.noatunmultitool>可以维修电气设备和机械设备，可以改潜艇上的线路。</entitydescription.noatunmultitool>
+  <entityname.noatuncrowbar>战术撬棍</entityname.noatuncrowbar>
+  <entitydescription.noatuncrowbar>可以撬开门和舱门，作为普通撬棍的升级版，它还可以撬开沉船上生锈的保险柜。</entitydescription.noatuncrowbar>
+  <entityname.noatuncargoscooter>高级载货滑板车</entityname.noatuncargoscooter>
+  <entitydescription.noatuncargoscooter>一种专门为水下运输金属箱而制造的水下滑板车。虽然滑板车太大，无法存放在角色背包中，但其固有的浮力意味着滑板车在你移动它之前，它都会留在原地不动。</entitydescription.noatuncargoscooter>
+  <entityname.noatunsafetyharness>高级安全背带</entityname.noatunsafetyharness>
+  <entitydescription.noatunsafetyharness>一种特殊的安全带，用于减少木卫二潜艇上发生的工伤。该安全带还能减弱水流冲刷的影响，在船体破裂的情况下稳定使用者的身形，并能够携带弹药和其他有用物品。。</entitydescription.noatunsafetyharness>
+  <entityname.noatunbodyarmor>高级防弹衣</entityname.noatunbodyarmor>
+  <entitydescription.noatunbodyarmor>虽然对于冰洋中的大多数居民来说，它脆弱如纸，但面对船上的叛徒时，它别具奇效。作为防弹衣的升级版，它可以携带弹药和其他有用的物品。
+</entitydescription.noatunbodyarmor>
+  <!-- Toolbelts NOATUN -->
+  <entityname.noatuntoolbelt>高级工具带</entityname.noatuntoolbelt>
+  <entitydescription.noatuntoolbelt>可以装一些随身工具或给养的随身包。</entitydescription.noatuntoolbelt>
+  <entityname.noatunmedtoolbelt>医生的高级工具带</entityname.noatunmedtoolbelt>
+  <entitydescription.noatunmedtoolbelt>可以装一些随身工具或给养的随身包。</entitydescription.noatunmedtoolbelt>
+  <entityname.noatunengtoolbelt>工程师的高级工具带</entityname.noatunengtoolbelt>
+  <entitydescription.noatunengtoolbelt>可以装一些随身工具或给养的随身包。</entitydescription.noatunengtoolbelt>
+  <entityname.noatunmectoolbelt>机修工的高级工具带</entityname.noatunmectoolbelt>
+  <entitydescription.noatunmectoolbelt>可以装一些随身工具或给养的随身包。</entitydescription.noatunmectoolbelt>
+  <entityname.noatunsectoolbelt>安全官的高级工具带</entityname.noatunsectoolbelt>
+  <entitydescription.noatunsectoolbelt>可以装一些随身工具或给养的随身包。</entitydescription.noatunsectoolbelt>
+  <entityname.noatunofftoolbelt>舰长的高级工具带</entityname.noatunofftoolbelt>
+  <entitydescription.noatunofftoolbelt>可以装一些随身工具或给养的随身包。</entitydescription.noatunofftoolbelt>
+  <!-- Storage NOATUN -->
+  <entityname.noatunsuitcase>手提箱</entityname.noatunsuitcase>
+  <entitydescription.noatunsuitcase>这个东西暂时没有什么用。</entitydescription.noatunsuitcase>
+  <entityname.noatunsecbox>安全官的手提箱</entityname.noatunsecbox>
+  <entitydescription.noatunsecbox>用来携带弹药和战斗装备。</entitydescription.noatunsecbox>
+  <entityname.noatunmecbox>机修工的手提箱</entityname.noatunmecbox>
+  <entitydescription.noatunmecbox>对于机械维修来说是完美的选择。</entitydescription.noatunmecbox>
+  <entityname.noatuncapbox>舰长的手提箱</entityname.noatuncapbox>
+  <entitydescription.noatuncapbox>不要拿这个去诱惑你的船员。</entitydescription.noatuncapbox>
+  <entityname.noatunmedbox>医生的手提箱</entityname.noatunmedbox>
+  <entitydescription.noatunmedbox>用来携带医疗用品。</entitydescription.noatunmedbox>
+  <entityname.noatunengbox>工程师的手提箱</entityname.noatunengbox>
+  <entitydescription.noatunengbox>对于电气维修来说是完美的选择。</entitydescription.noatunengbox>
+  <entityname.noatundemolitionbox>爆破工具</entityname.noatundemolitionbox>
+  <entitydescription.noatundemolitionbox>说明书上没写站在哪是安全的。</entitydescription.noatundemolitionbox>
+  <entityname.noatuntobaccobox>烟盒</entityname.noatuntobaccobox>
+  <entitydescription.noatuntobaccobox>防止烟草受潮。</entitydescription.noatuntobaccobox>
+  <entityname.noatuncaptaintobaccobox>舰长的烟盒</entityname.noatuncaptaintobaccobox>
+  <entitydescription.noatuncaptaintobaccobox>防止烟草受潮。上面上着一把锁。</entitydescription.noatuncaptaintobaccobox>
+  <entityname.noatunsecurecrate>保险金属箱</entityname.noatunsecurecrate>
+  <entitydescription.noatunsecurecrate>用来贮存物品的上锁容器。</entitydescription.noatunsecurecrate>
+  <entityname.noatunheavycrate>重型金属箱</entityname.noatunheavycrate>
+  <entitydescription.noatunheavycrate>用来贮存大型物体的重型容器。</entitydescription.noatunheavycrate>
+  <entityname.noatunpersonalcabinet>私人储藏柜</entityname.noatunpersonalcabinet>
+  <entitydescription.noatunpersonalcabinet>可以嵌在墙上的私人储藏柜。</entitydescription.noatunpersonalcabinet>
+  <!-- Interactions NOATUN -->
+  <tacticallight.lampactive>战术手电</tacticallight.lampactive>
+  <!-- Alcohol mix -->
+  <entityname.noatunbrewery>酿酒蒸馏机</entityname.noatunbrewery>
+  <entitydescription.noatunbrewery>毫无疑问，欧罗巴上最重要的技术现在在我们手里...</entitydescription.noatunbrewery>
+  <distibrewer.invalidinput>非法输入</distibrewer.invalidinput>
+  <distibrewer.empty.infotext>没有放入任何东西，请放入一瓶原浆和一个空桶</distibrewer.empty.infotext>
+  <distibrewer.brew>酿酒</distibrewer.brew>
+  <distibrewer.brew.infotext>准备酿造蒸馏酒</distibrewer.brew.infotext>
+  <distibrewer.bottle>装瓶</distibrewer.bottle>
+  <distibrewer.bottle.infotext>准备装瓶。</distibrewer.bottle.infotext>
+  <distibrewer.combine.missingitem>缺少物品：[itemname]。</distibrewer.combine.missingitem>
+  <entityname.noatunemptykeg>空桶</entityname.noatunemptykeg>
+  <entitydescription.noatunemptykeg>在里面倒入原浆，它会慢慢的发酵成酒。</entitydescription.noatunemptykeg>
+  <entityname.firststepmix>“一无所有”原浆</entityname.firststepmix>
+  <entitydescription.firststepmix>用来在酒桶里酿造“一无所有”</entitydescription.firststepmix>
+  <entityname.jovianspiritmix>“木星主义”原浆</entityname.jovianspiritmix>
+  <entitydescription.jovianspiritmix>用来在酒桶里酿造“木星主义”</entitydescription.jovianspiritmix>
+  <entityname.coldtruthmix>“残忍真相”原浆</entityname.coldtruthmix>
+  <entitydescription.coldtruthmix>用来在酒桶里酿造“残忍真相”</entitydescription.coldtruthmix>
+  <entityname.redhonkmix>“小丑喇叭”原浆</entityname.redhonkmix>
+  <entitydescription.redhonkmix>用来在酒桶里酿造“小丑喇叭”</entitydescription.redhonkmix>
+  <entityname.reapersdebtmix>“死神之税”原浆</entityname.reapersdebtmix>
+  <entitydescription.reapersdebtmix>用来在酒桶里酿造“死神之税”</entitydescription.reapersdebtmix>
+  <entityname.firststepkeg>一桶“一无所有”</entityname.firststepkeg>
+  <entitydescription.firststepkeg>等待它发酵或者现在就可以把它丢到蒸馏器里和硅一起装箱。</entitydescription.firststepkeg>
+  <entityname.jovianspiritkeg>一桶“木星主义”</entityname.jovianspiritkeg>
+  <entitydescription.jovianspiritkeg>等待它发酵或者现在就可以把它丢到蒸馏器里和硅一起装箱。</entitydescription.jovianspiritkeg>
+  <entityname.coldtruthkeg>一桶“残忍真相”</entityname.coldtruthkeg>
+  <entitydescription.coldtruthkeg>等待它发酵或者现在就可以把它丢到蒸馏器里和硅一起装箱。</entitydescription.coldtruthkeg>
+  <entityname.redhonkkeg>一桶“小丑喇叭”</entityname.redhonkkeg>
+  <entitydescription.redhonkkeg>等待它发酵或者现在就可以把它丢到蒸馏器里和硅一起装箱。</entitydescription.redhonkkeg>
+  <entityname.reapersdebtkeg>一桶“死神之税”</entityname.reapersdebtkeg>
+  <entitydescription.reapersdebtkeg>等待它发酵或者现在就可以把它丢到蒸馏器里和硅一起装箱。</entitydescription.reapersdebtkeg>
+  <entityname.firststeppack>一箱“一无所有”</entityname.firststeppack>
+  <entitydescription.firststeppack>一箱“一无所有”。敞开心扉。</entitydescription.firststeppack>
+  <entityname.jovianspiritpack>一箱“木星主义”</entityname.jovianspiritpack>
+  <entitydescription.jovianspiritpack>一箱“木星主义”。喜欢这个的，都是强壮且自立的男人。</entitydescription.jovianspiritpack>
+  <entityname.coldtruthpack>一箱“残忍真相”</entityname.coldtruthpack>
+  <entitydescription.coldtruthpack>一箱“残忍真相”。如同木卫二联盟一样，你可能不喜欢它，但也没有其他东西能让你喜欢了。</entitydescription.coldtruthpack>
+  <entityname.redhonkpack>一箱“小丑喇叭”</entityname.redhonkpack>
+  <entitydescription.redhonkpack>一箱“小丑喇叭”。希望有一天小丑圣母能尝到这个。</entitydescription.redhonkpack>
+  <entityname.reapersdebtpack>一箱“死神之税”</entityname.reapersdebtpack>
+  <entitydescription.reapersdebtpack>一箱“死神之税”。死亡不会阻止你这么做...</entitydescription.reapersdebtpack>
+  <entityname.firststep>“一无所有”</entityname.firststep>
+  <entitydescription.firststep>一瓶“一无所有”。永远不要只喝一瓶。</entitydescription.firststep>
+  <entityname.jovianspirit>“木星主义”</entityname.jovianspirit>
+  <entitydescription.jovianspirit>一瓶“木星主义”。自由的怒火会将联盟烧成灰烬。</entitydescription.jovianspirit>
+  <entityname.coldtruth>“残忍真相”</entityname.coldtruth>
+  <entitydescription.coldtruth>一瓶“残忍真相”。尝起来没有你想象中那么难喝。</entitydescription.coldtruth>
+  <entityname.redhonk>“小丑喇叭”</entityname.redhonk>
+  <entitydescription.redhonk>一瓶“小丑喇叭”。滴。滴。滴。滴。滴滴滴滴——!</entitydescription.redhonk>
+  <entityname.reapersdebt>“死神之税”</entityname.reapersdebt>
+  <entitydescription.reapersdebt>一瓶“死神之税”。味道让人非常的痛苦，但能让你感受到自己还活着。</entitydescription.reapersdebt>
+  <!-- Room names -->
+  <roomname.captainoffice>船长办公室</roomname.captainoffice>
+  <itemmsgcaptainoffice>船长办公室</itemmsgcaptainoffice>
+  <roomname.boatswainoffice>水手长办公室</roomname.boatswainoffice>
+  <itemmsgboatswainoffice>水手长办公室</itemmsgboatswainoffice>
+  <roomname.commissaroffice>政委办公室</roomname.commissaroffice>
+  <itemmsgcommissaroffice>政委办公室</itemmsgcommissaroffice>
+  <roomname.quartermasteroffice>军需办公室</roomname.quartermasteroffice>
+  <itemmsgquartermasteroffice>军需官办公室</itemmsgquartermasteroffice>
+  <roomname.medicalofficeroffice>医护人员办公室</roomname.medicalofficeroffice>
+  <itemmsgmedicalofficeroffice>医护人员办公室</itemmsgmedicalofficeroffice>
+  <roomname.enginecontrolroom>工程控制舱</roomname.enginecontrolroom>
+  <roomname.engine1>工程舱 A</roomname.engine1>
+  <roomname.engine2>工程舱 B</roomname.engine2>
+  <roomname.kitchen>厨房</roomname.kitchen>
+  <roomname.briefingroom>情报室</roomname.briefingroom>
+  <roomname.greenhouse>温室</roomname.greenhouse>
+  <roomname.laboratory>实验室</roomname.laboratory>
+  <roomname.pharmacy>药房</roomname.pharmacy>
+  <roomname.infirmary>医务舱</roomname.infirmary>
+  <roomname.externalcargobay>外部货舱</roomname.externalcargobay>
+  <itemmsgexternalcargobay>外部货舱</itemmsgexternalcargobay>
+  <roomname.holdingcell>拘留室</roomname.holdingcell>
+  <roomname.waitingroom>候诊室</roomname.waitingroom>
+  <roomname.magazine>弹药库</roomname.magazine>
+  <roomname.workshop>车间</roomname.workshop>
+</infotexts>

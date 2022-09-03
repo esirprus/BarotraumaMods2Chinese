@@ -1,0 +1,84 @@
+- Hooded Stranger now spawns in both towns and outposts, with an increased chance to spawn at all
+- Anomalous drunkenness now drops to zero instead of staying forever
+- Now flasks work normally, the postscript "hold in your hands for work" has been removed
+- Fixed a small bug that occurred during the last stage of the radio infection
+- Probably fixed a bug due to which the buff of the bracelet remained forever after removing the bracelet itself
+- small changes in spawn rate and time to death for monsters from nasonov artifacts
+- Increased Rotten Shark health by 80%, reduced Nightmare health by 25%
+- Added: detonator+, detonator+ - button, electric rifle, bought from military stations and gunsmiths
+- Buffed pain anomaly
+- Added two new trinkets: wrong box and second figure
+- Added interaction of the new figure with one of the old trinkets
+
+- 连帽神秘人现在在城镇和前哨都会生成，并增加了生成几率
+- 异常醉酒现在会正常消退。
+- 现在烧瓶（？）可以正常工作了，"需要拿在手中以工作 "的字样已被删除
+- 修正了在无线电感染的最后阶段出现的一个小错误
+- 可能修复了一个bug：手镯的buff在移除手镯后会永远保留。
+- 对纳索诺夫神器的怪物的产卵率和死亡时间做了一些小改动
+- 腐烂虎尾煞的健康状况提高了80%，噩梦的健康状况降低了25%。
+- 新增：引爆器+，引爆器+-按钮，电动步枪，从军事站和枪械制造厂购买
+- 增强了疼痛异常
+- 添加了两个新的饰品：错误的盒子和第二个数字
+- 增加了新人物与旧饰品之一的互动
+
+
+  <entityname.electrogun>电能步枪</entityname.electrogun>
+  <entitydescription.electrogun>One of the newest weapons based on alien materials, available to common people. Uses specially modified fulgurium batteries, creating a short burst of electricity that stuns the target and deals minor burn damage that ignores defenses.
+Under water, the electrical surge at the point of contact spreads a short distance around, further stunning nearby targets and inflicting moderate burn damage.
+The relatively low efficiency of the weapon and the fact that it is overloaded during prolonged firing is compensated by the infinity of ammunition.</entitydescription.electrogun>
+  <entityname.electrogunmagazine>Fulgurium battery for Electric Rifle</entityname.electrogunmagazine>
+  <entitydescription.electrogunmagazine>A modified version of a fulgurium battery, which has replaced connectors specifically for an electric rifle. Still has the ability to recharge from standard batteries and charging stations, but can no longer be used in anything else.</entitydescription.electrogunmagazine>
+  <entityname.artmod_supershotgun>QuadBarrel</entityname.artmod_supershotgun>
+  <entitydescription.artmod_supershotgun>Boomstick, unknown parts and a little ingenuity. The final result is striking in its firepower, accuracy and waste of ammunition.
+Capable of firing four bullets at once.</entitydescription.artmod_supershotgun>
+  <entityname.artmod_heavymachinegun>Heavy Machine Gun</entityname.artmod_heavymachinegun>
+  <entitydescription.artmod_heavymachinegun>Assembled from assault rifle and carbine components mixed with unknown parts, this weapon is an excellent piece of heavy weaponry. It contains both firepower and ammunition capacity, and - most importantly - style.
+Officially under a stricter ban than the assault rifle, unofficially - the number one friend of any team in whose hands it ends up.</entitydescription.artmod_heavymachinegun>
+  <entityname.artmod_heavymachinegunmagazine>Heavy Machine Gun ammo box</entityname.artmod_heavymachinegunmagazine>
+  <entitydescription.artmod_heavymachinegunmagazine>Contains 60 rounds.
+...Is it just a box filled with the contents of assault rifle magazines?</entitydescription.artmod_heavymachinegunmagazine>
+
+  <entityname.artmod_detonator>Detonator+</entityname.artmod_detonator>
+  <entitydescription.artmod_detonator>Created using alien materials as a more convenient version of the detonator, which is activated using a special button - a separate item. Effective for situations where there is no time to lay wires.
+The safety instruction urges that the detonator+ must be kept empty until used for its intended purpose.</entitydescription.artmod_detonator>
+  <entityname.artmod_redbottom>Detonator+ - bottom</entityname.artmod_redbottom>
+  <entitydescription.artmod_redbottom>Regular button modified to activate a detonator+. Cannot be set to one target, so all detonators+ within the signal's receiving radius will be activated.</entitydescription.artmod_redbottom>
+
+
+  <entityname.artminigunmagazinepfire>Incendium ammo box for EW-P1</entityname.artminigunmagazinepfire>
+  <entitydescription.artminigunmagazinepfire>Packaging of 5.56 caliber cartridges with an incendium crystal instead of a core. Significantly reduced damage from a direct hit, but the subsequent microburst that deals burn damage more than compensates for this.</entitydescription.artminigunmagazinepfire>
+  <entityname.artminigunminimagazinefire>Small incendium ammo box for EW-P1</entityname.artminigunminimagazinefire>
+  <entitydescription.artminigunminimagazinefire>Packaging of 5.56 caliber cartridges with an incendium crystal instead of a core. It contains less ammo, but you can carry several pieces at once.</entitydescription.artminigunminimagazinefire>
+  <entityname.artminigunmagazinefisic>Physicorium ammo box for EW-P1</entityname.artminigunmagazinefisic>
+  <entitydescription.artminigunmagazinefisic>A pack of 5.56 caliber rounds with a physicorium core. Increased hit damage, ignoring nearly all of a target's defenses.</entitydescription.artminigunmagazinefisic>
+  <entityname.artminigunminimagazinefisic>Small physicorium ammo box for EW-P1</entityname.artminigunminimagazinefisic>
+  <entitydescription.artminigunminimagazinefisic>A pack of 5.56 caliber rounds with a physicorium core. It contains less ammo, but you can carry several pieces at once.</entitydescription.artminigunminimagazinefisic>
+  <entityname.artminigunmagazine>Ammo box for EW-P1</entityname.artminigunmagazine>
+  <entitydescription.artminigunmagazine>A pack of 5.56 caliber rounds with a steel core. Heavy.</entitydescription.artminigunmagazine>
+  <entityname.artminigunminimagazine>Small ammo box for EW-P1</entityname.artminigunminimagazine>
+  <entitydescription.artminigunminimagazine>A pack of 5.56 caliber rounds with a steel core. It contains less ammo, but you can carry several pieces at once.</entitydescription.artminigunminimagazine>
+  <entityname.artminigunmagazinepierc>Penetrating ammo box for EW-P1</entityname.artminigunmagazinepierc>
+  <entitydescription.artminigunmagazinepierc>A pack of 5.56 caliber rounds with a dementonite core. Despite the fact that the properties of dementonite are specific and poorly understood, this material is strong enough to serve as the basis for penetrating ammunition.
+This type of ammo does less damage but will pierce through armor.</entitydescription.artminigunmagazinepierc>
+  <entityname.artminigunminimagazinepierc>Small penetrating ammo box for EW-P1</entityname.artminigunminimagazinepierc>
+  <entitydescription.artminigunminimagazinepierc>A pack of 5.56 caliber rounds with a dementonite core. It contains less ammo, but you can carry several pieces at once.</entitydescription.artminigunminimagazinepierc>
+  <entityname.artminigunmagazinefisic>Physicorium ammo box for EW-P1</entityname.artminigunmagazinefisic>
+  <entitydescription.artminigunmagazinefisic>A pack of 5.56 caliber rounds with a physicorium core. Although they leave less bleeding damage in their wake, they are a more deadly type of ammo.</entitydescription.artminigunmagazinefisic>
+  <entityname.artminigunminimagazinefisic>Small physicorium ammo box for EW-P1</entityname.artminigunminimagazinefisic>
+  <entitydescription.artminigunminimagazinefisic>A pack of 5.56 caliber rounds with a physicorium core. It contains less ammo, but you can carry several pieces at once.</entitydescription.artminigunminimagazinefisic>
+  <entityname.alienminigun>EW-P2 "Arzi"</entityname.alienminigun>
+  <entitydescription.alienminigun>One of several prototypes of new types of weapons.
+Fires a laser at high speed, using less alien battery power and without inducing psychosis. Despite the beautiful appearance, inside the weapon is a mess of various components - conventional and alien - and is heavy, inconvenient to use.
+Gradually breaks down with use. Requires skillful handling of weapons (above 60), otherwise it falls apart faster than usual.
+Consumes alien power cells.</entitydescription.alienminigun>
+
+
+  <entityname.am_railgun_shell></entityname.am_railgun_shell>
+  <entitydescription.am_railgun_shell></entitydescription.am_railgun_shell>
+  <entityname.am_railgun_fisshell></entityname.am_railgun_fisshell>
+  <entitydescription.am_railgun_fisshell></entitydescription.am_railgun_fisshell>
+  <entityname.am_railgun_insshell></entityname.am_railgun_insshell>
+  <entitydescription.am_railgun_insshell></entitydescription.am_railgun_insshell>
+
+

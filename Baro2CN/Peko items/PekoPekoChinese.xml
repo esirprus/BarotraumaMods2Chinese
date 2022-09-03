@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文（简体）">
+  <!-- Weapons lmg.xml -->
+  <entityname.peko_lmg>LMG轻机枪</entityname.peko_lmg>
+  <entitydescription.peko_lmg>带枪管护罩的轻机枪</entitydescription.peko_lmg>
+  <entityname.peko_lmground>LMG子弹</entityname.peko_lmground>
+  <entityname.peko_lmgmag>LMG弹匣</entityname.peko_lmgmag>
+  <entityname.peko_HPpistol>Hi-Power“大威力”</entityname.peko_HPpistol>
+  <entitydescription.peko_HPpistol>勃朗宁“大威力”手枪</entitydescription.peko_HPpistol>
+  <entityname.peko_HPpistol2>Hi-Power“大威力” (改型)</entityname.peko_HPpistol2>
+  <entitydescription.peko_HPpistol2>勃朗宁“大威力”手枪</entitydescription.peko_HPpistol2>
+  <entityname.peko_pistolround>手枪弹</entityname.peko_pistolround>
+  <entityname.peko_hppistolmag>Hi-Power“大威力”手枪弹匣</entityname.peko_hppistolmag>
+  <entityname.peko_aksmg>AKSU</entityname.peko_aksmg>
+  <entitydescription.peko_aksmg>它还需要介绍？</entitydescription.peko_aksmg>
+  <entityname.peko_Wpistol>Walther手枪</entityname.peko_Wpistol>
+  <entitydescription.peko_Wpistol>Walther P38K手枪</entitydescription.peko_Wpistol>
+  <entityname.peko_wpistolmag>瓦尔特P38K手枪弹匣</entityname.peko_wpistolmag>
+  <entityname.peko_OTsrevolver>OTs-38</entityname.peko_OTsrevolver>
+  <entitydescription.peko_OTsrevolver>OTs-38专用微声转轮手枪</entitydescription.peko_OTsrevolver>
+  <entityname.peko_rifleround>步枪弹</entityname.peko_rifleround>
+  <entityname.peko_riflemag>30发步枪弹匣</entityname.peko_riflemag>
+  <entityname.peko_hmrifle>自制步枪</entityname.peko_hmrifle>
+  <entitydescription.peko_hmrifle>手工制作的步枪</entitydescription.peko_hmrifle>
+  <entityname.peko_ARrifle>AR-18突击步枪</entityname.peko_ARrifle>
+  <entitydescription.peko_ARrifle>阿玛莱特AR-18突击步枪</entitydescription.peko_ARrifle>
+  <entityname.peko_ARrifle2>AR-18</entityname.peko_ARrifle2>
+  <entitydescription.peko_ARrifle2>带枪托的阿玛莱特AR-18</entitydescription.peko_ARrifle2>
+  <entityname.peko_m14rifle>鲁格KAC-556 F</entityname.peko_m14rifle>
+  <entitydescription.peko_m14rifle>鲁格Mini-14, 你真它喵棒</entitydescription.peko_m14rifle>
+  <entityname.peko_ksmshotgun>Rossmore 236战术霰弹枪</entityname.peko_ksmshotgun>
+  <entityname.peko_shortshotgun>Mossberg霰弹枪</entityname.peko_shortshotgun>
+  <entitydescription.peko_shortshotgun>古旧但可靠</entitydescription.peko_shortshotgun>
+  <entityname.peko_hmrevolver>自制左轮</entityname.peko_hmrevolver>
+  <entitydescription.peko_hmrevolver>手工制作的左轮手枪</entitydescription.peko_hmrevolver>
+  <entityname.peko_hmsmg>自制冲锋枪</entityname.peko_hmsmg>
+  <entitydescription.peko_hmsmg>手工制作的冲锋枪</entitydescription.peko_hmsmg>
+  <entityname.peko_gaussrifle>高斯卡宾枪</entityname.peko_gaussrifle>
+  <entitydescription.peko_gaussrifle>自制高斯卡宾枪</entitydescription.peko_gaussrifle>
+  <entityname.peko_gaussmag>高斯弹匣</entityname.peko_gaussmag>
+  <entityname.peko_gaussround>高斯弹</entityname.peko_gaussround>
+  <entityname.peko_erev>电能左轮</entityname.peko_erev>
+  <entitydescription.peko_erev>基于老式武器的自制左轮</entitydescription.peko_erev>
+  <entityname.peko_erevcell>电能左轮能量单元</entityname.peko_erevcell>
+  <entityname.peko_erevround>电能左轮弹</entityname.peko_erevround>
+  <entityname.peko_epist>电能手枪</entityname.peko_epist>
+  <entitydescription.peko_epist>基于老式武器的自制手枪</entitydescription.peko_epist>
+  <entityname.peko_epistcell>电能手枪能量单元</entityname.peko_epistcell>
+  <entityname.peko_4rlauncher>4管火箭发射器</entityname.peko_4rlauncher>
+  <entityname.peko_pkrocket>火箭弹</entityname.peko_pkrocket>
+  <entityname.peko_Deaglecr>沙漠之鹰(镀铬)</entityname.peko_Deaglecr>
+  <entitydescription.peko_Deaglecr>使用.50AE弹的镀铬沙漠之鹰</entitydescription.peko_Deaglecr>
+  <entityname.peko_Deaglebl>沙漠之鹰(黑色)</entityname.peko_Deaglebl>
+  <entitydescription.peko_Deaglebl>使用.50AE弹的黑色沙漠之鹰</entitydescription.peko_Deaglebl>
+  <entityname.peko_deround>.50AE弹</entityname.peko_deround>
+  <entityname.peko_deaglemag>沙漠之鹰弹匣</entityname.peko_deaglemag>
+  <entityname.peko_hvyround>14.5 x 114mm弹</entityname.peko_hvyround>
+  <entityname.peko_halosnipmag>SRS99-AM弹匣</entityname.peko_halosnipmag>
+  <entityname.peko_halosnip>SRS99-AM狙击枪</entityname.peko_halosnip>
+  <entitydescription.peko_halosnip>SRS99-AM狙击枪</entitydescription.peko_halosnip>
+  <entityname.peko_hushpuppy>Mk22 Mod 0微声手枪</entityname.peko_hushpuppy>
+  <entityname.peko_mk22>Mk22手枪</entityname.peko_mk22>
+  <entityname.peko_sshorty>Super Shorty“超级矮个子”霰弹枪</entityname.peko_sshorty>
+  <entityname.peko_rgm40>RGM-40 Kastet榴弹发射器</entityname.peko_rgm40>
+  <entityname.peko_sg552>SIG SG 552突击步枪</entityname.peko_sg552>
+  <entitydescription.peko_sg552>SIG SG 552 Commando“突击队员”突击步枪</entitydescription.peko_sg552>
+  <entityname.peko_L22>L22</entityname.peko_L22>
+  <entitydescription.peko_L22>L22紧凑型突击步枪</entitydescription.peko_L22>
+  <entityname.peko_aksmg2>AKS-74U</entityname.peko_aksmg2>
+  <entitydescription.peko_aksmg2>它还需要介绍？</entitydescription.peko_aksmg2>
+  <entityname.peko_rpg7>RPG-7</entityname.peko_rpg7>
+  <entityname.peko_karandash>OG-7V</entityname.peko_karandash>
+  <entitydescription.peko_karandash>碎裂杀伤弹</entitydescription.peko_karandash>
+  <entityname.peko_bov>TBG-7V</entityname.peko_bov>
+  <entitydescription.peko_bov>温压弹</entitydescription.peko_bov>
+  <entityname.peko_tandem>PG-7VR</entityname.peko_tandem>
+  <entitydescription.peko_tandem>反坦克火箭弹</entitydescription.peko_tandem>
+  <entityname.peko_default>PG-7VL</entityname.peko_default>
+  <entitydescription.peko_default>反坦克火箭弹</entitydescription.peko_default>
+  <entityname.peko_XM177E1>柯尔特XM177E1卡宾枪</entityname.peko_XM177E1>
+  <entitydescription.peko_XM177E1>柯尔特XM177E1卡宾枪</entitydescription.peko_XM177E1>
+  <entityname.peko_M32>M32 Milkor榴弹发射器</entityname.peko_M32>
+  <entityname.peko_riflemagl>60发步枪弹匣</entityname.peko_riflemagl>
+  <entityname.peko_akround>7.62弹</entityname.peko_akround>
+  <entityname.peko_akmag>30发AK弹匣</entityname.peko_akmag>
+  <entityname.peko_akmagbak40>40发AK胶木弹匣</entityname.peko_akmagbak40>
+  <entityname.peko_akmag40>40发AK弹匣</entityname.peko_akmag40>
+  <entityname.peko_akm>AKM</entityname.peko_akm>
+  <entitydescription.peko_akm>经现代化改造的卡拉什尼科夫自动步枪</entitydescription.peko_akm>
+  <entityname.peko_m762>Beryl M762自动步枪</entityname.peko_m762>
+  <entitydescription.peko_m762>Beryl M762自动步枪</entitydescription.peko_m762>
+  <entityname.peko_m92>Zastava M92“手枪”</entityname.peko_m92>
+  <entitydescription.peko_m92>Zastava M92 ZPAP Master“手枪”</entitydescription.peko_m92>
+  <entityname.peko_pkpbox>PKP弹箱</entityname.peko_pkpbox>
+  <entityname.peko_pkp>PKP Pecheneg通用机枪</entityname.peko_pkp>
+  <entitydescription.peko_pkp>PKP“佩切涅格”通用机枪</entitydescription.peko_pkp>
+  <entityname.peko_kalashround>5.45弹</entityname.peko_kalashround>
+  <entityname.peko_kalashmag>30发5.45AK弹匣</entityname.peko_kalashmag>
+  <entityname.peko_kalashmagext>45发5.45AK弹匣</entityname.peko_kalashmagext>
+  <entityname.peko_ak74>AK-74</entityname.peko_ak74>
+  <entityname.peko_12gg>12口径霰弹</entityname.peko_12gg>
+  <entityname.peko_jham>Pancor Jackhammer Mk3A2自动霰弹枪</entityname.peko_jham>
+  <entityname.peko_jhambox>Pancor Jackhammer弹匣</entityname.peko_jhambox>
+  <entityname.peko_halosg>M45E战术霰弹枪</entityname.peko_halosg>
+  <entityname.peko_T21>IWI Tavor TAR-21突击步枪</entityname.peko_T21>
+  <entitydescription.peko_T21>IWI Tavor TAR-21突击步枪</entitydescription.peko_T21>
+  <entityname.peko_tbsg>RASP TB-SG霰弹枪</entityname.peko_tbsg>
+  <entityname.peko_5mmround>5mm弹</entityname.peko_5mmround>
+  <entityname.peko_mdrum>加特林弹箱</entityname.peko_mdrum>
+  <entityname.peko_minigun>加特林</entityname.peko_minigun>
+  <entityname.peko_cprod>赶牛棒</entityname.peko_cprod>
+  <entitydescription.peko_cprod>如果口头命令还不够，可能就得靠电击棒的高压电击来将不守规矩的船员打得服服帖帖。</entitydescription.peko_cprod>
+  <entityname.peko_law>M72 LAW火箭筒</entityname.peko_law>
+  <entityname.peko_Burkov>Burkov手枪</entityname.peko_Burkov>
+  <entitydescription.peko_Burkov>一把中等口径手枪，在停止作用和后坐力之间有着良好的平衡。</entitydescription.peko_Burkov>
+  <entityname.peko_beretta>Beretta 92手枪</entityname.peko_beretta>
+  <entityname.peko_beretta2>Beretta 92手枪</entityname.peko_beretta2>
+  <entityname.peko_magnumround>马格南弹</entityname.peko_magnumround>
+  <entityname.peko_magnumrevolver>柯尔特“蟒蛇”左轮</entityname.peko_magnumrevolver>
+  <entityname.peko_76shotgun>Romington 76马格南泵动霰弹枪</entityname.peko_76shotgun>
+  <!-- Jobgear misc_gear.xml -->
+  <entityname.peko_Bootsmanclothes>水手制服</entityname.peko_Bootsmanclothes>
+  <entityname.peko_gcap>船型帽</entityname.peko_gcap>
+  <!-- Jobgear others.xml -->
+  <entityname.peko_IIFS>单兵综合战斗系统</entityname.peko_IIFS>
+  <!-- Tools tools_new.xml -->
+  <entityname.peko_toolbelt2>中型工具带</entityname.peko_toolbelt2>
+  <entityname.peko_weldingtool2>中型焊接工具</entityname.peko_weldingtool2>
+  <entitydescription.peko_weldingtool2>潜艇上最重要的工具之一，可在水下工作。</entitydescription.peko_weldingtool2>
+  <entityname.peko_weldingtool3>重型焊接工具</entityname.peko_weldingtool3>
+  <entitydescription.peko_weldingtool3>潜艇上最重要的工具之一，可在水下工作。</entitydescription.peko_weldingtool3>
+  <entityname.peko_plasmacutter2>中型等离子切割器</entityname.peko_plasmacutter2>
+  <entitydescription.peko_plasmacutter2>通过高温电离氧气产生等离子电弧，用于切割各种材料。</entitydescription.peko_plasmacutter2>
+</infotexts>

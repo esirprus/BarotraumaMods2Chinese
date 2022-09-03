@@ -1,0 +1,87 @@
+  <!--Job.xml-->
+  <jobName.PlayerMudraptorJob>友好迅猛龙</jobName.PlayerMudraptorJob>
+  <jobdescription.PlayerMudraptorJob>一只由Severo Ruiz驯服的友好迅猛龙!</jobdescription.PlayerMudraptorJob>
+  <!--Talent Items-->
+  <entityname.backpackpmj>迅猛龙背包</entityname.backpackpmj>
+  <entitydescription.backpackpmj>可穿戴式储物背包，包括两个能装弹药箱、潜水服等等的大型储物格，和一格工具箱栏。不推荐人类背上它。</entitydescription.backpackpmj>
+  <entityname.flarepmj>生物照明弹</entityname.flarepmj>
+  <entitydescription.flarepmj>一块会发光的海绵，接触到皮肤时会发出强光</entitydescription.flarepmj>
+  <!--Armor Items-->
+  <entityname.mudraptorequiphelmet>迅猛龙头盔</entityname.mudraptorequiphelmet>
+  <entitydescription.mudraptorequiphelmet>为泥偶迅猛龙制作的坚固头盔</entitydescription.mudraptorequiphelmet>
+  <entityname.mudraptorpiratehelmet>迅猛龙海盗头盔</entityname.mudraptorpiratehelmet>
+  <entitydescription.mudraptorpiratehelmet>为泥偶迅猛龙制作的坚固海盗头盔</entitydescription.mudraptorpiratehelmet>
+  <entityname.mudraptorveteranhelmet>迅猛龙老兵头盔</entityname.mudraptorveteranhelmet>
+  <entitydescription.mudraptorveteranhelmet>坚固的迅猛龙老兵头盔</entitydescription.mudraptorveteranhelmet>
+  <entityname.mudraptorequiparmor>迅猛龙护甲</entityname.mudraptorequiparmor>
+  <entitydescription.mudraptorequiparmor>泥偶迅猛龙穿的坚固护甲（别穿在人身上）</entitydescription.mudraptorequiparmor>
+  <entityname.mudraptorpiratearmor>迅猛龙海盗护甲</entityname.mudraptorpiratearmor>
+  <entitydescription.mudraptorpiratearmor>泥偶迅猛龙穿的坚固海盗护甲（别穿在人身上）</entitydescription.mudraptorpiratearmor>
+  <entityname.mudraptorveteranarmor>迅猛龙老兵护甲</entityname.mudraptorveteranarmor>
+  <entitydescription.mudraptorveteranarmor>泥偶迅猛龙穿的坚固老兵护甲（别穿在人身上）</entitydescription.mudraptorveteranarmor>
+  <!--Mudraptor Talents-->
+  <talenttree.PMJTree1>动物</talenttree.PMJTree1>
+  <talenttree.PMJTree2>怪物</talenttree.PMJTree2>
+  <talenttree.PMJTree3>奇行种</talenttree.PMJTree3>
+  <talentName.PMJJump>大步流星</talentName.PMJJump>
+  <talentdescription.PMJJumpDesc>你强而有力的腿能让你跳的更高，这是迅猛龙的胜利！</talentdescription.PMJJumpDesc>
+  <talentName.PMJBackpack>虎背熊腰</talentName.PMJBackpack>
+  <talentdescription.PMJBackpackDesc>允许你制作迅猛龙背包，让你可以携带大型物品。</talentdescription.PMJBackpackDesc>
+  <talentName.PMJFlare>光芒万丈</talentName.PMJFlare>
+  <talentdescription.PMJFlareDesc>允许你制作生物照明弹，你可以将它佩戴在头盔栏位。只有在接触时才会发光。</talentdescription.PMJFlareDesc>
+  <talentName.PMJRelentless>铁血无情</talentName.PMJRelentless>
+  <talentdescription.PMJRelentlessDesc>当你的生命值归零时不会失去意识，并且获得30%的伤害抗性,持续20秒，每个巡回只能触发一次。允许你在生命值低于70%时缓慢恢复生命。</talentdescription.PMJRelentlessDesc>
+
+简介在下面：
+!!! 需要服务端LUA以正常工作 !!!
+https://steamcommunity.com/sharedfiles/filedetails/?id=2559634234
+由老虎脱粒机汉化组汉化 参与成员：RunrunXi 古斯塔夫 江某白 Loafer 
+现在你可以通过这个简洁的mod来实现你成为一头迅猛龙的幻想！
+
+
+(这个MOD中附带的Dugong儒艮号包含着可供迅猛龙玩家爬升的平台)
+
+一些特性如下:
+
+• 成为一只泥头龙!
+• 在陆地上和水中呼吸!
+• 和你的队友交谈（会说人话的迅猛龙）!
+• 不能爬梯子（悲）!
+• 用你的小爪拿东西 (你的手臂如果受到伤可能会有断掉的可能)
+• 可穿上盔甲和头盔!
+• 需要治疗? 只需要大快朵颐!
+• 天赋!
+• 天赋物品!
+- 迅猛龙背包（怎么贴图是个箱子啊喂！） (两个大型物品格，可以装诸如弹药箱和潜水服之类的物品，还有一格工具箱栏)
+- 生物海绵 (更好更亮的照明弹)
+• 通过按下生物攻击键（默认为F键）用你的喙或者腿狠狠的招待你的敌人! 
+• 一艘简单修改过的dugong儒艮号，让你和你的迅猛龙船员都能方便的移动!
+• 可能还有很多我忘了的东西。但是这很coooool不是吗!
+
+想为你的迅猛龙定制个头不？你可以从下面的图片或上面的展示中下载一个！然后对其进行编辑，我会将其包含在这个mod中！^^
+
+
+
+
+特别感谢：
+
+TaddyDaddySuckedMyLaddy
+制作的创意工坊预览图片以及迅猛龙海盗护甲+头盔！
+
+Evil Factory
+让lua代码正常工作！
+
+
+由于这是一个古怪的mod，所以可能会有一些bug：
+• 如果你在一个巡回开始时中途加入，你将以人类形态开始，不过一旦你进入了下一个任务/前哨站，你就可以变回迅猛龙。
+• 如果你死了且身体没了，那么也不会有一个装着你东西的包出现。
+• 不幸的是，你的迅猛龙并不会携带任何东西出生，这意味着你需要在站点购买耳机和ID卡。
+• 迅猛龙护甲可以重复穿叠, 作者正在努力修复中。
+• 很遗憾，迅猛龙不能爬梯子。不过幸运的是，我正在研究并加入一个抓钩来让你到任何你想到的地方！
+
+你找到了更多bug？把它们写在讨论页上，谢谢！
+
+
+
+---///提醒任何想将这个mod中任何东西在自己mod中使用的人！！！///---
+那就用吧，请随意将任何东西与你自己的mod一起用！玩得开心！ ^^

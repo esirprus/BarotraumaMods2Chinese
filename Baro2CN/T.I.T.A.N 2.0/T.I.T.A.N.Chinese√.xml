@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+  <!--
+	<entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
+	<entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
+	
+	-->
+  <entityname.titansuit>T.I.T.A.N. warsuit</entityname.titansuit>
+  <entitydescription.titansuit>If you though A.B.Y.S.S. units were though, wait until you see this beauty of destruction in action. Powered by a portal battery with 10min of use time and charged by the same reactor of a submarine, this suit guarantees the user doesn't die as long as it has power. Small creatures can barely scratch it, big ones have difficulty chewing it. It's slow when used in land, but thanks to the power of propellers, it can keep a good speed in water. The biggest downside is it drains power from the sub to charge, and if it depletes in the middle of the ocean, the chassis breaks and pressure comes right in with a punch. Can contain and recharge all three T.I.T.A.N. weapons.</entitydescription.titansuit>
+  <!-- Arm-Weapons -->
+  <entityname.titangun>T.I.T.A.N. 'Worm ender' railgun</entityname.titangun>
+  <entitydescription.titangun>Designed to kill the biggest of predators, this one handed railgun is capable of debilitating the biggest foe so they are much easier to kill with other means. If used without the proteccion, it'll burn the user. Recharged at a T.I.T.A.N. suit</entitydescription.titangun>
+  <entityname.titanminigun>T.I.T.A.N. 'Shredder' chaingun</entityname.titanminigun>
+  <entitydescription.titanminigun>A heavy weapon. Though it's damage per bullet is not really impresive, it holds an impresive ammount of bullets on it's chamber along side an accelerated rate of fire, it becomes a force to be reckon with. The spread though, is far from ideal. Recharged at a T.I.T.A.N. suit</entitydescription.titanminigun>
+  <entityname.titanflamer>T.I.T.A.N. 'Depth boiler' flamer</entityname.titanflamer>
+  <entitydescription.titanflamer>Nothing scares monsters better than fire. This one handed flamer cannon burns so bright, it even works underwater! If used without the proteccion, it'll burn the user. Recharged at a T.I.T.A.N. suit</entitydescription.titanflamer>
+  <!-- Weapons -->
+  <entityname.titanrifle>'Cleaner' Assault rifle</entityname.titanrifle>
+  <entitydescription.titanrifle>Most of the titans weapon arms' don't hold great on extended deployment, this rifle aims to counter that by using the old fashion magazine, which by itself holds lots of bullets. It's firerate however is much lower than most other weapons of it's kind.</entitydescription.titanrifle>
+  <entityname.titanmagazine>'Cleaner' rounds</entityname.titanmagazine>
+  <entitydescription.titanmagazine>Big, bulky bullets. Holds a lot of firepower behind each round, even if it sacrifises some speed in the process.</entitydescription.titanmagazine>
+  <!-- Components -->
+  <entityname.titanbattery>T.I.T.A.N. Power cell</entityname.titanbattery>
+  <entitydescription.titanbattery>A heavy duty battery,  used in the crafting of a heavy duty suit. It can also bring back a Titan energy back to full.</entitydescription.titanbattery>
+  <entityname.titanframe>T.I.T.A.N. Frame</entityname.titanframe>
+  <entitydescription.titanframe>A Strong compost of alloys, this frame seems to be able to hold punishment from anything. Extremly bulky and heavy.</entitydescription.titanframe>
+  <entityname.titanhelm>T.I.T.A.N. Helm</entityname.titanhelm>
+  <entitydescription.titanhelm>A reinforced helmet with a respirator, too heavy to wear on it's own and with a lot of ducts.</entitydescription.titanhelm>
+  <entityname.titanpropulsor>T.I.T.A.N. Propulsor</entityname.titanpropulsor>
+  <entitydescription.titanpropulsor>A reinforced propulsor. Useless in land projects because of it's weak force when challanged by gravity, but underwater? Weight is not an issue.</entitydescription.titanpropulsor>
+  <!-- Sub ammo -->
+  <entityname.titanrailgunshell>Neurotoxin shell</entityname.titanrailgunshell>
+  <entitydescription.titanrailgunshell>A mostly hollow shell, containing large amounts of the "Goliath-slayer Neurotoxin". It deals minimal damage due to it's design, but coats whatever creature it hits with it's debilitating toxin.</entitydescription.titanrailgunshell>
+  <!-- Furniture -->
+  <entityname.titancharger>T.I.T.A.N. platform</entityname.titancharger>
+  <entitydescription.titancharger>A simple yet important part of the T.I.T.A.N. Recharge your suit in this station. Extremly bulky and heavy.</entitydescription.titancharger>
+</infotexts>

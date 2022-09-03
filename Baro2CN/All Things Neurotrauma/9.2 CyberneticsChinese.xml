@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+  <!-- ITEMS -->
+  <entityname.cyberarm>赛博机械手</entityname.cyberarm>
+  <entitydescription.cyberarm>由坚硬金属和各种电子元件组成的机械手臂，让你这只手再也不会流血。手术截肢后安装。</entitydescription.cyberarm>
+  <entityname.cyberleg>赛博机械腿</entityname.cyberleg>
+  <entitydescription.cyberleg>由坚硬金属和各种电子元件组成的机械腿，让你这条腿再也不会流血。手术截肢后安装。</entitydescription.cyberleg>
+  <!-- AFFLICTIONS -->
+  <afflictionname.ntc_cyberlimb></afflictionname.ntc_cyberlimb>
+  <afflictiondescription.ntc_cyberlimb></afflictiondescription.ntc_cyberlimb>
+  <afflictionname.ntc_cyberarm>赛博机械手</afflictionname.ntc_cyberarm>
+  <afflictiondescription.ntc_cyberarm>这只手由金属与电子元件组成。</afflictiondescription.ntc_cyberarm>
+  <afflictionname.ntc_cyberleg>赛博机械腿</afflictionname.ntc_cyberleg>
+  <afflictiondescription.ntc_cyberleg>这条腿由金属与电子元件组成。</afflictiondescription.ntc_cyberleg>
+  <afflictionname.ntc_loosescrews>螺丝松动</afflictionname.ntc_loosescrews>
+  <afflictiondescription.ntc_loosescrews>这件赛博体的螺丝可能有些松动了，移动时还可以听到咔哒咔哒的声音。</afflictiondescription.ntc_loosescrews>
+  <afflictionname.ntc_damagedelectronics>设备损坏</afflictionname.ntc_damagedelectronics>
+  <afflictiondescription.ntc_damagedelectronics>这件赛博体偶尔会冒出电火花，里面的设备在不断地报警和停机。</afflictiondescription.ntc_damagedelectronics>
+  <afflictionname.ntc_bentmetal>结构变形</afflictionname.ntc_bentmetal>
+  <afflictiondescription.ntc_bentmetal>这件赛博体的主结构弯曲了。</afflictiondescription.ntc_bentmetal>
+  <afflictionname.ntc_materialloss>结构消失</afflictionname.ntc_materialloss>
+  <afflictiondescription.ntc_materialloss>赛博体的一部分结构不见了。</afflictiondescription.ntc_materialloss>
+  <afflictionname.></afflictionname.>
+  <afflictiondescription.></afflictiondescription.>
+</infotexts>
