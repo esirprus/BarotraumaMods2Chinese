@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="false" translatedname="中文(简体)">
+  <entityname.ammopack>弹药包</entityname.ammopack>
+  <entitydescription.ammopack>一个能够让你管理弹药更加方便的东西。</entitydescription.ammopack>
+  <entityname.backpack1>背包</entityname.backpack1>
+  <entitydescription.backpack1>两手空空，负重致终。</entitydescription.backpack1>
+  <entityname.minigun1>加特林</entityname.minigun1>
+  <entitydescription.minigun1>上弹的时候把这玩意丢到加特林弹药箱里就行了（PS：装满了就赶紧拿走，不然会把弹药箱吸干）</entitydescription.minigun1>
+  <entityname.minigunammunitiontank>加特林弹药箱</entityname.minigunammunitiontank>
+  <entitydescription.minigunammunitiontank>在一件防弹衣上强行魔改了个弹药箱上去，其目的是为了让使用者能更加快捷方便的为加特林填充弹药、</entitydescription.minigunammunitiontank>
+  <entityname.ddossuit>深水作业服</entityname.ddossuit>
+  <entitydescription.ddossuit>每个优秀的潜水员都拥有一套如此完美的潜水服——它集成了电驱动推进器、加固背包、额外容器支架和外部的高耐压镀层，这项木卫二的神奇产物能让使用者带着一大堆东西在几千米的冰层下面自由翱翔。</entitydescription.ddossuit>
+  <entityname.heavybackpack>大背包</entityname.heavybackpack>
+  <entitydescription.heavybackpack>运输大型物体或重型设备的完美选择。可以装载其他容器装不了的东西，如弹药箱、轨道炮炮弹和各种异星造物。</entitydescription.heavybackpack>
+  <entityname.heavycrate>重型板条箱</entityname.heavycrate>
+  <entitydescription.heavycrate>又大又沉的加强加重型板条箱，拿来存放弹药箱、轨道炮炮弹、潜水服亦或者是异星遗物。虽然这东西搬起来十分费劲，但它能以极大地运力搬运大型物体。</entitydescription.heavycrate>
+  <entityname.medicalbackpack>医疗背包</entityname.medicalbackpack>
+  <entitydescription.medicalbackpack>存储或运输任何有关于医疗的物品。</entitydescription.medicalbackpack>
+  <entityname.medipack>医疗箱</entityname.medipack>
+  <entitydescription.medipack>比起医疗背包来说更加快捷方便的运输或存储医疗物品。</entitydescription.medipack>
+  <entityname.oxy-genbackpack>氧气背包</entityname.oxy-genbackpack>
+  <entitydescription.oxy-genbackpack>便携式再呼吸设施经过艾斯比博士改造后就成为了氧气背包，为使用者在水中提供氧气，也可以把空的氧气瓶丢进去再装填</entitydescription.oxy-genbackpack>
+  <entityname.power-backpack>电池背包</entityname.power-backpack>
+  <entitydescription.power-backpack>配备充电桩的照明背包，用于辅助无光环境的水下作业，并有较小的存储能力。</entitydescription.power-backpack>
+  <entityname.shieldbackpack>护盾背包</entityname.shieldbackpack>
+  <entitydescription.shieldbackpack>木卫二上革命性的产物，可以根据使用的电池在开启时为使用者提供相应强度的防护。有人甚至尝试过在其中插入异星电池...</entitydescription.shieldbackpack>
+  <entityname.tacticalbodyarmor>战术防弹衣</entityname.tacticalbodyarmor>
+  <entitydescription.tacticalbodyarmor>本质上就是一个贴着许多口袋的防弹衣。就这么简单。</entitydescription.tacticalbodyarmor>
+  <entityname.techno-backpack>战术背包</entityname.techno-backpack>
+  <entitydescription.techno-backpack>木卫二核心科技，让你可以查看潜艇的状态并且查看周围的生物热反应，集成了一个小型声呐。（据小道消息这玩意有可能会爆炸（只是小道消息））</entitydescription.techno-backpack>
+  <entityname.xeno-backpack>异星背包</entityname.xeno-backpack>
+  <entitydescription.xeno-backpack>疯狂的极端造物，使用各种难以理解或不可名状的材料打造的背包。但然并卵，它装不了啥东西，唯一的用处就是能以使用者的血液物质化一些装备，并能抑制一些精神病。</entitydescription.xeno-backpack>
+</infotexts>

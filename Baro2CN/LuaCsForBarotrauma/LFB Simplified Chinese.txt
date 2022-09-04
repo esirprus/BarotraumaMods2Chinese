@@ -1,0 +1,69 @@
+language = Simplified Chinese
+title = Lua For Barotrauma
+
+!BE FOR THE DESCRIPTION!
+I PROMISE:
+I have NOT deleted or changed the original meaning of the English.
+I translated the English content into Chinese.I just ADD translator information "mod简介由老虎脱粒机汉化组成员[url=https://steamcommunity.com/id/esirprus/]Loafer[/url]汉化" at the end of the description.
+You will need to replace 【here is a picture】 with the image I sent you (because idk how to insert images in description)
+
+description =  
+[h1]为v0.18.15.1 Hotfix更新[/h1]
+
+[h1]这个mod不再是核心内容包了! 只需在设置中启用该MOD，并选择服务器可执行文件。[/h1]
+这是一个为Barotrauma添加了Lua支持的mod，这不是xml的直接替代，但能出色的完成用xml不能做到的很多事情。
+
+[h3]专用服务器，Linux和MacOS用户[/h3]
+这个创意工坊mod不能用于这些平台，你需要按照这个指南来手动安装mod。
+[url=https://evilfactory.github.io/LuaCsForBarotrauma/lua-docs/manual/installing-lua-for-barotrauma-manually] https://evilfactory.github.io/LuaCsForBarotrauma/lua-docs/manual/installing-lua-for-barotrauma-manually[/url]
+如果你使用的是Windows系统，请随着下文做。
+
+[h3]服务端Lua（服务器主机）[/h3]
+许多Lua mods都是服务端的，这意味着Lua只需要在服务器上工作，这些mods就能工作，要在服务端启用mod，只需在创建服务器菜单中选择服务器可执行文件即可。
+[b]如果你想检查mod是否在服务器上正常工作，打开调试控制台（F3）并运行命令 "reloadlua"[/b]
+
+注意：如果你在单人游戏中玩，这显然是不行的，为此你需要安装客户端Lua。
+【here is a picture】
+
+[h3]客户端Lua[/h3]
+客户端Lua是指MOD在你的游戏客户端运行时，许多MOD利用它对游戏进行更广泛的修改或增加单人游戏支持。
+
+例如，如果你在玩多人游戏并且只有服务器安装了Lua，那么[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2776270649]Neurotrauma[/url]可以正常工作，但是如果你没有安装客户端Lua，那么它就不能在单人游戏中工作，而[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2772926011]Movable and Sellable Wrecks[/url]（另一个mod）需要服务端Lua和客户端Lua才能在多人游戏中工作，这意味着对于这个mod，所有人都需要安装客户端Lua才能正常工作。这取决于每个mod，所以请查看mod的描述或询问作者以确定。
+
+[b]如果你想检查mod是否在客户端正常工作，打开调试控制台（F3）并运行命令 "cl_reloadlua"[/b]
+
+[h3]安装客户端Lua[/h3]
+
+[list]
+    [*]打开创建服务器菜单
+    [*]在服务器可执行文件中选择Lua For Barotrauma - DedicatedServer并创建一个服务器
+    [*]在游戏大厅打开控制台窗口（通常是'F3'）。
+    [*]键入或复制下面的代码，然后执行控制台命令[code]install_cl_lua[/code]
+    [*]重启游戏
+[/list]
+
+（如果你不理解上面的说明，可观看视频: https://www.youtube.com/watch?v=wEeJ70vH1TM )
+
+[h3]常见故障排除[/h3]
+如果[u]你[/u]在使用此mod时遇到[u][b]问题[/b][/u]，在寻求[u][b]帮助[/b][/u]之前一定要尝试[u]做这些事情[/u]。
+- 进入游戏中的创意工坊菜单，找到此mod并点击重新安装按钮
+
+- 删除这个文件夹 [b]%LocalAppData%\Daedalic Entertainment GmbH\Barotrauma\WorkshopMods\Installed\2559634234[/b] 并重新启动游戏
+
+- 禁用和启用MOD，并再次尝试
+
+没有任何效果？请随时寻求帮助，但请总是尽量提供更多的信息，没有很多信息就很难解决一个问题。
+
+[hr][/hr]
+
+[h3]Github：[url=https://github.com/evilfactory/LuaCsForBarotrauma/] https://github.com/evilfactory/LuaCsForBarotrauma/ [/url][/h3]
+
+[h3]手动安装指南：[url=https://evilfactory.github.io/LuaCsForBarotrauma/lua-docs/manual/installing-lua-for-barotrauma-manually/] https://evilfactory.github.io/LuaCsForBarotrauma/lua-docs/manual/installing-lua-for-barotrauma-manually/ [/url][/h3]
+
+[h3]Lua 文档：[url=https://evilfactory.github.io/LuaCsForBarotrauma/lua-docs/] https://evilfactory.github.io/LuaCsForBarotrauma/lua-docs/ [/url][/h3]
+
+[h3]Discord：[url=https://discord.gg/f9zvNNuxu9] https://discord.gg/f9zvNNuxu9 [/url][/h3]
+
+[h1]所有使用Lua的mods列表可以在这里找到[url=https://steamcommunity.com/workshop/filedetails/discussion/2559634234/3460472182661479018/]（这是一个链接）[/url][/h1]
+[hr][/hr]
+mod简介由老虎脱粒机汉化组成员[url=https://steamcommunity.com/id/esirprus/]Loafer[/url]汉化

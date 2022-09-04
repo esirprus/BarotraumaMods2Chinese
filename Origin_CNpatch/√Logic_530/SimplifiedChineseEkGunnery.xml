@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+  <!-- ekgunnery_command.xml -->
+  <entityname.ekgunnery_periscopesonar_style1>声纳火控电脑</entityname.ekgunnery_periscopesonar_style1>
+  <entitydescription.ekgunnery_periscopesonar_style1>连接到潜艇声纳阵列的火控系统。可以通过声纳引导应对远程目标。</entitydescription.ekgunnery_periscopesonar_style1>
+  <!-- ekgunnery_containers.xml -->
+  <entityname.ekgunnery_magazinestoragesmall>小型弹药储柜</entityname.ekgunnery_magazinestoragesmall>
+  <entitydescription.ekgunnery_magazinestoragesmall>带装甲的隔仓，用于存放弹药和弹药箱。</entitydescription.ekgunnery_magazinestoragesmall>
+  <entityname.ekgunnery_magazinestoragemedium>中型弹药储柜</entityname.ekgunnery_magazinestoragemedium>
+  <entitydescription.ekgunnery_magazinestoragemedium>较大的带装甲的隔仓，用于存放弹药和弹药箱。</entitydescription.ekgunnery_magazinestoragemedium>
+  <entityname.ekgunnery_loadingelevatormedium>弹药传输器</entityname.ekgunnery_loadingelevatormedium>
+  <entitydescription.ekgunnery_loadingelevatormedium>弹药箱和炮弹的传输系统。需要连接到其他传输器上。</entitydescription.ekgunnery_loadingelevatormedium>
+  <entityname.ekgunnery_mediumsslrocket_cargocontainer>中型SSL炮弹推车</entityname.ekgunnery_mediumsslrocket_cargocontainer>
+  <entitydescription.ekgunnery_mediumsslrocket_cargocontainer>运载中型SSL炮弹的推车。</entitydescription.ekgunnery_mediumsslrocket_cargocontainer>
+  <entityname.ekgunnery_heavyrailgunshellrack1>重型轨道炮弹药架</entityname.ekgunnery_heavyrailgunshellrack1>
+  <entitydescription.ekgunnery_heavyrailgunshellrack1></entitydescription.ekgunnery_heavyrailgunshellrack1>
+  <entityname.ekgunnery_heavyrailgunshellrack2>重型轨道炮弹药架</entityname.ekgunnery_heavyrailgunshellrack2>
+  <entitydescription.ekgunnery_heavyrailgunshellrack2></entitydescription.ekgunnery_heavyrailgunshellrack2>
+  <!-- ekgunnery_devices.xml -->
+  <entityname.ekgunnery_warheadsmall1>战斗部 (小)</entityname.ekgunnery_warheadsmall1>
+  <entitydescription.ekgunnery_warheadsmall1>整体式通爆炸载荷。可用作无人机攻击用载荷或潜艇破拆。可以在前哨站或使用一块 UEX 重新装填。</entitydescription.ekgunnery_warheadsmall1>
+  <entityname.ekgunnery_warheadsmall2>战斗部 (小)</entityname.ekgunnery_warheadsmall2>
+  <entitydescription.ekgunnery_warheadsmall2>整体式通用爆炸载荷。可用作无人机攻击用载荷或潜艇破拆。可以在前哨站或使用一块 UEX 重新装填。</entitydescription.ekgunnery_warheadsmall2>
+  <entityname.ekgunnery_warheadmedium1>战斗部 (中)</entityname.ekgunnery_warheadmedium1>
+  <entitydescription.ekgunnery_warheadmedium1>整体式通用爆炸载荷。可用作无人机攻击用载荷或潜艇破拆。可以在前哨站或使用一块 C-4 重新装填。</entitydescription.ekgunnery_warheadmedium1>
+  <entityname.ekgunnery_warheadmedium2>战斗部 (中)</entityname.ekgunnery_warheadmedium2>
+  <entitydescription.ekgunnery_warheadmedium2>整体式通用爆炸载荷。可用作无人机攻击用载荷或潜艇破拆。可以在前哨站或使用一块 C-4 重新装填。</entitydescription.ekgunnery_warheadmedium2>
+  <entityname.ekgunnery_warheadnuclear1>战斗部 (核)</entityname.ekgunnery_warheadnuclear1>
+  <entitydescription.ekgunnery_warheadnuclear1>整体式通用核弹载荷。可用作无人机攻击用载荷或潜艇破拆。可以在前哨站或使用核能深水炸弹重新装填。</entitydescription.ekgunnery_warheadnuclear1>
+  <!-- ekgunnery_ammunition.xml -->
+  <entityname.ekgunnery_smallflare_effect>ekgunnery_smallflare_effect</entityname.ekgunnery_smallflare_effect>
+  <entitydescription.ekgunnery_smallflare_effect></entitydescription.ekgunnery_smallflare_effect>
+  <entityname.ekgunnery_megaflare_effect>ekgunnery_megaflare_effect</entityname.ekgunnery_megaflare_effect>
+  <entitydescription.ekgunnery_megaflare_effect></entitydescription.ekgunnery_megaflare_effect>
+  <entityname.ekgunnery_heavyrailgunshell>重型轨道炮炮弹</entityname.ekgunnery_heavyrailgunshell>
+  <entitydescription.ekgunnery_heavyrailgunshell>重型轨道炮的标准弹药。</entitydescription.ekgunnery_heavyrailgunshell>
+  <entityname.ekgunnery_heavyrailgunflechetteshell>重型轨道炮脱壳穿甲弹</entityname.ekgunnery_heavyrailgunflechetteshell>
+  <entitydescription.ekgunnery_heavyrailgunflechetteshell>重型轨道炮脱壳穿甲弹</entitydescription.ekgunnery_heavyrailgunflechetteshell>
+  <entityname.ekgunnery_heavyrailgunflechettepellet>重型轨道炮箭形弹箭体</entityname.ekgunnery_heavyrailgunflechettepellet>
+  <entitydescription.ekgunnery_heavyrailgunflechettepellet></entitydescription.ekgunnery_heavyrailgunflechettepellet>
+  <entityname.ekgunnery_nuclearaftereffectemitter>ekgunnery_nuclearaftereffectemitter</entityname.ekgunnery_nuclearaftereffectemitter>
+  <entitydescription.ekgunnery_nuclearaftereffectemitter></entitydescription.ekgunnery_nuclearaftereffectemitter>
+  <entityname.ekgunnery_heavyrailgunshellnuclear>重型轨道炮核能炮弹</entityname.ekgunnery_heavyrailgunshellnuclear>
+  <entitydescription.ekgunnery_heavyrailgunshellnuclear>重型轨道炮核能炮弹。</entitydescription.ekgunnery_heavyrailgunshellnuclear>
+  <entityname.ekgunnery_chaingunammo>机枪炮塔弹药箱</entityname.ekgunnery_chaingunammo>
+  <entitydescription.ekgunnery_chaingunammo>机枪炮塔的标准弹药箱。</entitydescription.ekgunnery_chaingunammo>
+  <entityname.ekgunnery_chaingunround>机枪炮塔弹药</entityname.ekgunnery_chaingunround>
+  <entitydescription.ekgunnery_chaingunround></entitydescription.ekgunnery_chaingunround>
+  <entityname.ekgunnery_chaingunpiercingammo>机枪炮塔弹穿甲弹药箱</entityname.ekgunnery_chaingunpiercingammo>
+  <entitydescription.ekgunnery_chaingunpiercingammo>机枪炮塔弹穿甲弹药箱。</entitydescription.ekgunnery_chaingunpiercingammo>
+  <entityname.ekgunnery_chaingunpiercinground>机枪炮塔穿甲弹药</entityname.ekgunnery_chaingunpiercinground>
+  <entitydescription.ekgunnery_chaingunpiercinground></entitydescription.ekgunnery_chaingunpiercinground>
+  <entityname.ekgunnery_chaingunphysicoriumammo>机枪炮塔弹刚素弹药箱</entityname.ekgunnery_chaingunphysicoriumammo>
+  <entitydescription.ekgunnery_chaingunphysicoriumammo>机枪炮塔弹刚素弹药箱</entitydescription.ekgunnery_chaingunphysicoriumammo>
+  <entityname.ekgunnery_chaingunphysicoriumround>机枪炮塔刚素弹药</entityname.ekgunnery_chaingunphysicoriumround>
+  <entitydescription.ekgunnery_chaingunphysicoriumround></entitydescription.ekgunnery_chaingunphysicoriumround>
+  <entityname.ekgunnery_autocannonammo>自动加农炮塔弹药箱</entityname.ekgunnery_autocannonammo>
+  <entitydescription.ekgunnery_autocannonammo>自动加农炮塔的标准弹药箱。</entitydescription.ekgunnery_autocannonammo>
+  <entityname.ekgunnery_autocannonround>自动加农炮塔弹药</entityname.ekgunnery_autocannonround>
+  <entitydescription.ekgunnery_autocannonround></entitydescription.ekgunnery_autocannonround>
+  <entityname.ekgunnery_autocannonexplosiveammo>自动加农炮塔高爆弹药箱</entityname.ekgunnery_autocannonexplosiveammo>
+  <entitydescription.ekgunnery_autocannonexplosiveammo>自动加农炮塔高爆弹药箱。</entitydescription.ekgunnery_autocannonexplosiveammo>
+  <entityname.ekgunnery_autocannonexplosiveround>自动加农炮塔高爆弹药</entityname.ekgunnery_autocannonexplosiveround>
+  <entitydescription.ekgunnery_autocannonexplosiveround></entitydescription.ekgunnery_autocannonexplosiveround>
+  <entityname.ekgunnery_autocannonpiercingammo>自动加农炮穿甲弹药箱</entityname.ekgunnery_autocannonpiercingammo>
+  <entitydescription.ekgunnery_autocannonpiercingammo>自动加农炮穿甲弹药箱。</entitydescription.ekgunnery_autocannonpiercingammo>
+  <entityname.ekgunnery_autocannonpiercinground>自动加农炮穿甲弹药</entityname.ekgunnery_autocannonpiercinground>
+  <entitydescription.ekgunnery_autocannonpiercinground></entitydescription.ekgunnery_autocannonpiercinground>
+  <entityname.ekgunnery_autocannonflechetteammo>自动加农炮脱壳穿甲弹弹药箱</entityname.ekgunnery_autocannonflechetteammo>
+  <entitydescription.ekgunnery_autocannonflechetteammo>自动加农炮脱壳穿甲弹弹药箱。</entitydescription.ekgunnery_autocannonflechetteammo>
+  <entityname.ekgunnery_autocannonflechetteround>自动加农炮箭形弹药</entityname.ekgunnery_autocannonflechetteround>
+  <entitydescription.ekgunnery_autocannonflechetteround></entitydescription.ekgunnery_autocannonflechetteround>
+  <entityname.ekgunnery_autocannonflechettepellet>自动加农炮箭形弹箭体</entityname.ekgunnery_autocannonflechettepellet>
+  <entitydescription.ekgunnery_autocannonflechettepellet></entitydescription.ekgunnery_autocannonflechettepellet>
+  <entityname.ekgunnery_autocannonflakammo>自动加农炮榴霰弹弹药箱</entityname.ekgunnery_autocannonflakammo>
+  <entitydescription.ekgunnery_autocannonflakammo>自动加农炮榴霰弹弹药箱。</entitydescription.ekgunnery_autocannonflakammo>
+  <entityname.ekgunnery_autocannonflakround>Flak Autocannon Turret Round</entityname.ekgunnery_autocannonflakround>
+  <entitydescription.ekgunnery_autocannonflakround></entitydescription.ekgunnery_autocannonflakround>
+  <entityname.ekgunnery_autocannonflakammo_smartfuse>自动加农炮近炸榴霰弹弹药箱</entityname.ekgunnery_autocannonflakammo_smartfuse>
+  <entitydescription.ekgunnery_autocannonflakammo_smartfuse>自动加农炮近炸榴霰弹弹药箱。</entitydescription.ekgunnery_autocannonflakammo_smartfuse>
+  <entityname.ekgunnery_autocannonflakround_smartfuse>Flak Proximity Autocannon Turret Round</entityname.ekgunnery_autocannonflakround_smartfuse>
+  <entitydescription.ekgunnery_autocannonflakround_smartfuse></entitydescription.ekgunnery_autocannonflakround_smartfuse>
+  <entityname.ekgunnery_autocannonphysicoriumammo>自动加农炮刚素弹药箱</entityname.ekgunnery_autocannonphysicoriumammo>
+  <entitydescription.ekgunnery_autocannonphysicoriumammo>自动加农炮刚素弹药箱。</entitydescription.ekgunnery_autocannonphysicoriumammo>
+  <entityname.ekgunnery_autocannonphysicoriumround>自动加农炮塔刚素弹药</entityname.ekgunnery_autocannonphysicoriumround>
+  <entitydescription.ekgunnery_autocannonphysicoriumround></entitydescription.ekgunnery_autocannonphysicoriumround>
+  <entityname.ekgunnery_autocannonarmorpiercingammo>自动加农炮塔穿甲高爆弹药箱</entityname.ekgunnery_autocannonarmorpiercingammo>
+  <entitydescription.ekgunnery_autocannonarmorpiercingammo>自动加农炮塔穿甲高爆弹药箱。</entitydescription.ekgunnery_autocannonarmorpiercingammo>
+  <entityname.ekgunnery_autocannonarmorpiercinground>自动加农炮塔穿甲高爆弹药</entityname.ekgunnery_autocannonarmorpiercinground>
+  <entitydescription.ekgunnery_autocannonarmorpiercinground></entitydescription.ekgunnery_autocannonarmorpiercinground>
+  <entityname.ekgunnery_autocannonflareammo>自动加农炮塔照明弹药箱</entityname.ekgunnery_autocannonflareammo>
+  <entitydescription.ekgunnery_autocannonflareammo>自动加农炮塔照明弹药箱，发射后可以照亮一片区域。</entitydescription.ekgunnery_autocannonflareammo>
+  <entityname.ekgunnery_autocannonflareround>自动加农炮塔照明弹药</entityname.ekgunnery_autocannonflareround>
+  <entitydescription.ekgunnery_autocannonflareround></entitydescription.ekgunnery_autocannonflareround>
+  <entityname.ekgunnery_mircosslammo>微型SSL炮塔弹药箱</entityname.ekgunnery_mircosslammo>
+  <entitydescription.ekgunnery_mircosslammo>20毫米SSL标准弹药箱，用于微型SSL炮塔。</entitydescription.ekgunnery_mircosslammo>
+  <entityname.ekgunnery_mircosslround>微型SSL炮塔弹药</entityname.ekgunnery_mircosslround>
+  <entitydescription.ekgunnery_mircosslround></entitydescription.ekgunnery_mircosslround>
+  <entityname.ekgunnery_mircosslpiercingammo>微型SSL炮塔穿甲弹药箱</entityname.ekgunnery_mircosslpiercingammo>
+  <entitydescription.ekgunnery_mircosslpiercingammo>20毫米SSL穿甲弹药箱，用于微型SSL炮塔。</entitydescription.ekgunnery_mircosslpiercingammo>
+  <entityname.ekgunnery_mircosslpiercinground>微型SSL炮塔穿甲弹药</entityname.ekgunnery_mircosslpiercinground>
+  <entitydescription.ekgunnery_mircosslpiercinground></entitydescription.ekgunnery_mircosslpiercinground>
+  <entityname.ekgunnery_mircosslphysicoriumammo>微型SSL炮塔刚素弹药箱</entityname.ekgunnery_mircosslphysicoriumammo>
+  <entitydescription.ekgunnery_mircosslphysicoriumammo>20毫米SSL刚素弹药箱，用于微型SSL炮塔。</entitydescription.ekgunnery_mircosslphysicoriumammo>
+  <entityname.ekgunnery_mircosslphysicoriumround>微型SSL炮塔刚素弹药</entityname.ekgunnery_mircosslphysicoriumround>
+  <entitydescription.ekgunnery_mircosslphysicoriumround></entitydescription.ekgunnery_mircosslphysicoriumround>
+  <entityname.ekgunnery_smallsslammo>小型SSL炮塔弹药箱</entityname.ekgunnery_smallsslammo>
+  <entitydescription.ekgunnery_smallsslammo>37毫米SSL标准弹药箱，用于微型SSL炮塔。</entitydescription.ekgunnery_smallsslammo>
+  <entityname.ekgunnery_smallsslround>小型SSL炮塔弹药</entityname.ekgunnery_smallsslround>
+  <entitydescription.ekgunnery_smallsslround></entitydescription.ekgunnery_smallsslround>
+  <entityname.ekgunnery_smallsslpiercingammo>小型SSL炮塔穿甲弹药箱</entityname.ekgunnery_smallsslpiercingammo>
+  <entitydescription.ekgunnery_smallsslpiercingammo>37毫米SSL穿甲弹药箱，用于小型SSL炮塔。</entitydescription.ekgunnery_smallsslpiercingammo>
+  <entityname.ekgunnery_smallsslpiercinground>小型SSL炮塔穿甲弹药</entityname.ekgunnery_smallsslpiercinground>
+  <entitydescription.ekgunnery_smallsslpiercinground></entitydescription.ekgunnery_smallsslpiercinground>
+  <entityname.ekgunnery_smallsslphysicoriumammo>小型SSL炮塔刚素弹药箱</entityname.ekgunnery_smallsslphysicoriumammo>
+  <entitydescription.ekgunnery_smallsslphysicoriumammo>37毫米SSL刚素弹药箱，用于小型SSL炮塔。</entitydescription.ekgunnery_smallsslphysicoriumammo>
+  <entityname.ekgunnery_smallsslphysicoriumround>小型SSL炮塔刚素弹药</entityname.ekgunnery_smallsslphysicoriumround>
+  <entitydescription.ekgunnery_smallsslphysicoriumround></entitydescription.ekgunnery_smallsslphysicoriumround>
+  <entityname.ekgunnery_mediumsslrocket_he>中型SSL弹药箱（高爆）</entityname.ekgunnery_mediumsslrocket_he>
+  <entitydescription.ekgunnery_mediumsslrocket_he>100毫米SSL高爆弹药箱，配备爆炸弹头。</entitydescription.ekgunnery_mediumsslrocket_he>
+  <entityname.ekgunnery_mediumsslrocket_ap>中型SSL弹药箱（穿甲）</entityname.ekgunnery_mediumsslrocket_ap>
+  <entitydescription.ekgunnery_mediumsslrocket_ap>100毫米SSL穿甲弹药箱，配备穿甲弹头。</entitydescription.ekgunnery_mediumsslrocket_ap>
+  <entityname.ekgunnery_mediumsslrocket_flak_debug>ekgunnery_mediumsslrocket_flak_debug</entityname.ekgunnery_mediumsslrocket_flak_debug>
+  <entitydescription.ekgunnery_mediumsslrocket_flak_debug>Rocket-propelled 100x800mm SSL shell equipped with a flak warhead.</entitydescription.ekgunnery_mediumsslrocket_flak_debug>
+  <entityname.ekgunnery_mediumsslrocket_flak>中型SSL弹药箱（霰弹）</entityname.ekgunnery_mediumsslrocket_flak>
+  <entitydescription.ekgunnery_mediumsslrocket_flak>100毫米SSL榴霰弹弹药箱，配备霰弹弹头。</entitydescription.ekgunnery_mediumsslrocket_flak>
+  <entityname.ekgunnery_mediumsslrocket_flak_smartfuse>中型SSL弹药箱（近炸霰弹）</entityname.ekgunnery_mediumsslrocket_flak_smartfuse>
+  <entitydescription.ekgunnery_mediumsslrocket_flak_smartfuse>100毫米SSL近炸榴霰弹弹药箱，配备近炸榴霰弹弹头。</entitydescription.ekgunnery_mediumsslrocket_flak_smartfuse>
+  <entityname.ekgunnery_mininglaserround>Mining Laser Bolt</entityname.ekgunnery_mininglaserround>
+  <entitydescription.ekgunnery_mininglaserround></entitydescription.ekgunnery_mininglaserround>
+  <entityname.ekgunnery_grapplinghookammo>抓钩弹药</entityname.ekgunnery_grapplinghookammo>
+  <entitydescription.ekgunnery_grapplinghookammo></entitydescription.ekgunnery_grapplinghookammo>
+  <!-- ekgunnery_loaders.xml -->
+  <entityname.ekgunnery_newsurpluscoilgunloader>老旧电磁枪装弹器</entityname.ekgunnery_newsurpluscoilgunloader>
+  <entitydescription.ekgunnery_newsurpluscoilgunloader>为已链接的电磁枪塔装填弹药的装置。</entitydescription.ekgunnery_newsurpluscoilgunloader>
+  <entityname.ekgunnery_newchaingunloader>机枪炮塔装弹器</entityname.ekgunnery_newchaingunloader>
+  <entitydescription.ekgunnery_newchaingunloader>为已链接的机枪炮塔装填弹药的装置。</entitydescription.ekgunnery_newchaingunloader>
+  <entityname.ekgunnery_newchaingunloader_double>机枪炮塔装弹器 (双联装)</entityname.ekgunnery_newchaingunloader_double>
+  <entitydescription.ekgunnery_newchaingunloader_double>为已链接的机枪炮塔装填弹药的装置。</entitydescription.ekgunnery_newchaingunloader_double>
+  <entityname.ekgunnery_newmicrosslloader>微型SSL炮塔装弹器</entityname.ekgunnery_newmicrosslloader>
+  <entitydescription.ekgunnery_newmicrosslloader>微型SSL炮塔装填弹药的装置。</entitydescription.ekgunnery_newmicrosslloader>
+  <entityname.ekgunnery_newsmallsslloader>小型SSL炮塔装弹器</entityname.ekgunnery_newsmallsslloader>
+  <entitydescription.ekgunnery_newsmallsslloader>小型SSL炮塔装填弹药的装置。</entitydescription.ekgunnery_newsmallsslloader>
+  <entityname.ekgunnery_newautocannonloader>自动加农炮塔装弹器</entityname.ekgunnery_newautocannonloader>
+  <entitydescription.ekgunnery_newautocannonloader>自动加农炮装填弹药的装置。</entitydescription.ekgunnery_newautocannonloader>
+  <entityname.ekgunnery_newmediumsslloader>中型SSL装弹器</entityname.ekgunnery_newmediumsslloader>
+  <entitydescription.ekgunnery_newmediumsslloader>中型SSL装弹器装填弹药的装置。</entitydescription.ekgunnery_newmediumsslloader>
+  <entityname.ekgunnery_newauxiliaryblankloader>辅助装弹器基座</entityname.ekgunnery_newauxiliaryblankloader>
+  <entitydescription.ekgunnery_newauxiliaryblankloader></entitydescription.ekgunnery_newauxiliaryblankloader>
+  <entityname.ekgunnery_newauxiliarymediumsslloader>辅助中型SSL装弹器</entityname.ekgunnery_newauxiliarymediumsslloader>
+  <entitydescription.ekgunnery_newauxiliarymediumsslloader>为已链接的SSL炮塔装填弹药的装置。</entitydescription.ekgunnery_newauxiliarymediumsslloader>
+  <entityname.ekgunnery_newauxiliarychaingunloader>辅助机枪炮塔装弹器</entityname.ekgunnery_newauxiliarychaingunloader>
+  <entitydescription.ekgunnery_newauxiliarychaingunloader>为已链接的机枪炮塔装填弹药的装置。</entitydescription.ekgunnery_newauxiliarychaingunloader>
+  <entityname.ekgunnery_newauxiliarymininglaserloader>辅助采矿激光装弹器</entityname.ekgunnery_newauxiliarymininglaserloader>
+  <entitydescription.ekgunnery_newauxiliarymininglaserloader>为已链接的采矿激光提供能源的装置。</entitydescription.ekgunnery_newauxiliarymininglaserloader>
+  <entityname.ekgunnery_newheavyblankloader>重型装弹器底座</entityname.ekgunnery_newheavyblankloader>
+  <entitydescription.ekgunnery_newheavyblankloader></entitydescription.ekgunnery_newheavyblankloader>
+  <entityname.ekgunnery_newheavyrailgunloader>重型轨道炮装弹器</entityname.ekgunnery_newheavyrailgunloader>
+  <entitydescription.ekgunnery_newheavyrailgunloader>重型轨道炮装填弹药的装置。</entitydescription.ekgunnery_newheavyrailgunloader>
+  <entityname.ekgunnery_newheavyrailgunloader_large>重型轨道炮装弹器</entityname.ekgunnery_newheavyrailgunloader_large>
+  <entitydescription.ekgunnery_newheavyrailgunloader_large>重型轨道炮装填弹药的装置。</entitydescription.ekgunnery_newheavyrailgunloader_large>
+  <entityname.ekgunnery_newheavyautocannonloader>重型自动加农炮装弹器</entityname.ekgunnery_newheavyautocannonloader>
+  <entitydescription.ekgunnery_newheavyautocannonloader>重型自动加农炮装填弹药的装置。</entitydescription.ekgunnery_newheavyautocannonloader>
+  <entityname.ekgunnery_newspinalblankloader>固定装弹器底座</entityname.ekgunnery_newspinalblankloader>
+  <entitydescription.ekgunnery_newspinalblankloader></entitydescription.ekgunnery_newspinalblankloader>
+  <entityname.ekgunnery_newspinalrailgunloader>固定轨道炮装弹器</entityname.ekgunnery_newspinalrailgunloader>
+  <entitydescription.ekgunnery_newspinalrailgunloader>固定轨道炮装填弹药的装置。</entitydescription.ekgunnery_newspinalrailgunloader>
+  <entityname.ekgunnery_newspinalpulselaserloader>固定脉冲激光装弹器</entityname.ekgunnery_newspinalpulselaserloader>
+  <entitydescription.ekgunnery_newspinalpulselaserloader></entitydescription.ekgunnery_newspinalpulselaserloader>
+  <entityname.ekgunnery_newspinalheavyrailgunloader>固定重型轨道炮装弹器</entityname.ekgunnery_newspinalheavyrailgunloader>
+  <entitydescription.ekgunnery_newspinalheavyrailgunloader>固定重型轨道炮装填弹药的装置。</entitydescription.ekgunnery_newspinalheavyrailgunloader>
+  <entityname.ekgunnery_newspinalmediumsslloader>固定SSL装弹器</entityname.ekgunnery_newspinalmediumsslloader>
+  <entitydescription.ekgunnery_newspinalmediumsslloader>固定SSL装填弹药的装置。</entitydescription.ekgunnery_newspinalmediumsslloader>
+  <!--Items/Weapons/ekgunnery_heavyturrets.xml-->
+  <entityname.ekgunnery_newheavyhardpoint>重型炮塔装载点</entityname.ekgunnery_newheavyhardpoint>
+  <entitydescription.ekgunnery_newheavyhardpoint>可装配重型炮塔的空的武器装载槽位</entitydescription.ekgunnery_newheavyhardpoint>
+  <entityname.ekgunnery_newheavyrailgunturret>重型轨道炮</entityname.ekgunnery_newheavyrailgunturret>
+  <entitydescription.ekgunnery_newheavyrailgunturret>威力超强的大口径轨道炮。需要大量能量驱动。</entitydescription.ekgunnery_newheavyrailgunturret>
+  <entityname.ekgunnery_newheavyautocannonturret>重型自动加农炮</entityname.ekgunnery_newheavyautocannonturret>
+  <entitydescription.ekgunnery_newheavyautocannonturret>重型多管自动加农炮。压倒性火力能轻易撕碎中甲船只和生物。</entitydescription.ekgunnery_newheavyautocannonturret>
+  <!-- ekgunnery_melee.xml -->
+  <entityname.ekgunnery_acousticpulse_style1>声波脉冲 A</entityname.ekgunnery_acousticpulse_style1>
+  <entitydescription.ekgunnery_acousticpulse_style1>激活时发出一道强力冲击音波。</entitydescription.ekgunnery_acousticpulse_style1>
+  <entityname.ekgunnery_acousticpulse_style2>声波脉冲 B</entityname.ekgunnery_acousticpulse_style2>
+  <entitydescription.ekgunnery_acousticpulse_style2>激活时发出一道强力冲击音波。</entitydescription.ekgunnery_acousticpulse_style2>
+  <entityname.ekgunnery_acousticpulse_style3>声波脉冲 C</entityname.ekgunnery_acousticpulse_style3>
+  <entitydescription.ekgunnery_acousticpulse_style3>激活时发出一道强力冲击音波。</entitydescription.ekgunnery_acousticpulse_style3>
+  <entityname.ekgunnery_acousticpulse_style4>声波脉冲 D</entityname.ekgunnery_acousticpulse_style4>
+  <entitydescription.ekgunnery_acousticpulse_style4>激活时发出一道强力冲击音波。</entitydescription.ekgunnery_acousticpulse_style4>
+  <entityname.ekgunnery_meleespikessmall1>壳钉（小）</entityname.ekgunnery_meleespikessmall1>
+  <entitydescription.ekgunnery_meleespikessmall1>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall1>
+  <entityname.ekgunnery_meleespikessmall1b>壳钉（小）</entityname.ekgunnery_meleespikessmall1b>
+  <entitydescription.ekgunnery_meleespikessmall1b>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall1b>
+  <entityname.ekgunnery_meleespikessmall2>壳钉（小）</entityname.ekgunnery_meleespikessmall2>
+  <entitydescription.ekgunnery_meleespikessmall2>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall2>
+  <entityname.ekgunnery_meleespikessmall2b>壳钉（小）</entityname.ekgunnery_meleespikessmall2b>
+  <entitydescription.ekgunnery_meleespikessmall2b>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall2b>
+  <entityname.ekgunnery_meleespikessmall3>壳钉（小）</entityname.ekgunnery_meleespikessmall3>
+  <entitydescription.ekgunnery_meleespikessmall3>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall3>
+  <entityname.ekgunnery_meleespikessmall3b>壳钉（小）</entityname.ekgunnery_meleespikessmall3b>
+  <entitydescription.ekgunnery_meleespikessmall3b>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall3b>
+  <entityname.ekgunnery_meleespikessmall4>壳钉（小）</entityname.ekgunnery_meleespikessmall4>
+  <entitydescription.ekgunnery_meleespikessmall4>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall4>
+  <entityname.ekgunnery_meleespikessmall4b>壳钉（小）</entityname.ekgunnery_meleespikessmall4b>
+  <entitydescription.ekgunnery_meleespikessmall4b>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall4b>
+  <entityname.ekgunnery_meleespikessmall5>壳钉（小）</entityname.ekgunnery_meleespikessmall5>
+  <entitydescription.ekgunnery_meleespikessmall5>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall5>
+  <entityname.ekgunnery_meleespikessmall5b>壳钉（小）</entityname.ekgunnery_meleespikessmall5b>
+  <entitydescription.ekgunnery_meleespikessmall5b>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall5b>
+  <entityname.ekgunnery_meleespikessmall6>壳钉（小）</entityname.ekgunnery_meleespikessmall6>
+  <entitydescription.ekgunnery_meleespikessmall6>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall6>
+  <entityname.ekgunnery_meleespikessmall6b>壳钉（小）</entityname.ekgunnery_meleespikessmall6b>
+  <entitydescription.ekgunnery_meleespikessmall6b>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall6b>
+  <entityname.ekgunnery_meleespikessmall6c>壳钉（小）</entityname.ekgunnery_meleespikessmall6c>
+  <entitydescription.ekgunnery_meleespikessmall6c>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall6c>
+  <entityname.ekgunnery_meleespikessmall7>壳钉（小）</entityname.ekgunnery_meleespikessmall7>
+  <entitydescription.ekgunnery_meleespikessmall7>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall7>
+  <entityname.ekgunnery_meleespikessmall7b>壳钉（小）</entityname.ekgunnery_meleespikessmall7b>
+  <entitydescription.ekgunnery_meleespikessmall7b>附在潜艇上的粗糙的金属钉。粗糙但有效的防御措施。</entitydescription.ekgunnery_meleespikessmall7b>
+  <entityname.ekgunnery_meleespikestogglesmall1>可切换壳钉（小）</entityname.ekgunnery_meleespikestogglesmall1>
+  <entitydescription.ekgunnery_meleespikestogglesmall1>一种防御用的尖刺装置，可以根据需求展开或收回。</entitydescription.ekgunnery_meleespikestogglesmall1>
+  <entityname.ekgunnery_meleespikestogglesmall1b>可切换壳钉（小）</entityname.ekgunnery_meleespikestogglesmall1b>
+  <entitydescription.ekgunnery_meleespikestogglesmall1b>一种防御用的尖刺装置，可以根据需求展开或收回。</entitydescription.ekgunnery_meleespikestogglesmall1b>
+  <!-- ekgunnery_turrets.xml -->
+  <entityname.ekgunnery_newsurpluscoilgun>老旧电磁枪</entityname.ekgunnery_newsurpluscoilgun>
+  <entitydescription.ekgunnery_newsurpluscoilgun>使用电磁铁推动金属螺栓的炮塔。虽然与当前的电磁枪相比，这一设计较为落后，但这种老旧的型号往往价格很低。</entitydescription.ekgunnery_newsurpluscoilgun>
+  <entityname.ekgunnery_newchaingunturret>机枪炮塔</entityname.ekgunnery_newchaingunturret>
+  <entitydescription.ekgunnery_newchaingunturret>使用自行式子弹的高射速常规武器系统。对小型，快速的目标有效。</entitydescription.ekgunnery_newchaingunturret>
+  <entityname.ekgunnery_newminigunturret>转轮机枪炮塔</entityname.ekgunnery_newminigunturret>
+  <entitydescription.ekgunnery_newminigunturret>使用自行式子弹的超高射速常规武器系统。有较短的起转时间，但具备极高的射速。</entitydescription.ekgunnery_newminigunturret>
+  <entityname.ekgunnery_newmicrossl>微型SSL炮塔</entityname.ekgunnery_newmicrossl>
+  <entitydescription.ekgunnery_newmicrossl>高射速实验性武器系统。可在短距离内对软目标造成爆发伤害。发射20毫米超空泡弹。</entitydescription.ekgunnery_newmicrossl>
+  <entityname.ekgunnery_newsmallssl>小型SSL炮塔</entityname.ekgunnery_newsmallssl>
+  <entitydescription.ekgunnery_newsmallssl>高射速实验性武器系统. 但其火力持续性收到了弹容的制约. 发射37毫米SSL炮弹.</entitydescription.ekgunnery_newsmallssl>
+  <entityname.ekgunnery_newautocannonturret>自动加农炮塔</entityname.ekgunnery_newautocannonturret>
+  <entitydescription.ekgunnery_newautocannonturret>发射轻型炮弹的常规加农炮，拥有更快的发射速度。对中等装甲的船只和生物有效。</entitydescription.ekgunnery_newautocannonturret>
+  <entityname.ekgunnery_newmediumssl>中型SSL炮塔</entityname.ekgunnery_newmediumssl>
+  <entitydescription.ekgunnery_newmediumssl>实验性武器系统，擅长在中距离内倾泻重型火力。发射一连串100毫米SSL炮弹。</entitydescription.ekgunnery_newmediumssl>
+  <!-- ekgunnery_modularmissile.xml -->
+  <entityname.ekgunnery_modularmissile_body1a>导弹弹体</entityname.ekgunnery_modularmissile_body1a>
+  <entitydescription.ekgunnery_modularmissile_body1a> MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body1a>
+  <entityname.ekgunnery_modularmissile_body1b>导弹弹体</entityname.ekgunnery_modularmissile_body1b>
+  <entitydescription.ekgunnery_modularmissile_body1b> MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body1b>
+  <entityname.ekgunnery_modularmissile_body2a>导弹弹体</entityname.ekgunnery_modularmissile_body2a>
+  <entitydescription.ekgunnery_modularmissile_body2a> MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body2a>
+  <entityname.ekgunnery_modularmissile_body2b>导弹弹体</entityname.ekgunnery_modularmissile_body2b>
+  <entitydescription.ekgunnery_modularmissile_body2b> MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body2b>
+  <entityname.ekgunnery_modularmissile_body2c>导弹弹体</entityname.ekgunnery_modularmissile_body2c>
+  <entitydescription.ekgunnery_modularmissile_body2c> MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body2c>
+  <entityname.ekgunnery_modularmissile_body3a>导弹弹体</entityname.ekgunnery_modularmissile_body3a>
+  <entitydescription.ekgunnery_modularmissile_body3a>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body3a>
+  <entityname.ekgunnery_modularmissile_body3b>导弹弹体</entityname.ekgunnery_modularmissile_body3b>
+  <entitydescription.ekgunnery_modularmissile_body3b>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body3b>
+  <entityname.ekgunnery_modularmissile_body3c>导弹弹体</entityname.ekgunnery_modularmissile_body3c>
+  <entitydescription.ekgunnery_modularmissile_body3c>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body3c>
+  <entityname.ekgunnery_modularmissile_body3d>导弹弹体</entityname.ekgunnery_modularmissile_body3d>
+  <entitydescription.ekgunnery_modularmissile_body3d>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body3d>
+  <entityname.ekgunnery_modularmissile_body4a>导弹弹体</entityname.ekgunnery_modularmissile_body4a>
+  <entitydescription.ekgunnery_modularmissile_body4a>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body4a>
+  <entityname.ekgunnery_modularmissile_body4b>导弹弹体</entityname.ekgunnery_modularmissile_body4b>
+  <entitydescription.ekgunnery_modularmissile_body4b>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body4b>
+  <entityname.ekgunnery_modularmissile_body4c>导弹弹体</entityname.ekgunnery_modularmissile_body4c>
+  <entitydescription.ekgunnery_modularmissile_body4c>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body4c>
+  <entityname.ekgunnery_modularmissile_body5a>导弹弹体</entityname.ekgunnery_modularmissile_body5a>
+  <entitydescription.ekgunnery_modularmissile_body5a>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body5a>
+  <entityname.ekgunnery_modularmissile_body5b>导弹弹体</entityname.ekgunnery_modularmissile_body5b>
+  <entitydescription.ekgunnery_modularmissile_body5b>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body5b>
+  <entityname.ekgunnery_modularmissile_body5c>导弹弹体</entityname.ekgunnery_modularmissile_body5c>
+  <entitydescription.ekgunnery_modularmissile_body5c>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body5c>
+  <entityname.ekgunnery_modularmissile_body5d>导弹弹体</entityname.ekgunnery_modularmissile_body5d>
+  <entitydescription.ekgunnery_modularmissile_body5d>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body5d>
+  <entityname.ekgunnery_modularmissile_body5e>导弹弹体</entityname.ekgunnery_modularmissile_body5e>
+  <entitydescription.ekgunnery_modularmissile_body5e>MSBM可操作模块战斗部（遥控导弹）的组件。</entitydescription.ekgunnery_modularmissile_body5e>
+  <entityname.ekgunnery_modularmissile_soundemitter1>导弹音效器 1</entityname.ekgunnery_modularmissile_soundemitter1>
+  <entitydescription.ekgunnery_modularmissile_soundemitter1>发出火箭引擎声的东西（应该）</entitydescription.ekgunnery_modularmissile_soundemitter1>
+  <entityname.ekgunnery_modularmissile_soundemitter2>导弹音效器 2</entityname.ekgunnery_modularmissile_soundemitter2>
+  <entitydescription.ekgunnery_modularmissile_soundemitter2>发出大型火箭引擎声的东西（应该）</entitydescription.ekgunnery_modularmissile_soundemitter2>
+  <entityname.ekgunnery_modularmissile_engine1>导弹引擎</entityname.ekgunnery_modularmissile_engine1>
+  <entitydescription.ekgunnery_modularmissile_engine1> MSBM可操作模块战斗部（遥控导弹）的组件。用于产生水平推力。</entitydescription.ekgunnery_modularmissile_engine1>
+  <entityname.ekgunnery_modularmissile_pump1>导弹泵</entityname.ekgunnery_modularmissile_pump1>
+  <entitydescription.ekgunnery_modularmissile_pump1> MSBM可操作模块战斗部（遥控导弹）的组件。用于浮力控制。</entitydescription.ekgunnery_modularmissile_pump1>
+  <entityname.ekgunnery_modularmissile_transducer1>Missile Transducer</entityname.ekgunnery_modularmissile_transducer1>
+  <entitydescription.ekgunnery_modularmissile_transducer1> MSBM可操作模块战斗部（遥控导弹）的组件。用于浮力控制。</entitydescription.ekgunnery_modularmissile_transducer1>
+  <entityname.ekgunnery_modularmissile_dockingporty>导弹挂载点</entityname.ekgunnery_modularmissile_dockingporty>
+  <entitydescription.ekgunnery_modularmissile_dockingporty> MSBM可操作模块战斗部（遥控导弹）的组件。用于挂载导弹的对接口。</entitydescription.ekgunnery_modularmissile_dockingporty>
+  <entityname.ekgunnery_modularmissile_dockingportshorty>导弹挂载点 (紧凑)</entityname.ekgunnery_modularmissile_dockingportshorty>
+  <entitydescription.ekgunnery_modularmissile_dockingportshorty>MSBM可操作模块战斗部（遥控导弹）的组件。用于挂载导弹的对接口。</entitydescription.ekgunnery_modularmissile_dockingportshorty>
+  <entityname.ekgunnery_modularmissile_dockingportx>导弹挂载点</entityname.ekgunnery_modularmissile_dockingportx>
+  <entitydescription.ekgunnery_modularmissile_dockingportx> MSBM可操作模块战斗部（遥控导弹）的组件。用于挂载导弹的对接口。</entitydescription.ekgunnery_modularmissile_dockingportx>
+  <entityname.ekgunnery_modularmissile_dockingportshortx>导弹挂载点 (紧凑)</entityname.ekgunnery_modularmissile_dockingportshortx>
+  <entitydescription.ekgunnery_modularmissile_dockingportshortx>MSBM可操作模块战斗部（遥控导弹）的组件。用于挂载导弹的对接口。</entitydescription.ekgunnery_modularmissile_dockingportshortx>
+  <entityname.ekgunnery_modularmissile_thruster100>导弹推进器 100kw</entityname.ekgunnery_modularmissile_thruster100>
+  <entitydescription.ekgunnery_modularmissile_thruster100> MSBM可操作模块战斗部（遥控导弹）的组件。用于产生垂直推力。</entitydescription.ekgunnery_modularmissile_thruster100>
+  <entityname.ekgunnery_modularmissile_thrusterforcer100>ekgunnery_modularmissile_thrusterforcer100</entityname.ekgunnery_modularmissile_thrusterforcer100>
+  <entitydescription.ekgunnery_modularmissile_thrusterforcer100></entitydescription.ekgunnery_modularmissile_thrusterforcer100>
+  <entityname.ekgunnery_modularmissile_thruster050>导弹推进器 50kw</entityname.ekgunnery_modularmissile_thruster050>
+  <entitydescription.ekgunnery_modularmissile_thruster050> MSBM可操作模块战斗部（遥控导弹）的组件。用于产生垂直推力。</entitydescription.ekgunnery_modularmissile_thruster050>
+  <entityname.ekgunnery_modularmissile_thrusterforcer050>ekgunnery_modularmissile_thrusterforcer050</entityname.ekgunnery_modularmissile_thrusterforcer050>
+  <entitydescription.ekgunnery_modularmissile_thrusterforcer050></entitydescription.ekgunnery_modularmissile_thrusterforcer050>
+  <!-- ekgunnery_uniqueturrets.xml -->
+  <!-- ekgunnery_uniqueammo.xml -->
+  <!-- ekgunnery_spinalweapons.xml -->
+  <entityname.ekgunnery_newspinalhardpoint>固定炮塔装载点</entityname.ekgunnery_newspinalhardpoint>
+  <entitydescription.ekgunnery_newspinalhardpoint>可装配特殊固定炮塔的空的武器槽位</entitydescription.ekgunnery_newspinalhardpoint>
+  <entityname.ekgunnery_newspinalrailgun>固定式轨道炮</entityname.ekgunnery_newspinalrailgun>
+  <entitydescription.ekgunnery_newspinalrailgun>直接安装固定在船体上的标准轨道炮，机械结构简单，射击角度小。以电磁动力推动金属弹丸进行高速射击的大型动能武器，发射瞬间需要超高压电流脉冲推动（一般由超级电容器产生），因此开火速度很慢，仅适用于针对大型或重甲目标。</entitydescription.ekgunnery_newspinalrailgun>
+  <entityname.ekgunnery_newspinalpulselaser>固定式脉冲激光</entityname.ekgunnery_newspinalpulselaser>
+  <entitydescription.ekgunnery_newspinalpulselaser>直接安装固定在船体上的大型脉冲化学激光器，机械结构简单，射击角度小。对任何被击中的物体造成极大的灼伤。</entitydescription.ekgunnery_newspinalpulselaser>
+  <entityname.ekgunnery_newspinalheavyrailgun>固定式重型轨道炮</entityname.ekgunnery_newspinalheavyrailgun>
+  <entitydescription.ekgunnery_newspinalheavyrailgun>以电磁动力推动金属弹丸进行高速射击的大型动能武器，发射瞬间需要超高压电流脉冲推动（一般由超级电容器产生），因此开火速度很慢，仅适用于针对大型或重甲目标。比普通轨道炮需要更多的电力。</entitydescription.ekgunnery_newspinalheavyrailgun>
+  <entityname.ekgunnery_newspinalmediumssl>固定式中型SSL</entityname.ekgunnery_newspinalmediumssl>
+  <entitydescription.ekgunnery_newspinalmediumssl>实验性武器系统，擅长在中距离内快速射击。发射100毫米SSL炮弹。</entitydescription.ekgunnery_newspinalmediumssl>
+  <!-- ekgunnery_auxiliary.xml -->
+  <entityname.ekgunnery_newauxiliaryhardpoint>辅助炮台安装点</entityname.ekgunnery_newauxiliaryhardpoint>
+  <entitydescription.ekgunnery_newauxiliaryhardpoint>可用于安装炮台和一些特种设备的挂载点。</entitydescription.ekgunnery_newauxiliaryhardpoint>
+  <entityname.ekgunnery_newauxiliarychaingunturret>辅助机枪炮塔</entityname.ekgunnery_newauxiliarychaingunturret>
+  <entitydescription.ekgunnery_newauxiliarychaingunturret>辅助安装点上的机枪炮塔，用于点防御或协同射击。由于自动装弹机尺寸限制，射速略有降低。</entitydescription.ekgunnery_newauxiliarychaingunturret>
+  <entityname.ekgunnery_newauxiliarymediumssl>辅助中型SSL炮塔</entityname.ekgunnery_newauxiliarymediumssl>
+  <entitydescription.ekgunnery_newauxiliarymediumssl>辅助安装点上的4x中型SSL阵列，发射100毫米SSL炮弹。</entitydescription.ekgunnery_newauxiliarymediumssl>
+  <entityname.ekgunnery_newauxiliarymininglaserturret>辅助采矿激光</entityname.ekgunnery_newauxiliarymininglaserturret>
+  <entitydescription.ekgunnery_newauxiliarymininglaserturret>声共振激光系统能破碎冰和较软的矿物，同时保持有价值的矿石完好无损。</entitydescription.ekgunnery_newauxiliarymininglaserturret>
+  <!-- ekgunnery_turrets_legacy.xml -->
+  <entityname.ekgunnery_railgun_style1>轨道炮 B</entityname.ekgunnery_railgun_style1>
+  <entitydescription.ekgunnery_railgun_style1>以电磁动力推动金属弹丸进行高速射击的大型动能武器，发射瞬间需要超高压电流脉冲推动（一般由超级电容器产生），因此开火速度很慢，仅适用于针对大型或重甲目标。</entitydescription.ekgunnery_railgun_style1>
+  <entityname.ekgunnery_railgun_style2>轨道炮 C</entityname.ekgunnery_railgun_style2>
+  <entitydescription.ekgunnery_railgun_style2>以电磁动力推动金属弹丸进行高速射击的大型动能武器，发射瞬间需要超高压电流脉冲推动（一般由超级电容器产生），因此开火速度很慢，仅适用于针对大型或重甲目标。</entitydescription.ekgunnery_railgun_style2>
+  <entityname.ekgunnery_spinalrailgun>固定式轨道炮 A</entityname.ekgunnery_spinalrailgun>
+  <entitydescription.ekgunnery_spinalrailgun>直接安装固定在船体上的标准轨道炮，机械结构简单，射击角度小。以电磁动力推动金属弹丸进行高速射击的大型动能武器，发射瞬间需要超高压电流脉冲推动（一般由超级电容器产生），因此开火速度很慢，仅适用于针对大型或重甲目标。</entitydescription.ekgunnery_spinalrailgun>
+  <entityname.ekgunnery_spinalrailgun_style1>固定式轨道炮 B</entityname.ekgunnery_spinalrailgun_style1>
+  <entitydescription.ekgunnery_spinalrailgun_style1>直接安装固定在船体上的标准轨道炮，机械结构简单，射击角度小。以电磁动力推动金属弹丸进行高速射击的大型动能武器，发射瞬间需要超高压电流脉冲推动（一般由超级电容器产生），因此开火速度很慢，仅适用于针对大型或重甲目标。</entitydescription.ekgunnery_spinalrailgun_style1>
+  <entityname.ekgunnery_spinalrailgun_style2>固定式轨道炮 C</entityname.ekgunnery_spinalrailgun_style2>
+  <entitydescription.ekgunnery_spinalrailgun_style2>直接安装固定在船体上的标准轨道炮，机械结构简单，射击角度小。以电磁动力推动金属弹丸进行高速射击的大型动能武器，发射瞬间需要超高压电流脉冲推动（一般由超级电容器产生），因此开火速度很慢，仅适用于针对大型或重甲目标。</entitydescription.ekgunnery_spinalrailgun_style2>
+  <entityname.ekgunnery_heavyrailgun_style1>重型轨道炮 A</entityname.ekgunnery_heavyrailgun_style1>
+  <entitydescription.ekgunnery_heavyrailgun_style1>威力超强的大口径轨道炮。需要大量能量驱动。</entitydescription.ekgunnery_heavyrailgun_style1>
+  <entityname.ekgunnery_heavyrailgun_style2>重型轨道炮 B</entityname.ekgunnery_heavyrailgun_style2>
+  <entitydescription.ekgunnery_heavyrailgun_style2>威力超强的大口径轨道炮。需要大量能量驱动。</entitydescription.ekgunnery_heavyrailgun_style2>
+  <entityname.ekgunnery_heavyrailgun_style3>重型轨道炮 C</entityname.ekgunnery_heavyrailgun_style3>
+  <entitydescription.ekgunnery_heavyrailgun_style3>威力超强的大口径轨道炮。需要大量能量驱动。</entitydescription.ekgunnery_heavyrailgun_style3>
+  <entityname.ekgunnery_spinalheavyrailgun>固定式重型轨道炮 A</entityname.ekgunnery_spinalheavyrailgun>
+  <entitydescription.ekgunnery_spinalheavyrailgun>直接安装固定在船体上的重型轨道炮，机械结构简单，射击角度小。以电磁动力推动金属弹丸进行高速射击的大型动能武器，发射瞬间需要超高压电流脉冲推动（一般由超级电容器产生），因此开火速度很慢，仅适用于针对大型或重甲目标。</entitydescription.ekgunnery_spinalheavyrailgun>
+  <entityname.ekgunnery_coilgun_legacy>电磁枪（普通）</entityname.ekgunnery_coilgun_legacy>
+  <entitydescription.ekgunnery_coilgun_legacy>以电磁动力推动金属弹丸进行高速射击的小型动能武器，对小型目标有奇效，对大型或重甲目标效果不佳。</entitydescription.ekgunnery_coilgun_legacy>
+  <entityname.ekgunnery_coilgun_style2>电磁枪 B</entityname.ekgunnery_coilgun_style2>
+  <entitydescription.ekgunnery_coilgun_style2>以电磁动力推动金属弹丸进行高速射击的小型动能武器，对小型目标有奇效，对大型或重甲目标效果不佳。</entitydescription.ekgunnery_coilgun_style2>
+  <entityname.ekgunnery_chaingun_turret>机枪炮塔 A</entityname.ekgunnery_chaingun_turret>
+  <entitydescription.ekgunnery_chaingun_turret>使用自行式子弹的高射速常规武器系统。对小型，快速的目标有效。</entitydescription.ekgunnery_chaingun_turret>
+  <entityname.ekgunnery_chaingun_turret_style2>机枪炮塔 B</entityname.ekgunnery_chaingun_turret_style2>
+  <entitydescription.ekgunnery_chaingun_turret_style2>使用自行式子弹的高射速常规武器系统。对小型，快速的目标有效。</entitydescription.ekgunnery_chaingun_turret_style2>
+  <entityname.ekgunnery_chaingun_turret_style3>机枪炮塔 C</entityname.ekgunnery_chaingun_turret_style3>
+  <entitydescription.ekgunnery_chaingun_turret_style3>使用自行式子弹的高射速常规武器系统。对小型，快速的目标有效。</entitydescription.ekgunnery_chaingun_turret_style3>
+  <entityname.ekgunnery_chaingun_turret_style4>机枪炮塔 D</entityname.ekgunnery_chaingun_turret_style4>
+  <entitydescription.ekgunnery_chaingun_turret_style4>使用自行式子弹的高射速常规武器系统。对小型，快速的目标有效。</entitydescription.ekgunnery_chaingun_turret_style4>
+  <entityname.ekgunnery_chaingun_turret_style5>机枪炮塔 E</entityname.ekgunnery_chaingun_turret_style5>
+  <entitydescription.ekgunnery_chaingun_turret_style5>使用自行式子弹的高射速常规武器系统。对小型，快速的目标有效。</entitydescription.ekgunnery_chaingun_turret_style5>
+  <entityname.ekgunnery_chaingun_turret_style6>机枪炮塔 F</entityname.ekgunnery_chaingun_turret_style6>
+  <entitydescription.ekgunnery_chaingun_turret_style6>使用自行式子弹的高射速常规武器系统。对小型，快速的目标有效。</entitydescription.ekgunnery_chaingun_turret_style6>
+  <entityname.ekgunnery_chaingun_turret_style7>机枪炮塔 G</entityname.ekgunnery_chaingun_turret_style7>
+  <entitydescription.ekgunnery_chaingun_turret_style7>使用自行式子弹的高射速常规武器系统。对小型，快速的目标有效。</entitydescription.ekgunnery_chaingun_turret_style7>
+  <entityname.ekgunnery_autocannon_turret_style1>自动加农炮塔 A</entityname.ekgunnery_autocannon_turret_style1>
+  <entitydescription.ekgunnery_autocannon_turret_style1>发射轻型超空泡炮弹的常规加农炮，拥有更快的发射速度。</entitydescription.ekgunnery_autocannon_turret_style1>
+  <entityname.ekgunnery_autocannon_turret_style2>自动加农炮塔 B</entityname.ekgunnery_autocannon_turret_style2>
+  <entitydescription.ekgunnery_autocannon_turret_style2>发射轻型超空泡炮弹的常规加农炮，拥有更快的发射速度。</entitydescription.ekgunnery_autocannon_turret_style2>
+  <entityname.ekgunnery_autocannon_turret_style3>自动加农炮塔 C</entityname.ekgunnery_autocannon_turret_style3>
+  <entitydescription.ekgunnery_autocannon_turret_style3>发射轻型超空泡炮弹的常规加农炮，拥有更快的发射速度。</entitydescription.ekgunnery_autocannon_turret_style3>
+  <entityname.ekgunnery_micro_ssl>微型SSL炮塔 A</entityname.ekgunnery_micro_ssl>
+  <entitydescription.ekgunnery_micro_ssl>具有极高射速的实验性武器系统。可在短距离内对软目标造成爆发伤害。</entitydescription.ekgunnery_micro_ssl>
+  <entityname.ekgunnery_medium_ssl>中型SSL炮塔 A</entityname.ekgunnery_medium_ssl>
+  <entitydescription.ekgunnery_medium_ssl>实验性武器系统，擅长在中距离内快速射击。</entitydescription.ekgunnery_medium_ssl>
+  <entityname.ekgunnery_medium_ssl_style2>中型SSL炮塔 B</entityname.ekgunnery_medium_ssl_style2>
+  <entitydescription.ekgunnery_medium_ssl_style2>实验性武器系统，擅长在中距离内快速射击。</entitydescription.ekgunnery_medium_ssl_style2>
+  <!-- ekgunnery_loaders_legacy.xml -->
+  <entityname.ekgunnery_coilgunloader_single>小型电磁枪装弹器</entityname.ekgunnery_coilgunloader_single>
+  <entitydescription.ekgunnery_coilgunloader_single>为已链接的电磁枪装填弹药的装置。不能装填更大尺寸的弹药箱。</entitydescription.ekgunnery_coilgunloader_single>
+  <entityname.ekgunnery_chaingunloader_single>机枪炮塔装弹器</entityname.ekgunnery_chaingunloader_single>
+  <entitydescription.ekgunnery_chaingunloader_single>为已链接的机枪炮塔装填弹药的装置。</entitydescription.ekgunnery_chaingunloader_single>
+  <entityname.ekgunnery_autocannonloader_single>自动加农炮塔装弹器</entityname.ekgunnery_autocannonloader_single>
+  <entitydescription.ekgunnery_autocannonloader_single>为已链接的自动加农炮装填弹药的装置。</entitydescription.ekgunnery_autocannonloader_single>
+  <entityname.ekgunnery_microsslloader>微型SSL炮塔装弹器</entityname.ekgunnery_microsslloader>
+  <entitydescription.ekgunnery_microsslloader>为已链接的SSL炮塔装填弹药的装置。</entitydescription.ekgunnery_microsslloader>
+  <entityname.ekgunnery_medium_ssl_loaderhorizontal>中型SSL装弹器（水平）</entityname.ekgunnery_medium_ssl_loaderhorizontal>
+  <entitydescription.ekgunnery_medium_ssl_loaderhorizontal>为已链接的SSL炮塔装填弹药的装置。</entitydescription.ekgunnery_medium_ssl_loaderhorizontal>
+  <entityname.ekgunnery_medium_ssl_loadercompact1>中型SSL装弹器（紧凑）A</entityname.ekgunnery_medium_ssl_loadercompact1>
+  <entitydescription.ekgunnery_medium_ssl_loadercompact1>为已链接的SSL炮塔装填弹药的装置。</entitydescription.ekgunnery_medium_ssl_loadercompact1>
+  <entityname.ekgunnery_medium_ssl_loadercompact2>中型SSL装弹器（紧凑）B</entityname.ekgunnery_medium_ssl_loadercompact2>
+  <entitydescription.ekgunnery_medium_ssl_loadercompact2>为已链接的SSL炮塔装填弹药的装置。</entitydescription.ekgunnery_medium_ssl_loadercompact2>
+  <entityname.ekgunnery_medium_ssl_loadercompact3>中型SSL装弹器（紧凑）C</entityname.ekgunnery_medium_ssl_loadercompact3>
+  <entitydescription.ekgunnery_medium_ssl_loadercompact3>为已链接的SSL炮塔装填弹药的装置。</entitydescription.ekgunnery_medium_ssl_loadercompact3>
+  <entityname.ekgunnery_heavyrailgunloader>重型轨道炮装弹器</entityname.ekgunnery_heavyrailgunloader>
+  <entitydescription.ekgunnery_heavyrailgunloader>为已链接的重型轨道炮装填弹药的装置。</entitydescription.ekgunnery_heavyrailgunloader>
+  <entityname.ekgunnery_heavyrailgunloader_single>重型轨道炮单发装弹器</entityname.ekgunnery_heavyrailgunloader_single>
+  <entitydescription.ekgunnery_heavyrailgunloader_single>为已链接的重型轨道炮装填弹药的装置。</entitydescription.ekgunnery_heavyrailgunloader_single>
+</infotexts>

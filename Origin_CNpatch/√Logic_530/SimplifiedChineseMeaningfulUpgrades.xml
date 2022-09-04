@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+  <upgradecategory.dischargecoils>放电线圈</upgradecategory.dischargecoils>
+  <upgradecategory.searchlights>探照灯</upgradecategory.searchlights>
+  <upgradecategory.cameras>摄像机</upgradecategory.cameras>
+  <upgradename.sonarmonitorincreaserange>高增益声纳阵列</upgradename.sonarmonitorincreaserange>
+  <upgradedescription.sonarmonitorincreaserange>增加声纳系统的观察范围。</upgradedescription.sonarmonitorincreaserange>
+  <upgradename.sonarmonitormineralscanner>矿物扫描插件</upgradename.sonarmonitormineralscanner>
+  <upgradedescription.sonarmonitormineralscanner>改装探测阵列，提供采矿扫描仪功能。(不影响导航终端)</upgradedescription.sonarmonitormineralscanner>
+  <upgradename.increasesupercapacitorefficiency>超级电容效率</upgradename.increasesupercapacitorefficiency>
+  <upgradedescription.increasesupercapacitorefficiency>减小电容漏电流，以节约能源。</upgradedescription.increasesupercapacitorefficiency>
+  <upgradename.turretdecreasereloadtime>改进装填</upgradename.turretdecreasereloadtime>
+  <upgradedescription.turretdecreasereloadtime>提高炮塔的射击速度。</upgradedescription.turretdecreasereloadtime>
+  <upgradename.dischargecoilincreaserange>放电线圈增强</upgradename.dischargecoilincreaserange>
+  <upgradedescription.dischargecoilincreaserange>扩大放电线圈的范围。</upgradedescription.dischargecoilincreaserange>
+  <upgradename.dischargecoildecreasepowerconsumption>能源效率</upgradename.dischargecoildecreasepowerconsumption>
+  <upgradedescription.dischargecoildecreasepowerconsumption>减少电力消耗。</upgradedescription.dischargecoildecreasepowerconsumption>
+  <upgradename.decreasenoiseproduction>降噪系统</upgradename.decreasenoiseproduction>
+  <upgradedescription.decreasenoiseproduction>减少该设备产生的可探测的噪音。</upgradedescription.decreasenoiseproduction>
+  <upgradename.searchlightincreaseoffsetonselected>潜望镜增强</upgradename.searchlightincreaseoffsetonselected>
+  <upgradedescription.searchlightincreaseoffsetonselected>增加所有探照灯的视野范围。</upgradedescription.searchlightincreaseoffsetonselected>
+  <upgradename.searchlightincreaserotationlowskill>更快的探照灯</upgradename.searchlightincreaserotationlowskill>
+  <upgradedescription.searchlightincreaserotationlowskill>熟练度低的船员操作时，增加所有探照灯的旋转速度。</upgradedescription.searchlightincreaserotationlowskill>
+  <upgradename.cameraincreaseoffsetonselected>潜望镜增强</upgradename.cameraincreaseoffsetonselected>
+  <upgradedescription.cameraincreaseoffsetonselected>增加所有摄像机的视野范围。</upgradedescription.cameraincreaseoffsetonselected>
+  <upgradename.increasecomponenthealth>设备硬化</upgradename.increasecomponenthealth>
+  <upgradedescription.increasecomponenthealth>增强舰载系统抵抗战斗伤害的能力。</upgradedescription.increasecomponenthealth>
+</infotexts>
