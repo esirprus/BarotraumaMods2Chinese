@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+    <!--Items-->
+    <entityname.loas_preale>Ale Mash</entityname.loas_preale>
+    <entitydescription.loas_preale>Europan Ale precursor made from mashing elastin</entitydescription.loas_preale>
+    <entityname.loas_premead>Mead Mash</entityname.loas_premead>
+    <entitydescription.loas_premead>Salt Mead precursor made from mashing salt bulbs</entitydescription.loas_premead>
+    <entityname.loas_premoon>Moonshine Mash</entityname.loas_premoon>
+    <entitydescription.loas_premoon>Blood Moonshine precursor made from stirring alien blood</entitydescription.loas_premoon>
+    <entityname.loas_prewhis>Whiskey Mash</entityname.loas_prewhis>
+    <entitydescription.loas_prewhis>Earthers Whiskey precursor made from mashing fertilizer</entitydescription.loas_prewhis>
+    <entityname.loas_precide>Cider Mash</entityname.loas_precide>
+    <entitydescription.loas_precide>Pomegrenade Cider precursor made from mashing pomegrenade</entitydescription.loas_precide>
+    <entityname.loas_prerum>Rum Mash</entityname.loas_prerum>
+    <entitydescription.loas_prerum>Submariners Rum precursor made from mashing tobacco buds</entitydescription.loas_prerum>
+    <entityname.loas_prewine>Wine Mash</entityname.loas_prewine>
+    <entitydescription.loas_prewine>Bane Wine precursor made from mashing raptorbane</entitydescription.loas_prewine>
+    <entityname.loas_pregin>Gin Mash</entityname.loas_pregin>
+    <entitydescription.loas_pregin>Coalition Gin precursor made from stirring sodium</entitydescription.loas_pregin>
+    <entityname.loas_prevod>Vodka Mash</entityname.loas_prevod>
+    <entitydescription.loas_prevod>Separatist Vodka precursor made from stirring chlorine</entitydescription.loas_prevod>
+    <entityname.loas_prebit>Bitters Mash</entityname.loas_prebit>
+    <entitydescription.loas_prebit>Jupiter Bitters precursor made from mashing multiple ingredients</entitydescription.loas_prebit>
+    <entityname.loas_disale>Impure Ale</entityname.loas_disale>
+    <entitydescription.loas_disale>Needs to be distilled</entitydescription.loas_disale>
+    <entityname.loas_dismoon>Impure Moonshine</entityname.loas_dismoon>
+    <entitydescription.loas_dismoon>Needs to be distilled</entitydescription.loas_dismoon>
+    <entityname.loas_diswhis>Impure Whiskey</entityname.loas_diswhis>
+    <entitydescription.loas_diswhis>Needs to be distilled</entitydescription.loas_diswhis>
+    <entityname.loas_disrum>Impure Rum</entityname.loas_disrum>
+    <entitydescription.loas_disrum>Needs to be distilled</entitydescription.loas_disrum>
+    <entityname.loas_diswine>Impure Wine</entityname.loas_diswine>
+    <entitydescription.loas_diswine>Needs to be distilled</entitydescription.loas_diswine>
+    <entityname.loas_disgin>Impure Gin</entityname.loas_disgin>
+    <entitydescription.loas_disgin>Needs to be distilled</entitydescription.loas_disgin>
+    <entityname.loas_disvod>Impure Vodka</entityname.loas_disvod>
+    <entitydescription.loas_disvod>Needs to be distilled</entitydescription.loas_disvod>
+    <entityname.loas_disbit>Impure Bitters</entityname.loas_disbit>
+    <entitydescription.loas_disbit>Needs to be distilled</entitydescription.loas_disbit>
+    <entityname.loas_agebit>Unaged Bitters</entityname.loas_agebit>
+    <entitydescription.loas_agebit>Needs to be aged</entitydescription.loas_agebit>
+    <entityname.loas_ale>Europan Ale</entityname.loas_ale>
+    <entitydescription.loas_ale>Europan made ale, created using local ingredients</entitydescription.loas_ale>
+    <entityname.loas_mead>Salt Mead</entityname.loas_mead>
+    <entitydescription.loas_mead>Europa's signature mead made from salt bulbs</entitydescription.loas_mead>
+    <entityname.loas_moon>Blood Moonshine</entityname.loas_moon>
+    <entitydescription.loas_moon>Strong moonshine made from the blood of Europa's creatures</entitydescription.loas_moon>
+    <entityname.loas_whis>Earthers Whiskey</entityname.loas_whis>
+    <entitydescription.loas_whis>Classic whiskey made from the fresh dirt of earth</entitydescription.loas_whis>
+    <entityname.loas_cide>Pomegrenade Cider</entityname.loas_cide>
+    <entitydescription.loas_cide>Cider made from the juice of pomegrenades, for the light drinkers</entitydescription.loas_cide>
+    <entityname.loas_rum>Submariners Rum</entityname.loas_rum>
+    <entitydescription.loas_rum>Rum has been a true seafarers desired drink for a very long time, Popular among captains</entitydescription.loas_rum>
+    <entityname.loas_wine>Bane Wine</entityname.loas_wine>
+    <entitydescription.loas_wine>A high class drink made from a toxic plant, safe for consumption due to thorough brewing</entitydescription.loas_wine>
+    <entityname.loas_gin>Coalition Gin</entityname.loas_gin>
+    <entitydescription.loas_gin>Nice and smooth Coalition brewed gin, favored by admirals</entitydescription.loas_gin>
+    <entityname.loas_vodka>Separatist Vodka</entityname.loas_vodka>
+    <entitydescription.loas_vodka>Vodka homebrewed by the Jovian Separatists and commonly found amongst their ranks</entitydescription.loas_vodka>
+    <entityname.loas_bitters>Jupiter Bitters</entityname.loas_bitters>
+    <entitydescription.loas_bitters>Masterfully made bitters, commonly used in high class mixology</entitydescription.loas_bitters>
+    <entityname.loas_pmoon>Glass of Moonshine</entityname.loas_pmoon>
+    <entitydescription.loas_pmoon>A small glass containing Blood Moonshine</entitydescription.loas_pmoon>
+    <entityname.loas_pwhis>Glass of Whiskey</entityname.loas_pwhis>
+    <entitydescription.loas_pwhis>A small glass containing Earthers Whiskey</entitydescription.loas_pwhis>
+    <entityname.loas_prum>Glass of Rum</entityname.loas_prum>
+    <entitydescription.loas_prum>A small glass containing Submariners Rum</entitydescription.loas_prum>
+    <entityname.loas_pwine>Glass of Wine</entityname.loas_pwine>
+    <entitydescription.loas_pwine>A small glass containing Bane Wine</entitydescription.loas_pwine>
+    <entityname.loas_pgin>Glass of Gin</entityname.loas_pgin>
+    <entitydescription.loas_pgin>A small glass containing Coalition Gin</entitydescription.loas_pgin>
+    <entityname.loas_pvod>Glass of Vodka</entityname.loas_pvod>
+    <entitydescription.loas_pvod>A small glass containing Separatist Vodka</entitydescription.loas_pvod>
+    <entityname.loas_mixg>Gin Liquidised Tonic</entityname.loas_mixg>
+    <entitydescription.loas_mixg>A new spin on the old formula</entitydescription.loas_mixg>
+    <entityname.loas_mixw>Sparkling Rocks</entityname.loas_mixw>
+    <entitydescription.loas_mixw>A glass of whiskey on the rocks with a sparkling spin</entitydescription.loas_mixw>
+    <entityname.loas_mixm>Sweet Mead</entityname.loas_mixm>
+    <entitydescription.loas_mixm>A nice blend of mead and ale perfect for anyone with a sweet tooth</entitydescription.loas_mixm>
+    <entityname.loas_mixr>Sour Rum</entityname.loas_mixr>
+    <entitydescription.loas_mixr>A weirdly sour drink made from some top shelf drinks</entitydescription.loas_mixr>
+    <entityname.loas_aleage>Europan Dark Ale</entityname.loas_aleage>
+    <entitydescription.loas_aleage>Finely aged Europan ale, it seems to have taken on a darker color</entitydescription.loas_aleage>
+    <entityname.loas_meadage>Aged Salt Mead</entityname.loas_meadage>
+    <entitydescription.loas_meadage>Finely aged Europan salt mead, Popular among miners and other labor workers</entitydescription.loas_meadage>
+    <entityname.loas_moonage>Blood Spirit</entityname.loas_moonage>
+    <entitydescription.loas_moonage>Thoroughly aged moonshine, A strong drink and a favorite among renegades and criminals</entitydescription.loas_moonage>
+    <entityname.loas_whisage>Fine Earth Bourbon</entityname.loas_whisage>
+    <entitydescription.loas_whisage>Finely made and finely aged, a nice memory of earth</entitydescription.loas_whisage>
+    <entityname.loas_rumage>Abyssal Spirit</entityname.loas_rumage>
+    <entitydescription.loas_rumage>A real soul soothing drink, found in almost every wealthy captains collection</entitydescription.loas_rumage>
+    <entityname.loas_wineage>Royal Europan Wine</entityname.loas_wineage>
+    <entitydescription.loas_wineage>A priceless drink made from raptorbane, only royalty and high ranking officials would even dare touch this fortune of a drink</entitydescription.loas_wineage>
+    <entityname.loas_ginage>Starred Liquid</entityname.loas_ginage>
+    <entitydescription.loas_ginage>A finely aged Coalition Gin, the high class dink of Europa</entitydescription.loas_ginage>
+    <entityname.loas_vodage>Loyalty Distilled</entityname.loas_vodage>
+    <entitydescription.loas_vodage>A real mules kick, favored by all renegade commanders</entitydescription.loas_vodage>
+    <entityname.loas_vodr>RedVibe Vodka</entityname.loas_vodr>
+    <entitydescription.loas_vodr>RedVibe is a Europan company dedicated to providing flavored vodka at reasonable prices, their vodka has a noticeable fruity smell and bitter aftertaste</entitydescription.loas_vodr>
+    <entityname.loas_rums>SLAM Rum</entityname.loas_rums>
+    <entitydescription.loas_rums>SLAM Rum is made by a group of distillers located somewhere in the Europan Ridge, the Coalition has designated the group as pirates yet still allows their products to be sold at outpost for an unknown reason</entitydescription.loas_rums>
+    <entityname.loas_cigeaz>Eazer Cigarette</entityname.loas_cigeaz>
+    <entitydescription.loas_cigeaz>An Eazer brand cigarette made from Europan grown tobacco</entitydescription.loas_cigeaz>
+    <entityname.loas_cigep>Europan Premium Cigarette</entityname.loas_cigep>
+    <entitydescription.loas_cigep>Europan Premium cigarettes are know for their improved filters and better taste</entitydescription.loas_cigep>
+    <entityname.loas_cigmar>Marcello Inc Cigarette</entityname.loas_cigmar>
+    <entitydescription.loas_cigmar>Marcello Inc Cigarettes are an experimental brand infused with nanites, beware that these may be very addictive</entitydescription.loas_cigmar>
+    <entityname.loas_cigpc>Premium Cigar</entityname.loas_cigpc>
+    <entitydescription.loas_cigpc>Premium Europan cigar made from a mix of local and old earth tobacco, favored among captains and generals</entitydescription.loas_cigpc>
+    <entityname.loas_cigeth>Ethanol Joint</entityname.loas_cigeth>
+    <entitydescription.loas_cigeth>Eazer recently introduced a stronger cigarette in the form of the ethanol joint to help sailors with anxiety for an affordable price</entitydescription.loas_cigeth>
+    <entityname.loas_cigelec>Electronic Cigarette</entityname.loas_cigelec>
+    <entitydescription.loas_cigelec>Electronic cigarettes are often advertised as being a less harmful alternative to normal cigarettes however they are also known to be more addictive, requires a battery cell to use</entitydescription.loas_cigelec>
+    <entityname.loas_cigpack>Cigarette Pack</entityname.loas_cigpack>
+    <entitydescription.loas_cigpack>Europa's universal cigarette pack made to carry 6 cigarettes</entitydescription.loas_cigpack>
+    <entityname.loas_cigcase>Cigar Case</entityname.loas_cigcase>
+    <entitydescription.loas_cigcase>A custom made cigar case used to hold Europan cigars</entitydescription.loas_cigcase>
+    <entityname.loas_rchick>Raw Synthichicken</entityname.loas_rchick>
+    <entitydescription.loas_rchick>Raw rubbery looking synthetic chicken made from the organs and blood of local wildlife, you probably shouldn't eat this uncooked</entitydescription.loas_rchick>
+    <entityname.loas_rsteak>Raw Synthisteak</entityname.loas_rsteak>
+    <entitydescription.loas_rsteak>Raw squishy looking synthetic steak made from the organs and blood of local wildlife, you probably shouldn't eat this uncooked</entitydescription.loas_rsteak>
+    <entityname.loas_bread>Bread Loaf</entityname.loas_bread>
+    <entitydescription.loas_bread>A stale loaf of Europan bread made from synthiflour</entitydescription.loas_bread>
+    <entityname.loas_sbread>Bread Slice</entityname.loas_sbread>
+    <entitydescription.loas_sbread>A stale slice of an Europan made loaf of bread</entitydescription.loas_sbread>
+    <entityname.loas_water>Bottled Water</entityname.loas_water>
+    <entitydescription.loas_water>A canteen filled with filtered Europan water, it is safe for consumption</entitydescription.loas_water>
+    <entityname.loas_apple>Europan Apple</entityname.loas_apple>
+    <entitydescription.loas_apple>Europan apples are genetically engineered versions of earth's apples now capable of growing in any old planter box</entitydescription.loas_apple>
+    <entityname.loas_banana>Europan Banana</entityname.loas_banana>
+    <entitydescription.loas_banana>Europan bananas were genetically engineered to make them grow from smaller vine like plants so that they could be grown in compact planter boxes</entitydescription.loas_banana>
+    <entityname.loas_coil>Cooking Oil</entityname.loas_coil>
+    <entitydescription.loas_coil>A bottle of locally made cooking oil for use in recipes, you probably shouldn't drink this on its own</entitydescription.loas_coil>
+    <entityname.loas_spice>Europan Spices</entityname.loas_spice>
+    <entitydescription.loas_spice>A spice mill containing locally made spices made out of Europan ingredients to be used in cooking recipes</entitydescription.loas_spice>
+    <entityname.loas_chick>Synthichicken</entityname.loas_chick>
+    <entitydescription.loas_chick>Synthichicken is the most popular type of meat on Europa as it is widely regarded as being atleast decent in taste</entitydescription.loas_chick>
+    <entityname.loas_steak>Synthisteak</entityname.loas_steak>
+    <entitydescription.loas_steak>Synthisteak is the synthetic version of the classic steak, many have reported it tastes faintly of mudraptor</entitydescription.loas_steak>
+    <entityname.loas_csand>Chicken Sandwich</entityname.loas_csand>
+    <entitydescription.loas_csand>This sandwich is a classic Europan breakfast due to its easy preparation and good overall taste and texture</entitydescription.loas_csand>
+    <entityname.loas_cslad>Caesar Salad</entityname.loas_cslad>
+    <entitydescription.loas_cslad>The Europan spin on the classic Caesar salad, many that have tasted the original claim this taste awful however it is still a very popular salad</entitydescription.loas_cslad>
+    <entityname.loas_burg>Synthiburger</entityname.loas_burg>
+    <entitydescription.loas_burg>One of the most popular fast foods on Europa, this burger is made from synthisteak and a range of fresh Europan ingredients</entitydescription.loas_burg>
+    <entityname.loas_fries>Pomegrenade Fries</entityname.loas_fries>
+    <entitydescription.loas_fries>Humanities most recognized fast food has been given a Europan spin due to the lack of potatoes, many say this is one of the few Europan things better than the original</entitydescription.loas_fries>
+    <entityname.loas_pizza>Pizza Europa</entityname.loas_pizza>
+    <entitydescription.loas_pizza>Pizza Europa is an attempt made at making the famous dish here on the icy moon, whether it succeeded or not is debatable</entitydescription.loas_pizza>
+    <entityname.loas_pasta>Pasta Pome</entityname.loas_pasta>
+    <entitydescription.loas_pasta>Europan cooks eventually tried to make their own version of a classic Italian dish and its widely regarded as being a pretty good dish due to its many flavours</entitydescription.loas_pasta>
+    <entityname.loas_stew>Submariners Stew</entityname.loas_stew>
+    <entitydescription.loas_stew>Submariners Stew is the most common food item on Europa as its cheap to make this does however come at the cost of its taste</entitydescription.loas_stew>
+    <entityname.loas_fslad>Fruit Salad</entityname.loas_fslad>
+    <entitydescription.loas_fslad>The classic fruit salad remains popular on Europa even if it is now made using different ingredients, many claim that its the most refreshing food item on Europa</entitydescription.loas_fslad>
+    <entityname.loas_ejuice>Europan Juice</entityname.loas_ejuice>
+    <entitydescription.loas_ejuice>This juice is made from fresh Europan ingredients, its simple and easily made and because of that popular aswell</entitydescription.loas_ejuice>
+    <entityname.loas_cola>Coalition Cola</entityname.loas_cola>
+    <entitydescription.loas_cola>Coalition Cola is the most popular soda on Europa and its mostly because it backed by the Europa Coalition itself, that and the fact that its used as a cheap alternative to sleep</entitydescription.loas_cola>
+    <entityname.loas_teas>Salt Tea</entityname.loas_teas>
+    <entitydescription.loas_teas>Europans believe that saltbulb tea helps repel bacteria and parasites and as such it has become a popular tea for travelers</entitydescription.loas_teas>
+    <entityname.loas_psand>Packaged Sandwich</entityname.loas_psand>
+    <entitydescription.loas_psand>A standard cheap vending machine sandwich, bland in taste due to being comprised of a large amount artificial ingredients</entitydescription.loas_psand>
+    <entityname.loas_bento>Bento Meal</entityname.loas_bento>
+    <entitydescription.loas_bento>A fully precooked and packed classic bento lunchbox containing various small dishes, chopsticks included</entitydescription.loas_bento>
+    <entityname.loas_candy>Assorted Candies</entityname.loas_candy>
+    <entitydescription.loas_candy>Europan made candies oftenly found in vending machines, probably not good for your teeth</entitydescription.loas_candy>
+    <entityname.loas_popc>Saltbulb Popcorn</entityname.loas_popc>
+    <entitydescription.loas_popc>Popped saltbulbs and their seeds closely resemble the classic movie theater snack and as such have been given the title of popcorn</entitydescription.loas_popc>
+    <entityname.loas_fruitb>Hydro-Fruit Bar</entityname.loas_fruitb>
+    <entitydescription.loas_fruitb>A fruit bar made from pomegrenade seeds and local hydroponic fruits, the taste is said to vary drastically depending on the quality of the fruits used</entitydescription.loas_fruitb>
+    <entityname.loas_chocob>Coalition Chocolate Bar</entityname.loas_chocob>
+    <entitydescription.loas_chocob>The Coalition recently introduced chocolate bars available in most local vending machines to help combat the rapid increase in psychosis incidents, no one knows how the chocolate bars are made</entitydescription.loas_chocob>
+    <entityname.loas_sodae>Euro Soda</entityname.loas_sodae>
+    <entitydescription.loas_sodae>Euro Soda is a local company that was created as a direct competitor to the Coalition funded Coalition Cola, Euro Soda is known for being a cheap carbonated drink</entitydescription.loas_sodae>
+    <entityname.loas_juices>Smile! Juice</entityname.loas_juices>
+    <entitydescription.loas_juices>Premium fruit juice produced by the Europan Jesters Association, many report feeling happy and unable to stop smiling after drinking the juice, the juice is currently under investigation by the Coalition for being a possible health risk</entitydescription.loas_juices>
+    <entityname.loas_ration1>Minimal Tier Ration Unit</entityname.loas_ration1>
+    <entitydescription.loas_ration1>Ration units are used by the Coalition to help the less fortunate inhabitants of Europa as they are usually free to outpost inhabitants and cost very little for travelers, This one is marked as a Minimal Tier Ration Unit [AIM + USE TO OPEN]</entitydescription.loas_ration1>
+    <entityname.loas_ration2>Standard Tier Ration Unit</entityname.loas_ration2>
+    <entitydescription.loas_ration2>Ration units are used by the Coalition to help the less fortunate inhabitants of Europa as they are usually free to outpost inhabitants and cost very little for travelers, This one is marked as a Standard Tier Ration Unit [AIM + USE TO OPEN]</entitydescription.loas_ration2>
+    <entityname.loas_ration3>Loyalist Tier Ration Unit</entityname.loas_ration3>
+    <entitydescription.loas_ration3>Ration units are used by the Coalition to help the less fortunate inhabitants of Europa as they are usually free to outpost inhabitants and cost very little for travelers, This one is marked as a Loyalist Tier Ration Unit [AIM + USE TO OPEN]</entitydescription.loas_ration3>
+    <entityname.loas_ration4>Priority Tier Ration Unit</entityname.loas_ration4>
+    <entitydescription.loas_ration4>Ration units are used by the Coalition to help the less fortunate inhabitants of Europa as they are usually free to outpost inhabitants and cost very little for travelers, This one is marked as a Priority Tier Ration Unit [AIM + USE TO OPEN]</entitydescription.loas_ration4>
+    <entityname.loas_rwater>Canned Water</entityname.loas_rwater>
+    <entitydescription.loas_rwater>Canned water often found within ration units, not the best tasting water as many have reported it has a chemical taste</entitydescription.loas_rwater>
+    <entityname.loas_rbeer>Coalition Beer</entityname.loas_rbeer>
+    <entitydescription.loas_rbeer>Coalition branded beer is included in loyalist ration units as a reward for their service and as such it is fairly common amongst Coalition marines</entitydescription.loas_rbeer>
+    <entityname.loas_retha>Juniper Ethanol</entityname.loas_retha>
+    <entitydescription.loas_retha>Juniper Ethanol is a classic Europan drink that was created by a group of Coalition generals and because of that it ended up in the Priority Tier Ration Unit</entitydescription.loas_retha>
+    <entityname.loas_rpaste>Gelatinated Calorie Paste</entityname.loas_rpaste>
+    <entitydescription.loas_rpaste>This small box contains a gelatinated calorie paste meal often found within ration units, the box labels it as egg flavored</entitydescription.loas_rpaste>
+    <entityname.loas_rbar>Desiccated Sustenance Bar</entityname.loas_rbar>
+    <entitydescription.loas_rbar>This desiccated ration bar contains a bunch of vitamins and calories to help sustain the person consuming it, the packaging labels it as water flavored</entitydescription.loas_rbar>
+    <entityname.loas_rfish>Canned Synthetic Sardines</entityname.loas_rfish>
+    <entitydescription.loas_rfish>These synthetic sardines are created from various meats coming from the creatures on Europa, they are described as being an acquired taste and as such are only found in ration units</entitydescription.loas_rfish>
+    <entityname.loas_rsupp>Survival Supplements</entityname.loas_rsupp>
+    <entitydescription.loas_rsupp>Survival supplements are used to maintain the consumers muscle mass and because of that they are often included within ration units</entitydescription.loas_rsupp>
+    <entityname.loas_rchoco>Dried Cacao Bar</entityname.loas_rchoco>
+    <entitydescription.loas_rchoco>Dried cacao bars are used to help maintain sanity amongst outpost inhabitants as they contain a small dose of haloperidol, it has been reported that overconsumption may lead to brain damage</entitydescription.loas_rchoco>
+    <entityname.loas_rbran>Bran Cereal Flakes</entityname.loas_rbran>
+    <entitydescription.loas_rbran>Bran flakes are Europa's only cereal substitute and became part of most ration units because of this, many use water or even alien blood as a substitute for milk</entitydescription.loas_rbran>
+    <entityname.loas_rchips>Dehydrated Pomegrenade Chips</entityname.loas_rchips>
+    <entitydescription.loas_rchips>This Coalition branded bag holds a small amount of dehydrated pomegrenade chips that stay fresh incredibly long, they are described as being incredibly bland in taste</entitydescription.loas_rchips>
+    <entityname.loas_rbread>Coalition Brick Bread</entityname.loas_rbread>
+    <entitydescription.loas_rbread>Coalition ration bread has been nicknamed brick bread due to being incredibly hard, Coalition bread is cheap to produce and because of that it became common in ration units</entitydescription.loas_rbread>
+    <entityname.loas_rclump>Vegetable Clump</entityname.loas_rclump>
+    <entitydescription.loas_rclump>Vegetable clumps are made using various Europan plants and fruits, they are also filled with various chemicals to keep them shelf stable</entitydescription.loas_rclump>
+    <entityname.loas_rnuts>Coalition Peanuts</entityname.loas_rnuts>
+    <entitydescription.loas_rnuts>A small Coalition branded bag containing a heap of nuts and seeds commonly found on Europa, a recent survey shows that this is the highest rated snack amongst captains</entitydescription.loas_rnuts>
+    <!--Gear-->
+    <entityname.loas_garhat>Mysterious Hat</entityname.loas_garhat>
+    <entitydescription.loas_garhat>A small brownish cap that smells vaguely of cigarette smoke, it seems to hide the wearers eyes, has a built in auto injector</entitydescription.loas_garhat>
+    <!--Instruments-->
+    <entityname.loas_rec>Sailor's Box</entityname.loas_rec>
+    <entitydescription.loas_rec>A classic record player made to play vinyl records, the most popular entertainment source for any Europan sailors</entitydescription.loas_rec>
+    <entityname.loas_piano>Piano</entityname.loas_piano>
+    <entitydescription.loas_piano>The piano has always been a staple of music and on Europa this is no different, pianos are often costly due to the amount work and knowledge required to make one, this specific piano has the brand label 'HUB' on it</entitydescription.loas_piano>
+    <entityname.loas_record1>Record: 21st Century Schizoid Man</entityname.loas_record1>
+    <entitydescription.loas_record1>King Crimson</entitydescription.loas_record1>
+    <entityname.loas_rs1>Song: 21st Century Schizoid Man</entityname.loas_rs1>
+    <entitydescription.loas_rs1>King Crimson</entitydescription.loas_rs1>
+    <entityname.loas_record2>唱片：</entityname.loas_record2>
+    <entitydescription.loas_record2>Kevin MacLeod</entitydescription.loas_record2>
+    <entityname.loas_rs2>Song: Merry Go</entityname.loas_rs2>
+    <entitydescription.loas_rs2>Kevin MacLeod</entitydescription.loas_rs2>
+    <entityname.loas_record3>Record: Ring Of Fire</entityname.loas_record3>
+    <entitydescription.loas_record3>Johnny Cash</entitydescription.loas_record3>
+    <entityname.loas_rs3>Song: Ring Of Fire</entityname.loas_rs3>
+    <entitydescription.loas_rs3>Johnny Cash</entitydescription.loas_rs3>
+    <entityname.loas_record4>Record: R U Mine</entityname.loas_record4>
+    <entitydescription.loas_record4>Arctic Monkeys</entitydescription.loas_record4>
+    <entityname.loas_rs4>Song: R U Mine</entityname.loas_rs4>
+    <entitydescription.loas_rs4>Arctic Monkeys</entitydescription.loas_rs4>
+    <entityname.loas_record5>Record: September</entityname.loas_record5>
+    <entitydescription.loas_record5>Earth, Wind and Fire</entitydescription.loas_record5>
+    <entityname.loas_rs5>Song: September</entityname.loas_rs5>
+    <entitydescription.loas_rs5>Earth, Wind and Fire</entitydescription.loas_rs5>
+    <entityname.loas_record6>Record: Fly Me To The Moon</entityname.loas_record6>
+    <entitydescription.loas_record6>Frank Sinatra</entitydescription.loas_record6>
+    <entityname.loas_rs6>Song: Fly Me To The Moon</entityname.loas_rs6>
+    <entitydescription.loas_rs6>Frank Sinatra</entitydescription.loas_rs6>
+    <entityname.loas_pdamus1>PDA Sheet: Air Guitar</entityname.loas_pdamus1>
+    <entitydescription.loas_pdamus1>Katawa Shoujo</entitydescription.loas_pdamus1>
+    <entityname.loas_pdamus2>PDA Sheet: Deja Vu</entityname.loas_pdamus2>
+    <entitydescription.loas_pdamus2>Initial D</entitydescription.loas_pdamus2>
+    <entityname.loas_pdamus3>PDA Sheet: Drunken Sailor</entityname.loas_pdamus3>
+    <entitydescription.loas_pdamus3>Irish Rovers</entitydescription.loas_pdamus3>
+    <entityname.loas_pdamus4>PDA Sheet: Ruru’s Suicide Show</entityname.loas_pdamus4>
+    <entitydescription.loas_pdamus4>Shinsei Kamattechan</entitydescription.loas_pdamus4>
+    <entityname.loas_pdamus5>PDA Sheet: Sono Chino Sadame</entityname.loas_pdamus5>
+    <entitydescription.loas_pdamus5>Hiroaki Tommy Tominaga</entitydescription.loas_pdamus5>
+    <entityname.loas_pdamus6>PDA Sheet: Vegas Lights</entityname.loas_pdamus6>
+    <entitydescription.loas_pdamus6>Panic! At The Disco</entitydescription.loas_pdamus6>
+    <!--SubObjects-->
+    <entityname.loas_distil>Distillery</entityname.loas_distil>
+    <entitydescription.loas_distil></entitydescription.loas_distil>
+    <entityname.loas_mashvat>Mashing Vat</entityname.loas_mashvat>
+    <entitydescription.loas_mashvat></entitydescription.loas_mashvat>
+    <entityname.loas_brewbarrel>Brewing Barrel</entityname.loas_brewbarrel>
+    <entitydescription.loas_brewbarrel></entitydescription.loas_brewbarrel>
+    <entityname.loas_agecask>Aging Cask</entityname.loas_agecask>
+    <entitydescription.loas_agecask></entitydescription.loas_agecask>
+    <entityname.loas_bar>Bar</entityname.loas_bar>
+    <entitydescription.loas_bar></entitydescription.loas_bar>
+    <entityname.loas_rt>Rolling Table</entityname.loas_rt>
+    <entitydescription.loas_rt></entitydescription.loas_rt>
+    <entityname.loas_stove>Stove</entityname.loas_stove>
+    <entitydescription.loas_stove></entitydescription.loas_stove>
+    <entityname.loas_cpot>Cooking Pot</entityname.loas_cpot>
+    <entitydescription.loas_cpot></entitydescription.loas_cpot>
+    <entityname.loas_ctable>Cooking Table</entityname.loas_ctable>
+    <entitydescription.loas_ctable></entitydescription.loas_ctable>
+    <entityname.loas_blend>Blender</entityname.loas_blend>
+    <entitydescription.loas_blend></entitydescription.loas_blend>
+    <entityname.loas_whe>Water Heater</entityname.loas_whe>
+    <entitydescription.loas_whe></entitydescription.loas_whe>
+    <entityname.loas_fridge>Fridge</entityname.loas_fridge>
+    <entitydescription.loas_fridge></entitydescription.loas_fridge>
+    <entityname.loas_rmach>Ration Dispenser</entityname.loas_rmach>
+    <entitydescription.loas_rmach>The Europa Coalition offers to sell their ration dispensers for use on private submarines, they are often found on military submarines</entitydescription.loas_rmach>
+</infotexts>

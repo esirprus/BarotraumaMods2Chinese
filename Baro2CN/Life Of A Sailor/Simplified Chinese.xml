@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+    <entityname.identifier>名字</entityname.identifier>
+    <entitydescription.identifier>描述</entitydescription.identifier>
+    <entityname.></entityname.>
+    <entitydescription.></entitydescription.>
+    <entityname.loas_preale>麦芽酒醪</entityname.loas_preale>
+    <entitydescription.loas_preale>由捣碎的弹性蛋白制成的麦芽酒醪</entitydescription.loas_preale>
+    <entityname.loas_premead>蜂蜜酒醪</entityname.loas_premead>
+    <entitydescription.loas_premead>用捣碎的盐球与蜂蜜混合而成的蜂蜜酒醪</entitydescription.loas_premead>
+    <entityname.loas_premoon>摩闪酒醪</entityname.loas_premoon>
+    <entitydescription.loas_premoon>搅拌异星血液制成的血色月光酒醪</entitydescription.loas_premoon>
+    <entityname.loas_prewhis>威士忌酒醪</entityname.loas_prewhis>
+    <entitydescription.loas_prewhis>威士忌酒醪由糖和大麦芽制成</entitydescription.loas_prewhis>
+    <entityname.loas_precide>苹果酒醪</entityname.loas_precide>
+    <entitydescription.loas_precide>石榴果酒酒醪由捣碎的石榴制成</entitydescription.loas_precide>
+    <entityname.loas_prerum>朗姆酒醪</entityname.loas_prerum>
+    <entitydescription.loas_prerum>朗姆酒酒醪由捣碎的烟草芽制成</entitydescription.loas_prerum>
+    <entityname.loas_prewine>葡萄酒醪</entityname.loas_prewine>
+    <entitydescription.loas_prewine>捣碎葡萄制成的葡萄酒醪</entitydescription.loas_prewine>
+    <entityname.loas_pregin>杜松子酒醪</entityname.loas_pregin>
+    <entitydescription.loas_pregin>搅碎杜松子制成的杜松子酒醪</entitydescription.loas_pregin>
+    <entityname.loas_prevod>伏特加酒醪</entityname.loas_prevod>
+    <entitydescription.loas_prevod>分离主义者搅拌大麦芽制成的伏特加酒醪</entitydescription.loas_prevod>
+    <entityname.loas_prebit>苦酒醪</entityname.loas_prebit>
+    <entitydescription.loas_prebit>由多种食物混酿而成的木星苦酒酒醪</entitydescription.loas_prebit>
+    <entityname.loas_disale>浑浊麦芽酒</entityname.loas_disale>
+    <entitydescription.loas_disale>需要进行蒸馏。</entitydescription.loas_disale>
+    <entityname.loas_dismoon>浑浊月光酒</entityname.loas_dismoon>
+    <entitydescription.loas_dismoon>需要进行蒸馏。</entitydescription.loas_dismoon>
+    <entityname.loas_diswhis>浑浊威士忌</entityname.loas_diswhis>
+    <entitydescription.loas_diswhis>需要进行蒸馏。</entitydescription.loas_diswhis>
+    <entityname.loas_disrum>浑浊朗姆酒</entityname.loas_disrum>
+    <entitydescription.loas_disrum>需要进行蒸馏。</entitydescription.loas_disrum>
+    <entityname.loas_diswine>浑浊葡萄酒</entityname.loas_diswine>
+    <entitydescription.loas_diswine>需要进行蒸馏。</entitydescription.loas_diswine>
+    <entityname.loas_disgin>浑浊杜松子酒</entityname.loas_disgin>
+    <entitydescription.loas_disgin>需要进行蒸馏。</entitydescription.loas_disgin>
+    <entityname.loas_disvod>浑浊伏特加</entityname.loas_disvod>
+    <entitydescription.loas_disvod>需要进行蒸馏。</entitydescription.loas_disvod>
+    <entityname.loas_disbit>浑浊苦酒</entityname.loas_disbit>
+    <entitydescription.loas_disbit>需要进行蒸馏。</entitydescription.loas_disbit>
+    <entityname.loas_agebit>未陈酿的比特酒</entityname.loas_agebit>
+    <entitydescription.loas_agebit>需要进行陈酿。</entitydescription.loas_agebit>
+    <entityname.loas_ale>欧罗巴麦芽酒</entityname.loas_ale>
+    <entitydescription.loas_ale>用欧罗巴本地原料制造的麦芽酒。</entitydescription.loas_ale>
+    <entityname.loas_mead>椒盐蜂蜜酒</entityname.loas_mead>
+    <entitydescription.loas_mead>欧罗巴的招牌蜂蜜酒由盐和珍贵的蜂蜜制成</entitydescription.loas_mead>
+    <entityname.loas_moon>血色摩闪酒</entityname.loas_moon>
+    <entitydescription.loas_moon>用深海怪物的血液制成的烈性月光酒（爬爬的味道哦）</entitydescription.loas_moon>
+    <entityname.loas_whis>威士忌</entityname.loas_whis>
+    <entitydescription.loas_whis>十分珍贵的由地球酿造威士忌</entitydescription.loas_whis>
+    <entityname.loas_cide>爆弹石榴汁</entityname.loas_cide>
+    <entitydescription.loas_cide>用石榴汁制作的果酒，适合轻度饮酒者。</entitydescription.loas_cide>
+    <entityname.loas_rum>朗姆酒</entityname.loas_rum>
+    <entitydescription.loas_rum>长期以来，朗姆酒一直是真正的航海理想饮品，在船长及下属中很受欢迎。</entitydescription.loas_rum>
+    <entityname.loas_wine>灾星葡萄酒</entityname.loas_wine>
+    <entitydescription.loas_wine>由有毒植物制成的高级饮料，但酿造过程中层层稀释，可安全饮用并且味道十分独特</entitydescription.loas_wine>
+    <entityname.loas_gin>杜松子酒</entityname.loas_gin>
+    <entitydescription.loas_gin>匠心酿造的高级杜松子酒，受到高级将领们的青睐，总会让人会念地球上的时光.....</entitydescription.loas_gin>
+    <entityname.loas_vodka>分裂伏特加</entityname.loas_vodka>
+    <entitydescription.loas_vodka>木星分离主义者自酿的伏特加，在他们的队伍中很常见。</entitydescription.loas_vodka>
+    <entityname.loas_bitters>木星苦酒</entityname.loas_bitters>
+    <entitydescription.loas_bitters>精心制作的苦味剂，常用于高级调酒。</entitydescription.loas_bitters>
+    <entityname.loas_pmoon>一杯磨闪</entityname.loas_pmoon>
+    <entitydescription.loas_pmoon>一小杯血腥摩闪。</entitydescription.loas_pmoon>
+    <entityname.loas_pwhis>一杯威士忌酒</entityname.loas_pwhis>
+    <entitydescription.loas_pwhis>一小杯地球威士忌。</entitydescription.loas_pwhis>
+    <entityname.loas_prum>一杯朗姆酒</entityname.loas_prum>
+    <entitydescription.loas_prum>一小杯艇员朗姆酒。</entitydescription.loas_prum>
+    <entityname.loas_pwine>一杯葡萄酒</entityname.loas_pwine>
+    <entitydescription.loas_pwine>一小杯灾星葡萄酒。</entitydescription.loas_pwine>
+    <entityname.loas_pgin>一杯杜松子酒</entityname.loas_pgin>
+    <entitydescription.loas_pgin>一小杯联盟杜松子酒。</entitydescription.loas_pgin>
+    <entityname.loas_pvod>一杯伏特加酒</entityname.loas_pvod>
+    <entitydescription.loas_pvod>一小杯分裂伏特加。</entitydescription.loas_pvod>
+    <entityname.loas_mixg>杜松子气泡酒</entityname.loas_mixg>
+    <entitydescription.loas_mixg>经典酒的新制法，新味道！</entitydescription.loas_mixg>
+    <entityname.loas_mixw>闪耀水晶</entityname.loas_mixw>
+    <entitydescription.loas_mixw>一杯加了冰的威士忌，旋转时里面的冰块会闪闪发光。</entitydescription.loas_mixw>
+    <entityname.loas_mixm>甜味蜂蜜酒</entityname.loas_mixm>
+    <entitydescription.loas_mixm>蜂蜜酒和麦芽酒的完美融合，适合喜欢甜食的人。</entitydescription.loas_mixm>
+    <entityname.loas_mixr>酸味朗姆</entityname.loas_mixr>
+    <entitydescription.loas_mixr>由某种顶级好酒制成的奇怪酸味饮品.</entitydescription.loas_mixr>
+    <entityname.loas_aleage>欧罗巴黑啤</entityname.loas_aleage>
+    <entitydescription.loas_aleage>经过精心陈酿的欧式啤酒，颜色似乎都加深了。</entitydescription.loas_aleage>
+    <entityname.loas_meadage>陈酿咸味蜂蜜酒</entityname.loas_meadage>
+    <entitydescription.loas_meadage>经过精心酿造的欧式蜂蜜酒，在矿工和工人群体里很受欢迎。</entitydescription.loas_meadage>
+    <entityname.loas_moonage>嗜血之魂</entityname.loas_moonage>
+    <entitydescription.loas_moonage>经过彻底陈酿的摩闪酒，很烈，是叛军和罪犯的最爱。</entitydescription.loas_moonage>
+    <entityname.loas_whisage>上好的地球波本酒</entityname.loas_whisage>
+    <entitydescription.loas_whisage>精心酿造的好酒，承载着对地球的美好回忆。</entitydescription.loas_whisage>
+    <entityname.loas_rumage>渊洋之心</entityname.loas_rumage>
+    <entitydescription.loas_rumage>一瓶可以抚慰灵魂的酒，几乎每一位富有船长的收藏里都有它。</entitydescription.loas_rumage>
+    <entityname.loas_wineage>罗曼尼-康帝</entityname.loas_wineage>
+    <entitydescription.loas_wineage>由珍贵的上好葡萄酿成的无价饮料，只有高级官员才能喝这种价格不菲的酒。</entitydescription.loas_wineage>
+    <entityname.loas_ginage>繁星之液</entityname.loas_ginage>
+    <entitydescription.loas_ginage>经过精心酿造的联盟杜松子酒，有着欧罗巴特有的漂亮酒瓶。</entitydescription.loas_ginage>
+    <entityname.loas_vodage>绝对忠诚，木星第一</entityname.loas_vodage>
+    <entitydescription.loas_vodage>绝对的烈酒，深受所有分离主义指挥官喜爱。</entitydescription.loas_vodage>
+    <entityname.loas_vodr>RedVibe伏特加</entityname.loas_vodr>
+    <entitydescription.loas_vodr>RedVibe企业致力于提供价格合理的风味伏特加，他们的伏特加入口有水果的甜味和苦口的回味。</entitydescription.loas_vodr>
+    <entityname.loas_rums>SLAM朗姆酒</entityname.loas_rums>
+    <entitydescription.loas_rums>SLAM朗姆酒是由位于欧罗巴海脊某处的一群酿酒师酿造的，木卫二联盟已经将他们归为海盗组织，但还是原因不明地允许站点出售他们的酿酒。</entitydescription.loas_rums>
+    <entityname.loas_cigeaz>意造牌香烟</entityname.loas_cigeaz>
+    <entitydescription.loas_cigeaz>一包印有“Eazer”商标的香烟，其原料是神奇的欧罗巴烟草。</entitydescription.loas_cigeaz>
+    <entityname.loas_cigep>欧罗巴高级香烟</entityname.loas_cigep>
+    <entitydescription.loas_cigep>这种烟以其改进的滤嘴器和非常好的味道而闻名木卫二。</entitydescription.loas_cigep>
+    <entityname.loas_cigmar>马塞洛牌香烟</entityname.loas_cigmar>
+    <entitydescription.loas_cigmar>马塞洛香烟是实验性香烟，烟丝中注满了纳米机器人，导致这种烟非常容易上瘾。</entitydescription.loas_cigmar>
+    <entityname.loas_cigpc>高档雪茄</entityname.loas_cigpc>
+    <entitydescription.loas_cigpc>由地球和本地土烟草混合制成的优质欧罗巴雪茄，深受船长和将军们的青睐。</entitydescription.loas_cigpc>
+    <entityname.loas_cigeth>酒精香烟</entityname.loas_cigeth>
+    <entitydescription.loas_cigeth>“Eazer”公司最新推出一种酒精烟卷的奇怪香烟，面向的群体是那些常常焦虑的水手和海员们，价格方面也尽量亲民，让他们能负担得起。</entitydescription.loas_cigeth>
+    <entityname.loas_cigelec>电子烟</entityname.loas_cigelec>
+    <entitydescription.loas_cigelec>电子烟经常被宣传为传统香烟的健康替代品，但相对的它们也更容易上瘾，需要安装电池才能使用。</entitydescription.loas_cigelec>
+    <entityname.loas_cigpack>烟盒</entityname.loas_cigpack>
+    <entitydescription.loas_cigpack>木卫二上很常见的烟盒，可以装6根烟。</entitydescription.loas_cigpack>
+    <entityname.loas_cigcase>雪茄盒</entityname.loas_cigcase>
+    <entitydescription.loas_cigcase>用于装欧罗巴雪茄的定制雪茄盒。</entitydescription.loas_cigcase>
+    <entityname.loas_rchick>生的合成鸡肉</entityname.loas_rchick>
+    <entitydescription.loas_rchick>看起来像橡胶的合成鸡肉，原材料是本地野生动物的血和肉，没烹饪过的话我建议还是别吃为好。</entitydescription.loas_rchick>
+    <entityname.loas_rsteak>生的合成牛排</entityname.loas_rsteak>
+    <entitydescription.loas_rsteak>看起来软软的合成牛肉，原材料是本地野生动物的血和肉，没烹饪过的话我建议还是别吃为好。</entitydescription.loas_rsteak>
+    <entityname.loas_bread>面包条</entityname.loas_bread>
+    <entitydescription.loas_bread>一条用合成面粉制成，已经不太新鲜的的欧罗巴面包。</entitydescription.loas_bread>
+    <entityname.loas_sbread>面包片</entityname.loas_sbread>
+    <entitydescription.loas_sbread>一片从面包条上切下来的面包片。</entitydescription.loas_sbread>
+    <entityname.loas_water>瓶装水</entityname.loas_water>
+    <entitydescription.loas_water>水壶里装着经过滤的木卫二水，可以放心饮用。</entitydescription.loas_water>
+    <entityname.loas_apple>欧罗巴苹果</entityname.loas_apple>
+    <entitydescription.loas_apple>欧罗巴苹果是地球苹果经基因工程改造而来，现在它能够在任何旧种植箱中生长。</entitydescription.loas_apple>
+    <entityname.loas_banana>欧罗巴香蕉</entityname.loas_banana>
+    <entitydescription.loas_banana>欧罗巴香蕉经过基因工程改造，能在空间占用较小的藤蔓状植物上长出来，这样就可以在局促的种植箱中种植。</entitydescription.loas_banana>
+    <entityname.loas_coil>食用油</entityname.loas_coil>
+    <entitydescription.loas_coil>一瓶本地生产的食用油，用于做菜，你可别直接喝了。</entitydescription.loas_coil>
+    <entityname.loas_spice>欧罗巴香料</entityname.loas_spice>
+    <entitydescription.loas_spice>调味料磨坊用本地材料制作的欧罗巴香料，用于在烹饪时加上一些，做出好味道！</entitydescription.loas_spice>
+    <entityname.loas_chick>合成鸡肉</entityname.loas_chick>
+    <entitydescription.loas_chick>合成鸡肉是肉类中名气最大的，因为这个东西至少尝起来像是人吃的。</entitydescription.loas_chick>
+    <entityname.loas_steak>合成牛排</entityname.loas_steak>
+    <entitydescription.loas_steak>合成牛排是合成版本的牛肉，许多人吃完后评价说尝起来有一点点像迅猛龙</entitydescription.loas_steak>
+    <entityname.loas_csand>鸡肉三明治</entityname.loas_csand>
+    <entitydescription.loas_csand>这块三明治是最经典的欧罗巴早餐，因为它制作起来简单，尝起来味道和口感也非常不错。</entitydescription.loas_csand>
+    <entityname.loas_cslad>凯撒沙拉</entityname.loas_cslad>
+    <entitydescription.loas_cslad>当经典的凯撒沙拉遇到欧罗巴，许多尝过原版的人都评价这玩意也许不是人吃的，但它仍算一道著名沙拉。</entitydescription.loas_cslad>
+    <entityname.loas_burg>合成汉堡</entityname.loas_burg>
+    <entitydescription.loas_burg>木卫二上最著名的快餐之一，这个汉堡由合成牛排和一系列新鲜的欧罗巴本地食材制作而成。</entitydescription.loas_burg>
+    <entityname.loas_fries>爆弹石榴果薯条</entityname.loas_fries>
+    <entitydescription.loas_fries>最受欢迎的快餐当属薯条了，但由于木卫二上没土豆，所以人们想了个神奇的办法制作出了欧罗巴版“薯条”，大家伙们都认为，这是少数比原型还棒的欧罗巴创新之一。</entitydescription.loas_fries>
+    <entityname.loas_pizza>欧罗巴披萨</entityname.loas_pizza>
+    <entitydescription.loas_pizza>欧罗巴披萨是在这颗冰冷卫星上制作这道著名菜肴的一次尝试，至于其是否成功，显然还有待商榷。</entitydescription.loas_pizza>
+    <entityname.loas_pasta>水果意大利面</entityname.loas_pasta>
+    <entitydescription.loas_pasta>厨师们总是想研究一种欧罗巴式的“经典”意大利面，于是在顶级厨师团长达七七四百九十八天地潜心研制后，这道著名又“经典”的欧罗巴意大利面就诞生了！功夫也不负有心人，这道菜一经问世就获得了铺天盖地的好评！</entitydescription.loas_pasta>
+    <entityname.loas_stew>潜艇炖肉</entityname.loas_stew>
+    <entitydescription.loas_stew>由于易于制作，潜艇炖肉是整个木卫二最常见的食物，但它的味道和它的价格不能说相配只能说是天生一对。</entitydescription.loas_stew>
+    <entityname.loas_fslad>水果沙拉</entityname.loas_fslad>
+    <entitydescription.loas_fslad>经典的水果沙拉即使是在木卫二也依旧名扬万里，虽然其现在的配方和味道和地球上的都不大相同。大多数人都认为这是欧罗巴上最能使人精神振奋的食物。</entitydescription.loas_fslad>
+    <entityname.loas_ejuice>欧罗巴果汁</entityname.loas_ejuice>
+    <entitydescription.loas_ejuice>使用欧罗巴新鲜食材制作的果汁，因为制作简单所以很著名。</entitydescription.loas_ejuice>
+    <entityname.loas_cola>联盟可乐</entityname.loas_cola>
+    <entitydescription.loas_cola>因为背后有联盟的支持，所以联盟可乐不可否认地成为了欧罗巴销量最大名声最广的碳酸饮料，喝过的都表示这个东西一瓶提神醒脑，两瓶永不疲劳，三瓶长生不老，联盟可乐味道好极了，奥耶！</entitydescription.loas_cola>
+    <entityname.loas_teas>盐茶</entityname.loas_teas>
+    <entitydescription.loas_teas>欧罗巴人认为喝盐木鳞茶对于身体有益，可以驱除细菌和寄生虫、所以其在旅行者中非常抢手。</entitydescription.loas_teas>
+    <entityname.loas_psand>包装三明治</entityname.loas_psand>
+    <entitydescription.loas_psand>售价低廉、机器制作的标准三明治，由于使用了大量人工合成原料，所以味道尝起来平平淡淡只能说能吃。</entitydescription.loas_psand>
+    <entityname.loas_bento>盒饭</entityname.loas_bento>
+    <entitydescription.loas_bento>装满烹饪好的食物和各种快餐小菜并且自带餐具的午餐盒。</entitydescription.loas_bento>
+    <entityname.loas_candy>什锦糖果</entityname.loas_candy>
+    <entitydescription.loas_candy>自动售货机里经常能见到的欧罗巴糖果，吃多了会得蛀牙！</entitydescription.loas_candy>
+    <entityname.loas_popc>盐木鳞爆米花</entityname.loas_popc>
+    <entitydescription.loas_popc>盐木鳞爆米花和以前在电影院里售卖的那种小吃极为相似，所以我们叫爆米花！</entitydescription.loas_popc>
+    <entityname.loas_fruitb>水生水果棒</entityname.loas_fruitb>
+    <entitydescription.loas_fruitb>爆弹石榴果和本地水果制作的水果棒，据说根据使用的水果品级味道上会有非常大的差距。</entitydescription.loas_fruitb>
+    <entityname.loas_chocob>联盟巧克力棒</entityname.loas_chocob>
+    <entitydescription.loas_chocob>联盟在本地大多数自动售货机里新增加的神秘巧克力棒，吃了可以治疗精神病。没人知道这巧克力棒是怎么制作的，也许是可爱的爬行者？</entitydescription.loas_chocob>
+    <entityname.loas_sodae>欧式苏打水</entityname.loas_sodae>
+    <entitydescription.loas_sodae>欧式苏打水是欧罗巴某企业制造出来与有联盟撑腰的联盟可乐竞争的产品，以亲民价格的碳酸饮料而闻名。</entitydescription.loas_sodae>
+    <entityname.loas_juices>微笑果汁</entityname.loas_juices>
+    <entitydescription.loas_juices>欧罗巴小丑们生产出来的优质果汁，喝过的人会变的非常开心，脸上也止不住地洋溢出微笑，目前联盟正在调查这东西对于健康来说有没有危害。</entitydescription.loas_juices>
+    <entityname.loas_ration1>次等级配给口粮</entityname.loas_ration1>
+    <entitydescription.loas_ration1>联盟的配给口粮会发放给那些过得不太好的人，大多数前哨站居民都可以免费领取到配给口粮，到处奔波的人也能以较便宜的价格买到配给口粮。这一包标记有“次等级配给口粮”字样[瞄准+使用以打开包装]</entitydescription.loas_ration1>
+    <entityname.loas_ration2>标准级配给口粮</entityname.loas_ration2>
+    <entitydescription.loas_ration2>联盟的配给口粮会发放给那些过得不太好的人，大多数前哨站居民都可以免费领取到配给口粮，到处奔波的人也能以较便宜的价格买到配给口粮。这一包标记有“标准级配给口粮”字样[瞄准+使用以打开包装]</entitydescription.loas_ration2>
+    <entityname.loas_ration3>忠诚级配给口粮</entityname.loas_ration3>
+    <entitydescription.loas_ration3>联盟的配给口粮会发放给那些过得不太好的人，大多数前哨站居民都可以免费领取到配给口粮，到处奔波的人也能以较便宜的价格买到配给口粮。这一包标记有“忠诚级配给口粮”字样[瞄准+使用以打开包装]</entitydescription.loas_ration3>
+    <entityname.loas_ration4>领袖级配给口粮</entityname.loas_ration4>
+    <entitydescription.loas_ration4>联盟的配给口粮会发放给那些过得不太好的人，大多数前哨站居民都可以免费领取到配给口粮，到处奔波的人也能以较便宜的价格买到配给口粮。这一包标记有“领袖配给口粮”字样[瞄准+使用以打开包装]</entitydescription.loas_ration4>
+    <entityname.loas_rwater>包装水</entityname.loas_rwater>
+    <entitydescription.loas_rwater>经常在配给口粮里出现的包装水，尝起来味道一言难尽，有种在喝化学品的感觉。</entitydescription.loas_rwater>
+    <entityname.loas_rbeer>联盟啤酒</entityname.loas_rbeer>
+    <entitydescription.loas_rbeer>联盟啤酒一般会作为奖赏在忠诚级配给口粮里出现，所以联盟啤酒在联盟军队里非常常见。</entitydescription.loas_rbeer>
+    <entityname.loas_retha>杜松酒</entityname.loas_retha>
+    <entitydescription.loas_retha>杜松酒是欧罗巴的经典饮料，起初是由一群联盟将领们创造出来的，后来被列入了领袖级配给口粮里。</entitydescription.loas_retha>
+    <entityname.loas_rpaste>明胶意大利面</entityname.loas_rpaste>
+    <entitydescription.loas_rpaste>装有一顿明胶意大利面的小盒，通常都出现在配给口粮里。盒子上写有“蛋味”。</entitydescription.loas_rpaste>
+    <entityname.loas_rbar>压缩能量棒</entityname.loas_rbar>
+    <entitydescription.loas_rbar>包含许多营养和能量的配给能量棒，用于在食物短缺的情况下保持营养和能量。外包装上写有“水味”。</entitydescription.loas_rbar>
+    <entityname.loas_rfish>罐装合成沙丁鱼</entityname.loas_rfish>
+    <entitydescription.loas_rfish>欧罗巴秘制的多彩合成沙丁鱼，原料采用了五花八门的肉...味道方面倒是还过得去，有种一言难尽的美。这种罐头只在配给口粮里出现。</entitydescription.loas_rfish>
+    <entityname.loas_rsupp>生命维持剂</entityname.loas_rsupp>
+    <entitydescription.loas_rsupp>经常出现在配给口粮里的生命维持剂用于维持使用者的肌肉状态。</entitydescription.loas_rsupp>
+    <entityname.loas_rchoco>干可可棒</entityname.loas_rchoco>
+    <entitydescription.loas_rchoco>干可可棒用于维持前哨站居民的精神状态，因为其中含有少量的氟哌啶醇，曾经有报告显示如果摄入量过多可能会导致脑损伤。</entitydescription.loas_rchoco>
+    <entityname.loas_rbran>麦麸麦片</entityname.loas_rbran>
+    <entitydescription.loas_rbran>麦麸麦片是欧罗巴上唯一的谷物替代品，所以在配给口粮里非常容易见到它。如果发愁没有牛奶怎么泡，可以用水或者是异星血浆代替。</entitydescription.loas_rbran>
+    <entityname.loas_rchips>干爆弹石榴果条</entityname.loas_rchips>
+    <entitydescription.loas_rchips>装有少量干爆弹石榴果条的联盟包装，可以让保质期变的sooooo loooong，吃过的人对它的评价是难以置信的难吃。</entitydescription.loas_rchips>
+    <entityname.loas_rbread>联盟砖头面包</entityname.loas_rbread>
+    <entitydescription.loas_rbread>联盟配给面包因为其难以置信的硬度而被戏称为“砖头面包”，联盟面包生产成本低廉，所以经常在配给口粮里出现。</entitydescription.loas_rbread>
+    <entityname.loas_rclump>蔬菜包</entityname.loas_rclump>
+    <entitydescription.loas_rclump>蔬菜包是用各种欧罗巴植物和水果制作的，在使用时需要填满化学制品才能保证结构稳定。</entitydescription.loas_rclump>
+    <entityname.loas_rnuts>联盟坚果</entityname.loas_rnuts>
+    <entitydescription.loas_rnuts>装有一堆欧罗巴坚果的联盟小袋子，近期的报告表明，这是最受船长们喜爱的零食。</entitydescription.loas_rnuts>
+    <entityname.></entityname.>
+    <entitydescription.></entitydescription.>
+    <entityname.loas_garhat>神秘帽子</entityname.loas_garhat>
+    <entitydescription.loas_garhat>一个棕色的帽子，隐约有香烟的味道，它似乎能遮住佩戴者的眼睛，有一个内置的自动注射器</entitydescription.loas_garhat>
+    <entityname.></entityname.>
+    <entitydescription.></entitydescription.>
+    <entityname.loas_rec>水手箱子</entityname.loas_rec>
+    <entitydescription.loas_rec>为播放黑胶唱片而制作的经典唱片机，这是任何欧洲水手最受欢迎的娱乐来源。</entitydescription.loas_rec>
+    <entityname.loas_piano>钢琴</entityname.loas_piano>
+    <entitydescription.loas_piano>钢琴一直是音乐的主力军，在木卫二也不例外，由于制作钢琴需要大量的工作和知识，所以钢琴的制造成本通常很高，钢琴的品牌 "Steinway&Sons"。</entitydescription.loas_piano>
+    <entityname.loas_record1>唱片：21st Century Schizoid Man</entityname.loas_record1>
+    <entitydescription.loas_record1>King Crimson乐团</entitydescription.loas_record1>
+    <entityname.loas_rs1>歌曲：21st Century Schizoid Man</entityname.loas_rs1>
+    <entitydescription.loas_rs1>King Crimson乐团</entitydescription.loas_rs1>
+    <entityname.loas_record2>唱片：Merry Go</entityname.loas_record2>
+    <entitydescription.loas_record2>歌手Kevin MacLeod</entitydescription.loas_record2>
+    <entityname.loas_rs2>歌曲：Merry Go</entityname.loas_rs2>
+    <entitydescription.loas_rs2>歌手Kevin MacLeod</entitydescription.loas_rs2>
+    <entityname.loas_record3>唱片：Ring Of Fire</entityname.loas_record3>
+    <entitydescription.loas_record3>歌手Johnny Cash</entitydescription.loas_record3>
+    <entityname.loas_rs3>歌曲：Ring Of Fire</entityname.loas_rs3>
+    <entitydescription.loas_rs3>歌手Johnny Cash</entitydescription.loas_rs3>
+    <entityname.loas_record4>唱片：R U Mine</entityname.loas_record4>
+    <entitydescription.loas_record4>Arctic Monkeys乐团</entitydescription.loas_record4>
+    <entityname.loas_rs4>歌曲：R U Mine</entityname.loas_rs4>
+    <entitydescription.loas_rs4>Arctic Monkeys乐团</entitydescription.loas_rs4>
+    <entityname.loas_record5>唱片: September</entityname.loas_record5>
+    <entitydescription.loas_record5>Earth, Wind and Fire组合</entitydescription.loas_record5>
+    <entityname.loas_rs5>歌曲：September</entityname.loas_rs5>
+    <entitydescription.loas_rs5>Earth, Wind and Fire组合</entitydescription.loas_rs5>
+    <entityname.loas_record6>唱片：Fly Me To The Moon</entityname.loas_record6>
+    <entitydescription.loas_record6>歌手Frank Sinatra</entitydescription.loas_record6>
+    <entityname.loas_rs6>歌曲：Fly Me To The Moon</entityname.loas_rs6>
+    <entitydescription.loas_rs6>歌手Frank Sinatra</entitydescription.loas_rs6>
+    <entityname.loas_pdamus1>电子乐谱：Air Guitar</entityname.loas_pdamus1>
+    <entitydescription.loas_pdamus1>片轮少女</entitydescription.loas_pdamus1>
+    <entityname.loas_pdamus2>电子乐谱：Deja Vu</entityname.loas_pdamus2>
+    <entitydescription.loas_pdamus2>头文字D</entitydescription.loas_pdamus2>
+    <entityname.loas_pdamus3>电子乐谱：Drunken Sailor</entityname.loas_pdamus3>
+    <entitydescription.loas_pdamus3>Irish Rovers</entitydescription.loas_pdamus3>
+    <entityname.loas_pdamus4>电子乐谱： Ruru’s Suicide Show</entityname.loas_pdamus4>
+    <entitydescription.loas_pdamus4>Shinsei Kamattechan乐团</entitydescription.loas_pdamus4>
+    <entityname.loas_pdamus5>电子乐谱： Sono Chino Sadame</entityname.loas_pdamus5>
+    <entitydescription.loas_pdamus5>ジョジョ~その血の運命~~~~~~</entitydescription.loas_pdamus5>
+    <entityname.loas_pdamus6>电子乐谱：Vegas Lights</entityname.loas_pdamus6>
+    <entitydescription.loas_pdamus6>Panic! At The Disco乐团</entitydescription.loas_pdamus6>
+    <entityname.></entityname.>
+    <entitydescription.></entitydescription.>
+    <entityname.loas_distil>酿酒模块</entityname.loas_distil>
+    <entitydescription.loas_distil></entitydescription.loas_distil>
+    <entityname.loas_mashvat>糖化桶（酿酒用的）</entityname.loas_mashvat>
+    <entitydescription.loas_mashvat></entitydescription.loas_mashvat>
+    <entityname.loas_brewbarrel>酿酒桶</entityname.loas_brewbarrel>
+    <entitydescription.loas_brewbarrel></entitydescription.loas_brewbarrel>
+    <entityname.loas_agecask>陈酿桶</entityname.loas_agecask>
+    <entitydescription.loas_agecask></entitydescription.loas_agecask>
+    <entityname.loas_bar>酒吧吧台</entityname.loas_bar>
+    <entitydescription.loas_bar></entitydescription.loas_bar>
+    <entityname.loas_rt>台球桌</entityname.loas_rt>
+    <entitydescription.loas_rt></entitydescription.loas_rt>
+    <entityname.loas_stove>炉子</entityname.loas_stove>
+    <entitydescription.loas_stove></entitydescription.loas_stove>
+    <entityname.loas_cpot>烹饪锅</entityname.loas_cpot>
+    <entitydescription.loas_cpot></entitydescription.loas_cpot>
+    <entityname.loas_ctable>厨房</entityname.loas_ctable>
+    <entitydescription.loas_ctable></entitydescription.loas_ctable>
+    <entityname.loas_blend>搅拌器</entityname.loas_blend>
+    <entitydescription.loas_blend></entitydescription.loas_blend>
+    <entityname.loas_whe>热水器</entityname.loas_whe>
+    <entitydescription.loas_whe></entitydescription.loas_whe>
+    <entityname.loas_fridge>冰箱</entityname.loas_fridge>
+    <entitydescription.loas_fridge></entitydescription.loas_fridge>
+    <entityname.loas_rmach>口粮分配器</entityname.loas_rmach>
+    <entitydescription.loas_rmach>欧罗巴联盟提出出售他们的口粮分配器，供私人潜艇使用，它们经常出现在军用潜艇上。</entitydescription.loas_rmach>
+</infotexts>

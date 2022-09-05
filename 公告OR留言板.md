@@ -2,6 +2,7 @@
 现已迁移至esirprus/BarotraumaMods2Chinese！
 ***
 # 通知
+LOAS的汉化补丁即将发布，但是需要进入**测试版**方可体验（官方在测试版修复了bug）<br>
 现在已与EK汉化mod作者取得联系，作者已授权！
 ***
 # 留言板
