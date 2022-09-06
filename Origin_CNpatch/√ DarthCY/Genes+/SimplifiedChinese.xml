@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<infotext language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+  <!--[Items]-->
+  <!--genespliceromega-->
+  <entityname.genespliceromega>欧米茄基因拼接器</entityname.genespliceromega>
+  <entitydescription.genespliceromega>曾经被认为完全不可能融入木卫二的生命形式，但你很快发现这是多么不真实，凭借你的研究技能，你发明了世界上容量最高的基因改变装置。</entitydescription.genespliceromega>
+  <!--genesplicersuper-->
+  <entityname.genesplicersuper>超级拼接器</entityname.genesplicersuper>
+  <entitydescription.genesplicersuper>作为高级拼接器的适度合理升级版，超级拼接器应当能满足您的期望。</entitydescription.genesplicersuper>
+  <!--geneticmaterialwatcher-->
+  <entityname.geneticmaterialwatcher>遗传物质[独目哨兵]</entityname.geneticmaterialwatcher>
+  <entitydescription.geneticmaterialwatcher>获得产生电磁脉冲波导致附近设备故障的能力（F键，90秒冷却时间）。</entitydescription.geneticmaterialwatcher>
+  <!--geneticmaterialfractalguardian-->
+  <entityname.geneticmaterialfractalguardian>遗传物质[分形守卫者]</entityname.geneticmaterialfractalguardian>
+  <entitydescription.geneticmaterialfractalguardian>你的大脑将充满所有有关电气和机械的知识，这将使你的修复速度提高到无与伦比的水平。</entitydescription.geneticmaterialfractalguardian>
+  <!--geneticmaterialpsilotoad-->
+  <entityname.geneticmaterialpsilotoad>遗传物质[巨蟾]</entityname.geneticmaterialpsilotoad>
+  <entitydescription.geneticmaterialpsilotoad>改良的巨蟾基因会产生一种抗生素化合物，允许逆转画皮感染，但你仍然可能会因为足够高的感染率而被完全感染。</entitydescription.geneticmaterialpsilotoad>
+  <!--geneticmaterialhammerheadgold-->
+  <entityname.geneticmaterialhammerheadgold>遗传物质[黄金锤头鲨]</entityname.geneticmaterialhammerheadgold>
+  <entitydescription.geneticmaterialhammerheadgold>大大提高在陆地和水中的移动速度。</entitydescription.geneticmaterialhammerheadgold>
+  <!--[Afflictions]-->
+  <!--eyeball-->
+  <afflictionname.eyeball>独目哨兵基因</afflictionname.eyeball>
+  <afflictiondescription.eyeball></afflictiondescription.eyeball>
+  <!--FractallyEnhanced-->
+  <afflictionname.FractallyEnhanced>分形守卫者基因</afflictionname.FractallyEnhanced>
+  <afflictiondescription.FractallyEnhanced></afflictiondescription.FractallyEnhanced>
+  <!--psilobiotic-->
+  <afflictionname.psilobiotic>巨蟾基因</afflictionname.psilobiotic>
+  <afflictiondescription.psilobiotic></afflictiondescription.psilobiotic>
+  <!--hammerheadeffect-->
+  <afflictionname.hammerheadeffect>黄金锤头鲨基因</afflictionname.hammerheadeffect>
+  <afflictiondescription.hammerheadeffect></afflictiondescription.hammerheadeffect>
+</infotext>
