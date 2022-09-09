@@ -1,309 +1,311 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<infotexts language="English" nowhitespace="false" translatedname="English">
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
   <!-- Afflictions -->
-  <afflictionname.dnadamage>DNA damage</afflictionname.dnadamage>
-  <afflictiondescription.dnadamage>Patient's DNA is getting too damaged to maintain vital body functions.</afflictiondescription.dnadamage>
-  <afflictioncauseofdeath.dnadamage>DNA damaged beyond viability threshold</afflictioncauseofdeath.dnadamage>
-  <afflictioncauseofdeathself.dnadamage>Your DNA can no longer maintain vital body functions.</afflictioncauseofdeathself.dnadamage>
-  <afflictionname.radiationresistance>Radio protectant</afflictionname.radiationresistance>
-  <afflictiondescription.radiationresistance>Prevents contamination and greatly protects against radiation.</afflictiondescription.radiationresistance>
-  <afflictionname.contamination>Radioactive material contamination</afflictionname.contamination>
-  <afflictiondescription.contamination>Patient has been contaminated with radioactive materials causing chronic radiation sickness and DNA damage.</afflictiondescription.contamination>
-  <afflictionname.lethalradiation>Acute radiation syndrome</afflictionname.lethalradiation>
-  <afflictiondescription.lethalradiation>Patient has been heavely irradiated for too long or recieved a fatal radiation dose and will die shortly without emergency treatment.</afflictiondescription.lethalradiation>
-  <afflictioncauseofdeath.lethalradiation>Lethal irradiation.</afflictioncauseofdeath.lethalradiation>
-  <afflictioncauseofdeathself.lethalradiation>You've died of a lethal radiation exposure.</afflictioncauseofdeathself.lethalradiation>
+  <afflictionname.dnadamage>DNA损伤</afflictionname.dnadamage>
+  <afflictiondescription.dnadamage>患者的DNA受到了严重损伤，已经无法维持基本生理活动。</afflictiondescription.dnadamage>
+  <afflictioncauseofdeath.dnadamage>DNA超阈值损伤</afflictioncauseofdeath.dnadamage>
+  <afflictioncauseofdeathself.dnadamage>你的DNA已经无法维持基本生理活动。</afflictioncauseofdeathself.dnadamage>
+  <afflictionname.radiationresistance>辐射防护物</afflictionname.radiationresistance>
+  <afflictiondescription.radiationresistance>防止受到污染并抵御辐射。</afflictiondescription.radiationresistance>
+  <afflictionname.contamination>放射性物质污染</afflictionname.contamination>
+  <afflictiondescription.contamination>患者被放射性物质污染，造成慢性放射病和DNA损伤。</afflictiondescription.contamination>
+  <afflictionname.lethalradiation>急性放射综合症</afflictionname.lethalradiation>
+  <afflictiondescription.lethalradiation>患者接受了太长时间的强辐射或接受了致命的辐射剂量，如果不立刻进行治疗将很快死亡。</afflictiondescription.lethalradiation>
+  <afflictioncauseofdeath.lethalradiation>致命辐射</afflictioncauseofdeath.lethalradiation>
+  <afflictioncauseofdeathself.lethalradiation>你死于致死量的辐射暴露。</afflictioncauseofdeathself.lethalradiation>
   <!-- QoL Afflictions -->
-  <afflictionname.burningrod>Hot rod</afflictionname.burningrod>
-  <afflictiondescription.burningrod>You're holding a 2800°C hot piece of metal without protection!</afflictiondescription.burningrod>
-  <afflictioncauseofdeath.burningrod>Burned to death holding an overheated fuel rod.</afflictioncauseofdeath.burningrod>
-  <afflictionname.hazardexposure>Rod hazard exposure</afflictionname.hazardexposure>
-  <afflictiondescription.hazardexposure>You're within range of a fuel rod's harmfull effect wear appropriate protection.</afflictiondescription.hazardexposure>
-  <afflictionname.dnaregeneration>DNA regeneration</afflictionname.dnaregeneration>
-  <afflictiondescription.dnaregeneration>Patient's DNA is slowly getting restored.</afflictiondescription.dnaregeneration>
-  <afflictionname.antiradeffect>Anti-radiation drug effect</afflictionname.antiradeffect>
-  <afflictiondescription.antiradeffect>Patient's body is slowly getting purged from radioactive contaminants and radiation.</afflictiondescription.antiradeffect>
+  <afflictionname.burningrod>热棒！</afflictionname.burningrod>
+  <afflictiondescription.burningrod>兄啊，你正不带防护的拿着一块2800度的金属！</afflictiondescription.burningrod>
+  <afflictioncauseofdeath.burningrod>手持过热的燃料棒被烧死。</afflictioncauseofdeath.burningrod>
+  <afflictionname.hazardexposure>燃料棒危险暴露区</afflictionname.hazardexposure>
+  <afflictiondescription.hazardexposure>你处于燃料棒影响的范围内，立刻穿上适当的防护。</afflictiondescription.hazardexposure>
+  <afflictionname.dnaregeneration>DNA再生</afflictionname.dnaregeneration>
+  <afflictiondescription.dnaregeneration>患者的DNA正在缓慢恢复。</afflictiondescription.dnaregeneration>
+  <afflictionname.antiradeffect>抗辐射药效</afflictionname.antiradeffect>
+  <afflictiondescription.antiradeffect>患者的身体正在慢慢清除放射性污染和辐射。</afflictiondescription.antiradeffect>
   <!-- Medical items -->
   <entityname.DTPA>DTPA</entityname.DTPA>
-  <entitydescription.DTPA>A more accessible but much slower acting alternative to anti-rad, useless against acute radiation syndrome.</entitydescription.DTPA>
-  <entityname.Potassiumiodide>Potassium iodide</entityname.Potassiumiodide>
-  <entitydescription.Potassiumiodide>Protects against radiation and radioactive contamination. Must be taken regulary in order to keep its full protective effects. Doesn't protect from lethal radiation sources.</entitydescription.Potassiumiodide>
-  <entityname.DNAstabiliser>DNA stabiliser</entityname.DNAstabiliser>
-  <entitydescription.DNAstabiliser>Rare and complex compound able to slowly restore damaged DNA over a long period of time, dangerous if injected by untrained personel.</entitydescription.DNAstabiliser>
-  <entityname.antirad>AntiRad</entityname.antirad>
-  <entitydescription.antirad>Very potent medecine able to purge in seconds the body of all radioactive elementes alogn radiation, better kept for medical emergencies.</entitydescription.antirad>
-  <entityname.radiotoxin>Radiotoxin</entityname.radiotoxin>
-  <entitydescription.radiotoxin>An extremely radioactif element able to cause acute radiation syndrome.</entitydescription.radiotoxin>
+  <entitydescription.DTPA>一种更容易获得但起效慢得多的抗放射性药物，对急性放射综合征无效。</entitydescription.DTPA>
+  <entityname.Potassiumiodide>碘化钾</entityname.Potassiumiodide>
+  <entitydescription.Potassiumiodide>防止辐射和放射性污染。必须定期服用，以保持其的保护作用。不能抵御致命的辐射源。</entitydescription.Potassiumiodide>
+  <entityname.DNAstabiliser>DNA稳定剂</entityname.DNAstabiliser>
+  <entitydescription.DNAstabiliser>能够长时间缓慢修复受损DNA的稀有复杂化合物，未经训练的人注射会有危险。</entitydescription.DNAstabiliser>
+  <entityname.antirad>AntiRad抗辐宁？</entityname.antirad>
+  <entitydescription.antirad>非常有效的药物，能够在几秒钟内清除体内所有放射性物质与辐射，最好留到紧急情况使用。</entitydescription.antirad>
+  <entityname.radiotoxin>放射性毒素</entityname.radiotoxin>
+  <entitydescription.radiotoxin>一种能引起急性放射综合症的极端放射性元素。</entitydescription.radiotoxin>
   <!-- Containers -->
-  <entityname.fuelcrate>Radioactive material storage crate</entityname.fuelcrate>
-  <entitydescription.fuelcrate>A heavy secure storage crate to transport radioactive materials and fuel rods.</entitydescription.fuelcrate>
-  <entityname.fueltransportcylinder>Single unit fuel rod carrier</entityname.fueltransportcylinder>
-  <entitydescription.fueltransportcylinder>A single slot rod storage unit, a lot less bulky than its fuel crate counterpart, is secure enough to be able to store them in most lockers or crates.</entitydescription.fueltransportcylinder>
-  <entityname.ekutility_handtruck_reactorfuel>Fuelrod Handling Truck</entityname.ekutility_handtruck_reactorfuel>
-  <entitydescription.ekutility_handtruck_reactorfuel>A hand truck with shielded pig for moving around fuel rods.</entitydescription.ekutility_handtruck_reactorfuel>
+  <entityname.fuelcrate>放射性物质储存箱</entityname.fuelcrate>
+  <entitydescription.fuelcrate>运输放射性物质和燃料棒的重型安全储存箱</entitydescription.fuelcrate>
+  <entityname.fueltransportcylinder>单燃料棒储存盒</entityname.fueltransportcylinder>
+  <entitydescription.fueltransportcylinder>一个单槽燃料棒储存物，比燃料棒箱小得多，非常安全，能存储在大多数储物柜或箱子中。</entitydescription.fueltransportcylinder>
+  <entityname.ekutility_handtruck_reactorfuel>燃料棒装卸车</entityname.ekutility_handtruck_reactorfuel>
+  <entitydescription.ekutility_handtruck_reactorfuel>一种装有屏蔽层的手推车，用于运输燃料棒。</entitydescription.ekutility_handtruck_reactorfuel>
   <!-- Reactor items -->
-  <entityname.fuelrod>Uranium fuel rod</entityname.fuelrod>
-  <entitydescription.fuelrod>Standard nuclear fuel rod.</entitydescription.fuelrod>
-  <entityname.thoriumfuelrod>Thorium fuel rod</entityname.thoriumfuelrod>
-  <entitydescription.thoriumfuelrod>Thorium fuel rods can last up to three time as long as uranium rods.</entitydescription.thoriumfuelrod>
-  <entityname.fulguriumfuelrod>Fulgurium fuel rod</entityname.fulguriumfuelrod>
-  <entitydescription.fulguriumfuelrod>Fulgurium fuel rods might not provide as much heat as any other fuel rods, but has extreme longevity.</entitydescription.fulguriumfuelrod>
-  <entityname.fulguriumfuelrodvolatile>Volatile Fulgurium Fuel Rod</entityname.fulguriumfuelrodvolatile>
-  <entitydescription.fulguriumfuelrodvolatile>An amalgam rod of incendium and fulgurium, it doesn't have the potency of incendium and the longevity of fulgurium but has roughly half their respective strength but for nearly all their drawbacks.</entitydescription.fulguriumfuelrodvolatile>
-  <entityname.ekutility_incendiumfuelrod>Incendium fuel rod</entityname.ekutility_incendiumfuelrod>
-  <entitydescription.ekutility_incendiumfuelrod>Incendium fuel rods are extremely potent but also very unstable and flammable. Impact sensitive even when stored properly.</entitydescription.ekutility_incendiumfuelrod>
-  <entityname.supercritical_incendium>Supercritical incendium rod</entityname.supercritical_incendium>
-  <entitydescription.supercritical_incendium>This fuel rod has reached a supercritical state during the meltdown and is at risk of unleashing all its energy at once at the slightest impact, its realeased energy is enough to damage the hull around it but also seem to drain it quickly.</entitydescription.supercritical_incendium>
-  <entityname.supercritical_fulgurium>Supercritical volatile fulgurium rod</entityname.supercritical_fulgurium>
-  <entitydescription.supercritical_fulgurium>This fuel rod has reached a supercritical state during the meltdown and is at risk of unleashing all its energy at once at the slightest impact, its realeased energy is enough to damage the hull around it but also seem to drain it quickly. However the fulgurium amalgam make it burn much longer</entitydescription.supercritical_fulgurium>
-  <entityname.molten_rods>Corium</entityname.molten_rods>
-  <entitydescription.molten_rods>Solidified radioactive magma, emits an extreme amount of radiation.</entitydescription.molten_rods>
+  <entityname.fuelrod>铀燃料棒</entityname.fuelrod>
+  <entitydescription.fuelrod>标准核燃料棒。</entitydescription.fuelrod>
+  <entityname.thoriumfuelrod>钍燃料棒</entityname.thoriumfuelrod>
+  <entitydescription.thoriumfuelrod>钍燃料棒的使用寿命是铀燃料棒的三倍。</entitydescription.thoriumfuelrod>
+  <entityname.fulguriumfuelrod>雷素燃料棒</entityname.fulguriumfuelrod>
+  <entitydescription.fulguriumfuelrod>雷素燃料棒提供的热量可能不如其他燃料棒多，但使用寿命很长。</entitydescription.fulguriumfuelrod>
+  <entityname.fulguriumfuelrodvolatile>挥发性雷素燃料棒</entityname.fulguriumfuelrodvolatile>
+  <entitydescription.fulguriumfuelrodvolatile>这是一种由燃素和雷素混合而成的燃料棒，它有一半的燃素的效力和雷素的寿命但拥有几乎全部的缺点。</entitydescription.fulguriumfuelrodvolatile>
+  <entityname.ekutility_incendiumfuelrod>燃素燃料棒</entityname.ekutility_incendiumfuelrod>
+  <entitydescription.ekutility_incendiumfuelrod>燃素燃料棒非常有效，但也非常不稳定和易燃。即使正确储存，也对冲击非常敏感。</entitydescription.ekutility_incendiumfuelrod>
+  <entityname.supercritical_incendium>超临界燃素燃料棒</entityname.supercritical_incendium>
+  <entitydescription.supercritical_incendium>这个燃料棒在熔毁过程中已经达到了超临界状态，有可能在最轻微的撞击中释放出所有的能量，其释放的能量足以损坏周围的船体，但似乎也会很快耗尽。</entitydescription.supercritical_incendium>
+  <entityname.supercritical_fulgurium>超临界挥发雷素燃料棒</entityname.supercritical_fulgurium>
+  <entitydescription.supercritical_fulgurium>这个燃料棒在熔毁过程中已经达到了超临界状态，有可能在最轻微的撞击中释放出所有的能量，其释放的能量足以损坏周围的船体，但似乎也会很快耗尽。然而，内含的雷素会使它燃烧的时间更长</entitydescription.supercritical_fulgurium>
+  <entityname.molten_rods>Corium熔融堆芯</entityname.molten_rods>
+  <entitydescription.molten_rods>凝固的放射性燃料会释放出大量的辐射。</entitydescription.molten_rods>
   <!-- Explosive weapon items -->
-  <entityname.nukerod>Crisis warhead</entityname.nukerod>
-  <entitydescription.nukerod>Impact sensitive tactical warhead made from supercritical alien materials. Best effect when maximizing the target surface area.</entitydescription.nukerod>
-  <entityname.nukerodenhanced>Enhanced Crisis warhead</entityname.nukerodenhanced>
-  <entitydescription.nukerodenhanced>Crisis warhead enhanced with fissile materials. Best effect when maximizing the target surface area.</entitydescription.nukerodenhanced>
+  <entityname.nukerod>Crisis warhead危机弹头</entityname.nukerod>
+  <entitydescription.nukerod>由超临界外星材料制成的撞击敏感战术弹头。最大化目标表面积时达到最佳效果。</entitydescription.nukerod>
+  <entityname.nukerodenhanced>Enhanced Crisis warhead增强型危机弹头</entityname.nukerodenhanced>
+  <entitydescription.nukerodenhanced>核裂变材料增强的危机弹头。最大化目标表面积时达到最佳效果。</entitydescription.nukerodenhanced>
   <!-- Misc/material items -->
-  <entityname.geigercounter>Geiger counter</entityname.geigercounter>
-  <entitydescription.geigercounter>Small device translating nearby radiation levels into audio and visual cues. Also passively monitor its carrier for radiation poisoning.</entitydescription.geigercounter>
-  <entityname.iodine>Iodine</entityname.iodine>
-  <entityname.du_p_alloy>Depleted uranium - physicorium alloy</entityname.du_p_alloy>
-  <entitydescription.du_p_alloy>Extremely sturdy and heavy alloy.</entitydescription.du_p_alloy>
-  <entityname.AI_microchip>AI microchip</entityname.AI_microchip>
-  <entitydescription.AI_microchip>AI controller for stasis emitters.</entitydescription.AI_microchip>
-  <entityname.stasisemitter>Stasis emitter array</entityname.stasisemitter>
-  <entitydescription.stasisemitter>Emitter array of a stasis field generator used for reinforced rod storage container.</entitydescription.stasisemitter>
-  <entityname.fueltrasnportcylinderreinforced>Reinforced single unit fuel rod carrier</entityname.fueltrasnportcylinderreinforced>
-  <entitydescription.fueltrasnportcylinderreinforced>A heavely reinforced rod storage with build in stasis system for extreme hazards containement. Can only be filled at a fabricator.</entitydescription.fueltrasnportcylinderreinforced>
-  <entityname.iodinecrystal>Diiodine crystal</entityname.iodinecrystal>
-  <entitydescription.iodinecrystal>Crystals made exclusively out of iodine</entitydescription.iodinecrystal>
-  <entityname.manual>Reactor operating manual</entityname.manual>
-  <entitydescription.manual>Contains all important elements around nuclear reactors and its related hazards.</entitydescription.manual>
+  <entityname.geigercounter>盖革计数器</entityname.geigercounter>
+  <entitydescription.geigercounter>将附近的辐射水平转化为音频和视频提示的小设备。也被用于观察操作者的辐射中毒。</entitydescription.geigercounter>
+  <entityname.iodine>碘</entityname.iodine>
+  <entityname.du_p_alloy>贫铀刚素合金</entityname.du_p_alloy>
+  <entitydescription.du_p_alloy>极其坚固和沉重的合金。</entitydescription.du_p_alloy>
+  <entityname.AI_microchip>AI芯片</entityname.AI_microchip>
+  <entitydescription.AI_microchip>屏蔽发射器的AI控制器。</entitydescription.AI_microchip>
+  <entityname.stasisemitter>Stasis emitter array屏蔽发射器阵列</entityname.stasisemitter>
+  <entitydescription.stasisemitter>用于燃料棒储存容器的静态场发生器的发射器阵列</entitydescription.stasisemitter>
+  <entityname.fueltrasnportcylinderreinforced>增强型单燃料棒储存盒</entityname.fueltrasnportcylinderreinforced>
+  <entitydescription.fueltrasnportcylinderreinforced>一个重型加固的存储盒，内置静储系统，用于极端危险遏制。只能在制造商处补充。</entitydescription.fueltrasnportcylinderreinforced>
+  <entityname.iodinecrystal>二碘晶体</entityname.iodinecrystal>
+  <entitydescription.iodinecrystal>完全由碘组成的晶体</entitydescription.iodinecrystal>
+  <entityname.manual>反应堆操作手册</entityname.manual>
+  <entitydescription.manual>包含核反应堆及其相关的所有重要元素。</entitydescription.manual>
   <terminalwelcomemsg.manual>
 
-______________________________Europa's Nuclear submarine reactor operating manual v2.6____________________________
+________________________________木卫二潜艇反应堆操作手册 v2.6______________________________
 
 
-_________________________________________________Summary__________________________________________________
+________________________________________目录_________________________________________
 
 
- I.   Introduction
- II.  Reactor operating hazards
- III. Reactor crisis management
- IV.  Fuel rod hazards
- V.   Europa Coalition's ban on certain alien materials
- VI.  Radiation, contamination and medical care
+ I.   介绍
+ II.  反应堆运行的危险
+ III. 反应堆危险管理
+ IV.  燃料棒的危险
+ V.   木卫二联盟对某些外星材料的禁令
+ VI.  辐射、污染和医疗
 
 
-________________________________________________I. Introduction______________________________________________
+________________________________________________I. 介绍______________________________________________
 
 
-First off, congratulation on owning or operating a nuclear submarine in Europa's ocean.
+首先，祝贺你能在木卫二的海洋中拥有或操作一艘核潜艇。
 
-While the ocean of Europa are as treacherous as extremely dangerous. Some of the biggest dangers lays inside the safe walls of your own submarine.
+木卫二的海洋诡谲多变、险恶莫测。而最危险的一部分正存在于你潜艇的内部。
 
-Nuclear power might be the beating heart of your submarine but its also one of the biggest threat if not regulary maintained.
+核能可能是你潜艇的心脏，但如果不对其进行定期维护，它将会成为高悬于全员头顶的达摩克里斯之剑。
 
-This standart issue manual is here to inform you and your crew of all its dangers and how to tackle them.
+本标准发行手册旨在告知你和你的船员关于可能遭遇的所有的危险以及如何应对它们。
 
-Important note :
+请注意 :
 
--PUCS have proven to offer full radiation protection, abyss suit with its enhanced environmental protection grants 90% resistance and any other suits protection are rated at 75%.
--All diving suit are closed breathing apparatus and therefore fully protects against radioactive materials contamination.
-
-
-__________________________________________II. Reactor operating hazards_______________________________________
+-PUCS拥有完全的辐射防护能力, 拥有环境防护增强的深渊潜水服拥有90%的辐射防护而其他潜水服则是75%的防护。
+-所有潜水服都是封闭式呼吸装置，因此可以完全防止放射性物质污染。
 
 
-Due to the usualy short lifespan of a standart submarine crew little incentive has been made to make it safe to use avaiable nuclear reactors.
-
-Nuclear reactor are outfitted with a geiger counter wich tick rate sounds informs the crew of the current reactor room radiation levels. Hearing it means the room is unsafe for long exposure.
-
-For this reason personel having to stay for extended periods in the reactor room need at least to be wearing a nuclear engineer jumpsuit.
-
-As the reactor gets more and more damaged the leaked radiation output will increase, therefore appropriate safety gear and medication are highly recommended.
-
-Powering down the reactor will stop ambiant radiations as long its not too damaged.
-
-The reactor also won't emit radiations at all as long its in good condition.
-
-Standart reactor repair safety procedure
-
-Nuclear reactor are difficult to maintain and multiple accident with lethal consequences have been reported all over Europa already.
-
-So keep following the following procedures to repair it :
-
--Step 1 : Wear a protective suit at all time, idealy a PUCS due to its complete radiation protection, alternatively an abyss suit combined with potassium iodide offer high radiation protection too.
--Step 2 : Shut down reactor completely (temperature at 0 and lights turned off)
--Step 3 : Repair reactor.
+__________________________________________II. 反应堆运行的危险_______________________________________
 
 
-WARNING Repairing a running reactor has high chance to cause a contaminated steam gaz explosion further damaging the reactor and irradiate all nearby personel.
-WARNING Untrained rewiring of the reactor can lead to a fatal electroshock accident.
+由于一般潜艇艇员的寿命通常很短，所以很少鼓励人们安全使用可用的核反应堆。
+
+核反应堆配备了盖革计数器，其滴答声能通知船员当前反应堆室的辐射水平。听到它意味着长时间在房间内活动是不安全的。“盖革一响，爹妈白养。”这道理你是懂的。
+
+正因此，必须长时间呆在反应堆室内的人员至少也需要穿上核工程师工作服。
+
+随着反应堆损坏越来越严重，泄漏的辐射量将会增加，因此强烈建议使用合适的防护装置和服用药物。
+
+关掉反应堆会阻止周围的辐射泄露，只要反应堆没有坏得太严重。
+
+只要反应堆处于良好状态，它就不会发出任何辐射。
+
+标准反应堆维修安全程序
+
+核反应堆很难维护，在整个木卫二已经报道了多起致命事故。
+
+因此，请遵循以下程序对其进行修复:
+
+-第一步:任何时候都要穿防护服，最好是PUCS防护服，因为它有完全的防辐射功能，或者是深渊防护服加碘化钾也能提供高水平的防辐射保护。
+-第二步:完全关闭反应器(温度为0，灯关闭)
+-第三步:修复反应堆。
+
+
+警告:维修运行中的反应堆很有可能导致受污染蒸汽爆炸，进一步损坏反应堆并辐射附近的人员。
+警告：未经培训就对反应器重新布线可能导致致命的电击事故。
   
   
-____________________________________________III. Reactor crisis management______________________________________
+____________________________________________III. 反应堆危险管理______________________________________
 
 
-Reactor crisis are to be treated as primary emergency and to be dealt with it ASAP.
-To warn the crew of an impending crisis, reactors have outfited with a 3 stage alarm system, 2 of which are classed as crisis alarms.
+反应堆危机将被视为严重紧急情况，必须尽快处理。
+为了对船员警报即将到来的危机，反应堆配备了三级警报系统，其中两级被归类为危机警报。
 
-Important notes regarding crisis alarms:
-Those alarms are also a warning about the reactor leaking both dangerous heat levels via superheated steam from a coolant system rupture wich include radioactive contaminant. Reactor shutdown will not stop the meltdown at this point.
+关于危机警报的重要注意事项:
+这些警报也是对反应堆泄漏危险热量水平的警告，这些热量来自冷却剂系统破裂产生的过热蒸汽，其中含有放射性污染物。此时关闭反应堆不会停止熔毁。
 
-Crisis alarms give the crew less than a minute before the reactor detonate.
+危机警报警告船员反应堆将在一分钟内爆炸。
 
-Alarms sound description and recommended actions:
+警报声音描述和建议措施:
 
-Alarm 1 : Deep sounding buzz, overheat alarm.
-Lower fission rate ; Wait for it to self stabilize ; Remove excess rods
+警报1:低沉的蜂鸣声，过热警报。
+调低的裂变率；等待它自己稳定下来；移除多余的燃料棒
 
-Alarm 2 : Old overheating alarm, crisis stage 1 alarm.
-Put protective gear and move in to remove ALL contained fuel rods.
+警报2:老过热警报，危机阶段1警报
+穿上防护装备，移除所有的燃料棒。
 
-Alarm 3 : Lo/Hi alarm, crisis stage 2 alarm.
-All crew not assisting with the reactor are required to get inside a diving suit and keep maximum distance with the reactor.
-Immediately put whatever protective gear you can find then move in and remove ALL contained fuel rods ASAP, beware of fire hazard.
+警报3:低/高警报，危机阶段2警报。
+所有无关工作人员立刻穿上潜水服并尽可能与反应堆保持最大距离。
+立即穿上你能找到的任何防护装备，然后尽快进入反应堆室并移除所有的燃料棒，注意小心火灾。
 
-If the reactor room is equiped with a emergency flooding system : completely flood the reactor room : the water will prevent it to explode when the core gets exposed. Though it will still be destroyed and the fuel lost.
+如果你的反应堆室安装了紧急注水系统:完全淹没反应堆室，当堆芯熔毁时，水将防止它爆炸。虽然它还是会被摧毁且燃料也会流失。
 
-Note : The meltdown scenario of a reactor is dependent if fuel was contained or not and wich rods were present when the reactor is destroyed when not flooded.
+注:反应堆的熔毁情况取决于燃料棒是否在反应堆中，以及当反应堆在未被淹没的情况下被摧毁时，有哪些燃料棒存在。
 
-Beware incendium rods and its variants are impact sensitive and will explode when handled roughly.
+当心各种对冲击敏感的燃烧棒，粗暴处理它们时也会爆炸。
 
-When repairing the reactor after a meltdown refere to the repair safety procedure, the reactor should be considered an extreme radiation hazard at this point.
+在熔毁后维修反应堆时，参考维修安全程序，此时反应堆应被视为极端辐射危险。
   
 
-__________________________________________IV. Fuel rods hazards_______________________________________________
+__________________________________________IV. 燃料棒的危险_______________________________________________
 
-Important information before dealing with this section, the fissile materials used in the manufacture of fuel rods must be stored in a secure crate or in a room isolated from the crew.
-Although their emissions are low, storing large quantities of these materials in one place can be as dangerous as a radiation leak from a reactor.
+重要信息:在处理本节内容之前，用于制造燃料棒的裂变材料必须储存在安全的板条箱中或船员禁入的房间中。
+虽然它们的辐射量很低，但是在一个地方储存大量的这些材料可能会像反应堆的辐射泄漏一样危险。
 
-Fuel rods have multiple layers of lethal hazards attached to them and untrained personel will cause a lot more harm than good manipulating them. A rod is deemed hazardous once its partialy or completely depleted, it will be glowing at this point.
-Unless placed inside of a running reactor, rods are *nearly* totaly safe to handle.
-Once active however, rods are to be treated with extreme care and stored in the following appropriate containers :
+燃料棒附有多层致命危险，未经训练的人员会造成比标准操作更多的危害。 一根燃料棒一旦部分或完全耗尽就是危险的，而且此时它会发光。
+除非放在运行的反应堆里，否则燃料棒*几乎*是完全安全的。
+然而，一旦激活，就应极其小心地处理燃料棒，并将其储存在以下容器中:
 
--Radioactive material storage crate
--Fuel handling trucks
--Single unit rod carrier
--The reactor itself
+-放射性物质储存箱
+-燃料棒装卸车
+-单燃料棒储存盒
+-反应堆中
 
-There are 2 type of fuel rod hazards different for each fuel rod :
+燃料棒有两种不同的危害:
 
--Active rod hazards
--Meltdown hazards
+-激活危害
+-熔毁危害
 
-Rod hazards
+燃料棒危险：
 
-Any rods that are active will severly burn anyone holding it bare handed, due to the simple fact the rod is still over 2800°C hot. Also unsurprisingly, they tend to start fires.
+任何激活的燃料棒都会严重烧伤任何赤手空拳拿着它的人，原因显而易见，燃料棒的温度超过2800摄氏度。同理，它们也会引起火灾。
 
-Uranium/Thorium rods
+铀/钍燃料棒
 
-Active hazard : Radiation, half as much for thorium rod.
+激活危害:辐射，铀棒辐射是钍棒的一半。
 
-Meltdown hazard : Massive irradiation and contamination on a very large area.
-
-
-Incendium rods
-
-WARNING Impact sensitive even when properly stored, place the rods in a carrier crate and store it in a crate rack to truly secure them.
-
-Active hazard : Extreme heat generation burning surrounding personel even when in the reactor wich also gets damaged while operating with one, quickly melts any hulls its in contact with.
-
-Meldtodwn hazard : See combat observation report. 
-
-Usage warning : The energy potential of the rod is so high reactors are not meant to use them without permanent supervision, the heat generated make the reactor degrade much faster than usual and will even cause burns on nearby personnel through its heat shield.
+熔毁危害:大面积的严重辐射和污染。
 
 
-Fulgurium rods
+燃素燃料棒
 
-Active hazard : Electrical anomaly rapidely damaging junction boxes, this effects is always active. Do not carry the rod outside safe containers.
+警告：碰撞敏感，即使是在正确储存时，也要将棒放在运输板条箱或储存盒中以确保其安全。
 
-Meltdown hazard : Massive EMP destroying all electronics.
+激活危害: 极端的热量产生，周围的人会烧伤，即使是在反应堆中，操作反应堆时也会被损坏，迅速融化接触到的船壳。
 
-Reports of nearby submarine crews having also suffered from the EMP despite being far away, implying the range of the pulse to be extremely large and akin to an actual EMP warhead.
+熔毁危害: 见战斗观察报告。
 
-
-Volatile fulgurium rods
-
-WARNING Impact sensitive even when properly stored, place the rods in a carrier crate and store it in a crate rack to truly secure them.
-
-Active hazard : Electrical anomaly rapidely damaging junction boxes, this effects is always active. Do not carry the rod outside safe containers. Thermal hazard able to melt hulls.
-
-Meltdown hazard : Massive EMP, see combat observation report.
+使用警告 : 此燃料棒的所蕴含的能量如此之高，以致反应堆不应该在没有监视的情况下使用它们，其产生的热量使反应堆比通常情况下损耗得更快，甚至会透过其隔热罩烧伤附近的人员。
 
 
-Observation report: The European Coalition marine corps during skirmishes with Jovian Separatists submarine have sometime witnessed reactor shots causing a out of scale explosion, followed by a bright flare like light seemingly melting away whats left of the sub's wreck before disapearing during a massive secondary explosion when impacting the ground.
+雷素燃料棒
 
-Scientists speculate fuel rod materials may react to a meltdown, collecting them would require a specialy designed container, heavy protection and a lot of planning.
+激活危害: 电压不稳会迅速损坏接线盒，这种影响将一直存在。不要将燃料棒放在安全的容器外。
+
+熔毁危害 : 大规模电磁脉冲摧毁所有电子设备。
+
+据报道，附近的潜艇也遭受了电磁脉冲，尽管它们离得很远，这意味着脉冲的范围非常大，类似于电磁脉冲弹头。
+
+
+挥发性雷素燃料棒
+
+警告：碰撞敏感，即使是在正确储存时，也要将棒放在运输板条箱或储存盒中以确保其安全。
+
+激活危害 : 电压不稳会迅速损坏接线盒，这种影响将一直存在。不要将燃料棒放在安全的容器外。热量危害能够熔化船体。
+
+熔毁危害: 大规模电磁脉冲，见战斗观察报告。
+
+
+观察报告:木卫二联盟海军陆战队在与分离主义者潜艇的战斗中，有时会目睹反应堆爆炸引起的大规模爆炸，随后是明亮的耀斑状的光，似乎融化了潜艇残骸的剩余部分，然后在撞击地面的大规模二次爆炸中消失。
+
+科学家推测燃料棒材料可能会对熔毁产生影响，收集它们需要一个特殊设计的容器、严密的保护和大量的计划。
   
   
-_______________________________________V.Europa Coalition's ban on certain alien materials_______________________________
+_______________________________________V.木卫二联盟对某些外星材料的禁令_______________________________
 
 
-In the aftermath of the total loss of the Debral 3 European Coalition garrison to a terror attack from the Jovian Separatists using an unknown explosive which contained traces of certain alien materials.
+在 Debral 3木卫二联盟驻军因木星分离主义者使用一种含有某些外星物质的未知炸药的恐怖袭击而完全损伤之后。
 
-The European Coalition have issued the following order :
+木卫二联盟已经发布了如下命令:
 
-European Coalition controlled military and research outpost are hereby the ONLY outpost allowed to own, store, sell or buy incendium and fulgurium along any item making use of those.
-Non compliance will be taken as support to the Jovian separatist, the Coalition will make use of lethal force if needed to reclaim the contreband.
+木卫二联盟控制的军事和研究前哨站是唯一被允许拥有、储存、出售或购买燃素和雷素以及任何使用它们的物品的前哨站。
+不服从本条命令将被视为对木星分离势力的支持，如果必要的话，联盟不介意使用致命武力来夺回控制权。
  
  
-_____________________________________VI. Radiation, contamination and medical care_____________________________
+_____________________________________VI.  辐射、污染和医疗_____________________________
 
 
-Radiation, also nicknamed the invisible death, is not to be taken lightly.
+辐射，也被称为无形的死亡，绝不可轻视。
 
-While the body can purge it slowly over time it is recommended to use anti radiation medication as soon as the first symptoms appears :
+虽然身体可以随着时间的推移慢慢清除，但建议在最初症状出现时立即使用抗辐射药物:
 
--Chronic burns
--Nausea
--Visual impairement
+症状表现为：
 
-Radioactive contamiantion is characterized by chronic irradiation.
+-慢性烧伤
+-恶心
+-视觉效果
 
-While antirad quickly cure both, its avaiability and price make it more of an emergency drug.
+放射性污染的特征是受到长期照射。
 
-DTPA is cheaper and easier to get by albeit is much slower on its active effect.
+虽然抗辐宁能迅速治愈这两种疾病，但它的易获得性和价格使它更像是一种急救药物。
 
-Radioprotectant, also called Potassium Iodide, helps to prevent both irradiation and radioactive contamination but has no curing effects neither does it protect against lethal radiation sources.
+DTPA更便宜，也更容易通过，尽管其药效相对而言要慢得多。
 
-In order to limit radiation induced death all submarine comes equiped with one Geiger counter in their reactor cab, carrying it will automaticaly pick up radiations and display via visual and audio cues their intensities. 
+辐射防护剂，也称为碘化钾，有助于防止辐射和放射性污染，但没有治疗效果，也不能防止致命的辐射源。
 
-It is also the only way to check if a crew member is irradiated without having obvious symptoms.
+为了限制辐射导致的死亡，所有潜艇都在反应堆驾驶室中配备了一个盖革计数器，它将自动检测辐射并通过视觉和听觉提示显示其强度。
 
-Note that deconstructing radioactive materials require adequate protection as it will expose nearby personnel to radioactive that will contaminate them.
+这也是在没有明显症状的情况下检查船员是否受到辐射的唯一方法。
 
-Prolonged exposure to high radiation or even short exposure to extremely radioactive materials can lead to acute radiation syndrome (ARS), this should be taken as a medical emergency as without treatment the victim will die in a few minutes.
+请注意，分解放射性材料需要足够的保护，因为它会使附近的人员暴露在放射性物质中，从而污染他们。
 
-Symptoms are :
+长时间暴露在高辐射下，甚至短时间暴露在高放射性物质下，都会导致急性辐射综合征(ARS)，这应被视为医疗紧急情况，因为如果不进行治疗，患者将在几分钟内死亡。
+    
+症状表现为:
 
--Burns and internal damage throughout the entire body.
--Extreme weakness and difficulty to stand.
--Frequent vomiting of blood.
--Visual impairement.
--Uncounsciousness.
+-全身烧伤和内脏损伤。
+-极度虚弱，难以站立。
+-经常吐血。
+-视觉效果
+-失去意识.
 
-Only anti-rad drug or large dose of stabilosine can save one at this point.
+此时只有抗辐宁和大剂量的疗素才能救回来。
 
-Irradiation and radioactive contamination are of the leading cause of lethal DNA degradation, refered here as DNA damage, on Europa.
+辐射和放射性污染是木卫二上致命的DNA降解的主要原因，在这里称为DNA损伤。
 
-DNA damage
+DNA损伤
 
-DNA degradation occure when irradiated, contaminated or both and is extremely lethal.
+当受到辐射、污染或两者同时发生时，DNA降解就会发生，且极其致命。
 
-Symptoms includes :
+症状表现为:
 
--Weakness
--Blood vomiting
+-虚弱
+-吐血
 
-If left untreated DNA damage will cause blood loss, internal damage and in the worst case total organ failure.
+如果不进行治疗，DNA损伤会导致失血、内脏损伤，在最坏的情况下会导致器官衰竭。
 
-DNA stabilizer, while meant to be a mean to boost life expectancy for some of the residents of Europa, has been proven to be effective against radiation induced cellular degradation.
+DNA稳定剂虽然是为了提高木卫二上一些居民的预期寿命，但已被证明能有效对抗辐射引起的细胞退化。
 
-However the medecine is expensive and just as dangerous if not injected by a skilled doctor.
+然而，这种药很贵，如果不是由熟练的医生注射，也同样危险。
 
-Reports of botched injections have been saying it to not only have little positive effects but also cause severe internal damage in the process.
+报道称，拙劣的注射不仅没有什么积极效果，还会在注射过程中造成严重的内脏损伤。
  
  </terminalwelcomemsg.manual>
 </infotexts>

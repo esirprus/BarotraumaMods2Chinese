@@ -1,40 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <infotext language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
   <!-- Outpost Name -->
-  <mlc.pirateoutpost>Pirate Base</mlc.pirateoutpost>
+  <mlc.pirateoutpost>海盗基地</mlc.pirateoutpost>
   <!-- Pirate Titles -->
-  <npctitle.piratemedicrecruit>Pirate Medic Recruit</npctitle.piratemedicrecruit>
-  <npctitle.piratemedic>Pirate Medic</npctitle.piratemedic>
-  <npctitle.pirateflamer>Pirate Flamer</npctitle.pirateflamer>
-  <npctitle.piratedeadeye>Pirate Deadeye</npctitle.piratedeadeye>
-  <npctitle.pirateberserker>Pirate Berserker</npctitle.pirateberserker>
-  <npctitle.piratefanatic>Pirate Fanatic</npctitle.piratefanatic>
-  <npctitle.piratetank>Pirate Juggernaut</npctitle.piratetank>
-  <npctitle.piratevolitile>Volitile Pirate</npctitle.piratevolitile>
+  <npctitle.piratemedicrecruit>海盗新募医疗兵</npctitle.piratemedicrecruit>
+  <npctitle.piratemedic>海盗医疗兵</npctitle.piratemedic>
+  <npctitle.pirateflamer>海盗喷火兵</npctitle.pirateflamer>
+  <npctitle.piratedeadeye>亡眼海盗</npctitle.piratedeadeye>
+  <npctitle.pirateberserker>狂战士海盗</npctitle.pirateberserker>
+  <npctitle.piratefanatic>海盗狂信者</npctitle.piratefanatic>
+  <npctitle.piratetank>巨人海盗</npctitle.piratetank>
+  <npctitle.piratevolitile>Volitile Pirate爆炸海盗？海盗掷弹兵？</npctitle.piratevolitile>
   <!-- Server Messages -->
-  <mlc.server.wrongversionclient>Your client is using the wrong version!\nClient: v[clientversion]  Server: v[serverversion]</mlc.server.wrongversionclient>
-  <mlc.server.wrongversion>Client [client] is using the wrong version!</mlc.server.wrongversion>
+  <mlc.server.wrongversionclient>你的客户端正在使用错误的版本！\nClient: v[clientversion]  Server: v[serverversion]</mlc.server.wrongversionclient>
+  <mlc.server.wrongversion>用户[client]使用着错误的版本！</mlc.server.wrongversion>
   <!-- Config -->
-  <mlc.config>More Level Content Settings</mlc.config>
+  <mlc.config>More Level Content模组设定</mlc.config>
   <!-- Pirate Config -->
-  <SettingsTab.PirateOutpost>Pirate Outposts</SettingsTab.PirateOutpost>
-  <mlc.config.piratespawnchance>Base Spawn Chance</mlc.config.piratespawnchance>
-  <mlc.config.piratespawnchancetooltip>The base chance for a pirate outpost to spawn, this is then further modified by the regions difficulty. Default is 0.</mlc.config.piratespawnchancetooltip>
-  <mlc.config.piratehuskchance>Base Husk Chance</mlc.config.piratehuskchance>
-  <mlc.config.piratehuskchancetooltip>The base chance for the pirate outpost to spawn with everyone on board husked. Default is 1.</mlc.config.piratehuskchancetooltip>
+  <SettingsTab.PirateOutpost>海盗哨站</SettingsTab.PirateOutpost>
+  <mlc.config.piratespawnchance>基础生成概率</mlc.config.piratespawnchance>
+  <mlc.config.piratespawnchancetooltip>海盗哨站生成的基础概率，在此基础上再依据地区难度进一步修改才得到最终概率。默认为0。</mlc.config.piratespawnchancetooltip>
+  <mlc.config.piratehuskchance>基础画皮感染概率</mlc.config.piratehuskchance>
+  <mlc.config.piratehuskchancetooltip>海盗哨站所有人生成时便感染画皮的基础概率。默认为1.</mlc.config.piratehuskchancetooltip>
   <mlc.config.piratespawnnoise>Spawn Noise</mlc.config.piratespawnnoise>
   <mlc.config.piratediffnoise>Difficulty Noise</mlc.config.piratediffnoise>
-  <mlc.config.piratedisplaysonar>Display On Sonar</mlc.config.piratedisplaysonar>
-  <mlc.config.piratedisplaysonartooltip>If a marker for the pirate base should appear on sonar</mlc.config.piratedisplaysonartooltip>
-  <mlc.config.piratescalediff>Scale Difficulty</mlc.config.piratescalediff>
-  <mlc.config.piratescaledifftooltip>If the difficulty of the pirates should scale with server members</mlc.config.piratescaledifftooltip>
-  <!-- Ruins Config -->
-  <SettingsTab.Ruins>Ruins</SettingsTab.Ruins>
+  <mlc.config.piratedisplaysonar>在声纳上显示</mlc.config.piratedisplaysonar>
+  <mlc.config.piratedisplaysonartooltip>是否在声纳上显示海盗哨站标记</mlc.config.piratedisplaysonartooltip>
+  <mlc.config.piratescalediff>难度随人数变化</mlc.config.piratescalediff>
+  <mlc.config.piratescaledifftooltip>海盗的难度是否随着服务器人数的增加而增加</mlc.config.piratescaledifftooltip>
+  <!-- Ruins Config -->   我的宝贝 在干嘛呢
+  <SettingsTab.Ruins>遗迹</SettingsTab.Ruins>
   <!-- Debug Config -->
-  <SettingsTab.Debug>Debug</SettingsTab.Debug>
-  <mlc.config.debugverbose>Verbose Logging</mlc.config.debugverbose>
-  <mlc.config.debugverbosetooltip>Enable verbose logging, provides detailed (but longer) logs</mlc.config.debugverbosetooltip>
-  <mlc.config.debuginternal>Internal Logging</mlc.config.debuginternal>
-  <mlc.config.debuginternaltooltip>Enable internal logging, which logs internal debugging messages to console</mlc.config.debuginternaltooltip>
+  <SettingsTab.Debug>调试</SettingsTab.Debug>
+  <mlc.config.debugverbose>Verbose日志</mlc.config.debugverbose>
+  <mlc.config.debugverbosetooltip>启用verbose日志,提供详尽（但是更冗长）的日志</mlc.config.debugverbosetooltip>
+  <mlc.config.debuginternal>Internal日志</mlc.config.debuginternal>
+  <mlc.config.debuginternaltooltip>启用internal日志,能将内部调试信息记录到控制台中</mlc.config.debuginternaltooltip>
   <!-- Talents -->
 </infotexts>
