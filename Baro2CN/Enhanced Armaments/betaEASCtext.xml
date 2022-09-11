@@ -778,7 +778,7 @@
   <entitydescription.scp_grenadeturretloader></entitydescription.scp_grenadeturretloader>
   <entityname.scp_grenadeturretboxhe>榴弹炮高爆榴弹弹药箱</entityname.scp_grenadeturretboxhe>
   <entitydescription.scp_grenadeturretboxhe>一箱用于榴弹炮塔的60*50mm高爆榴弹。</entitydescription.scp_grenadeturretboxhe>
-  <entityname.scp_grenadehe>高爆手雷</entityname.scp_grenadehe>
+  <entityname.scp_grenadehe>高爆榴弹</entityname.scp_grenadehe>
   <entitydescription.scp_grenadehe></entitydescription.scp_grenadehe>
   <entityname.scp_grenadeturretboxdevilsblood>“恶魔之血”榴弹弹药箱</entityname.scp_grenadeturretboxdevilsblood>
   <entitydescription.scp_grenadeturretboxdevilsblood>一箱60*50mm的“恶魔之血”榴弹，能够同时影响多个目标。</entitydescription.scp_grenadeturretboxdevilsblood>
