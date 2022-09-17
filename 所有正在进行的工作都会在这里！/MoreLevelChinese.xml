@@ -28,7 +28,7 @@
   <mlc.config.piratedisplaysonartooltip>是否在声纳上显示海盗哨站标记</mlc.config.piratedisplaysonartooltip>
   <mlc.config.piratescalediff>难度随人数变化</mlc.config.piratescalediff>
   <mlc.config.piratescaledifftooltip>海盗的难度是否随着服务器人数的增加而增加</mlc.config.piratescaledifftooltip>
-  <!-- Ruins Config -->   我的宝贝 在干嘛呢
+  <!-- Ruins Config -->
   <SettingsTab.Ruins>遗迹</SettingsTab.Ruins>
   <!-- Debug Config -->
   <SettingsTab.Debug>调试</SettingsTab.Debug>

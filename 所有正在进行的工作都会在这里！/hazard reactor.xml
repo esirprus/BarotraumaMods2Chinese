@@ -56,12 +56,12 @@
   <entitydescription.supercritical_incendium>这个燃料棒在熔毁过程中已经达到了超临界状态，有可能在最轻微的撞击中释放出所有的能量，其释放的能量足以损坏周围的船体，但似乎也会很快耗尽。</entitydescription.supercritical_incendium>
   <entityname.supercritical_fulgurium>超临界挥发雷素燃料棒</entityname.supercritical_fulgurium>
   <entitydescription.supercritical_fulgurium>这个燃料棒在熔毁过程中已经达到了超临界状态，有可能在最轻微的撞击中释放出所有的能量，其释放的能量足以损坏周围的船体，但似乎也会很快耗尽。然而，内含的雷素会使它燃烧的时间更长</entitydescription.supercritical_fulgurium>
-  <entityname.molten_rods>Corium熔融堆芯</entityname.molten_rods>
+  <entityname.molten_rods>熔融堆芯</entityname.molten_rods>
   <entitydescription.molten_rods>凝固的放射性燃料会释放出大量的辐射。</entitydescription.molten_rods>
   <!-- Explosive weapon items -->
-  <entityname.nukerod>Crisis warhead危机弹头</entityname.nukerod>
+  <entityname.nukerod>危机弹头</entityname.nukerod>
   <entitydescription.nukerod>由超临界外星材料制成的撞击敏感战术弹头。最大化目标表面积时达到最佳效果。</entitydescription.nukerod>
-  <entityname.nukerodenhanced>Enhanced Crisis warhead增强型危机弹头</entityname.nukerodenhanced>
+  <entityname.nukerodenhanced>增强型危机弹头</entityname.nukerodenhanced>
   <entitydescription.nukerodenhanced>核裂变材料增强的危机弹头。最大化目标表面积时达到最佳效果。</entitydescription.nukerodenhanced>
   <!-- Misc/material items -->
   <entityname.geigercounter>盖革计数器</entityname.geigercounter>
@@ -70,12 +70,12 @@
   <entityname.du_p_alloy>贫铀刚素合金</entityname.du_p_alloy>
   <entitydescription.du_p_alloy>极其坚固和沉重的合金。</entitydescription.du_p_alloy>
   <entityname.AI_microchip>AI芯片</entityname.AI_microchip>
-  <entitydescription.AI_microchip>屏蔽发射器的AI控制器。</entitydescription.AI_microchip>
-  <entityname.stasisemitter>Stasis emitter array屏蔽发射器阵列</entityname.stasisemitter>
-  <entitydescription.stasisemitter>用于燃料棒储存容器的静态场发生器的发射器阵列</entitydescription.stasisemitter>
+  <entitydescription.AI_microchip>静滞立场发射器的AI控制器。</entitydescription.AI_microchip>
+  <entityname.stasisemitter>静滞立场发生器阵列</entityname.stasisemitter>
+  <entitydescription.stasisemitter>用于燃料棒储存容器静滞立场的发生器阵列。</entitydescription.stasisemitter>
   <entityname.fueltrasnportcylinderreinforced>增强型单燃料棒储存盒</entityname.fueltrasnportcylinderreinforced>
-  <entitydescription.fueltrasnportcylinderreinforced>一个重型加固的存储盒，内置静储系统，用于极端危险遏制。只能在制造商处补充。</entitydescription.fueltrasnportcylinderreinforced>
-  <entityname.iodinecrystal>二碘晶体</entityname.iodinecrystal>
+  <entitydescription.fueltrasnportcylinderreinforced>一个重型加固的存储盒，内置静滞系统，用于极端危险遏制。只能在制造商处补充。</entitydescription.fueltrasnportcylinderreinforced>
+  <entityname.iodinecrystal>碘晶体</entityname.iodinecrystal>
   <entitydescription.iodinecrystal>完全由碘组成的晶体</entitydescription.iodinecrystal>
   <entityname.manual>反应堆操作手册</entityname.manual>
   <entitydescription.manual>包含核反应堆及其相关的所有重要元素。</entitydescription.manual>
@@ -145,8 +145,8 @@ __________________________________________II. 反应堆运行的危险__________
 ____________________________________________III. 反应堆危险管理______________________________________
 
 
-反应堆报警是超紧急情况，不想全船寄掉的话就必须尽快处理。
-为了警告船员大的要来了，反应堆配备了三级警报系统，其中两级被归类为危机警报。
+反应堆报警是超紧急情况，必须尽快处理。
+为了向船员发出警告，反应堆配备了三级警报系统，其中两级被归类为危机警报。
 
 关于危机警报的重要注意事项:
 这些警报也是对反应堆泄漏危险热量水平的警告，这些热量来自冷却剂系统破裂产生的过热蒸汽，其中含有放射性污染物。此时关闭反应堆不会停止熔毁。
@@ -195,7 +195,7 @@ __________________________________________IV. 燃料棒的危险________________
 
 燃料棒的危险：
 
-任何激活的燃料棒都会严重烧伤任何赤手空拳拿着它的人，连铸币都知道燃料棒此时的温度已经超过了2800摄氏度。同理，它们也会点着周围的东西。
+任何激活的燃料棒都会严重烧伤任何赤手空拳拿着它的人，毕竟燃料棒此时的温度已经超过了2800摄氏度。同理，它们也会点着周围的东西。
 
 铀/钍燃料棒
 

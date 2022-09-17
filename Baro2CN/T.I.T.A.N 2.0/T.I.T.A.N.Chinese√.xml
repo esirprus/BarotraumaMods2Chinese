@@ -1,37 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<infotexts language="English" nowhitespace="false" translatedname="English">
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
   <!--
 	<entityname.REPLACEMENAME>REPLACEME</entityname.REPLACEMENAME>
 	<entitydescription.REPLACEMEDESC>REPLACEME</entitydescription.REPLACEMEDESC>
 	
 	-->
-  <entityname.titansuit>T.I.T.A.N. warsuit</entityname.titansuit>
-  <entitydescription.titansuit>If you though A.B.Y.S.S. units were though, wait until you see this beauty of destruction in action. Powered by a portal battery with 10min of use time and charged by the same reactor of a submarine, this suit guarantees the user doesn't die as long as it has power. Small creatures can barely scratch it, big ones have difficulty chewing it. It's slow when used in land, but thanks to the power of propellers, it can keep a good speed in water. The biggest downside is it drains power from the sub to charge, and if it depletes in the middle of the ocean, the chassis breaks and pressure comes right in with a punch. Can contain and recharge all three T.I.T.A.N. weapons.</entitydescription.titansuit>
-  <!-- Arm-Weapons -->
-  <entityname.titangun>T.I.T.A.N. 'Worm ender' railgun</entityname.titangun>
-  <entitydescription.titangun>Designed to kill the biggest of predators, this one handed railgun is capable of debilitating the biggest foe so they are much easier to kill with other means. If used without the proteccion, it'll burn the user. Recharged at a T.I.T.A.N. suit</entitydescription.titangun>
-  <entityname.titanminigun>T.I.T.A.N. 'Shredder' chaingun</entityname.titanminigun>
-  <entitydescription.titanminigun>A heavy weapon. Though it's damage per bullet is not really impresive, it holds an impresive ammount of bullets on it's chamber along side an accelerated rate of fire, it becomes a force to be reckon with. The spread though, is far from ideal. Recharged at a T.I.T.A.N. suit</entitydescription.titanminigun>
-  <entityname.titanflamer>T.I.T.A.N. 'Depth boiler' flamer</entityname.titanflamer>
-  <entitydescription.titanflamer>Nothing scares monsters better than fire. This one handed flamer cannon burns so bright, it even works underwater! If used without the proteccion, it'll burn the user. Recharged at a T.I.T.A.N. suit</entitydescription.titanflamer>
+  <entityname.titansuit>T.I.T.A.N.战斗装甲</entityname.titansuit>
+  <entitydescription.titansuit>当你通过了A.B.Y.S.S测试，在任务之中看到这种为毁灭而诞生的美时，你就会开始理解一切了。这套装甲使用一块重型电池供能，其使用时长约为十分钟，并由潜艇反应堆为其充电。装甲只要有电，就能保证穿戴者的生命安全。小点的怪物挠不破，即使是巨大的深渊捕食者也咬不动它的全合金外壳。穿戴者在陆地上会因其重量导致腿都抬不起来，但背部的螺旋桨使其在水中会如同一条矫捷的鱼。它唯一的缺点是必须在充电站充能，如果在海里没电它的架构就会破裂，木卫二冰洋的重压会将穿戴者压成碎块。可以装载并为T.I.T.A.N的三种臂装武器供能。</entitydescription.titansuit>
+  <!-- 臂装武器 -->
+  <entityname.titangun>T.I.T.A.N.'蠕虫终结者'轨道炮</entityname.titangun>
+  <entitydescription.titangun>设计的目的是用来处理深渊里的那些大家伙，这单手轨道炮能把目标干破防，让其他武器对其的伤害更高。如果使用者没有任何保护措施，使用者也会破防。使用T.I.T.A.N装甲供能。</entitydescription.titangun>
+  <entityname.titanminigun>T.I.T.A.N.'粉碎机'连射炮</entityname.titanminigun>
+  <entitydescription.titanminigun>一把重型武器。虽然发射的子弹精准度奇低，但其拥有近乎疯狂的射速，可以快速的把弹仓清空，形成一股金属风暴。没有人敢忽视开始工作的它，可能唯一不完美的一点就是性价比太低了。使用T.I.T.A.N装甲供能。</entitydescription.titanminigun>
+  <entityname.titanflamer>T.I.T.A.N.'深海反应堆'火焰喷射器</entityname.titanflamer>
+  <entitydescription.titanflamer>怪物们害怕火，就像是耗子怕猫一样。这种单手火焰发射器燃烧的温度极高，它甚至可以在水里点火！如果使用者没有任何保护措施，它会连使用者一起烧。使用T.I.T.A.N装甲供能。</entitydescription.titanflamer>
   <!-- Weapons -->
-  <entityname.titanrifle>'Cleaner' Assault rifle</entityname.titanrifle>
-  <entitydescription.titanrifle>Most of the titans weapon arms' don't hold great on extended deployment, this rifle aims to counter that by using the old fashion magazine, which by itself holds lots of bullets. It's firerate however is much lower than most other weapons of it's kind.</entitydescription.titanrifle>
-  <entityname.titanmagazine>'Cleaner' rounds</entityname.titanmagazine>
-  <entitydescription.titanmagazine>Big, bulky bullets. Holds a lot of firepower behind each round, even if it sacrifises some speed in the process.</entitydescription.titanmagazine>
+  <entityname.titanrifle>'清除者'突击步枪</entityname.titanrifle>
+  <entitydescription.titanrifle>泰坦的武器大多都非常笨重，而且在紧急情况下部署缓慢。这把突击步枪就是为了应对这种情况而诞生，它使用的弹匣设计还是五十年前的理念，纵使里面可以装非常非常多的子弹，但每一发子弹的燃烧率都要比同类武器低很多。</entitydescription.titanrifle>
+  <entityname.titanmagazine>'清除者'弹药匣</entityname.titanmagazine>
+  <entitydescription.titanmagazine>没什么技术含量的大口径子弹，像极了钢筋发射器。每一发威力都很大，相对应的其子弹初速会慢一些。</entitydescription.titanmagazine>
   <!-- Components -->
-  <entityname.titanbattery>T.I.T.A.N. Power cell</entityname.titanbattery>
-  <entitydescription.titanbattery>A heavy duty battery,  used in the crafting of a heavy duty suit. It can also bring back a Titan energy back to full.</entitydescription.titanbattery>
-  <entityname.titanframe>T.I.T.A.N. Frame</entityname.titanframe>
-  <entitydescription.titanframe>A Strong compost of alloys, this frame seems to be able to hold punishment from anything. Extremly bulky and heavy.</entitydescription.titanframe>
-  <entityname.titanhelm>T.I.T.A.N. Helm</entityname.titanhelm>
-  <entitydescription.titanhelm>A reinforced helmet with a respirator, too heavy to wear on it's own and with a lot of ducts.</entitydescription.titanhelm>
-  <entityname.titanpropulsor>T.I.T.A.N. Propulsor</entityname.titanpropulsor>
-  <entitydescription.titanpropulsor>A reinforced propulsor. Useless in land projects because of it's weak force when challanged by gravity, but underwater? Weight is not an issue.</entitydescription.titanpropulsor>
+  <entityname.titanbattery>T.I.T.A.N.动力电池</entityname.titanbattery>
+  <entitydescription.titanbattery>一块重型电池，用于制作战斗装甲。也可以当做泰坦设备的备用电池，当能量不足时进行更换。</entitydescription.titanbattery>
+  <entityname.titanframe>T.I.T.A.N.外骨骼装甲</entityname.titanframe>
+  <entitydescription.titanframe>合金制成的外骨骼装甲，非常坚固，穿上它，什么都破不了你的防。好是好，就是有点太笨重了。</entitydescription.titanframe>
+  <entityname.titanhelm>T.I.T.A.N.头盔</entityname.titanhelm>
+  <entitydescription.titanhelm>一个内置了呼吸器的强化头盔，上面有许多的维生管道。但它实在是太重了，你单独佩戴的话头就歪了，需要搭配外骨骼装甲。</entitydescription.titanhelm>
+  <entityname.titanpropulsor>T.I.T.A.N.推进器</entityname.titanpropulsor>
+  <entitydescription.titanpropulsor>一个加强水下推进器。在地面上啥用都没有，在没有水的情况下还不如找条哈士奇拖着你走。不过这东西要是在水里使用，那就是菜刀砍电线——一路火花带闪电。</entitydescription.titanpropulsor>
   <!-- Sub ammo -->
-  <entityname.titanrailgunshell>Neurotoxin shell</entityname.titanrailgunshell>
-  <entitydescription.titanrailgunshell>A mostly hollow shell, containing large amounts of the "Goliath-slayer Neurotoxin". It deals minimal damage due to it's design, but coats whatever creature it hits with it's debilitating toxin.</entitydescription.titanrailgunshell>
+  <entityname.titanrailgunshell>巨人杀手炮弹</entityname.titanrailgunshell>
+  <entitydescription.titanrailgunshell>一种中空的炮弹，里面装满了“巨人杀手”神经毒素。由于其设计，它命中目标后只会造成很小的伤害。但在命中目标后里面的神经毒素会释放并让你的敌人打出GG。</entitydescription.titanrailgunshell>
   <!-- Furniture -->
-  <entityname.titancharger>T.I.T.A.N. platform</entityname.titancharger>
-  <entitydescription.titancharger>A simple yet important part of the T.I.T.A.N. Recharge your suit in this station. Extremly bulky and heavy.</entitydescription.titancharger>
+  <entityname.titancharger>T.I.T.A.N.充电站</entityname.titancharger>
+  <entitydescription.titancharger>T.I.T.A.N里一个简单而又重要的东西，主要用途就是给你的装甲充电。</entitydescription.titancharger>
 </infotexts>
