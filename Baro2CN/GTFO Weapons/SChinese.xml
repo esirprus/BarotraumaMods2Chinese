@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+    <entityname.gtfo_ammopack>弹药包</entityname.gtfo_ammopack>
+    <entitydescription.gtfo_ammopack>用于装存各种武器的弹夹</entitydescription.gtfo_ammopack>
+
+    <entityname.bullpupmagazine>斗牛犬弹夹</entityname.bullpupmagazine>
+    <entitydescription.bullpupmagazine></entitydescription.bullpupmagazine>
+    <entityname.bullpup>斗牛犬突击步枪</entityname.bullpup>
+    <entitydescription.bullpup>高射速的突击步枪，瑞贝卡都能控制</entitydescription.bullpup>
+
+    <entityname.assaultriflemagazine2>突击/爆裂步枪弹夹</entityname.assaultriflemagazine2>
+    <entitydescription.assaultriflemagazine2></entitydescription.assaultriflemagazine2>
+    <entityname.assaultrifle2>突击步枪</entityname.assaultrifle2>
+    <entitydescription.assaultrifle2>非常基础的5.56步枪</entitydescription.assaultrifle2>
+
+    <entityname.riflemagazine>步枪弹夹</entityname.riflemagazine>
+    <entitydescription.riflemagazine></entitydescription.riflemagazine>
+    <entityname.rifle>步枪</entityname.rifle>
+    <entitydescription.rifle>半自动5.56步枪</entitydescription.rifle>
+    <entityname.burstrifle>爆裂步枪（枪打出小炸弹）</entityname.burstrifle>
+    <entitydescription.burstrifle>半自动5.56步枪</entitydescription.burstrifle>
+
+    <entityname.machinegunmagazine>机枪弹夹</entityname.machinegunmagazine>
+    <entitydescription.machinegunmagazine></entitydescription.machinegunmagazine>
+    <entityname.machinegun>机枪</entityname.machinegun>
+    <entitydescription.machinegun>大容量5.56机枪</entitydescription.machinegun>
+
+    <entityname.revolver2magazine>左轮手枪弹药</entityname.revolver2magazine>
+    <entitydescription.revolver2magazine></entitydescription.revolver2magazine>
+    <entityname.revolver2>左轮手枪</entityname.revolver2>
+    <entitydescription.revolver2>强大的左轮手枪</entitydescription.revolver2>
+
+    <entityname.magnummagazine>大口径手枪弹夹</entityname.magnummagazine>
+    <entitydescription.magnummagazine></entitydescription.magnummagazine>
+    <entityname.magnum>大口径手枪</entityname.magnum>
+    <entitydescription.magnum>如其所言，大口径，小心使用这东西</entitydescription.magnum>
+
+    <entityname.heavysmgmagazine>重型SMG弹夹</entityname.heavysmgmagazine>
+    <entitydescription.heavysmgmagazine></entitydescription.heavysmgmagazine>
+    <entityname.heavysmg>重型SMG</entityname.heavysmg>
+    <entitydescription.heavysmg>.45 ACP SMG</entitydescription.heavysmg>
+
+    <entityname.shotgun2magazine>霰弹</entityname.shotgun2magazine>
+    <entitydescription.shotgun2magazine></entitydescription.shotgun2magazine>
+    <entityname.shotgun2>霰弹枪</entityname.shotgun2>
+    <entitydescription.shotgun2>12G霰弹枪，没有什么可解释的</entitydescription.shotgun2>
+
+    <entityname.chokeshotgunmagazine>扼流霰弹</entityname.chokeshotgunmagazine>
+    <entitydescription.chokeshotgunmagazine></entitydescription.chokeshotgunmagazine>
+    <entityname.chokeshotgun>扼流霰弹枪</entityname.chokeshotgun>
+    <entitydescription.chokeshotgun>就像霰弹枪一样，但有更紧密的分布</entitydescription.chokeshotgun>
+
+    <entityname.combatshotgunmagazine>战斗霰弹枪子弹</entityname.combatshotgunmagazine>
+    <entitydescription.combatshotgunmagazine></entitydescription.combatshotgunmagazine>
+    <entityname.combatshotgun>战斗霰弹枪</entityname.combatshotgun>
+    <entitydescription.combatshotgun>自动霰弹枪</entitydescription.combatshotgun>
+
+    <entityname.scattergunmagazine>散弹枪子弹</entityname.scattergunmagazine>
+    <entitydescription.scattergunmagazine></entitydescription.scattergunmagazine>
+    <entityname.scattergun>散弹枪</entityname.scattergun>
+    <entitydescription.scattergun>杀戮一切！</entitydescription.scattergun>
+
+    <entityname.sawedoffmagazine>锯断的霰弹枪弹匣</entityname.sawedoffmagazine>
+    <entitydescription.sawedoffmagazine></entitydescription.sawedoffmagazine>
+    <entityname.sawedoff>锯断的霰弹枪</entityname.sawedoff>
+    <entitydescription.sawedoff>紧凑型霰弹枪，不要对其威力太过兴奋</entitydescription.sawedoff>
+
+    <entityname.snipermagazine>狙击步枪弹夹</entityname.snipermagazine>
+    <entitydescription.snipermagazine></entitydescription.snipermagazine>
+    <entityname.sniper>狙击步枪</entityname.sniper>
+    <entitydescription.sniper>不要错过</entitydescription.sniper>
+
+    <entityname.dmrmagazine>DMR/2连发步枪弹夹</entityname.dmrmagazine>
+    <entitydescription.dmrmagazine></entitydescription.dmrmagazine>
+    <entityname.dmr>DMR</entityname.dmr>
+    <entitydescription.dmr>半自动7.62步枪</entitydescription.dmr>
+    <entityname.dtrrifle>2连发步枪</entityname.dtrrifle>
+    <entitydescription.dtrrifle>就像DMR一样，但2连发</entitydescription.dtrrifle>
+
+    <entityname.harmagazine>重型AR子弹</entityname.harmagazine>
+    <entitydescription.harmagazine></entitydescription.harmagazine>
+    <entityname.har>重型AR步枪</entityname.har>
+    <entitydescription.har>更好的突击步枪</entitydescription.har>
+
+    <entityname.prmagazine>精确步枪弹夹</entityname.prmagazine>
+    <entitydescription.prmagazine></entitydescription.prmagazine>
+    <entityname.pr>精确步枪</entityname.pr>
+    <entitydescription.pr>强大的半自动7.62步枪，带热成像瞄准仪</entitydescription.pr>
+
+    <entityname.burstmagazine>爆裂炮弹药</entityname.burstmagazine>
+    <entitydescription.burstmagazine></entitydescription.burstmagazine>
+    <entityname.burst>爆裂炮</entityname.burst>
+    <entitydescription.burst>强大的5连发炮，需要时间充能</entitydescription.burst>
+
+    <entityname.pistolmagazine>手枪弹夹</entityname.pistolmagazine>
+    <entitydescription.pistolmagazine></entitydescription.pistolmagazine>
+    <entityname.pistol>手枪</entityname.pistol>
+    <entitydescription.pistol>典型的9毫米军用武器，每个人至少要有这种武器</entitydescription.pistol>
+
+    <entityname.smg2magazine>SMG/卡宾枪弹夹</entityname.smg2magazine>
+    <entitydescription.smg2magazine></entitydescription.smg2magazine>
+    <entityname.smg2>SMG</entityname.smg2>
+    <entitydescription.smg2>基本9毫米SMG</entitydescription.smg2>
+    <entityname.carbine>卡宾枪</entityname.carbine>
+    <entitydescription.carbine>4连发模式9毫米SMG</entitydescription.carbine>
+
+    <entityname.pdwmagazine>PDW子弹</entityname.pdwmagazine>
+    <entitydescription.pdwmagazine></entitydescription.pdwmagazine>
+    <entityname.pdw>PDW</entityname.pdw>
+    <entitydescription.pdw>9毫米个人防卫武器，带热成像瞄准仪</entitydescription.pdw>
+
+    <entityname.mpmagazine>Micro SMG 子弹</entityname.mpmagazine>
+    <entitydescription.mpmagazine></entitydescription.mpmagazine>
+    <entityname.mp>Micro SMG</entityname.mp>
+    <entitydescription.mp>子弹乱飞，但有极高的射速</entitydescription.mp>
+
+    <entityname.automagazine>自动手枪子弹</entityname.automagazine>
+    <entitydescription.automagazine></entitydescription.automagazine>
+    <entityname.auto>自动手枪</entityname.auto>
+    <entitydescription.auto>装有钨子弹，用于击晕目标以活捉他们</entitydescription.auto>
+</infotexts>

@@ -11,18 +11,18 @@
   <missionsuccess.cargosoda>货物已成功交付。</missionsuccess.cargosoda>
   <missionfailure.cargosoda>你没有把货物运输到目的地。</missionfailure.cargosoda>
   <missionname.artmod_abandonedoutposthumans>清理前哨站</missionname.artmod_abandonedoutposthumans>
-  <missiondescription.artmod_abandonedoutposthumans>我们失去了与前哨站[location1]的联系。我们怀疑它被联盟之外的组织控制了。摧毁前哨站的反应堆，赶走寮屋居民，确保他们永远都不会再回来。</missiondescription.artmod_abandonedoutposthumans>
+  <missiondescription.artmod_abandonedoutposthumans>我们失去了与前哨站[location1]的联系。我们怀疑它被联盟之外的组织控制了。‖color:255,128,0,255‖这处前哨站可能很危险。‖color:end‖摧毁前哨站的反应堆，赶走寮屋居民，确保他们永远都不会再回来。</missiondescription.artmod_abandonedoutposthumans>
   <missionsuccess.artmod_abandonedoutposthumans>寮屋居民被成功地赶出了前哨。</missionsuccess.artmod_abandonedoutposthumans>
   <missionfailure.artmod_abandonedoutposthumans>前哨站的反应堆仍然完好，联盟的敌人依然在逍遥法外。你，这个联盟的罪人！</missionfailure.artmod_abandonedoutposthumans>
   <missionheader0.artmod_abandonedoutposthumans>反应堆已摧毁。</missionheader0.artmod_abandonedoutposthumans>
   <missionmessage0.artmod_abandonedoutposthumans>前哨站的反应堆已被摧毁。这能保证这帮寮屋居民不会再尝试回来。离开前哨站以完成任务。</missionmessage0.artmod_abandonedoutposthumans>
   <missionname.artmod_abandonedoutpostassassinate>刺杀前哨站领袖</missionname.artmod_abandonedoutpostassassinate>
-  <missiondescription.artmod_abandonedoutpostassassinate>我们与[location1]失去了联系，所谓的“无鼻者”把那里当成了基地。我们希望有人能去干掉他们的头目——我们可以提供赏金。</missiondescription.artmod_abandonedoutpostassassinate>
+  <missiondescription.artmod_abandonedoutpostassassinate>我们与[location1]失去了联系，所谓的“无鼻者”把那里当成了基地。‖color:255,0,0,255‖这是一群及其危险的疯子。‖color:end‖我们希望有人能去干掉他们的头目————我们可以提供一笔赏金。</missiondescription.artmod_abandonedoutpostassassinate>
   <missionsuccess.artmod_abandonedoutpostassassinate>我们已经除掉了那些匪徒的首领。</missionsuccess.artmod_abandonedoutpostassassinate>
   <missionmessage0.artmod_abandonedoutpostassassinate>本地土匪团伙的首恶已伏诛，是时候离港提交任务了。</missionmessage0.artmod_abandonedoutpostassassinate>
   <missionfailure.artmod_abandonedoutpostassassinate>恶行仍在肆虐，我们失败了。</missionfailure.artmod_abandonedoutpostassassinate>
   <missionname.artpirate1>清剿海盗</missionname.artpirate1>
-  <missiondescription.artpirate1>该地区遭到了海盗的侵袭。不同于寻常海盗那些乌合之众，他们装备精良，造成了严重威胁。消灭他们以获取[reward]马克。</missiondescription.artpirate1>
+  <missiondescription.artpirate1>该地区遭到了海盗的侵袭。‖color:255,0,0,255‖不同于寻常海盗那些乌合之众，他们装备精良，对过往船只造成了严重威胁。‖color:end‖消灭他们以获取[reward]马克。</missiondescription.artpirate1>
   <missionsuccess.artpirate1>已经消灭了所有海盗。</missionsuccess.artpirate1>
   <missionfailure.artpirate1>有海盗成了漏网之鱼。</missionfailure.artpirate1>
   <missionsonarlabel.artpirate1>海盗的目击记录</missionsonarlabel.artpirate1>
@@ -38,13 +38,13 @@
   <missionheader0.SRmod1>已收容异星遗物</missionheader0.SRmod1>
   <missionmessage0.SRmod1>异星遗物已经成功收容，驾驶潜艇返航，以领取相应的奖励。</missionmessage0.SRmod1>
   <missionname.SRmod2>打捞一件异星遗物</missionname.SRmod2>
-  <missiondescription.SRmod2>[location1]的研究人员捕捉到一种次声波信号，该信号与之前在木卫二上发现的危险异星遗物发出的信号高度拟合。调查信号源，并尝试带回可能存在的异星遗物。</missiondescription.SRmod2>
+  <missiondescription.SRmod2>[location1]的研究人员捕捉到一种次声波信号，该信号与之前在木卫二上发现的‖color:255,128,0,255‖危险‖color:end‖异星遗物发出的信号高度拟合。调查信号源，并尝试带回可能存在的异星遗物。</missiondescription.SRmod2>
   <missionsuccess.SRmod2>成功搜索到了异星遗物。</missionsuccess.SRmod2>
   <missionfailure.SRmod2>未能找到异星遗物。</missionfailure.SRmod2>
   <missionheader0.SRmod2>已收容异星遗物</missionheader0.SRmod2>
   <missionmessage0.SRmod2>异星遗物已经成功收容。请多加小心，驾驶潜艇返航，以领取相应的奖励。</missionmessage0.SRmod2>
   <missionname.SRmod3>打捞一件异星遗物</missionname.SRmod3>
-  <missiondescription.SRmod3>[location1]的研究人员捕捉到一种次声波信号，该信号与之前在木卫二上发现的*最危险*的异星遗物发出的信号高度拟合。调查信号源，并尝试带回可能存在的异星遗物。</missiondescription.SRmod3>
+  <missiondescription.SRmod3>[location1]的研究人员捕捉到一种次声波信号，该信号与之前在木卫二上发现的‖color:255,0,0,255‖最危险‖color:end‖的异星遗物发出的信号高度拟合。调查信号源，并尝试带回可能存在的异星遗物。</missiondescription.SRmod3>
   <missionsuccess.SRmod3>成功搜索到了异星遗物</missionsuccess.SRmod3>
   <missionfailure.SRmod3>未能找到异星遗物。</missionfailure.SRmod3>
   <missionheader0.SRmod3>已收容异星遗物</missionheader0.SRmod3>
@@ -213,6 +213,8 @@
   <entitydescription.artmod_alientrinket17_blind>在异星遗迹中发现的小型造物。表面密布着漆黑小洞。</entitydescription.artmod_alientrinket17_blind>
   <entityname.artmod_alientrinket18_wrongbox>异星非欧体</entityname.artmod_alientrinket18_wrongbox>
   <entitydescription.artmod_alientrinket18_wrongbox>在异星遗迹中发现的小型造物。非欧几里得物体。这里有一个角，但在另一边没有……</entitydescription.artmod_alientrinket18_wrongbox>
+  <entityname.artmod_alientrinket19_anotherlamp>唤星者</entityname.artmod_alientrinket19_anotherlamp>
+  <entitydescription.artmod_alientrinket19_anotherlamp>在异星遗迹中发现的小型造物。一个丑陋的不规则饰品，中间有一个三角形的槽口。</entitydescription.artmod_alientrinket19_anotherlamp>
   <!--<entityname.artmod_alientrinket17_cold>异星孤星</entityname.artmod_alientrinket17_cold>
 <entitydescription.artmod_alientrinket17_cold>在异星遗迹中发现的小型造物。它散发出一种非自然的寒冷。</entitydescription.artmod_alientrinket17_cold>-->
   <!-- Items已完工 -->
@@ -319,6 +321,10 @@
   <entitydescription.artmod_detonator>使用外星材料制作的更方便的雷管，使用一个特殊的按钮（一个单独的物品）激活。在没有时间铺设电线的情况下很有效。安全说明：雷管+在用于预定目的之前必须保持空的状态。</entitydescription.artmod_detonator>
   <entityname.artmod_redbottom>雷管+的遥控按钮</entityname.artmod_redbottom>
   <entitydescription.artmod_redbottom>一个被修改为激活雷管+的普通按钮。不能设置指定的目标，所以信号接收半径内的所有雷管+都会被激活。</entitydescription.artmod_redbottom>
+  <entityname.artmod_laserdrill>重型采矿激光钻机</entityname.artmod_laserdrill>
+  <entitydescription.artmod_laserdrill>采矿业的技术新词。“EK”公司利用外星技术对激光钻机进行现代化改造后的产品。"优雅，品质，可靠。"</entitydescription.artmod_laserdrill>
+  <entityname.artmod_laserdrill_batterycell>重型采矿激光钻机电池</entityname.artmod_laserdrill_batterycell>
+  <entitydescription.artmod_laserdrill_batterycell>大容量电池，仅与重型采矿激光钻机兼容。可在充电坞站中充电。</entitydescription.artmod_laserdrill_batterycell>
   <entityname.plpistol>坏掉的激光手枪</entityname.plpistol>
   <entitydescription.plpistol>奇怪的武器。感觉是坏掉了，不管怎么试都没反应。</entitydescription.plpistol>
   <entityname.plsmg>坏掉的激光冲锋枪</entityname.plsmg>
@@ -404,8 +410,8 @@
   <entitydescription.am_railgun_shell>钛铝合金制成的大口径弹丸，用于EW-P6。</entitydescription.am_railgun_shell>
   <entityname.am_railgun_fisshell>EW-P6刚素炮弹</entityname.am_railgun_fisshell>
   <entitydescription.am_railgun_fisshell>大口径刚素弹丸，用于EW-P6。能造成巨大伤害。</entitydescription.am_railgun_fisshell>
-  <entityname.am_railgun_insshell>EW-P6摄魂炮弹</entityname.am_railgun_insshell>
-  <entitydescription.am_railgun_insshell>大口径摄魂弹丸，用于EW-P6。可穿透任何物体表面，或直接击中生物造成多重伤害。</entitydescription.am_railgun_insshell>
+  <entityname.am_railgun_insshell>EW-P6燃素炮弹</entityname.am_railgun_insshell>
+  <entitydescription.am_railgun_insshell>大口径燃素弹丸，用于EW-P6。可穿透任何物体表面，或直接击中生物造成多重伤害。</entitydescription.am_railgun_insshell>
   <entityname.artmod_machete>EW-P7"等离子"</entityname.artmod_machete>
   <entitydescription.artmod_machete>联盟新研发的几种原型武器之一。有着不寻常的钝刃，当用电池供电时，它就会转化为致命的等离子体刀刃。看来，异星技术的使用已经达到了创作者自己都不知道最终结果如何的程度。</entitydescription.artmod_machete>
   <entityname.artmod_antipsychohelmet>ED-P1"灵能头盔"</entityname.artmod_antipsychohelmet>
@@ -421,9 +427,17 @@
   <entityname.plasmacutter_plus>ED-P5"燃素切割器"</entityname.plasmacutter_plus>
   <entitydescription.plasmacutter_plus>有人将等离子切割器、一些异星零件与燃素混合，并加入液氧。最后不仅没有爆炸，切割的效果甚至比远古兵器好。与自制异星手榴弹不同的是，这个样品和它的蓝图很快便落入了联盟手中。而现在，落在你的手中。使用氧气瓶。需要较高的机械技能（75），否则不起作用。</entitydescription.plasmacutter_plus>
   <entityname.artmod_bigbatterycell>ED-P6 "NPS"</entityname.artmod_bigbatterycell>
-  <entitydescription.artmod_bigbatterycell>容量巨大的电池。不能充电。</entitydescription.artmod_bigbatterycell>
+  <entitydescription.artmod_bigbatterycell>容量巨大的电池。液体燃素保存在一个特制的外壳内，以某种方式与浸在里面的放电器相互作用，从中提取能量。壳体上的指示器表明其电量。不能充电。</entitydescription.artmod_bigbatterycell>
   <entityname.artmod_multitool>ED-P7 “多功能工具”</entityname.artmod_multitool>
   <entitydescription.artmod_multitool>一个集螺丝刀、扳手、焊接工具和手电筒功能于一身的多功能设备。前两个功能的效率和一般品质的工具相同。焊接工具和手电筒一样，都是由电池供电，效率比普通焊接工具低，需要高级机械师（机修技能40以上）才能正常工作。</entitydescription.artmod_multitool>
+  <entityname.gpistol>未知武器</entityname.gpistol>
+  <entitydescription.gpistol>在废弃的实验室中发现。谨慎使用。</entitydescription.gpistol>
+  <entityname.radplasmalauncher>未知武器</entityname.radplasmalauncher>
+  <entitydescription.radplasmalauncher>在废弃的实验室中发现。谨慎使用。似乎需要燃料棒才能发挥作用。</entitydescription.radplasmalauncher>
+  <entityname.artmod_geneknife>未知工具</entityname.artmod_geneknife>
+  <entitydescription.artmod_geneknife>在废弃的实验室中发现。刀片由红色水晶制成。谨慎使用。</entitydescription.artmod_geneknife>
+  <entityname.artmod_itiredmagazine>能量电池</entityname.artmod_itiredmagazine>
+  <entitydescription.artmod_itiredmagazine>一种罕见的物品，可以在废弃的实验室中找到。它最常被用作不可充电的高功率电池，但可能还有其他用途。</entitydescription.artmod_itiredmagazine>
   <entityname.artmod_toolbelt>工具带+</entityname.artmod_toolbelt>
   <entitydescription.artmod_toolbelt>从外观上看，它几乎与普通工具带没有区别，但不知为何，它包含更多的物品。考虑到普通工人的需要，它有专门用于放置药品的两个额外口袋。</entitydescription.artmod_toolbelt>
   <entityname.pillstube>药片包装</entityname.pillstube>
@@ -444,6 +458,8 @@
   <entitydescription.artmod_toolboxsmall>由一个造物运输箱改造而成。可屏蔽置于其中的饰品的特殊效果。此箱足够紧凑，可以随身携带，并有额外的格子用于放置小物品。</entitydescription.artmod_toolboxsmall>
   <entityname.artmod_toolboxbig>异星饰品收容箱——探索版</entityname.artmod_toolboxbig>
   <entitydescription.artmod_toolboxbig>积极的遗迹探索使得大量的外星饰品被发现，这个笨重的容器被创造出来，作为它们的安全存储容器。最多可容纳30个异星小饰品。</entitydescription.artmod_toolboxbig>
+  <entityname.artmod_dispenser>“萤火之巢”-9000</entityname.artmod_dispenser>
+  <entitydescription.artmod_dispenser>一个简单的（根据制造商的说法），不断发出嗡嗡声的装置，可随身携带。每分钟产生一个荧光棒和照明弹。一个每艘潜艇都有的装置，揭示了新的外星技术的应用进展。“如果不起作用，轻轻地敲打它，如果还不起作用，就狠狠地敲打它。”制造商对遵循此建议后导致的设备和/或用户损坏不负责任。</entitydescription.artmod_dispenser>
   <entityname.artmod_rustmetalcrate>生锈铁箱</entityname.artmod_rustmetalcrate>
   <entitydescription.artmod_rustmetalcrate>海盗的生锈铁箱，不知为何缠着铁链。里面肯定有好东西!</entitydescription.artmod_rustmetalcrate>
   <entityname.artmod_batterycell>破损的电池</entityname.artmod_batterycell>
@@ -478,14 +494,25 @@
   <term.alarm>……是最后通告。所有……</term.alarm>
   <term.alarm>……合上穿梭艇并返回……</term.alarm>
   <term.alarm>……回研究站。这……</term.alarm>
-  <story.electrowaterroom>...!A72=fr|@dH7%Sgx"6r'|JDe,tU@M3fYu4;E](7GfPPrWs//B7*cP*aace这地方简直是宝藏！工人们一安装好电网，整个系统就自己供电了，没有开启反应堆。我们需要找到源头并探exp336FyEGn1orFfdDkKvFfBHejwNaSzQ1orF336FyEGnfdDkKvFfBHejwNa...
-...'2%YQ;[QV7~VBGnq4ciWVCrFa%:moG3zW#~)/2Q?zeMBFfKNpX.%%h|~YzjQd%wk]%5B797OY8UvL%)$&gt;+3Zy(UnWxQqLS77XVDtWVs23[OToc.U27{tem开始发生故障。家电每隔几秒钟就关闭电源，然后再打开。对源头的搜索没有结果--在这个废墟房间外没有这种现象。一种新的异常现象，即不知从何处出现的水流，给我们增添了麻烦--工人们不得不睡在生活隔间顶部的箱子里，或者穿上潜水服，因为床铺经常被弄dr"AKQgGzCGUrtCFL:wPSKH.jNeTiKhd%137?RNbzNqSvh№!~_qbA;Muf;/1dXb_r%5!V+AB"iQXl3X6danmAk_(\c,XH~%H:iS_03K...
-...zqIwBH%gw_1VM7A6lC-A|1u?^FE-jLUWR8YgrC,Zu?wLhbl#;w2|+x+j}|%*;*ovuG/ErXNj:3bTN58I1T^50R='(0nxq57-ad;'?pT~b,=+0s}$@t^!后消息。大家集合 o$U_N6#|7JS~p_t7T~Si/zz(Zdch#xk!'0)B*viBY'QnE#jY02C,R^ZX~]lf",0B6Bsy0-Kj5l&gt;#QZO%'\:!m/R^№U}78lGWt)wkmN4tW\w64h:FNYH:T...</story.electrowaterroom>
   <!-- clowns?...已完工-->
+  <entityname.artmod_flashlight1>手电筒</entityname.artmod_flashlight1>
+  <entitydescription.artmod_flashlight1>手持光源。它的镜片有点不对劲...</entitydescription.artmod_flashlight1>
+  <entityname.artmod_bodyarmor>防弹衣</entityname.artmod_bodyarmor>
+  <entitydescription.artmod_bodyarmor>虽然这件防弹衣不会对大多数攻击提供足够的保护，但如果你愿意忍受痛苦，它可以非常有用。</entitydescription.artmod_bodyarmor>
+  <entityname.artmod_headset>耳机</entityname.artmod_headset>
+  <entitydescription.artmod_headset>老式的，看起来很普通的耳机，仍然需要电池以工作。</entitydescription.artmod_headset>
+  <entityname.artmod_extinguisher>灭火器</entityname.artmod_extinguisher>
+  <entitydescription.artmod_extinguisher>一个普通的二氧化碳灭火器。几乎是空的。</entitydescription.artmod_extinguisher>
+  <entityname.artmod_underwaterscooter>水下助推器</entityname.artmod_underwaterscooter>
+  <entitydescription.artmod_underwaterscooter>一个水下助推器，其螺旋桨由...雷素制成？</entitydescription.artmod_underwaterscooter>
+  <entityname.artmod_revolver>左轮手枪</entityname.artmod_revolver>
+  <entitydescription.artmod_revolver>一把有密封弹鼓的左轮手枪，这使得子弹无法被取出或放入。</entitydescription.artmod_revolver>
   <entityname.noseless_clownmask_special>无鼻者小丑面具</entityname.noseless_clownmask_special>
   <entitydescription.noseless_clownmask_special>荣耀属于无鼻者。提供氧气。</entitydescription.noseless_clownmask_special>
   <entityname.noseless_clowncostume_special>小丑服</entityname.noseless_clowncostume_special>
   <entitydescription.noseless_clowncostume_special>荣耀属于无鼻者。提供抗水压保护。</entitydescription.noseless_clowncostume_special>
+  <entityname.noseless_pirateclownmask>无鼻者小丑面具</entityname.noseless_pirateclownmask>
+  <entitydescription.noseless_pirateclownmask>一个小丑面具，鼻子被撕掉，重新涂成蓝色。不能被其他人佩戴。</entitydescription.noseless_pirateclownmask>
   <entityname.noseless_clownmask>无鼻者小丑面具</entityname.noseless_clownmask>
   <entitydescription.noseless_clownmask>荣耀属于……无鼻者？</entitydescription.noseless_clownmask>
   <entityname.noseless_clowncostume>小丑服</entityname.noseless_clowncostume>
@@ -500,6 +527,18 @@
   <entitydescription.clown_psipistol>一个无鼻者们使用的神秘高科技设备。他们从哪里得到这种技术？最好与无鼻者面具或小丑服一起使用。奇怪的是，医护人员（技能在60以上）使用这种武器的效果最好。</entitydescription.clown_psipistol>
   <entityname.clown_psismg>灵能步枪</entityname.clown_psismg>
   <entitydescription.clown_psismg>神秘的专属设备，是被免费提供的物品。最好与无鼻者面具或小丑服一起使用。奇怪的是，医护人员（技能在75以上）使用这种武器的效果最好。</entitydescription.clown_psismg>
+  <entityname.artmod_clownsmg>可憎步枪</entityname.artmod_clownsmg>
+  <entitydescription.artmod_clownsmg>这把枪覆盖和包裹着半腐烂的爬行者皮，臭味难闻。使用冲锋枪弹药。</entitydescription.artmod_clownsmg>
+  <entityname.clownshotgunmagazine>热力核心</entityname.clownshotgunmagazine>
+  <entitydescription.clownshotgunmagazine>一个武器组件。 具体作用不详。</entitydescription.clownshotgunmagazine>
+  <entityname.artmod_clownshotgun>废旧霰弹枪</entityname.artmod_clownshotgun>
+  <entitydescription.artmod_clownshotgun>这把武器看起来更像是一块废金属，枪身有锋利的边缘伸出。使用霰弹枪弹药。</entitydescription.artmod_clownshotgun>
+  <entityname.clownshotgunmagazine2>热力核心</entityname.clownshotgunmagazine2>
+  <entitydescription.clownshotgunmagazine2>一个武器组件。每发射一发弹药就会加热该组件，之后在没有其他弹药的情况下，可以利用储存的能量进行射击。</entitydescription.clownshotgunmagazine2>
+  <entityname.artmod_clownrevolver>无鼻者左轮手枪</entityname.artmod_clownrevolver>
+  <entitydescription.artmod_clownrevolver>发出明亮的蓝光，这把左轮手枪弹容量应该比它的原型要大。</entitydescription.artmod_clownrevolver>
+  <entityname.clownrevolvermagazine>热力核心</entityname.clownrevolvermagazine>
+  <entitydescription.clownrevolvermagazine>一个武器组件。它在每次射击时都会升温，并燃烧周围的一切，停止射击后会逐渐冷却。火焰会无视水和使用此武器的人。</entitydescription.clownrevolvermagazine>
   <entityname.MANhammer>玩具锤子</entityname.MANhammer>
   <entitydescription.MANhammer>从厚重的橡胶来看，现在这把锤子不仅非常烦人，而且是致命的。</entitydescription.MANhammer>
   <entityname.BOYhammer>玩具小锤</entityname.BOYhammer>
@@ -652,6 +691,8 @@
   <npctitle.artpiratemechanicveteran>海盗技工</npctitle.artpiratemechanicveteran>
   <npctitle.artpirateengineerrecruit>海盗工程师</npctitle.artpirateengineerrecruit>
   <npctitle.artpirateengineerveteran>海盗物理学家</npctitle.artpirateengineerveteran>
+  <npctitle.noseless_pirate>无鼻者海盗</npctitle.noseless_pirate>
+  <npctitle.noseless_bandit>无鼻者土匪</npctitle.noseless_bandit>
   <npctitle.noseless_clown>无鼻者</npctitle.noseless_clown>
   <npctitle.noseless_clowneng>无鼻者工程师</npctitle.noseless_clowneng>
   <npctitle.noseless_clownsb>无鼻者安全官</npctitle.noseless_clownsb>
