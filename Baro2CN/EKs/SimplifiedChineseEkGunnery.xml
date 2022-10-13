@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
   <!-- ekgunnery_command.xml -->
-  <entityname.ekgunnery_periscopesonar_style1>声纳火控电脑</entityname.ekgunnery_periscopesonar_style1>
-  <entitydescription.ekgunnery_periscopesonar_style1>连接到潜艇声纳阵列的火控系统。可以通过声纳引导应对远程目标。</entitydescription.ekgunnery_periscopesonar_style1>
+  <entityname.ekgunnery_periscopesonar_style1>声呐火控电脑</entityname.ekgunnery_periscopesonar_style1>
+  <entitydescription.ekgunnery_periscopesonar_style1>连接到潜艇声呐阵列的火控系统。可以通过声呐引导应对远程目标。</entitydescription.ekgunnery_periscopesonar_style1>
   <!-- ekgunnery_containers.xml -->
   <entityname.ekgunnery_magazinestoragesmall>小型弹药储柜</entityname.ekgunnery_magazinestoragesmall>
   <entitydescription.ekgunnery_magazinestoragesmall>带装甲的隔仓，用于存放弹药和弹药箱。</entitydescription.ekgunnery_magazinestoragesmall>
