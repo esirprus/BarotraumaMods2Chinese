@@ -292,7 +292,7 @@
   <entityname.ekutility_oxygencell2>氧气单元 Mk-II</entityname.ekutility_oxygencell2>
   <entitydescription.ekutility_oxygencell2>利用化学试剂产生氧气的潜水服一次性氧气源，能提供大量氧气。</entitydescription.ekutility_oxygencell2>
   <!-- ekutility_densifiedmaterials.xml -->
-  <entityname.ekutility_densifiedmaterial_iron>&gt;一箱铁</entityname.ekutility_densifiedmaterial_iron>
+  <entityname.ekutility_densifiedmaterial_iron>一箱铁</entityname.ekutility_densifiedmaterial_iron>
   <entitydescription.ekutility_densifiedmaterial_iron>装箱的铁，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_iron>
   <entityname.ekutility_densifiedmaterial_aluminium>一箱铝</entityname.ekutility_densifiedmaterial_aluminium>
   <entitydescription.ekutility_densifiedmaterial_aluminium>装箱的铝，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_aluminium>
@@ -323,7 +323,7 @@
   <entityname.ekutility_densifiedmaterial_organicfiber>一箱有机纤维</entityname.ekutility_densifiedmaterial_organicfiber>
   <entitydescription.ekutility_densifiedmaterial_organicfiber>装箱的有机纤维，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_organicfiber>
   <entityname.ekutility_densifiedmaterial_ballisticfiber>一箱弹性纤维</entityname.ekutility_densifiedmaterial_ballisticfiber>
-  <entitydescription.ekutility_densifiedmaterial_ballisticfiber>&gt;装箱的弹性纤维，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ballisticfiber>
+  <entitydescription.ekutility_densifiedmaterial_ballisticfiber>装箱的弹性纤维，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ballisticfiber>
   <entityname.ekutility_densifiedmaterial_uranium>一箱铀</entityname.ekutility_densifiedmaterial_uranium>
   <entitydescription.ekutility_densifiedmaterial_uranium>装箱的铀，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_uranium>
   <entityname.ekutility_densifiedmaterial_thorium>一箱钍</entityname.ekutility_densifiedmaterial_thorium>
@@ -461,8 +461,8 @@
   <entitydescription.ekutility_placeabletextdisplay></entitydescription.ekutility_placeabletextdisplay>
   <entityname.ekutility_placeabletextdisplaylong>文本显示器（长）</entityname.ekutility_placeabletextdisplaylong>
   <entitydescription.ekutility_placeabletextdisplaylong></entitydescription.ekutility_placeabletextdisplaylong>
-  <entityname.ekutility_portablespinkler>洒水器</entityname.ekutility_portablespinkler>
-  <entitydescription.ekutility_portablespinkler>多用途洒水系统，可用于农业或扑灭轻度火灾。需要电力。 （按瞄准+使用即可放置）</entitydescription.ekutility_portablespinkler>
+  <entityname.ekutility_portablesprinkler>洒水器</entityname.ekutility_portablesprinkler>
+  <entitydescription.ekutility_portablesprinkler>多用途洒水系统，可用于农业或扑灭轻度火灾。需要电力。 （按瞄准+使用即可放置）</entitydescription.ekutility_portablesprinkler>
   <entityname.ekutility_securebuttoncaptain>权限按钮（船长）</entityname.ekutility_securebuttoncaptain>
   <entitydescription.ekutility_securebuttoncaptain></entitydescription.ekutility_securebuttoncaptain>
   <entityname.ekutility_securebuttonsecurityofficer>权限按钮（安全官）</entityname.ekutility_securebuttonsecurityofficer>
