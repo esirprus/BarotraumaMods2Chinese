@@ -134,22 +134,22 @@
   <entitydescription.ek_mini_smg_flashlight>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_flashlight>
   <entityname.ek_mini_smg_laser>紧凑冲锋枪（激光瞄准器）</entityname.ek_mini_smg_laser>
   <entitydescription.ek_mini_smg_laser>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_laser>
-  <entityname.ek_mini_smg_supressed>紧凑冲锋枪（消音器）</entityname.ek_mini_smg_supressed>
-  <entitydescription.ek_mini_smg_supressed>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_supressed>
-  <entityname.ek_mini_smg_supressed_flashlight>紧凑冲锋枪（消音器，战术手电）</entityname.ek_mini_smg_supressed_flashlight>
-  <entitydescription.ek_mini_smg_supressed_flashlight>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_supressed_flashlight>
-  <entityname.ek_mini_smg_supressed_laser>紧凑冲锋枪（消音器，激光瞄准器）</entityname.ek_mini_smg_supressed_laser>
-  <entitydescription.ek_mini_smg_supressed_laser>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_supressed_laser>
+  <entityname.ek_mini_smg_suppressed>紧凑冲锋枪（消音器）</entityname.ek_mini_smg_suppressed>
+  <entitydescription.ek_mini_smg_suppressed>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_suppressed>
+  <entityname.ek_mini_smg_suppressed_flashlight>紧凑冲锋枪（消音器，战术手电）</entityname.ek_mini_smg_suppressed_flashlight>
+  <entitydescription.ek_mini_smg_suppressed_flashlight>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_suppressed_flashlight>
+  <entityname.ek_mini_smg_suppressed_laser>紧凑冲锋枪（消音器，激光瞄准器）</entityname.ek_mini_smg_suppressed_laser>
+  <entitydescription.ek_mini_smg_suppressed_laser>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_suppressed_laser>
   <entityname.ek_smg_flashlight>军用冲锋枪（战术手电）</entityname.ek_smg_flashlight>
   <entitydescription.ek_smg_flashlight>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_flashlight>
   <entityname.ek_smg_laser>军用冲锋枪（激光瞄准器）</entityname.ek_smg_laser>
   <entitydescription.ek_smg_laser>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_laser>
-  <entityname.ek_smg_supressed>军用冲锋枪（消音器）</entityname.ek_smg_supressed>
-  <entitydescription.ek_smg_supressed>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_supressed>
-  <entityname.ek_smg_supressed_flashlight>军用冲锋枪（消音器，战术手电）</entityname.ek_smg_supressed_flashlight>
-  <entitydescription.ek_smg_supressed_flashlight>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_supressed_flashlight>
-  <entityname.ek_smg_supressed_laser>军用冲锋枪（消音器，激光瞄准器）</entityname.ek_smg_supressed_laser>
-  <entitydescription.ek_smg_supressed_laser>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_supressed_laser>
+  <entityname.ek_smg_suppressed>军用冲锋枪（消音器）</entityname.ek_smg_suppressed>
+  <entitydescription.ek_smg_suppressed>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed>
+  <entityname.ek_smg_suppressed_flashlight>军用冲锋枪（消音器，战术手电）</entityname.ek_smg_suppressed_flashlight>
+  <entitydescription.ek_smg_suppressed_flashlight>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed_flashlight>
+  <entityname.ek_smg_suppressed_laser>军用冲锋枪（消音器，激光瞄准器）</entityname.ek_smg_suppressed_laser>
+  <entitydescription.ek_smg_suppressed_laser>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed_laser>
   <entityname.ek_shotgun_flashlight>战术霰弹枪（战术手电）</entityname.ek_shotgun_flashlight>
   <entitydescription.ek_shotgun_flashlight>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_shotgun_flashlight>
   <entityname.ek_shotgun_laser>战术霰弹枪（激光瞄准器）</entityname.ek_shotgun_laser>
@@ -178,12 +178,12 @@
   <entitydescription.ek_battlerifle_flashlight>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_flashlight>
   <entityname.ek_battlerifle_laser>军用步枪（激光瞄准器）</entityname.ek_battlerifle_laser>
   <entitydescription.ek_battlerifle_laser>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_laser>
-  <entityname.ek_battlerifle_supressed>军用步枪（消音器）</entityname.ek_battlerifle_supressed>
-  <entitydescription.ek_battlerifle_supressed>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_supressed>
-  <entityname.ek_battlerifle_supressed_flashlight>军用步枪（消音器，战术手电）</entityname.ek_battlerifle_supressed_flashlight>
-  <entitydescription.ek_battlerifle_supressed_flashlight>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_supressed_flashlight>
-  <entityname.ek_battlerifle_supressed_laser>军用步枪（消音器，激光瞄准器）</entityname.ek_battlerifle_supressed_laser>
-  <entitydescription.ek_battlerifle_supressed_laser>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_supressed_laser>
+  <entityname.ek_battlerifle_suppressed>军用步枪（消音器）</entityname.ek_battlerifle_suppressed>
+  <entitydescription.ek_battlerifle_suppressed>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_suppressed>
+  <entityname.ek_battlerifle_suppressed_flashlight>军用步枪（消音器，战术手电）</entityname.ek_battlerifle_suppressed_flashlight>
+  <entitydescription.ek_battlerifle_suppressed_flashlight>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_suppressed_flashlight>
+  <entityname.ek_battlerifle_suppressed_laser>军用步枪（消音器，激光瞄准器）</entityname.ek_battlerifle_suppressed_laser>
+  <entitydescription.ek_battlerifle_suppressed_laser>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_suppressed_laser>
   <entityname.ek_laserpistol_flashlight>激光手枪（战术手电）</entityname.ek_laserpistol_flashlight>
   <entitydescription.ek_laserpistol_flashlight>应用了脉冲放大激光原理的武器。由特殊的大功率电池驱动。</entitydescription.ek_laserpistol_flashlight>
   <entityname.ek_laserpistol_laser>激光手枪（激光瞄准器）</entityname.ek_laserpistol_laser>
@@ -196,12 +196,12 @@
   <entitydescription.ek_revolver_flashlight>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_flashlight>
   <entityname.ek_revolver_laser>.357左轮（激光瞄准器）</entityname.ek_revolver_laser>
   <entitydescription.ek_revolver_laser>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_laser>
-  <entityname.ek_revolver_supressed>.357左轮（消音器）</entityname.ek_revolver_supressed>
-  <entitydescription.ek_revolver_supressed>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_supressed>
-  <entityname.ek_revolver_supressed_flashlight>.357左轮（消音器，战术手电）</entityname.ek_revolver_supressed_flashlight>
-  <entitydescription.ek_revolver_supressed_flashlight>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_supressed_flashlight>
-  <entityname.ek_revolver_supressed_laser>.357左轮（消音器，激光瞄准器）</entityname.ek_revolver_supressed_laser>
-  <entitydescription.ek_revolver_supressed_laser>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_supressed_laser>
+  <entityname.ek_revolver_suppressed>.357左轮（消音器）</entityname.ek_revolver_suppressed>
+  <entitydescription.ek_revolver_suppressed>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_suppressed>
+  <entityname.ek_revolver_suppressed_flashlight>.357左轮（消音器，战术手电）</entityname.ek_revolver_suppressed_flashlight>
+  <entitydescription.ek_revolver_suppressed_flashlight>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_suppressed_flashlight>
+  <entityname.ek_revolver_suppressed_laser>.357左轮（消音器，激光瞄准器）</entityname.ek_revolver_suppressed_laser>
+  <entitydescription.ek_revolver_suppressed_laser>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_suppressed_laser>
   <!-- ek_chaingunammo.xml -->
   <entityname.ek_chaingunammo_large>扩展链式机炮弹药箱</entityname.ek_chaingunammo_large>
   <entitydescription.ek_chaingunammo_large></entitydescription.ek_chaingunammo_large>
