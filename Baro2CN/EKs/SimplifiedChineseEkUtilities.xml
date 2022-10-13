@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+  <!-- ekutility_containers.xml -->
+  <entityname.ekutility_smallshelf>小架子</entityname.ekutility_smallshelf>
+  <entitydescription.ekutility_smallshelf>基本壁挂存储解决方案。 （按瞄准+使用即可放置）</entitydescription.ekutility_smallshelf>
+  <entityname.ekutility_mediumshelf>架子</entityname.ekutility_mediumshelf>
+  <entitydescription.ekutility_mediumshelf>基本壁挂存储解决方案。 （按瞄准+使用即可放置）</entitydescription.ekutility_mediumshelf>
+  <entityname.ekutility_shellrack>大型轨道炮弹架</entityname.ekutility_shellrack>
+  <entitydescription.ekutility_shellrack>一个设计用于放置轨道炮弹的金属架。 （按瞄准+使用即可放置）</entitydescription.ekutility_shellrack>
+  <entityname.ekutility_shellrack_huge>巨型轨道炮弹架</entityname.ekutility_shellrack_huge>
+  <entitydescription.ekutility_shellrack_huge>一种壁挂式弹匣，可以装更多轨道炮炮弹。 （按瞄准+使用即可放置）</entitydescription.ekutility_shellrack_huge>
+  <entityname.ekutility_craterack>板条货架</entityname.ekutility_craterack>
+  <entitydescription.ekutility_craterack>一个架子，用于整齐地存放货物周转箱。 （按瞄准+使用即可放置）</entitydescription.ekutility_craterack>
+  <entityname.ekutility_craterack_tall>高条板箱架</entityname.ekutility_craterack_tall>
+  <entitydescription.ekutility_craterack_tall>一个较高的架子，用于整齐地存放货物周转箱。 （按瞄准+使用即可放置）</entitydescription.ekutility_craterack_tall>
+  <entityname.ekutility_craterack_freezer>恒温板条箱架</entityname.ekutility_craterack_freezer>
+  <entitydescription.ekutility_craterack_freezer>恒温的货物周转箱架，用于储存对温度或湿度敏感的货物，需要电力。（按瞄准+使用即可放置）</entitydescription.ekutility_craterack_freezer>
+  <entityname.ekutility_chemlightboxred>荧光棒箱（红色）</entityname.ekutility_chemlightboxred>
+  <entitydescription.ekutility_chemlightboxred>一盒一次性荧光棒，红色。</entitydescription.ekutility_chemlightboxred>
+  <entityname.ekutility_chemlightboxgreen>荧光棒箱（绿色）</entityname.ekutility_chemlightboxgreen>
+  <entitydescription.ekutility_chemlightboxgreen>一盒一次性荧光棒，绿色。</entitydescription.ekutility_chemlightboxgreen>
+  <entityname.ekutility_chemlightboxblue>荧光棒箱（蓝色）</entityname.ekutility_chemlightboxblue>
+  <entitydescription.ekutility_chemlightboxblue>一盒一次性荧光棒，蓝色。</entitydescription.ekutility_chemlightboxblue>
+  <entityname.ekutility_chemlightboxyellow>荧光棒箱（黄色）</entityname.ekutility_chemlightboxyellow>
+  <entitydescription.ekutility_chemlightboxyellow>一盒一次性荧光棒，黄色。</entitydescription.ekutility_chemlightboxyellow>
+  <entityname.ekutility_cart_depthcharge>运输车</entityname.ekutility_cart_depthcharge>
+  <entitydescription.ekutility_cart_depthcharge>坚固的金属手推车，用于运输金属板条箱，深水炸弹和潜水服等物品。</entitydescription.ekutility_cart_depthcharge>
+  <entityname.ekutility_handtruck>手推车</entityname.ekutility_handtruck>
+  <entitydescription.ekutility_handtruck>用于运输轨道炮炮弹的手推车。</entitydescription.ekutility_handtruck>
+  <entityname.ekutility_handtruck_reactorfuel>燃料棒装卸车</entityname.ekutility_handtruck_reactorfuel>
+  <entitydescription.ekutility_handtruck_reactorfuel>一种带屏蔽管的手推车，用于在反应堆外搬运燃料棒。</entitydescription.ekutility_handtruck_reactorfuel>
+  <entityname.ekutility_artifactbox>遗物容器</entityname.ekutility_artifactbox>
+  <entitydescription.ekutility_artifactbox>一个大型绝缘容器，用于安全储存异星遗物。手持遗物后将遗物拖动到容器上进行储存，同时遗物容器是中性浮力，在水下不会漂浮或下沉。</entitydescription.ekutility_artifactbox>
+  <entityname.ekutility_storagecrate>工业加强箱</entityname.ekutility_storagecrate>
+  <entitydescription.ekutility_storagecrate>坚固的防水容器，用于存储和运输。</entitydescription.ekutility_storagecrate>
+  <entityname.ekutility_crateblocker>货箱挡板</entityname.ekutility_crateblocker>
+  <entitydescription.ekutility_crateblocker>一个空的存储隔板。可用于防止将货物放在未使用的板条箱槽中。</entitydescription.ekutility_crateblocker>
+  <entityname.ekutility_materiallocker>材料存储柜</entityname.ekutility_materiallocker>
+  <entitydescription.ekutility_materiallocker>用于整理物品的储物柜。（按瞄准+使用即可放置）</entitydescription.ekutility_materiallocker>
+  <entityname.ekutility_mulecargo>运输式水下推进器</entityname.ekutility_mulecargo>
+  <entitydescription.ekutility_mulecargo>自动推进的水下雪橇，能够装载4个货物箱。</entitydescription.ekutility_mulecargo>
+  <entityname.ekutility_securelockercaptain>保险钢柜（船长）</entityname.ekutility_securelockercaptain>
+  <entitydescription.ekutility_securelockercaptain>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockercaptain>
+  <entityname.ekutility_securelockersecurityofficer>保险钢柜（安全官）</entityname.ekutility_securelockersecurityofficer>
+  <entitydescription.ekutility_securelockersecurityofficer>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockersecurityofficer>
+  <entityname.ekutility_securelockermedicaldoctor>保险钢柜（医生）</entityname.ekutility_securelockermedicaldoctor>
+  <entitydescription.ekutility_securelockermedicaldoctor>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockermedicaldoctor>
+  <entityname.ekutility_securelockermechanic>保险钢柜（机修工）</entityname.ekutility_securelockermechanic>
+  <entitydescription.ekutility_securelockermechanic>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockermechanic>
+  <entityname.ekutility_securelockerengineer>保险钢柜（工程师）</entityname.ekutility_securelockerengineer>
+  <entitydescription.ekutility_securelockerengineer>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockerengineer>
+  <!-- ekutility_labels.xml -->
+  <entityname.ekutility_label_text>Text Label</entityname.ekutility_label_text>
+  <entitydescription.ekutility_label_text>A blank label card with room for written information.</entitydescription.ekutility_label_text>
+  <entityname.ekutility_label_iron>Iron Label</entityname.ekutility_label_iron>
+  <entitydescription.ekutility_label_iron>A label card with a picture of iron on it.</entitydescription.ekutility_label_iron>
+  <entityname.ekutility_label_aluminium>Aluminium Label</entityname.ekutility_label_aluminium>
+  <entitydescription.ekutility_label_aluminium>A label card with a picture of aluminium on it.</entitydescription.ekutility_label_aluminium>
+  <entityname.ekutility_label_copper>Copper Label</entityname.ekutility_label_copper>
+  <entitydescription.ekutility_label_copper>A label card with a picture of copper on it.</entitydescription.ekutility_label_copper>
+  <entityname.ekutility_label_titanium>Titanium Label</entityname.ekutility_label_titanium>
+  <entitydescription.ekutility_label_titanium>A label card with a picture of titanium on it.</entitydescription.ekutility_label_titanium>
+  <entityname.ekutility_label_carbon>Carbon Label</entityname.ekutility_label_carbon>
+  <entitydescription.ekutility_label_carbon>A label card with a picture of carbon on it.</entitydescription.ekutility_label_carbon>
+  <entityname.ekutility_label_lead>Lead Label</entityname.ekutility_label_lead>
+  <entitydescription.ekutility_label_lead>A label card with a picture of lead on it.</entitydescription.ekutility_label_lead>
+  <entityname.ekutility_label_tin>Tin Label</entityname.ekutility_label_tin>
+  <entitydescription.ekutility_label_tin>A label card with a picture of tin on it.</entitydescription.ekutility_label_tin>
+  <entityname.ekutility_label_zinc>Zinc Label</entityname.ekutility_label_zinc>
+  <entitydescription.ekutility_label_zinc>A label card with a picture of zinc on it.</entitydescription.ekutility_label_zinc>
+  <entityname.ekutility_label_silicon>Silicon Label</entityname.ekutility_label_silicon>
+  <entitydescription.ekutility_label_silicon>A label card with a picture of silicon on it.</entitydescription.ekutility_label_silicon>
+  <entityname.ekutility_label_uranium>Uranium Label</entityname.ekutility_label_uranium>
+  <entitydescription.ekutility_label_uranium>A label card with a picture of uranium on it.</entitydescription.ekutility_label_uranium>
+  <entityname.ekutility_label_thorium>Thorium Label</entityname.ekutility_label_thorium>
+  <entitydescription.ekutility_label_thorium>A label card with a picture of thorium on it.</entitydescription.ekutility_label_thorium>
+  <entityname.ekutility_label_steel>Steel Label</entityname.ekutility_label_steel>
+  <entitydescription.ekutility_label_steel>A label card with a picture of steel on it.</entitydescription.ekutility_label_steel>
+  <entityname.ekutility_label_titaniumaluminiumalloy>Titanium-Aluminium Alloy Label</entityname.ekutility_label_titaniumaluminiumalloy>
+  <entitydescription.ekutility_label_titaniumaluminiumalloy>A label card with a picture of titanium-aluminium alloy on it.</entitydescription.ekutility_label_titaniumaluminiumalloy>
+  <entityname.ekutility_label_plastic>Plastic Label</entityname.ekutility_label_plastic>
+  <entitydescription.ekutility_label_plastic>A label card with a picture of plastic on it.</entitydescription.ekutility_label_plastic>
+  <entityname.ekutility_label_rubber>Rubber Label</entityname.ekutility_label_rubber>
+  <entitydescription.ekutility_label_rubber>A label card with a picture of rubber on it.</entitydescription.ekutility_label_rubber>
+  <entityname.ekutility_label_fpgacircuit>FPGA Circuit Label</entityname.ekutility_label_fpgacircuit>
+  <entitydescription.ekutility_label_fpgacircuit>A label card with a picture of an fpga circuit on it.</entitydescription.ekutility_label_fpgacircuit>
+  <entityname.ekutility_label_organicfiber>Organic Fiber Label</entityname.ekutility_label_organicfiber>
+  <entitydescription.ekutility_label_organicfiber>A label card with a picture of organic fiber on it.</entitydescription.ekutility_label_organicfiber>
+  <entityname.ekutility_label_ballisticfiber>Ballistic Fiber Label</entityname.ekutility_label_ballisticfiber>
+  <entitydescription.ekutility_label_ballisticfiber>A label card with a picture of ballistic fiber on it.</entitydescription.ekutility_label_ballisticfiber>
+  <entityname.ekutility_label_physicorium>Physicorium Label</entityname.ekutility_label_physicorium>
+  <entitydescription.ekutility_label_physicorium>A label card with a picture of physicorium alloy on it.</entitydescription.ekutility_label_physicorium>
+  <entityname.ekutility_label_fulgurium>Fulgurium Label</entityname.ekutility_label_fulgurium>
+  <entitydescription.ekutility_label_fulgurium>A label card with a picture of fulgurium on it.</entitydescription.ekutility_label_fulgurium>
+  <entityname.ekutility_label_sulphuriteshard>Sulphurite Label</entityname.ekutility_label_sulphuriteshard>
+  <entitydescription.ekutility_label_sulphuriteshard>A label card with a picture of sulphurite on it.</entitydescription.ekutility_label_sulphuriteshard>
+  <entityname.ekutility_label_oxygeniteshard>Oxygenite Label</entityname.ekutility_label_oxygeniteshard>
+  <entitydescription.ekutility_label_oxygeniteshard>A label card with a picture of oxygenite on it.</entitydescription.ekutility_label_oxygeniteshard>
+  <entityname.ekutility_label_incendium>Incendium Label</entityname.ekutility_label_incendium>
+  <entitydescription.ekutility_label_incendium>A label card with a picture of incendium on it.</entitydescription.ekutility_label_incendium>
+  <entityname.ekutility_label_dementonite>Dementonite Label</entityname.ekutility_label_dementonite>
+  <entitydescription.ekutility_label_dementonite>A label card with a picture of dementonite fiber on it.</entitydescription.ekutility_label_dementonite>
+  <entityname.ekutility_label_flashpowder>Flash Powder Label</entityname.ekutility_label_flashpowder>
+  <entitydescription.ekutility_label_flashpowder>A label card with a picture of flash powder on it.</entitydescription.ekutility_label_flashpowder>
+  <entityname.ekutility_label_lithium>Lithium Label</entityname.ekutility_label_lithium>
+  <entitydescription.ekutility_label_lithium>A label card with a picture of lithium on it.</entitydescription.ekutility_label_lithium>
+  <entityname.ekutility_label_sodium>Sodium Label</entityname.ekutility_label_sodium>
+  <entitydescription.ekutility_label_sodium>A label card with a picture of sodium on it.</entitydescription.ekutility_label_sodium>
+  <entityname.ekutility_label_magnesium>Magnesium Label</entityname.ekutility_label_magnesium>
+  <entitydescription.ekutility_label_magnesium>A label card with a picture of magnesium on it.</entitydescription.ekutility_label_magnesium>
+  <entityname.ekutility_label_potassium>Potassium Label</entityname.ekutility_label_potassium>
+  <entitydescription.ekutility_label_potassium>A label card with a picture of potassium on it.</entitydescription.ekutility_label_potassium>
+  <entityname.ekutility_label_chlorine>Chlorine Label</entityname.ekutility_label_chlorine>
+  <entitydescription.ekutility_label_chlorine>A label card with a picture of chlorine on it.</entitydescription.ekutility_label_chlorine>
+  <entityname.ekutility_label_calcium>Calcium Label</entityname.ekutility_label_calcium>
+  <entitydescription.ekutility_label_calcium>A label card with a picture of calcium on it.</entitydescription.ekutility_label_calcium>
+  <entityname.ekutility_label_phosphorus>Phosphorus Label</entityname.ekutility_label_phosphorus>
+  <entitydescription.ekutility_label_phosphorus>A label card with a picture of phosphorus on it.</entitydescription.ekutility_label_phosphorus>
+  <entityname.ekutility_label_ethanol>Ethanol Label</entityname.ekutility_label_ethanol>
+  <entitydescription.ekutility_label_ethanol>A label card with a picture of ethanol on it.</entitydescription.ekutility_label_ethanol>
+  <entityname.ekutility_label_sulphuricacid>Sulphuric Acid Label</entityname.ekutility_label_sulphuricacid>
+  <entitydescription.ekutility_label_sulphuricacid>A label card with a picture of sulphuric acid on it.</entitydescription.ekutility_label_sulphuricacid>
+  <entityname.ekutility_label_bandage>Bandage Label</entityname.ekutility_label_bandage>
+  <entitydescription.ekutility_label_bandage>A label card with a picture of a bandage on it.</entitydescription.ekutility_label_bandage>
+  <entityname.ekutility_label_plastiseal>Plastiseal Label</entityname.ekutility_label_plastiseal>
+  <entitydescription.ekutility_label_plastiseal>A label card with a picture of plastiseal on it.</entitydescription.ekutility_label_plastiseal>
+  <entityname.ekutility_label_antibioticglue>Antibiotic Glue Label</entityname.ekutility_label_antibioticglue>
+  <entitydescription.ekutility_label_antibioticglue>A label card with a picture of antibiotic glue on it.</entitydescription.ekutility_label_antibioticglue>
+  <entityname.ekutility_label_tonicliquid>Tonic Liquid Label</entityname.ekutility_label_tonicliquid>
+  <entitydescription.ekutility_label_tonicliquid>A label card with a picture of tonic liquid on it.</entitydescription.ekutility_label_tonicliquid>
+  <entityname.ekutility_label_saline>Saline Label</entityname.ekutility_label_saline>
+  <entitydescription.ekutility_label_saline>A label card with a picture of saline on it.</entitydescription.ekutility_label_saline>
+  <entityname.ekutility_label_bloodpack>Blood Pack Label</entityname.ekutility_label_bloodpack>
+  <entitydescription.ekutility_label_bloodpack>A label card with a picture of a blood pack on it.</entitydescription.ekutility_label_bloodpack>
+  <entityname.ekutility_label_adrenaline>Adrenaline Label</entityname.ekutility_label_adrenaline>
+  <entitydescription.ekutility_label_adrenaline>A label card with a picture of adrenaline on it.</entitydescription.ekutility_label_adrenaline>
+  <entityname.ekutility_label_opium>Opium Label</entityname.ekutility_label_opium>
+  <entitydescription.ekutility_label_opium>A label card with a picture of opium on it.</entitydescription.ekutility_label_opium>
+  <entityname.ekutility_label_elastin>Elastin Label</entityname.ekutility_label_elastin>
+  <entitydescription.ekutility_label_elastin>A label card with a picture of elastin on it.</entitydescription.ekutility_label_elastin>
+  <entityname.ekutility_label_alienblood>Alien Blood Label</entityname.ekutility_label_alienblood>
+  <entitydescription.ekutility_label_alienblood>A label card with a picture of alien blood on it.</entitydescription.ekutility_label_alienblood>
+  <entityname.ekutility_label_adrenalinegland>Adrenaline Gland Label</entityname.ekutility_label_adrenalinegland>
+  <entitydescription.ekutility_label_adrenalinegland>A label card with a picture of an adrenaline gland on it.</entitydescription.ekutility_label_adrenalinegland>
+  <entityname.ekutility_label_swimbladder>Swim Bladder Label</entityname.ekutility_label_swimbladder>
+  <entitydescription.ekutility_label_swimbladder>A label card with a picture of a swim bladder on it.</entitydescription.ekutility_label_swimbladder>
+  <entityname.ekutility_label_paralyxis>Paralyxis Label</entityname.ekutility_label_paralyxis>
+  <entitydescription.ekutility_label_paralyxis>A label card with a picture of paralyxis on it.</entitydescription.ekutility_label_paralyxis>
+  <entityname.ekutility_label_huskeggs>Velonaceps Calyx Label</entityname.ekutility_label_huskeggs>
+  <entitydescription.ekutility_label_huskeggs>A label card with a picture of velonaceps calyx on it.</entitydescription.ekutility_label_huskeggs>
+  <entityname.ekutility_label_fiberplant>Fiber Plant Label</entityname.ekutility_label_fiberplant>
+  <entitydescription.ekutility_label_fiberplant>A label card with a picture of a fiber plant on it.</entitydescription.ekutility_label_fiberplant>
+  <entityname.ekutility_label_elastinplant>Elastin Plant Label</entityname.ekutility_label_elastinplant>
+  <entitydescription.ekutility_label_elastinplant>A label card with a picture of an elastin plant on it.</entitydescription.ekutility_label_elastinplant>
+  <entityname.ekutility_label_aquaticpoppy>Aquatic Poppy Label</entityname.ekutility_label_aquaticpoppy>
+  <entitydescription.ekutility_label_aquaticpoppy>A label card with a picture of an aquatic poppy on it.</entitydescription.ekutility_label_aquaticpoppy>
+  <entityname.ekutility_label_yeastshroom>Yeast Mushroom Label</entityname.ekutility_label_yeastshroom>
+  <entitydescription.ekutility_label_yeastshroom>A label card with a picture of a yeast mushroom on it.</entitydescription.ekutility_label_yeastshroom>
+  <entityname.ekutility_label_slimebacteria>Slime Bacteria Label</entityname.ekutility_label_slimebacteria>
+  <entitydescription.ekutility_label_slimebacteria>A label card with a picture of slime bacteria on it.</entitydescription.ekutility_label_slimebacteria>
+  <entityname.ekutility_label_creepingorange>Pomegrenade Label</entityname.ekutility_label_creepingorange>
+  <entitydescription.ekutility_label_creepingorange>A label card with a picture of a pomegrenade on it.</entitydescription.ekutility_label_creepingorange>
+  <entityname.ekutility_label_tobaccobud>Tobacco Bud Label</entityname.ekutility_label_tobaccobud>
+  <entitydescription.ekutility_label_tobaccobud>A label card with a picture of a tobacco bud on it.</entitydescription.ekutility_label_tobaccobud>
+  <entityname.ekutility_label_saltbulb>Salt Bulb Label</entityname.ekutility_label_saltbulb>
+  <entitydescription.ekutility_label_saltbulb>A label card with a picture of a salt bulb on it.</entitydescription.ekutility_label_saltbulb>
+  <entityname.ekutility_label_raptorbane>Raptorbane Label</entityname.ekutility_label_raptorbane>
+  <entitydescription.ekutility_label_raptorbane>A label card with a picture of raptorbane on it.</entitydescription.ekutility_label_raptorbane>
+  <entityname.ekutility_label_stabilozine>Stabilozine Label</entityname.ekutility_label_stabilozine>
+  <entitydescription.ekutility_label_stabilozine>A label card with a picture of stabilozine on it.</entitydescription.ekutility_label_stabilozine>
+  <entityname.ekutility_label_morphine>Morphine Label</entityname.ekutility_label_morphine>
+  <entitydescription.ekutility_label_morphine>A label card with a picture of morphine on it.</entitydescription.ekutility_label_morphine>
+  <entityname.ekutility_label_fentanyl>Fentanyl Label</entityname.ekutility_label_fentanyl>
+  <entitydescription.ekutility_label_fentanyl>A label card with a picture of fentanyl on it.</entitydescription.ekutility_label_fentanyl>
+  <entityname.ekutility_label_deusizine>Deusizine Label</entityname.ekutility_label_deusizine>
+  <entitydescription.ekutility_label_deusizine>A label card with a picture of deusizine on it.</entitydescription.ekutility_label_deusizine>
+  <entityname.ekutility_label_naloxone>Naloxone Label</entityname.ekutility_label_naloxone>
+  <entitydescription.ekutility_label_naloxone>A label card with a picture of naloxone on it.</entitydescription.ekutility_label_naloxone>
+  <entityname.ekutility_label_haloperidol>Haloperidol Label</entityname.ekutility_label_haloperidol>
+  <entitydescription.ekutility_label_haloperidol>A label card with a picture of haloperidol on it.</entitydescription.ekutility_label_haloperidol>
+  <entityname.ekutility_label_methamphetamine>Methamphetamine Label</entityname.ekutility_label_methamphetamine>
+  <entitydescription.ekutility_label_methamphetamine>A label card with a picture of methamphetamine on it.</entitydescription.ekutility_label_methamphetamine>
+  <entityname.ekutility_label_steroids>Anabolic Steroids Label</entityname.ekutility_label_steroids>
+  <entitydescription.ekutility_label_steroids>A label card with a picture of anabolic steroids on it.</entitydescription.ekutility_label_steroids>
+  <entityname.ekutility_label_hyperzine>Hyperzine Label</entityname.ekutility_label_hyperzine>
+  <entitydescription.ekutility_label_hyperzine>A label card with a picture of hyperzine on it.</entitydescription.ekutility_label_hyperzine>
+  <entityname.ekutility_label_liquidoxygenite>Liquid Oxygenite Label</entityname.ekutility_label_liquidoxygenite>
+  <entitydescription.ekutility_label_liquidoxygenite>A label card with a picture of liquid oxygenite on it.</entitydescription.ekutility_label_liquidoxygenite>
+  <entityname.ekutility_label_antibiotics>Broad-spectrum Antibiotics Label</entityname.ekutility_label_antibiotics>
+  <entitydescription.ekutility_label_antibiotics>A label card with a picture of broad-spectrum antibiotics on it.</entitydescription.ekutility_label_antibiotics>
+  <entityname.ekutility_label_chloralhydrate>Chloral Hydrate Label</entityname.ekutility_label_chloralhydrate>
+  <entitydescription.ekutility_label_chloralhydrate>A label card with a picture of chloral hydrate on it.</entitydescription.ekutility_label_chloralhydrate>
+  <entityname.ekutility_label_calyxanide>Calyxanide Label</entityname.ekutility_label_calyxanide>
+  <entitydescription.ekutility_label_calyxanide>A label card with a picture of calyxanide on it.</entitydescription.ekutility_label_calyxanide>
+  <entityname.ekutility_label_raptorbaneextract>Raptorbane Extract Label</entityname.ekutility_label_raptorbaneextract>
+  <entitydescription.ekutility_label_raptorbaneextract>A label card with a picture of raptorbane extract on it.</entitydescription.ekutility_label_raptorbaneextract>
+  <entityname.ekutility_label_pomegrenadeextract>Pomegrenade Extract Label</entityname.ekutility_label_pomegrenadeextract>
+  <entitydescription.ekutility_label_pomegrenadeextract>A label card with a picture of pomegrenade extract on it.</entitydescription.ekutility_label_pomegrenadeextract>
+  <entityname.ekutility_label_cyanide>Cyanide Label</entityname.ekutility_label_cyanide>
+  <entitydescription.ekutility_label_cyanide>A label card with a picture of cyanide on it.</entitydescription.ekutility_label_cyanide>
+  <entityname.ekutility_label_cyanideantidote>Cyanide Antidote Label</entityname.ekutility_label_cyanideantidote>
+  <entitydescription.ekutility_label_cyanideantidote>A label card with a picture of cyanide antidote on it.</entitydescription.ekutility_label_cyanideantidote>
+  <entityname.ekutility_label_sufforin>Sufforin Label</entityname.ekutility_label_sufforin>
+  <entitydescription.ekutility_label_sufforin>A label card with a picture of sufforin on it.</entitydescription.ekutility_label_sufforin>
+  <entityname.ekutility_label_sufforinantidote>Sufforin Antidote Label</entityname.ekutility_label_sufforinantidote>
+  <entitydescription.ekutility_label_sufforinantidote>A label card with a picture of sufforin antidote on it.</entitydescription.ekutility_label_sufforinantidote>
+  <entityname.ekutility_label_morbusine>Morbusine Label</entityname.ekutility_label_morbusine>
+  <entitydescription.ekutility_label_morbusine>A label card with a picture of morbusine on it.</entitydescription.ekutility_label_morbusine>
+  <entityname.ekutility_label_morbusineantidote>Morbusine Antidote Label</entityname.ekutility_label_morbusineantidote>
+  <entitydescription.ekutility_label_morbusineantidote>A label card with a picture of morbusine antidote on it.</entitydescription.ekutility_label_morbusineantidote>
+  <entityname.ekutility_label_radiotoxin>Radiotoxin Label</entityname.ekutility_label_radiotoxin>
+  <entitydescription.ekutility_label_radiotoxin>A label card with a picture of radiotoxinon it.</entitydescription.ekutility_label_radiotoxin>
+  <entityname.ekutility_label_antirad>Antirad Label</entityname.ekutility_label_antirad>
+  <entitydescription.ekutility_label_antirad>A label card with a picture of antirad on it.</entitydescription.ekutility_label_antirad>
+  <entityname.ekutility_label_deliriumine>Deliriumine Label</entityname.ekutility_label_deliriumine>
+  <entitydescription.ekutility_label_deliriumine>A label card with a picture of deliriumine on it.</entitydescription.ekutility_label_deliriumine>
+  <entityname.ekutility_label_deliriumineantidote>Deliriumine Antidote Label</entityname.ekutility_label_deliriumineantidote>
+  <entitydescription.ekutility_label_deliriumineantidote>A label card with a picture of deliriumine antidote on it.</entitydescription.ekutility_label_deliriumineantidote>
+  <entityname.ekutility_label_paralyzant>Paralyzant Label</entityname.ekutility_label_paralyzant>
+  <entitydescription.ekutility_label_paralyzant>A label card with a picture of paralyzant on it.</entitydescription.ekutility_label_paralyzant>
+  <entityname.ekutility_label_antiparalysis>Anaparalyzant Label</entityname.ekutility_label_antiparalysis>
+  <entitydescription.ekutility_label_antiparalysis>A label card with a picture of anaparalyzant on it.</entitydescription.ekutility_label_antiparalysis>
+  <entityname.ekutility_label_reactorfuel>Fuel Rod Label</entityname.ekutility_label_reactorfuel>
+  <entitydescription.ekutility_label_reactorfuel>A label card with a picture of a welding fuel tank on it.</entitydescription.ekutility_label_reactorfuel>
+  <entityname.ekutility_label_wrench>Wrench Label</entityname.ekutility_label_wrench>
+  <entitydescription.ekutility_label_wrench>A label card with a picture of a wrench on it.</entitydescription.ekutility_label_wrench>
+  <entityname.ekutility_label_screwdriver>Screwdriver Label</entityname.ekutility_label_screwdriver>
+  <entitydescription.ekutility_label_screwdriver>A label card with a picture of a screwdriver on it.</entitydescription.ekutility_label_screwdriver>
+  <entityname.ekutility_label_crowbar>Crowbar Label</entityname.ekutility_label_crowbar>
+  <entitydescription.ekutility_label_crowbar>A label card with a picture of a crowbar on it.</entitydescription.ekutility_label_crowbar>
+  <entityname.ekutility_label_weldingtool>Welding Tool Label</entityname.ekutility_label_weldingtool>
+  <entitydescription.ekutility_label_weldingtool>A label card with a picture of a welding tool on it.</entitydescription.ekutility_label_weldingtool>
+  <entityname.ekutility_label_plasmacutter>Plasma Cutter Label</entityname.ekutility_label_plasmacutter>
+  <entitydescription.ekutility_label_plasmacutter>A label card with a picture of a plasma cutter on it.</entitydescription.ekutility_label_plasmacutter>
+  <entityname.ekutility_label_flamer>Flamer Label</entityname.ekutility_label_flamer>
+  <entitydescription.ekutility_label_flamer>A label card with a picture of a flamer on it.</entitydescription.ekutility_label_flamer>
+  <entityname.ekutility_label_fireextinguisher>Fire Extinguisher Label</entityname.ekutility_label_fireextinguisher>
+  <entitydescription.ekutility_label_fireextinguisher>A label card with a picture of a fire extinguisher on it.</entitydescription.ekutility_label_fireextinguisher>
+  <entityname.ekutility_label_flare>Flare Label</entityname.ekutility_label_flare>
+  <entitydescription.ekutility_label_flare>A label card with a picture of a flare on it.</entitydescription.ekutility_label_flare>
+  <entityname.ekutility_label_flashlight>Flashlight Label</entityname.ekutility_label_flashlight>
+  <entitydescription.ekutility_label_flashlight>A label card with a picture of a flashlight on it.</entitydescription.ekutility_label_flashlight>
+  <entityname.ekutility_label_oxygentank>Oxygen Tank Label</entityname.ekutility_label_oxygentank>
+  <entitydescription.ekutility_label_oxygentank>A label card with a picture of an oxygen tank on it.</entitydescription.ekutility_label_oxygentank>
+  <entityname.ekutility_label_weldingfueltank>Welding Fuel Tank Label</entityname.ekutility_label_weldingfueltank>
+  <entitydescription.ekutility_label_weldingfueltank>A label card with a picture of a welding fuel tank on it.</entitydescription.ekutility_label_weldingfueltank>
+  <entityname.ekutility_label_batterycell>Battery Cell Label</entityname.ekutility_label_batterycell>
+  <entitydescription.ekutility_label_batterycell>A label card with a picture of a battery cell on it.</entitydescription.ekutility_label_batterycell>
+  <entityname.ekutility_label_fulguriumbatterycell>Fulgurium Battery Cell Label</entityname.ekutility_label_fulguriumbatterycell>
+  <entitydescription.ekutility_label_fulguriumbatterycell>A label card with a picture of a fulgurium battery cell on it.</entitydescription.ekutility_label_fulguriumbatterycell>
+  <entityname.ekutility_label_headset>Headset Label</entityname.ekutility_label_headset>
+  <entitydescription.ekutility_label_headset>A label card with a picture of a headset on it.</entitydescription.ekutility_label_headset>
+  <entityname.ekutility_label_divingmask>Diving Mask Label</entityname.ekutility_label_divingmask>
+  <entitydescription.ekutility_label_divingmask>A label card with a picture of a diving mask on it.</entitydescription.ekutility_label_divingmask>
+  <entityname.ekutility_label_underwaterscooter>Underwater Scooter Label</entityname.ekutility_label_underwaterscooter>
+  <entitydescription.ekutility_label_underwaterscooter>A label card with a picture of an underwater scooter on it.</entitydescription.ekutility_label_underwaterscooter>
+  <entityname.ekutility_label_handheldsonar>Handheld Sonar Label</entityname.ekutility_label_handheldsonar>
+  <entitydescription.ekutility_label_handheldsonar>A label card with a picture of a handheld sonar on it.</entitydescription.ekutility_label_handheldsonar>
+  <entityname.ekutility_label_sonarbeacon>Sonar Beacon Label</entityname.ekutility_label_sonarbeacon>
+  <entitydescription.ekutility_label_sonarbeacon>A label card with a picture of a sonar beacon sonar on it.</entitydescription.ekutility_label_sonarbeacon>
+  <entityname.ekutility_label_miningdrill>Electric Drill Label</entityname.ekutility_label_miningdrill>
+  <entitydescription.ekutility_label_miningdrill>A label card with a picture of an electric drill on it.</entitydescription.ekutility_label_miningdrill>
+  <entityname.ekutility_label_metalfoam_tank>Metallic Foam Canister Label</entityname.ekutility_label_metalfoam_tank>
+  <entitydescription.ekutility_label_metalfoam_tank>A label card with a picture of a metallic foam canister on it.</entitydescription.ekutility_label_metalfoam_tank>
+  <entityname.ekutility_label_metalfoam_gun>Metallic Foam Sprayer Label</entityname.ekutility_label_metalfoam_gun>
+  <entitydescription.ekutility_label_metalfoam_gun>A label card with a picture of a metallic foam sprayer on it.</entitydescription.ekutility_label_metalfoam_gun>
+  <entityname.ekutility_label_pulsecutter>Ion Pulse Cutter Label</entityname.ekutility_label_pulsecutter>
+  <entitydescription.ekutility_label_pulsecutter>A label card with a picture of an ion pulse cutter on it.</entitydescription.ekutility_label_pulsecutter>
+  <entityname.ekutility_label_laserdrill>Laser Bore Label</entityname.ekutility_label_laserdrill>
+  <entitydescription.ekutility_label_laserdrill>A label card with a picture of a laser bore on it.</entitydescription.ekutility_label_laserdrill>
+  <entityname.ekutility_label_arcwelder>Arc Welder Label</entityname.ekutility_label_arcwelder>
+  <entitydescription.ekutility_label_arcwelder>A label card with a picture of an arc welder on it.</entitydescription.ekutility_label_arcwelder>
+  <entityname.ekutility_labelprinter>标签打印机</entityname.ekutility_labelprinter>
+  <entitydescription.ekutility_labelprinter>军需官最好的朋友。这个手持设备可以扫描和打印常见货物的分类标签。</entitydescription.ekutility_labelprinter>
+  <!-- ekutility_divinggear.xml -->
+  <entityname.ekutility_reinforcedtank_oxygen>强化氧气罐</entityname.ekutility_reinforcedtank_oxygen>
+  <entitydescription.ekutility_reinforcedtank_oxygen>经强化的氧气罐，耐冲击和高温。</entitydescription.ekutility_reinforcedtank_oxygen>
+  <entityname.ekutility_reinforcedtank_oxygenite>强化氧矿罐</entityname.ekutility_reinforcedtank_oxygenite>
+  <entitydescription.ekutility_reinforcedtank_oxygenite>经强化的氧气罐，耐冲击和高温。</entitydescription.ekutility_reinforcedtank_oxygenite>
+  <entityname.ekutility_rebreatherunit>循环呼吸器</entityname.ekutility_rebreatherunit>
+  <entitydescription.ekutility_rebreatherunit>实验性自给式再呼吸装置，其连接设计与大多数标准潜水设备兼容。需要电池和内部氧气储存才能工作。</entitydescription.ekutility_rebreatherunit>
+  <entityname.ekutility_jetscooter>喷气水下推进器</entityname.ekutility_jetscooter>
+  <entitydescription.ekutility_jetscooter>先进的水下推进装置。具有更大的电池容量和内置声纳导航系统。</entitydescription.ekutility_jetscooter>
+  <entityname.ekutility_advancedsonarbeacon>高级声纳信标</entityname.ekutility_advancedsonarbeacon>
+  <entitydescription.ekutility_advancedsonarbeacon>手持式定位信标发射器，对进行舱外活动很有帮助。</entitydescription.ekutility_advancedsonarbeacon>
+  <entityname.ekutility_Utility_hardsuit>多功能压力服MK1</entityname.ekutility_Utility_hardsuit>
+  <entitydescription.ekutility_Utility_hardsuit>坚固的压力套装，专为施工，采矿和救助操作而设计,提供一定的高温和电击保护的同时允许使用者正常操作各种工具装备。[额定6000米]</entitydescription.ekutility_Utility_hardsuit>
+  <entityname.ekutility_utility_hardsuit_paintmechanic>多功能压力服MK1（机修工涂装）</entityname.ekutility_utility_hardsuit_paintmechanic>
+  <entitydescription.ekutility_utility_hardsuit_paintmechanic>坚固的压力套装，专为施工，采矿和救助操作而设计,提供一定的高温和电击保护的同时允许使用者正常操作各种工具装备。[额定6000米]</entitydescription.ekutility_utility_hardsuit_paintmechanic>
+  <entityname.ekutility_oxygencell1>氧气单元 Mk-I</entityname.ekutility_oxygencell1>
+  <entitydescription.ekutility_oxygencell1>利用化学试剂产生氧气的潜水服一次性氧气源，能提供大量氧气。</entitydescription.ekutility_oxygencell1>
+  <entityname.ekutility_oxygencell2>氧气单元 Mk-II</entityname.ekutility_oxygencell2>
+  <entitydescription.ekutility_oxygencell2>利用化学试剂产生氧气的潜水服一次性氧气源，能提供大量氧气。</entitydescription.ekutility_oxygencell2>
+  <!-- ekutility_densifiedmaterials.xml -->
+  <entityname.ekutility_densifiedmaterial_iron>&gt;一箱铁</entityname.ekutility_densifiedmaterial_iron>
+  <entitydescription.ekutility_densifiedmaterial_iron>装箱的铁，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_iron>
+  <entityname.ekutility_densifiedmaterial_aluminium>一箱铝</entityname.ekutility_densifiedmaterial_aluminium>
+  <entitydescription.ekutility_densifiedmaterial_aluminium>装箱的铝，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_aluminium>
+  <entityname.ekutility_densifiedmaterial_copper>一箱铜</entityname.ekutility_densifiedmaterial_copper>
+  <entitydescription.ekutility_densifiedmaterial_copper>装箱的铜，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_copper>
+  <entityname.ekutility_densifiedmaterial_titanium>一箱钛</entityname.ekutility_densifiedmaterial_titanium>
+  <entitydescription.ekutility_densifiedmaterial_titanium>装箱的钛，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_titanium>
+  <entityname.ekutility_densifiedmaterial_carbon>一箱碳</entityname.ekutility_densifiedmaterial_carbon>
+  <entitydescription.ekutility_densifiedmaterial_carbon>装箱的碳，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_carbon>
+  <entityname.ekutility_densifiedmaterial_lead>一箱铅</entityname.ekutility_densifiedmaterial_lead>
+  <entitydescription.ekutility_densifiedmaterial_lead>装箱的铅，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_lead>
+  <entityname.ekutility_densifiedmaterial_tin>一箱锡</entityname.ekutility_densifiedmaterial_tin>
+  <entitydescription.ekutility_densifiedmaterial_tin>装箱的锡，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_tin>
+  <entityname.ekutility_densifiedmaterial_zinc>一箱锌</entityname.ekutility_densifiedmaterial_zinc>
+  <entitydescription.ekutility_densifiedmaterial_zinc>装箱的锌，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_zinc>
+  <entityname.ekutility_densifiedmaterial_silicon>一箱硅</entityname.ekutility_densifiedmaterial_silicon>
+  <entitydescription.ekutility_densifiedmaterial_silicon>装箱的硅，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_silicon>
+  <entityname.ekutility_densifiedmaterial_steel>一箱钢筋</entityname.ekutility_densifiedmaterial_steel>
+  <entitydescription.ekutility_densifiedmaterial_steel>装箱的钢筋，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_steel>
+  <entityname.ekutility_densifiedmaterial_titaniumaluminiumalloy>一箱钛合金</entityname.ekutility_densifiedmaterial_titaniumaluminiumalloy>
+  <entitydescription.ekutility_densifiedmaterial_titaniumaluminiumalloy>装箱的钛合金，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_titaniumaluminiumalloy>
+  <entityname.ekutility_densifiedmaterial_plastic>一箱塑料</entityname.ekutility_densifiedmaterial_plastic>
+  <entitydescription.ekutility_densifiedmaterial_plastic>装箱的塑料，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_plastic>
+  <entityname.ekutility_densifiedmaterial_rubber>一箱橡胶</entityname.ekutility_densifiedmaterial_rubber>
+  <entitydescription.ekutility_densifiedmaterial_rubber>装箱的橡胶，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_rubber>
+  <entityname.ekutility_densifiedmaterial_fpgacircuit>一箱FPGA电路</entityname.ekutility_densifiedmaterial_fpgacircuit>
+  <entitydescription.ekutility_densifiedmaterial_fpgacircuit>装箱的FPGA电路，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_fpgacircuit>
+  <entityname.ekutility_densifiedmaterial_organicfiber>一箱有机纤维</entityname.ekutility_densifiedmaterial_organicfiber>
+  <entitydescription.ekutility_densifiedmaterial_organicfiber>装箱的有机纤维，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_organicfiber>
+  <entityname.ekutility_densifiedmaterial_ballisticfiber>一箱弹性纤维</entityname.ekutility_densifiedmaterial_ballisticfiber>
+  <entitydescription.ekutility_densifiedmaterial_ballisticfiber>&gt;装箱的弹性纤维，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ballisticfiber>
+  <entityname.ekutility_densifiedmaterial_uranium>一箱铀</entityname.ekutility_densifiedmaterial_uranium>
+  <entitydescription.ekutility_densifiedmaterial_uranium>装箱的铀，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_uranium>
+  <entityname.ekutility_densifiedmaterial_thorium>一箱钍</entityname.ekutility_densifiedmaterial_thorium>
+  <entitydescription.ekutility_densifiedmaterial_thorium>装箱的钍，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_thorium>
+  <entityname.ekutility_densifiedmaterial_depleteduranium>一箱贫铀</entityname.ekutility_densifiedmaterial_depleteduranium>
+  <entitydescription.ekutility_densifiedmaterial_depleteduranium>装箱的贫铀，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_depleteduranium>
+  <entityname.ekutility_densifiedmaterial_flashpowder>一箱闪光粉</entityname.ekutility_densifiedmaterial_flashpowder>
+  <entitydescription.ekutility_densifiedmaterial_flashpowder>装箱的闪光粉，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_flashpowder>
+  <entityname.ekutility_densifiedmaterial_lithium>一箱锂</entityname.ekutility_densifiedmaterial_lithium>
+  <entitydescription.ekutility_densifiedmaterial_lithium>装箱的锂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_lithium>
+  <entityname.ekutility_densifiedmaterial_sodium>一箱钠</entityname.ekutility_densifiedmaterial_sodium>
+  <entitydescription.ekutility_densifiedmaterial_sodium>装箱的钠，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_sodium>
+  <entityname.ekutility_densifiedmaterial_magnesium>一箱镁</entityname.ekutility_densifiedmaterial_magnesium>
+  <entitydescription.ekutility_densifiedmaterial_magnesium>装箱的镁，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_magnesium>
+  <entityname.ekutility_densifiedmaterial_potassium>一箱钾</entityname.ekutility_densifiedmaterial_potassium>
+  <entitydescription.ekutility_densifiedmaterial_potassium>装箱的钾，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_potassium>
+  <entityname.ekutility_densifiedmaterial_chlorine>一箱氯</entityname.ekutility_densifiedmaterial_chlorine>
+  <entitydescription.ekutility_densifiedmaterial_chlorine>装箱的氯，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_chlorine>
+  <entityname.ekutility_densifiedmaterial_calcium>一箱钙</entityname.ekutility_densifiedmaterial_calcium>
+  <entitydescription.ekutility_densifiedmaterial_calcium>装箱的钙，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_calcium>
+  <entityname.ekutility_densifiedmaterial_phosphorus>一箱磷</entityname.ekutility_densifiedmaterial_phosphorus>
+  <entitydescription.ekutility_densifiedmaterial_phosphorus>装箱的磷，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_phosphorus>
+  <entityname.ekutility_densifiedmaterial_ethanol>一箱乙醇</entityname.ekutility_densifiedmaterial_ethanol>
+  <entitydescription.ekutility_densifiedmaterial_ethanol>装箱的乙醇，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ethanol>
+  <entityname.ekutility_densifiedmaterial_sulphuricacid>一箱硫酸</entityname.ekutility_densifiedmaterial_sulphuricacid>
+  <entitydescription.ekutility_densifiedmaterial_sulphuricacid>装箱的硫酸，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_sulphuricacid>
+  <entityname.ekutility_densifiedmaterial_uex>一箱UEX</entityname.ekutility_densifiedmaterial_uex>
+  <entitydescription.ekutility_densifiedmaterial_uex>装箱的UEX，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_uex>
+  <entityname.ekutility_densifiedmaterial_c4block>一箱C-4</entityname.ekutility_densifiedmaterial_c4block>
+  <entitydescription.ekutility_densifiedmaterial_c4block>装箱的C-4，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_c4block>
+  <entityname.ekutility_densifiedmaterial_compoundn>一箱化合物N</entityname.ekutility_densifiedmaterial_compoundn>
+  <entitydescription.ekutility_densifiedmaterial_compoundn>装箱的化合物N，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_compoundn>
+  <entityname.ekutility_densifiedmaterial_ic4block>一箱IC-4</entityname.ekutility_densifiedmaterial_ic4block>
+  <entitydescription.ekutility_densifiedmaterial_ic4block>装箱的IC-4，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ic4block>
+  <entityname.ekutility_densifiedmaterial_physicorium>一箱刚素</entityname.ekutility_densifiedmaterial_physicorium>
+  <entitydescription.ekutility_densifiedmaterial_physicorium>装箱的刚素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_physicorium>
+  <entityname.ekutility_densifiedmaterial_fulgurium>一箱雷素</entityname.ekutility_densifiedmaterial_fulgurium>
+  <entitydescription.ekutility_densifiedmaterial_fulgurium>装箱的雷素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_fulgurium>
+  <entityname.ekutility_densifiedmaterial_sulphuriteshard>一箱硫酸盐</entityname.ekutility_densifiedmaterial_sulphuriteshard>
+  <entitydescription.ekutility_densifiedmaterial_sulphuriteshard>装箱的硫酸盐，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_sulphuriteshard>
+  <entityname.ekutility_densifiedmaterial_oxygeniteshard>一箱氧石</entityname.ekutility_densifiedmaterial_oxygeniteshard>
+  <entitydescription.ekutility_densifiedmaterial_oxygeniteshard>装箱的氧石，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_oxygeniteshard>
+  <entityname.ekutility_densifiedmaterial_incendium>一箱燃素</entityname.ekutility_densifiedmaterial_incendium>
+  <entitydescription.ekutility_densifiedmaterial_incendium>装箱的燃素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_incendium>
+  <entityname.ekutility_densifiedmaterial_dementonite>一箱摄魂矿</entityname.ekutility_densifiedmaterial_dementonite>
+  <entitydescription.ekutility_densifiedmaterial_dementonite>装箱的摄魂矿，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_dementonite>
+  <entityname.ekutility_densifiedmaterial_antibleeding1>一箱绷带</entityname.ekutility_densifiedmaterial_antibleeding1>
+  <entitydescription.ekutility_densifiedmaterial_antibleeding1>装箱的绷带，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibleeding1>
+  <entityname.ekutility_densifiedmaterial_antibleeding2>一箱人造皮肤</entityname.ekutility_densifiedmaterial_antibleeding2>
+  <entitydescription.ekutility_densifiedmaterial_antibleeding2>装箱的人造皮肤，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibleeding2>
+  <entityname.ekutility_densifiedmaterial_antibleeding3>一箱抗生素</entityname.ekutility_densifiedmaterial_antibleeding3>
+  <entitydescription.ekutility_densifiedmaterial_antibleeding3>装箱的抗生素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibleeding3>
+  <entityname.ekutility_densifiedmaterial_tonicliquid>一箱内用辅液</entityname.ekutility_densifiedmaterial_tonicliquid>
+  <entitydescription.ekutility_densifiedmaterial_tonicliquid>装箱的内用辅液，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_tonicliquid>
+  <entityname.ekutility_densifiedmaterial_antibloodloss1>一箱医用盐水</entityname.ekutility_densifiedmaterial_antibloodloss1>
+  <entitydescription.ekutility_densifiedmaterial_antibloodloss1>装箱的医用盐水，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibloodloss1>
+  <entityname.ekutility_densifiedmaterial_antibloodloss2>一箱血袋</entityname.ekutility_densifiedmaterial_antibloodloss2>
+  <entitydescription.ekutility_densifiedmaterial_antibloodloss2>装箱的血袋，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibloodloss2>
+  <entityname.ekutility_densifiedmaterial_adrenaline>一箱肾上腺素</entityname.ekutility_densifiedmaterial_adrenaline>
+  <entitydescription.ekutility_densifiedmaterial_adrenaline>装箱的肾上腺素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_adrenaline>
+  <entityname.ekutility_densifiedmaterial_opium>一箱药用鸦片</entityname.ekutility_densifiedmaterial_opium>
+  <entitydescription.ekutility_densifiedmaterial_opium>装箱的药用鸦片，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_opium>
+  <entityname.ekutility_densifiedmaterial_elastin>一箱弹性蛋白</entityname.ekutility_densifiedmaterial_elastin>
+  <entitydescription.ekutility_densifiedmaterial_elastin>装箱的弹性蛋白，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_elastin>
+  <entityname.ekutility_densifiedmaterial_alienblood>一箱外星血浆</entityname.ekutility_densifiedmaterial_alienblood>
+  <entitydescription.ekutility_densifiedmaterial_alienblood>装箱的外星血浆，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_alienblood>
+  <entityname.ekutility_densifiedmaterial_adrenalinegland>一箱肾上腺素腺体</entityname.ekutility_densifiedmaterial_adrenalinegland>
+  <entitydescription.ekutility_densifiedmaterial_adrenalinegland>装箱的肾上腺素腺体，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_adrenalinegland>
+  <entityname.ekutility_densifiedmaterial_swimbladder>一箱自愈囊泡</entityname.ekutility_densifiedmaterial_swimbladder>
+  <entitydescription.ekutility_densifiedmaterial_swimbladder>装箱的自愈囊泡，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_swimbladder>
+  <entityname.ekutility_densifiedmaterial_paralyxis>一箱麻痹源</entityname.ekutility_densifiedmaterial_paralyxis>
+  <entitydescription.ekutility_densifiedmaterial_paralyxis>装箱的麻痹源，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_paralyxis>
+  <entityname.ekutility_densifiedmaterial_huskeggs>一箱画皮寄生虫卵</entityname.ekutility_densifiedmaterial_huskeggs>
+  <entitydescription.ekutility_densifiedmaterial_huskeggs>装箱的画皮寄生虫卵，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_huskeggs>
+  <entityname.ekutility_densifiedmaterial_stabilozine>一箱疗素</entityname.ekutility_densifiedmaterial_stabilozine>
+  <entitydescription.ekutility_densifiedmaterial_stabilozine>装箱的疗素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_stabilozine>
+  <entityname.ekutility_densifiedmaterial_morphine>一箱吗啡</entityname.ekutility_densifiedmaterial_morphine>
+  <entitydescription.ekutility_densifiedmaterial_morphine>装箱的吗啡，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_morphine>
+  <entityname.ekutility_densifiedmaterial_fentanyl>一箱芬太尼</entityname.ekutility_densifiedmaterial_fentanyl>
+  <entitydescription.ekutility_densifiedmaterial_fentanyl>装箱的芬太尼，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_fentanyl>
+  <entityname.ekutility_densifiedmaterial_deusizine>一箱神效剂</entityname.ekutility_densifiedmaterial_deusizine>
+  <entitydescription.ekutility_densifiedmaterial_deusizine>装箱的神效剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_deusizine>
+  <entityname.ekutility_densifiedmaterial_naloxone>一箱吗啡酮</entityname.ekutility_densifiedmaterial_naloxone>
+  <entitydescription.ekutility_densifiedmaterial_naloxone>装箱的吗啡酮，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_naloxone>
+  <entityname.ekutility_densifiedmaterial_haloperidol>一箱氟哌啶醇</entityname.ekutility_densifiedmaterial_haloperidol>
+  <entitydescription.ekutility_densifiedmaterial_haloperidol>装箱的氟哌啶醇，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_haloperidol>
+  <entityname.ekutility_densifiedmaterial_meth>一箱兴奋粉剂</entityname.ekutility_densifiedmaterial_meth>
+  <entitydescription.ekutility_densifiedmaterial_meth>装箱的兴奋粉剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_meth>
+  <entityname.ekutility_densifiedmaterial_steroids>一箱合成代谢类固醇</entityname.ekutility_densifiedmaterial_steroids>
+  <entitydescription.ekutility_densifiedmaterial_steroids>装箱的合成代谢类固醇，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_steroids>
+  <entityname.ekutility_densifiedmaterial_hyperzine>一箱加速粉剂</entityname.ekutility_densifiedmaterial_hyperzine>
+  <entitydescription.ekutility_densifiedmaterial_hyperzine>装箱的加速粉剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_hyperzine>
+  <entityname.ekutility_densifiedmaterial_liquidoxygenite>一箱液态氧矿</entityname.ekutility_densifiedmaterial_liquidoxygenite>
+  <entitydescription.ekutility_densifiedmaterial_liquidoxygenite>装箱的液态氧矿，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_liquidoxygenite>
+  <entityname.ekutility_densifiedmaterial_antibiotics>一箱广谱抗生素</entityname.ekutility_densifiedmaterial_antibiotics>
+  <entitydescription.ekutility_densifiedmaterial_antibiotics>装箱的广谱抗生素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibiotics>
+  <entityname.ekutility_densifiedmaterial_chloralhydrate>一箱水合三氯乙醛</entityname.ekutility_densifiedmaterial_chloralhydrate>
+  <entitydescription.ekutility_densifiedmaterial_chloralhydrate>装箱的水合三氯乙醛，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_chloralhydrate>
+  <entityname.ekutility_densifiedmaterial_calyxanide>一箱皮虫净</entityname.ekutility_densifiedmaterial_calyxanide>
+  <entitydescription.ekutility_densifiedmaterial_calyxanide>装箱的皮虫净，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_calyxanide>
+  <entityname.ekutility_densifiedmaterial_raptorbaneextract>一箱枭祸根精华</entityname.ekutility_densifiedmaterial_raptorbaneextract>
+  <entitydescription.ekutility_densifiedmaterial_raptorbaneextract>装箱的枭祸根精华，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_raptorbaneextract>
+  <entityname.ekutility_densifiedmaterial_pomegrenadeextract>一箱爆弹石榴精华</entityname.ekutility_densifiedmaterial_pomegrenadeextract>
+  <entitydescription.ekutility_densifiedmaterial_pomegrenadeextract>装箱的爆弹石榴精华，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_pomegrenadeextract>
+  <entityname.ekutility_densifiedmaterial_cyanide>一箱氰化物毒剂</entityname.ekutility_densifiedmaterial_cyanide>
+  <entitydescription.ekutility_densifiedmaterial_cyanide>装箱的氰化物毒剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_cyanide>
+  <entityname.ekutility_densifiedmaterial_cyanideantidote>一箱氰化物解药</entityname.ekutility_densifiedmaterial_cyanideantidote>
+  <entitydescription.ekutility_densifiedmaterial_cyanideantidote>装箱的氰化物解药，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_cyanideantidote>
+  <entityname.ekutility_densifiedmaterial_sufforin>一箱升天毒剂</entityname.ekutility_densifiedmaterial_sufforin>
+  <entitydescription.ekutility_densifiedmaterial_sufforin>装箱的升天毒剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_sufforin>
+  <entityname.ekutility_densifiedmaterial_sufforinantidote>一箱升天解药</entityname.ekutility_densifiedmaterial_sufforinantidote>
+  <entitydescription.ekutility_densifiedmaterial_sufforinantidote>装箱的升天解药，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_sufforinantidote>
+  <entityname.ekutility_densifiedmaterial_morbusine>一箱窒死毒剂</entityname.ekutility_densifiedmaterial_morbusine>
+  <entitydescription.ekutility_densifiedmaterial_morbusine>装箱的窒死毒剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_morbusine>
+  <entityname.ekutility_densifiedmaterial_morbusineantidote>一箱窒死毒剂解毒剂</entityname.ekutility_densifiedmaterial_morbusineantidote>
+  <entitydescription.ekutility_densifiedmaterial_morbusineantidote>装箱的窒死毒剂解毒剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_morbusineantidote>
+  <entityname.ekutility_densifiedmaterial_radiotoxin>一箱辐射毒剂</entityname.ekutility_densifiedmaterial_radiotoxin>
+  <entitydescription.ekutility_densifiedmaterial_radiotoxin>装箱的辐射毒剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_radiotoxin>
+  <entityname.ekutility_densifiedmaterial_antirad>一箱消辐灵</entityname.ekutility_densifiedmaterial_antirad>
+  <entitydescription.ekutility_densifiedmaterial_antirad>装箱的消辐灵，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antirad>
+  <entityname.ekutility_densifiedmaterial_deliriumine>一箱谵妄毒剂</entityname.ekutility_densifiedmaterial_deliriumine>
+  <entitydescription.ekutility_densifiedmaterial_deliriumine>装箱的谵妄毒剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_deliriumine>
+  <entityname.ekutility_densifiedmaterial_deliriumineantidote>一箱谵妄解药</entityname.ekutility_densifiedmaterial_deliriumineantidote>
+  <entitydescription.ekutility_densifiedmaterial_deliriumineantidote>装箱的谵妄解药，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_deliriumineantidote>
+  <entityname.ekutility_densifiedmaterial_paralyzant>一箱麻痹剂</entityname.ekutility_densifiedmaterial_paralyzant>
+  <entitydescription.ekutility_densifiedmaterial_paralyzant>装箱的麻痹剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_paralyzant>
+  <entityname.ekutility_densifiedmaterial_antiparalysis>一箱麻痹治愈剂</entityname.ekutility_densifiedmaterial_antiparalysis>
+  <entitydescription.ekutility_densifiedmaterial_antiparalysis>装箱的麻痹治愈剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antiparalysis>
+  <!-- ekutility_placeablemachines.xml -->
+  <entityname.ekutility_divingsuitlocker>潜水服柜</entityname.ekutility_divingsuitlocker>
+  <entitydescription.ekutility_divingsuitlocker>存放潜水服的储物柜, 通电后可为潜水服补充氧气。 （按瞄准+使用即可放置）</entitydescription.ekutility_divingsuitlocker>
+  <entityname.ekutility_oxygentankshelf>氧气罐置物架</entityname.ekutility_oxygentankshelf>
+  <entitydescription.ekutility_oxygentankshelf>可摆放多个氧气罐，通电后可为氧气罐补充氧气。 （按瞄准+使用即可放置）</entitydescription.ekutility_oxygentankshelf>
+  <entityname.ekutility_placeabletextdisplay>文本显示器</entityname.ekutility_placeabletextdisplay>
+  <entitydescription.ekutility_placeabletextdisplay></entitydescription.ekutility_placeabletextdisplay>
+  <entityname.ekutility_placeabletextdisplaylong>文本显示器（长）</entityname.ekutility_placeabletextdisplaylong>
+  <entitydescription.ekutility_placeabletextdisplaylong></entitydescription.ekutility_placeabletextdisplaylong>
+  <entityname.ekutility_portablespinkler>洒水器</entityname.ekutility_portablespinkler>
+  <entitydescription.ekutility_portablespinkler>多用途洒水系统，可用于农业或扑灭轻度火灾。需要电力。 （按瞄准+使用即可放置）</entitydescription.ekutility_portablespinkler>
+  <entityname.ekutility_securebuttoncaptain>权限按钮（船长）</entityname.ekutility_securebuttoncaptain>
+  <entitydescription.ekutility_securebuttoncaptain></entitydescription.ekutility_securebuttoncaptain>
+  <entityname.ekutility_securebuttonsecurityofficer>权限按钮（安全官）</entityname.ekutility_securebuttonsecurityofficer>
+  <entitydescription.ekutility_securebuttonsecurityofficer></entitydescription.ekutility_securebuttonsecurityofficer>
+  <entityname.ekutility_securebuttonmedicaldoctor>权限按钮（医生）</entityname.ekutility_securebuttonmedicaldoctor>
+  <entitydescription.ekutility_securebuttonmedicaldoctor></entitydescription.ekutility_securebuttonmedicaldoctor>
+  <entityname.ekutility_securebuttonmechanic>权限按钮（机修工）</entityname.ekutility_securebuttonmechanic>
+  <entitydescription.ekutility_securebuttonmechanic></entitydescription.ekutility_securebuttonmechanic>
+  <entityname.ekutility_securebuttonengineer>权限按钮（工程师）</entityname.ekutility_securebuttonengineer>
+  <entitydescription.ekutility_securebuttonengineer></entitydescription.ekutility_securebuttonengineer>
+  <entityname.ekutility_placeablejunction>辅助电力总线</entityname.ekutility_placeablejunction>
+  <entitydescription.ekutility_placeablejunction>壁挂式接线盒。（按瞄准+使用即可放置）</entitydescription.ekutility_placeablejunction>
+  <entityname.ekutility_heavypowerswitch>大功率断路器</entityname.ekutility_heavypowerswitch>
+  <entitydescription.ekutility_heavypowerswitch>工业级电源断路器，可支持单路5000kw。（按瞄准+使用即可放置）</entitydescription.ekutility_heavypowerswitch>
+  <entityname.ekutility_placeablebattery>电池组</entityname.ekutility_placeablebattery>
+  <entitydescription.ekutility_placeablebattery>壁挂式大型电池组。（按瞄准+使用即可放置）</entitydescription.ekutility_placeablebattery>
+  <entityname.ekutility_placeableterminal>终端</entityname.ekutility_placeableterminal>
+  <entitydescription.ekutility_placeableterminal>输出用户提交的字符串</entitydescription.ekutility_placeableterminal>
+  <entityname.ekutility_placeablesmallpump>小型泵</entityname.ekutility_placeablesmallpump>
+  <entitydescription.ekutility_placeablesmallpump>抽水用的设备</entitydescription.ekutility_placeablesmallpump>
+  <entityname.ekutility_placeablefabricator>加工台</entityname.ekutility_placeablefabricator>
+  <entitydescription.ekutility_placeablefabricator>能用基本原料制造多种产品的机器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeablefabricator>
+  <entityname.ekutility_placeablefabricator_adaptive>加工台 （自适应）</entityname.ekutility_placeablefabricator_adaptive>
+  <entitydescription.ekutility_placeablefabricator_adaptive>能用基本原料制造多种产品的机器。改进的版本带有辅助控制计算机，降低所需的技能等级。（按瞄准+使用即可放置）</entitydescription.ekutility_placeablefabricator_adaptive>
+  <entityname.ekutility_placeablemedicalfabricator>医药加工台</entityname.ekutility_placeablemedicalfabricator>
+  <entitydescription.ekutility_placeablemedicalfabricator>可合成多种医疗用品的机器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeablemedicalfabricator>
+  <entityname.ekutility_placeabledeconstructor>解构仪</entityname.ekutility_placeabledeconstructor>
+  <entitydescription.ekutility_placeabledeconstructor>将物品分解成可用组件和原材料的机器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeabledeconstructor>
+  <entityname.ekutility_placeablesonarmonitor>声纳监控器r</entityname.ekutility_placeablesonarmonitor>
+  <entitydescription.ekutility_placeablesonarmonitor>用于观察潜艇声纳反馈结果的仪器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeablesonarmonitor>
+  <entityname.ekutility_placeablestatusmonitor>状态监控器</entityname.ekutility_placeablestatusmonitor>
+  <entitydescription.ekutility_placeablestatusmonitor>可以用来查看潜艇结构图与每个房间状态的仪器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeablestatusmonitor>
+  <entityname.ekutility_chargingdock1>充电坞站</entityname.ekutility_chargingdock1>
+  <entitydescription.ekutility_chargingdock1>壁挂式电池充电坞。 （按瞄准+使用即可放置）</entitydescription.ekutility_chargingdock1>
+  <!-- ekutility_tools.xml -->
+  <entityname.ekutility_reinforcedtank_weldingfuel>强化焊接油罐</entityname.ekutility_reinforcedtank_weldingfuel>
+  <entitydescription.ekutility_reinforcedtank_weldingfuel>经强化的燃料罐，耐冲击和高温。</entitydescription.ekutility_reinforcedtank_weldingfuel>
+  <entityname.ekutility_heavytank_incendium>强化燃素油罐</entityname.ekutility_heavytank_incendium>
+  <entitydescription.ekutility_heavytank_incendium>经强化的燃料罐，耐冲击和高温。</entitydescription.ekutility_heavytank_incendium>
+  <entityname.ekutility_miningdrill>电钻</entityname.ekutility_miningdrill>
+  <entitydescription.ekutility_miningdrill>工业手持钻。用于采矿和打捞作业。</entitydescription.ekutility_miningdrill>
+  <entityname.ekutility_metalfoam_tank>金属泡沫罐</entityname.ekutility_metalfoam_tank>
+  <entitydescription.ekutility_metalfoam_tank>内含金属泡沫和催化剂，用于快速修复船体损伤,与金属泡沫喷雾机配合使用。危险:剧毒，严禁破拆。</entitydescription.ekutility_metalfoam_tank>
+  <entityname.ekutility_metalfoam_gun>金属泡沫喷雾机</entityname.ekutility_metalfoam_gun>
+  <entitydescription.ekutility_metalfoam_gun>先进的船体修复科技。通过加热喷嘴喷出化学金属泡沫快速修复船体。</entitydescription.ekutility_metalfoam_gun>
+  <entityname.ekutility_ioncutter>离子脉冲切割器</entityname.ekutility_ioncutter>
+  <entitydescription.ekutility_ioncutter>重型切割工具,利用高速带电粒子脉冲切割物体。可以切割大多数材料，但耗电量很大。危险：在切割器工作时阻挡离子束可能会导致残疾或严重伤害，例如 - 三度烧伤、断肢、汽化和死亡。</entitydescription.ekutility_ioncutter>
+  <entityname.ekutility_redchemlight>化学荧光棒(红色)</entityname.ekutility_redchemlight>
+  <entitydescription.ekutility_redchemlight></entitydescription.ekutility_redchemlight>
+  <entityname.ekutility_greenchemlight>化学荧光棒(绿色)</entityname.ekutility_greenchemlight>
+  <entitydescription.ekutility_greenchemlight></entitydescription.ekutility_greenchemlight>
+  <entityname.ekutility_bluechemlight>化学荧光棒(蓝色)</entityname.ekutility_bluechemlight>
+  <entitydescription.ekutility_bluechemlight></entitydescription.ekutility_bluechemlight>
+  <entityname.ekutility_yellowchemlight>化学荧光棒(黄色)</entityname.ekutility_yellowchemlight>
+  <entitydescription.ekutility_yellowchemlight></entitydescription.ekutility_yellowchemlight>
+  <entityname.ekutility_medicalscanner>医学扫描仪</entityname.ekutility_medicalscanner>
+  <entitydescription.ekutility_medicalscanner>用于显示生物健康状况的手持扫描仪。</entitydescription.ekutility_medicalscanner>
+  <entityname.ekutility_guicompass>陀螺罗盘</entityname.ekutility_guicompass>
+  <entitydescription.ekutility_guicompass>带夜光指针的手持罗盘。</entitydescription.ekutility_guicompass>
+  <entityname.ekutility_grapplegun>抓钩枪</entityname.ekutility_grapplegun>
+  <entitydescription.ekutility_grapplegun>飞檐走壁吧！</entitydescription.ekutility_grapplegun>
+  <entityname.ekutility_grapplegunprojectile>ekutility_grapplegunprojectile</entityname.ekutility_grapplegunprojectile>
+  <entitydescription.ekutility_grapplegunprojectile></entitydescription.ekutility_grapplegunprojectile>
+  <entityname.ekutility_grapplegunprojectile_rappel>ekutility_grapplegunprojectile_rappel</entityname.ekutility_grapplegunprojectile_rappel>
+  <entitydescription.ekutility_grapplegunprojectile_rappel></entitydescription.ekutility_grapplegunprojectile_rappel>
+  <entityname.ekutility_jetpack1>火箭腰带</entityname.ekutility_jetpack1>
+  <entitydescription.ekutility_jetpack1>一种曾经被地表甚至更远世界的探险家使用的新型设备。使用与标准焊接油罐相同的燃料成分运行。</entitydescription.ekutility_jetpack1>
+  <entityname.ekutility_advancedheadset>工程耳机</entityname.ekutility_advancedheadset>
+  <entitydescription.ekutility_advancedheadset></entitydescription.ekutility_advancedheadset>
+  <entityname.ekutility_longrangeradio>远程无线电</entityname.ekutility_longrangeradio>
+  <entitydescription.ekutility_longrangeradio>防水高功率无线电发射机。专为联盟探险队员设计。</entitydescription.ekutility_longrangeradio>
+  <entityname.ekutility_sledgehammer>破拆锤</entityname.ekutility_sledgehammer>
+  <entitydescription.ekutility_sledgehammer>拆除多余墙壁的低科技方案。</entitydescription.ekutility_sledgehammer>
+  <entityname.ekutility_electroflare>电子照明弹</entityname.ekutility_electroflare>
+  <entitydescription.ekutility_electroflare>小型照明设备。可以在充电座充电。</entitydescription.ekutility_electroflare>
+  <entityname.ekutility_pda>状态监控器</entityname.ekutility_pda>
+  <entitydescription.ekutility_pda>手持计算机，可显示来舰载诊断网络的船舱完整性和空气质量信息。</entitydescription.ekutility_pda>
+  <entityname.ekutility_pdacargo>物流监控器</entityname.ekutility_pdacargo>
+  <entitydescription.ekutility_pdacargo>手持计算机，可显示来舰载诊断网络的物流和货物信息。</entitydescription.ekutility_pdacargo>
+  <entityname.ekutility_hullrepairkit>船体修补工具</entityname.ekutility_hullrepairkit>
+  <entitydescription.ekutility_hullrepairkit>简易船体修补方案。需要使用钢筋。</entitydescription.ekutility_hullrepairkit>
+  <entityname.ekutility_laserdrill>激光钻机</entityname.ekutility_laserdrill>
+  <entitydescription.ekutility_laserdrill>手持激光发生器，通过产生相倍激光切割冰块和岩石。由于设计紧凑容易过热。</entitydescription.ekutility_laserdrill>
+  <entityname.ekutility_miningbackpack>矿工背包</entityname.ekutility_miningbackpack>
+  <entitydescription.ekutility_miningbackpack>一个带有外部框架的结实背包,通常由矿业基地人员使用。</entitydescription.ekutility_miningbackpack>
+  <entityname.ekutility_medicalbackpack>医疗背包</entityname.ekutility_medicalbackpack>
+  <entitydescription.ekutility_medicalbackpack>一个简易的医疗包，可以背在背上。</entitydescription.ekutility_medicalbackpack>
+  <entityname.ekutility_arcwelder>弧焊机</entityname.ekutility_arcwelder>
+  <entitydescription.ekutility_arcwelder>电驱动的焊接工具。</entitydescription.ekutility_arcwelder>
+  <entityname.ekutility_portablepump>便携式舱底泵</entityname.ekutility_portablepump>
+  <entitydescription.ekutility_portablepump>[未完成的物品，仅作调试功能]</entitydescription.ekutility_portablepump>
+  <entityname.ekutility_incendiumfuelrod>燃素燃料棒</entityname.ekutility_incendiumfuelrod>
+  <entitydescription.ekutility_incendiumfuelrod>用于反应堆发电的浓缩燃素棒，比铀燃料棒产生更多热量、使用寿命更长。</entitydescription.ekutility_incendiumfuelrod>
+  <entityname.ekutility_supplypouch>装备袋</entityname.ekutility_supplypouch>
+  <entitydescription.ekutility_supplypouch>一个用来装工具和药品的口袋。</entitydescription.ekutility_supplypouch>
+</infotexts>
