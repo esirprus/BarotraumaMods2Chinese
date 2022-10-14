@@ -63,153 +63,93 @@
   <!-- Item into -->
   <entityname.whalerregalia>捕鲸人衣装</entityname.whalerregalia>
   <entitydescription.whalerregalia>酷炫的服装。</entitydescription.whalerregalia>
-  
   <entityname.frogmanvestments>蛙人服</entityname.frogmanvestments>
   <entitydescription.frogmanvestments>我承认这很帅。</entitydescription.frogmanvestments>
-  
   <entityname.divinginstructorgarments>潜水教练服</entityname.divinginstructorgarments>
   <entitydescription.divinginstructorgarments>我承认这很帅。</entitydescription.divinginstructorgarments>
-  
   <entityname.oldseadoghat>老水手帽</entityname.oldseadoghat>
-  <entitydescription.oldseadoghat></entitydescription.oldseadoghat>
-  
   <entityname.advanceddivingmask>高级潜水面罩</entityname.advanceddivingmask>
-  <entitydescription.advanceddivingmask></entitydescription.advanceddivingmask>
-  
   <entityname.bluebeanie>蓝色无檐帽</entityname.bluebeanie>
-  <entitydescription.bluebeanie></entitydescription.bluebeanie>
-  
   <entityname.depthfoamwetsuit>深水海绵潜水服</entityname.depthfoamwetsuit>
-  <entitydescription.depthfoamwetsuit>深水海绵潜水服能承受住4000m深的压力</entitydescription.depthfoamwetsuit>  
-
-  
+  <entitydescription.depthfoamwetsuit>深水海绵潜水服能承受住4000m深的压力</entitydescription.depthfoamwetsuit>
   <entityname.antiquedivinghelmet>古董潜水头盔</entityname.antiquedivinghelmet>
-  <entitydescription.antiquedivinghelmet>一顶古色古香的潜水头盔，上面满是凹痕。又大又沉，以前的使用者估计都颈椎病了，就是不知道这玩意还能不能用。</entitydescription.antiquedivinghelmet>  
-
+  <entitydescription.antiquedivinghelmet>一顶古色古香的潜水头盔，上面满是凹痕。又大又沉，以前的使用者估计都颈椎病了，就是不知道这玩意还能不能用。</entitydescription.antiquedivinghelmet>
   <entityname.depthfoamdivinghelmet>深水海绵潜水头盔</entityname.depthfoamdivinghelmet>
   <entitydescription.depthfoamdivinghelmet>用钢骨架加固的潜水头盔。</entitydescription.depthfoamdivinghelmet>
-
   <entityname.foamdivingvisor>深水海绵潜水面罩</entityname.foamdivingvisor>
-  <entitydescription.foamdivingvisor>海绵面罩，不会遮挡视野</entitydescription.foamdivingvisor>  
-
+  <entitydescription.foamdivingvisor>海绵面罩，不会遮挡视野</entitydescription.foamdivingvisor>
   <entityname.handheldsonardecoy>手持型声呐诱饵信标</entityname.handheldsonardecoy>
-  <entitydescription.handheldsonardecoy>手持型声呐诱饵信标，在你开启它后任何深海生物都会被它吸引，开启25秒后摧毁自身并引爆其中的装药。</entitydescription.handheldsonardecoy>  
-
+  <entitydescription.handheldsonardecoy>手持型声呐诱饵信标，在你开启它后任何深海生物都会被它吸引，开启25秒后摧毁自身并引爆其中的装药。</entitydescription.handheldsonardecoy>
   <entityname.silentsonarscanner>静音声呐信标</entityname.silentsonarscanner>
-  <entitydescription.silentsonarscanner>一种独特的水下作业仪器，结合了手持声呐和声呐信标，并且不会发出任何动静。也更加的省电。</entitydescription.silentsonarscanner>  
-
+  <entitydescription.silentsonarscanner>一种独特的水下作业仪器，结合了手持声呐和声呐信标，并且不会发出任何动静。也更加的省电。</entitydescription.silentsonarscanner>
   <entityname.ads>ADS两栖步枪</entityname.ads>
-  <entitydescription.ads>ADS是一种为水下使用而设计的慢射特种卡宾枪。</entitydescription.ads>  
-
+  <entitydescription.ads>ADS是一种为水下使用而设计的慢射特种卡宾枪。</entitydescription.ads>
   <entityname.aps>APS两栖卡宾枪</entityname.aps>
-  <entitydescription.aps>APS是一种为水下使用而设计的慢射特种卡宾枪。</entitydescription.aps>  
-
+  <entitydescription.aps>APS是一种为水下使用而设计的慢射特种卡宾枪。</entitydescription.aps>
   <entityname.adsmagazine>ADS弹匣</entityname.adsmagazine>
-  <entitydescription.adsmagazine>弹匣中装满了钢锥弹，能穿透船体和生物目标。</entitydescription.adsmagazine>  
-
+  <entitydescription.adsmagazine>弹匣中装满了钢锥弹，能穿透船体和生物目标。</entitydescription.adsmagazine>
   <entityname.adsbolt>ADS钢锥弹</entityname.adsbolt>
-  <entitydescription.adsbolt></entitydescription.adsbolt>  
-
   <entityname.apsmagazine>APS弹匣</entityname.apsmagazine>
-  <entitydescription.apsmagazine>弹匣中装满了钢锥弹，能穿透船体和生物目标。</entitydescription.apsmagazine>  
-
+  <entitydescription.apsmagazine>弹匣中装满了钢锥弹，能穿透船体和生物目标。</entitydescription.apsmagazine>
   <entityname.apsbolt>APS钢锥弹</entityname.apsbolt>
-  <entitydescription.apsbolt></entitydescription.apsbolt>  
-
   <entityname.sppbolt>SPP-1钢锥弹</entityname.sppbolt>
-  <entitydescription.sppbolt>能够穿透墙壁和生物目标的小型钢锥弹。</entitydescription.sppbolt>  
-
-    <entityname.pxbolt>PX-11钢锥弹</entityname.pxbolt>
-  <entitydescription.pxbolt>能够穿透墙壁和生物目标的小型钢锥弹。</entitydescription.pxbolt>  
-  
-    <entityname.steelboltshell>剃刀弹</entityname.steelboltshell>
-  <entitydescription.steelboltshell></entitydescription.steelboltshell>  
-  
-    <entityname.explosivebangstickcharge>锥形药筒高爆装药</entityname.explosivebangstickcharge>
-  <entitydescription.explosivebangstickcharge>这是一种致命性的爆炸装药，让你的敌人都变成炸肉串！</entitydescription.explosivebangstickcharge>  
-  
-    <entityname.stunbangstickcharge>锥形药筒眩晕装药</entityname.stunbangstickcharge>
-  <entitydescription.stunbangstickcharge>这是一种非致命性装药，非常适合用来捕捉神奇宝贝。</entitydescription.stunbangstickcharge>  
-  
-    <entityname.csbanchor>巨型钛制尖头鱼叉</entityname.csbanchor>
-  <entitydescription.csbanchor>一种又大又沉的鱼叉，顶端带有一个锋利的批头。任何东西被它击中后都只有一个下场——一分为二。</entitydescription.csbanchor>  
-  
-    <entityname.csbhammer>巨型钛制锤头鱼叉</entityname.csbhammer>
-  <entitydescription.csbhammer>一种又大又沉的鱼叉，看起来像一根柱子，顶端有一个装药槽，会对目标造成巨额的钝器伤。正中大飞柱！</entitydescription.csbhammer>  
-  
-    <entityname.alienspear></entityname.alienspear>
-  <entitydescription.alienspear>看起来很奇怪的鱼叉，并不常见。</entitydescription.alienspear>  
-  
-    <entityname.spear></entityname.spear>
-  <entitydescription.spear>鱼叉枪使用的鱼叉，能够穿透较弱的护甲。</entitydescription.spear>  
-  
-    <entityname.explosivespear>高爆鱼叉</entityname.explosivespear>
-  <entitydescription.explosivespear>使用致命装药的高爆鱼叉</entitydescription.explosivespear>  
-  
-    <entityname.spearunique></entityname.spearunique>
-  <entitydescription.spearunique>决胜兵器，哪怕再厚的盔甲也抵挡不住它的矛头。</entitydescription.spearunique>  
-  
-    <entityname.stunexplosivespear>眩晕鱼叉</entityname.stunexplosivespear>
-  <entitydescription.stunexplosivespear>使用非致命装药的眩晕鱼叉。</entitydescription.stunexplosivespear>  
-  
-    <entityname.empexplosivespear>EMP鱼叉</entityname.empexplosivespear>
-  <entitydescription.empexplosivespear>一种特殊的爆炸鱼叉，击中后能产生摧毁电子设备的EMP。</entitydescription.empexplosivespear>  
-  
-    <entityname.flarespear>照明鱼叉</entityname.flarespear>
-  <entitydescription.flarespear>照明鱼叉能够极大地帮助探索洞穴和昏暗的海床。它很亮，但比起太阳还是要逊色一些。</entitydescription.flarespear>    
-  
-    <entityname.glowstickspear>荧光鱼叉</entityname.glowstickspear>
-  <entitydescription.glowstickspear>矛头会亮绿色荧光的鱼叉，在黑暗中比普通鱼叉要更易寻找。</entitydescription.glowstickspear>  
-    
-    <entityname.floatingspear>漂浮鱼叉</entityname.floatingspear>
-  <entitydescription.floatingspear>矛头绑了一些橡胶以保持平衡，抛出去后飞得更慢但轨迹更直，击中墙壁后也不会下沉。</entitydescription.floatingspear>  
-    
-    <entityname.blunttipspear>钝头鱼叉</entityname.blunttipspear>
-  <entitydescription.blunttipspear>钝头鱼叉会对目标造成很大的钝器伤，它的飞行速度很慢，并且无法插在猎物身上。</entitydescription.blunttipspear>  
-    
-    <entityname.blunttipflarespear>钝头照明鱼叉</entityname.blunttipflarespear>
-  <entitydescription.blunttipflarespear>照明鱼叉能够极大地帮助探索洞穴和昏暗的海床。它很亮，但比起太阳还是要逊色一些。</entitydescription.blunttipflarespear>  
-    
-    <entityname.blunttipglowstickspear>钝头荧光鱼叉</entityname.blunttipglowstickspear>
-  <entitydescription.blunttipglowstickspear>矛头会亮绿色荧光的鱼叉，在黑暗中比普通鱼叉要更易寻找。</entitydescription.blunttipglowstickspear>  
-    
-    <entityname.blunttipfloatingspear>钝头漂浮鱼叉</entityname.blunttipfloatingspear>
-  <entitydescription.blunttipfloatingspear>矛头绑了一些橡胶以保持平衡，抛出去后飞得更慢但轨迹更直，击中墙壁后也不会下沉。</entitydescription.blunttipfloatingspear>  
-    
-    <entityname.surplusround>审判之光</entityname.surplusround>
-  <entitydescription.surplusround></entitydescription.surplusround>  
-    
-    <entityname.bangstick>锥形炸药桶</entityname.bangstick>
-  <entitydescription.bangstick>一根金属棒，顶端有一个装药桶，能保证你让在未知的海洋里的安全。</entitydescription.bangstick>  
-    
-    <entityname.csb>海哭弩炮</entityname.csb>
-  <entitydescription.csb>使用最先进的技术将可怕的威力压缩到这种以压缩空气为驱动的矛枪中。发射时能让大海都为之哭泣。</entitydescription.csb>  
-    
-    <entityname.harpoonpistol>鱼叉手枪</entityname.harpoonpistol>
-  <entitydescription.harpoonpistol>鱼叉手枪，鱼叉枪的缩小版。</entitydescription.harpoonpistol>  
-    
-    <entityname.sp>隐藏手枪</entityname.sp>
-  <entitydescription.sp>你的秘密武器。总比遇敌时角落里的那把焊接工具靠谱点。</entitydescription.sp>  
-    
-    <entityname.icepickaxe>冰镐</entityname.icepickaxe>
-  <entitydescription.icepickaxe>伟大的工具，扎进冰块就像是扎进一块黄油，被这玩意打到会很致命。传闻这东西配合尼龙绳索可以召唤撤离传送门。</entitydescription.icepickaxe>  
-    
-    <entityname.kukri>弯刀</entityname.kukri>
-  <entitydescription.kukri>带有弯曲刀片的特殊刀具，在切割物体时会更加方便。</entitydescription.kukri>  
-    
-    <entityname.px>PX-11</entityname.px>
-  <entitydescription.px>Px-11是为水下使用而设计的独特手枪。</entitydescription.px>  
-    
-    <entityname.rustymachete>生锈弯刀</entityname.rustymachete>
-  <entitydescription.rustymachete>当压载舱长满肉球植物时，就掏出这个让它们患上破伤风。</entitydescription.rustymachete>  
-    
+  <entitydescription.sppbolt>能够穿透墙壁和生物目标的小型钢锥弹。</entitydescription.sppbolt>
+  <entityname.pxbolt>PX-11钢锥弹</entityname.pxbolt>
+  <entitydescription.pxbolt>能够穿透墙壁和生物目标的小型钢锥弹。</entitydescription.pxbolt>
+  <entityname.steelboltshell>剃刀弹</entityname.steelboltshell>
+  <entityname.explosivebangstickcharge>锥形药筒高爆装药</entityname.explosivebangstickcharge>
+  <entitydescription.explosivebangstickcharge>这是一种致命性的爆炸装药，让你的敌人都变成炸肉串！</entitydescription.explosivebangstickcharge>
+  <entityname.stunbangstickcharge>锥形药筒眩晕装药</entityname.stunbangstickcharge>
+  <entitydescription.stunbangstickcharge>这是一种非致命性装药，非常适合用来捕捉神奇宝贝。</entitydescription.stunbangstickcharge>
+  <entityname.csbanchor>巨型钛制尖头鱼叉</entityname.csbanchor>
+  <entitydescription.csbanchor>一种又大又沉的鱼叉，顶端带有一个锋利的批头。任何东西被它击中后都只有一个下场——一分为二。</entitydescription.csbanchor>
+  <entityname.csbhammer>巨型钛制锤头鱼叉</entityname.csbhammer>
+  <entitydescription.csbhammer>一种又大又沉的鱼叉，看起来像一根柱子，顶端有一个装药槽，会对目标造成巨额的钝器伤。正中大飞柱！</entitydescription.csbhammer>
+  <!--应该在加入整合包时删除：开始-->
+  <entitydescription.alienspear>看起来很奇怪的鱼叉，并不常见。</entitydescription.alienspear>
+  <entitydescription.spear>鱼叉枪使用的鱼叉，能够穿透较弱的护甲。</entitydescription.spear>
+  <entitydescription.explosivespear>使用致命装药的高爆鱼叉</entitydescription.explosivespear>
+  <entitydescription.spearunique>决胜兵器，哪怕再厚的盔甲也抵挡不住它的矛头。</entitydescription.spearunique>
+  <!--应该在加入整合包时删除：结束-->
+  <entityname.stunexplosivespear>眩晕鱼叉</entityname.stunexplosivespear>
+  <entitydescription.stunexplosivespear>使用非致命装药的眩晕鱼叉。</entitydescription.stunexplosivespear>
+  <entityname.empexplosivespear>EMP鱼叉</entityname.empexplosivespear>
+  <entitydescription.empexplosivespear>一种特殊的爆炸鱼叉，击中后能产生摧毁电子设备的EMP。</entitydescription.empexplosivespear>
+  <entityname.flarespear>照明鱼叉</entityname.flarespear>
+  <entitydescription.flarespear>照明鱼叉能够极大地帮助探索洞穴和昏暗的海床。它很亮，但比起太阳还是要逊色一些。</entitydescription.flarespear>
+  <entityname.glowstickspear>荧光鱼叉</entityname.glowstickspear>
+  <entitydescription.glowstickspear>矛头会亮绿色荧光的鱼叉，在黑暗中比普通鱼叉要更易寻找。</entitydescription.glowstickspear>
+  <entityname.floatingspear>漂浮鱼叉</entityname.floatingspear>
+  <entitydescription.floatingspear>矛头绑了一些橡胶以保持平衡，抛出去后飞得更慢但轨迹更直，击中墙壁后也不会下沉。</entitydescription.floatingspear>
+  <entityname.blunttipspear>钝头鱼叉</entityname.blunttipspear>
+  <entitydescription.blunttipspear>钝头鱼叉会对目标造成很大的钝器伤，它的飞行速度很慢，并且无法插在猎物身上。</entitydescription.blunttipspear>
+  <entityname.blunttipflarespear>钝头照明鱼叉</entityname.blunttipflarespear>
+  <entitydescription.blunttipflarespear>照明鱼叉能够极大地帮助探索洞穴和昏暗的海床。它很亮，但比起太阳还是要逊色一些。</entitydescription.blunttipflarespear>
+  <entityname.blunttipglowstickspear>钝头荧光鱼叉</entityname.blunttipglowstickspear>
+  <entitydescription.blunttipglowstickspear>矛头会亮绿色荧光的鱼叉，在黑暗中比普通鱼叉要更易寻找。</entitydescription.blunttipglowstickspear>
+  <entityname.blunttipfloatingspear>钝头漂浮鱼叉</entityname.blunttipfloatingspear>
+  <entitydescription.blunttipfloatingspear>矛头绑了一些橡胶以保持平衡，抛出去后飞得更慢但轨迹更直，击中墙壁后也不会下沉。</entitydescription.blunttipfloatingspear>
+  <entityname.surplusround>审判之光</entityname.surplusround>
+  <entitydescription.surplusround></entitydescription.surplusround>
+  <entityname.bangstick>锥形炸药桶</entityname.bangstick>
+  <entitydescription.bangstick>一根金属棒，顶端有一个装药桶，能保证你让在未知的海洋里的安全。</entitydescription.bangstick>
+  <entityname.csb>海哭弩炮</entityname.csb>
+  <entitydescription.csb>使用最先进的技术将可怕的威力压缩到这种以压缩空气为驱动的矛枪中。发射时能让大海都为之哭泣。</entitydescription.csb>
+  <entityname.harpoonpistol>鱼叉手枪</entityname.harpoonpistol>
+  <entitydescription.harpoonpistol>鱼叉手枪，鱼叉枪的缩小版。</entitydescription.harpoonpistol>
+  <entityname.sp>隐藏手枪</entityname.sp>
+  <entitydescription.sp>你的秘密武器。总比遇敌时角落里的那把焊接工具靠谱点。</entitydescription.sp>
+  <entityname.icepickaxe>冰镐</entityname.icepickaxe>
+  <entitydescription.icepickaxe>伟大的工具，扎进冰块就像是扎进一块黄油，被这玩意打到会很致命。传闻这东西配合尼龙绳索可以召唤撤离传送门。</entitydescription.icepickaxe>
+  <entityname.kukri>弯刀</entityname.kukri>
+  <entitydescription.kukri>带有弯曲刀片的特殊刀具，在切割物体时会更加方便。</entitydescription.kukri>
+  <entityname.px>PX-11</entityname.px>
+  <entitydescription.px>Px-11是为水下使用而设计的独特手枪。</entitydescription.px>
+  <entityname.rustymachete>生锈弯刀</entityname.rustymachete>
+  <entitydescription.rustymachete>当压载舱长满肉球植物时，就掏出这个让它们患上破伤风。</entitydescription.rustymachete>
   <entityname.simp>简易便携手枪</entityname.simp>
-  <entitydescription.simp>...或者简称叫SIMP。射出去的真不是糖豆吗？</entitydescription.simp>  
-    
+  <entitydescription.simp>...或者简称叫SIMP。射出去的真不是糖豆吗？</entitydescription.simp>
   <entityname.spp>SPP-1</entityname.spp>
-  <entitydescription.spp>SPP-1是为水下使用而设计的独特手枪。</entitydescription.spp>  
-    
+  <entitydescription.spp>SPP-1是为水下使用而设计的独特手枪。</entitydescription.spp>
   <entityname.stingrayshotgun>魔鬼鱼霰弹枪</entityname.stingrayshotgun>
-  <entitydescription.stingrayshotgun></entitydescription.stingrayshotgun>  
-  
 </infotexts>
