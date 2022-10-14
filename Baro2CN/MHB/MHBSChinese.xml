@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="false" translatedname="中文(简体)">
+    <!--Monsterhunter_armor.xml-->
+    <entityname.lagiacrussuit>海龙甲</entityname.lagiacrussuit>
+    <entitydescription.lagiacrussuit>用从海龙身上扒下来的皮镶嵌到盔甲上，告诉这里的人谁才是这片水域的王。海龙曾统治着深海，你曾击败了它，现在你就是深海之王！能下潜到15000米深。</entitydescription.lagiacrussuit>
+    <entityname.lagiacrushelmet>海龙头盔</entityname.lagiacrushelmet>
+    <entitydescription.lagiacrushelmet>你藏不住它，也不想藏它，它盖住了你的整张脸，所有看到它的人都会向你跪拜，立你为新王。</entitydescription.lagiacrushelmet>
+    <entityname.Lagiacrusabyssalsuit>深渊海龙甲</entityname.Lagiacrusabyssalsuit>
+    <entitydescription.Lagiacrusabyssalsuit>还有啥好说的？外星的深渊世界跟你家一样，这里的一事一物你闭着眼都知道在哪，穿好礼服，打好领结，去吹吹深渊里的风吧。能下潜到40000米深。</entitydescription.Lagiacrusabyssalsuit>
+    <entityname.lagiacrusabyssalhelmet>深渊海龙头盔</entityname.lagiacrusabyssalhelmet>
+    <entitydescription.lagiacrusabyssalhelmet>深渊呼唤着你，台下有异议者也有怀疑者，但然并卵，当深渊为你戴上王冠时，他们抱头惊呼落荒而逃，唯有你挺起胜利者的身姿，放声嘲笑着逃窜的人们。</entitydescription.lagiacrusabyssalhelmet>
+    <entityname.agnaktorsuit>炎戈龙甲</entityname.agnaktorsuit>
+    <entitydescription.agnaktorsuit>岩浆对于你来说就像母亲河，你将撕开地壳，在平庸者错愕的目光里自由翱翔。能下潜到12000米深。</entitydescription.agnaktorsuit>
+    <entityname.agnaktorhelmet>炎戈龙头盔</entityname.agnaktorhelmet>
+    <entitydescription.agnaktorhelmet>岩浆？热浪？难道连平头哥在创你都感受不到吗？</entitydescription.agnaktorhelmet>
+    <entityname.glacialagnaktorsuit>冻戈龙甲</entityname.glacialagnaktorsuit>
+    <entitydescription.glacialagnaktorsuit>你就是冻戈龙本龙，即使是最锋利的剑劈向你，你的鳞甲也不会留下任何痕迹。能下潜到12000米深。</entitydescription.glacialagnaktorsuit>
+    <entityname.glacialagnaktorhelmet>冻戈龙头盔</entityname.glacialagnaktorhelmet>
+    <entitydescription.glacialagnaktorhelmet>他们的枪口窜出一条条射向你的火蛇，但这并不能减缓你的步伐。当敌人近在咫尺时，你将平息你和他们的苦痛与愤怒。</entitydescription.glacialagnaktorhelmet>
+    <entityname.zamitesuit>变形冰鲨甲</entityname.zamitesuit>
+    <entitydescription.zamitesuit>即使是在欧罗巴，冰原上的骑士们也仍然在骑着深渊巨兽战斗！能下潜到8000米深。</entitydescription.zamitesuit>
+    <entityname.zamitehelmet>变形冰鲨头盔</entityname.zamitehelmet>
+    <entitydescription.zamitehelmet>你对于战斗如饥似渴，这是一种来自灵魂深处的召唤，和平对于你来说是极端和疯狂的，你需要胜利去缓解你的饥饿！</entitydescription.zamitehelmet>
+    <entityname.plesiothsuit>水龙甲</entityname.plesiothsuit>
+    <entitydescription.plesiothsuit>你身轻如燕，在水中来回穿梭就像出门散散步，轻松而惬意。能下潜到8000米深。</entitydescription.plesiothsuit>
+    <entityname.plesiothhelmet>水龙头盔</entityname.plesiothhelmet>
+    <entitydescription.plesiothhelmet>你感受到了...水在召唤你...</entitydescription.plesiothhelmet>
+    <entityname.Ludrothuniform>水兽礼装</entityname.Ludrothuniform>
+    <entitydescription.Ludrothuniform>你身着一身黄金，去向世人展示你的价值。</entitydescription.Ludrothuniform>
+    <entityname.ludrothhelmet>水兽头盔</entityname.ludrothhelmet>
+    <entitydescription.ludrothhelmet>柔软的海绵会保护你的脑袋。</entitydescription.ludrothhelmet>
+    <entityname.fatalissuit>祖龙甲</entityname.fatalissuit>
+    <entitydescription.fatalissuit>别靠近我，你这个恶魔，我知道是谁在你耳边低语，我要在你发疯之前能跑多远跑多远！能下潜到40000米深。</entitydescription.fatalissuit>
+    <entityname.fatalishelmet>祖龙头盔</entityname.fatalishelmet>
+    <entitydescription.fatalishelmet>大地与海洋都为你所用，你将踏过尸山血海，给世间带来杀戮。这个世界没有人敢直视古龙，而你此刻将是众龙之王。但力量伴随的不是势力的称霸，而是永恒的诅咒，他们会在你耳边一直低语，从现在到永远。如果你有机会摆脱这一切，不要犹豫。</entitydescription.fatalishelmet>
+    <entityname.lavasiothsuit>熔岩龙甲</entityname.lavasiothsuit>
+    <entitydescription.lavasiothsuit>岩浆对于你来说就像母亲河，你将撕开地壳，在平庸者错愕的目光里自由翱翔。能下潜到8000米深。</entitydescription.lavasiothsuit>
+    <entityname.lavasiothhelmet>熔岩龙头盔</entityname.lavasiothhelmet>
+    <entitydescription.lavasiothhelmet>岩浆？热浪？难道连平头哥在创你都感受不到吗？</entitydescription.lavasiothhelmet>
+    <entityname.jyuratodassuit>泥头龙甲</entityname.jyuratodassuit>
+    <entitydescription.jyuratodassuit>即使黑暗的深渊扼住你的喉咙，你依然不会放弃...你会一直往上爬...爬到高塔的最顶端！能下潜到8000米深。</entitydescription.jyuratodassuit>
+    <entityname.jyuratodashelmet>泥头龙头盔</entityname.jyuratodashelmet>
+    <entitydescription.jyuratodashelmet>站定立场，为了重见天日而杀出重围！</entitydescription.jyuratodashelmet>
+    <entityname.alatreonsuit>煌黑龙甲</entityname.alatreonsuit>
+    <entitydescription.alatreonsuit>煌黑龙的皮，应属于求知的人，在褪色的年代，召唤出理解一切的神明...能下潜到40000米深。</entitydescription.alatreonsuit>
+    <entityname.Alatreonhelmet>煌黑龙头盔</entityname.Alatreonhelmet>
+    <entitydescription.Alatreonhelmet>感受到了吗？人生真理...宇宙真相...你逐渐理解一切...</entitydescription.Alatreonhelmet>
+    <entityname.jyuratodassuitpalico>艾露猫的泥头龙甲</entityname.jyuratodassuitpalico>
+    <entityname.jyuratodashelmetpalico>艾露猫的泥头龙头盔</entityname.jyuratodashelmetpalico>
+    <!--Monsterhunting_weapons.xml-->
+    <entityname.plesiothspear>水龙矛</entityname.plesiothspear>
+    <entityname.plesiothlbg>水龙重弩</entityname.plesiothlbg>
+    <entityname.agnaktorhbg>炎戈龙重弩</entityname.agnaktorhbg>
+    <entityname.lagiacruslbground>海龙轻弩弩箭</entityname.lagiacruslbground>
+    <entityname.lagiacruslbgmagazine>海龙轻弩箭匣</entityname.lagiacruslbgmagazine>
+    <entityname.lagiacruslbg>海龙轻弩</entityname.lagiacruslbg>
+    <entityname.zamitelbground>冰鲨轻弩弩箭</entityname.zamitelbground>
+    <entityname.zamitelbgmagazine>冰鲨轻弩箭匣</entityname.zamitelbgmagazine>
+    <entityname.zamitelbg>冰鲨轻弩</entityname.zamitelbg>
+    <entityname.zamitess>冰鲨片手剑</entityname.zamitess>
+    <entityname.zamiteshield>冰鲨盾牌</entityname.zamiteshield>
+    <entityname.zamitesst2>二级冰鲨片手剑</entityname.zamitesst2>
+    <entityname.zamiteshieldt2>二级冰鲨盾牌</entityname.zamiteshieldt2>
+    <entityname.lagiacrusgs>海龙大剑</entityname.lagiacrusgs>
+    <entityname.lagiacrusgst2>二级海龙大剑</entityname.lagiacrusgst2>
+    <entityname.lagiacrusgst3>三级海龙大剑</entityname.lagiacrusgst3>
+    <entityname.lagiacrusss>海龙片手剑</entityname.lagiacrusss>
+    <entityname.lagiacrusshield>海龙盾牌</entityname.lagiacrusshield>
+    <entityname.lagiacrussst2>二级海龙片手剑</entityname.lagiacrussst2>
+    <entityname.lagiacrusshieldt2>二级海龙盾牌</entityname.lagiacrusshieldt2>
+    <entityname.lagiacrussst3>三级海龙片手剑</entityname.lagiacrussst3>
+    <entityname.lagiacrusshieldt3>海龙三级盾牌</entityname.lagiacrusshieldt3>
+    <entityname.ludrothss>水兽片手剑</entityname.ludrothss>
+    <entityname.ludrothshield>水兽盾牌</entityname.ludrothshield>
+    <entityname.ludrothsst2>二级水兽片手剑</entityname.ludrothsst2>
+    <entityname.ludrothshieldt2>二级水兽盾牌</entityname.ludrothshieldt2>
+    <entityname.ludrothsst3>三级水兽片手剑</entityname.ludrothsst3>
+    <entityname.ludrothshieldt3>三级水兽盾牌</entityname.ludrothshieldt3>
+    <entityname.agnaktordb>炎戈龙双刀</entityname.agnaktordb>
+    <entityname.agnaktordbt2>二级炎戈龙双刀</entityname.agnaktordbt2>
+    <entityname.uroktorss>熔岩兽片手剑</entityname.uroktorss>
+    <entityname.uroktorshield>熔岩兽盾牌</entityname.uroktorshield>
+    <entityname.plesiothss>水龙片手剑</entityname.plesiothss>
+    <entityname.plesiothshield>水龙盾牌</entityname.plesiothshield>
+    <entityname.plesiothgs>水龙大剑</entityname.plesiothgs>
+    <entityname.agnaktorglacialgl>冻戈龙铳枪</entityname.agnaktorglacialgl>
+    <entityname.agnaktorglacialshell>冻戈龙射弹</entityname.agnaktorglacialshell>
+    <entityname.jyuradotaslbground>泥头龙轻弩弩箭</entityname.jyuradotaslbground>
+    <entityname.jyuradotaslbgmagazine>泥头龙轻弩箭匣</entityname.jyuradotaslbgmagazine>
+    <entityname.jyuradotaslbg>泥头龙轻弩</entityname.jyuradotaslbg>
+    <entityname.jyuradotasls>泥头龙太刀</entityname.jyuradotasls>
+    <entityname.Lavasiothlbground>熔岩龙轻弩弩箭</entityname.Lavasiothlbground>
+    <entityname.lavasiothlbgmagazine>熔岩龙轻弩箭匣</entityname.lavasiothlbgmagazine>
+    <entityname.lavasiothlbg>熔岩龙轻弩</entityname.lavasiothlbg>
+    <entityname.lavasiothgs>熔岩龙大剑</entityname.lavasiothgs>
+    <!--未翻译
+    <entityname.ceadeusls>Ceadeus Long Sword</entityname.ceadeusls>
+    <entityname.ceadeusss>Ceadeus short sword</entityname.ceadeusss>
+    <entityname.ceadeusshield>Ceadeus Shield</entityname.ceadeusshield>
+    <entityname.ceadeusl>Ceadeus Lance</entityname.ceadeusl>
+    <entityname.alatreonls>Alatreon Long Sword</entityname.alatreonls>
+    <entityname.alatreonlbground>Alatreon Light Bowgun round</entityname.alatreonlbground>
+    <entityname.alatreonlbgmagazine>Alatreon Light Bowgun Magazine</entityname.alatreonlbgmagazine>
+    <entityname.alatreonlbg>Alatreon Light Bowgun</entityname.alatreonlbg>
+    <entityname.alatreondb>Alatreon duel blade</entityname.alatreondb>
+    <entityname.alatreondbt2>Alatreon duel blade Tier 2</entityname.alatreondbt2>
+    <entityname.fatalishbg>Fatalis heavy Bowgun</entityname.fatalishbg>
+    <entityname.fatalislbground>Fatalis Light Bowgun round</entityname.fatalislbground>
+    <entityname.fatalislbgmagazine>Fatalis Light Bowgun Magazine</entityname.fatalislbgmagazine>
+    <entityname.fatalislbg>Fatalis Light Bowgun</entityname.fatalislbg>
+    <entityname.fatalisls>Fatalis Long Sword</entityname.fatalisls>
+    -->
+    <!--Monsterloot.xml-->
+    <entityname.lagiacrushide>海龙 皮</entityname.lagiacrushide>
+    <entityname.lagiacrusclaw>海龙 爪</entityname.lagiacrusclaw>
+    <entityname.lagiacruseye>海龙 眼</entityname.lagiacruseye>
+    <entityname.lagiacrusabysshide>深渊海龙 皮</entityname.lagiacrusabysshide>
+    <entityname.lagiacrusabyssclaw>深渊海龙 爪</entityname.lagiacrusabyssclaw>
+    <entityname.uroktorhide>熔岩龙 皮</entityname.uroktorhide>
+    <entityname.uroktorbeak>熔岩龙 喙</entityname.uroktorbeak>
+    <entityname.agnaktorhide>炎戈龙 皮</entityname.agnaktorhide>
+    <entityname.agnaktorclaw>炎戈龙 爪</entityname.agnaktorclaw>
+    <entityname.agnaktormagma>炎戈龙 岩浆</entityname.agnaktormagma>
+    <entityname.agnaktorglacialhide>冻戈龙 皮</entityname.agnaktorglacialhide>
+    <entityname.agnaktorglacialclaw>冻戈龙 爪</entityname.agnaktorglacialclaw>
+    <entityname.agnaktorglacialice>冻戈龙 冰晶</entityname.agnaktorglacialice>
+    <entityname.ludrothhide>水兽 皮</entityname.ludrothhide>
+    <entityname.ludrothclaw>水兽 爪</entityname.ludrothclaw>
+    <entityname.ludrothsponge>水兽 海绵</entityname.ludrothsponge>
+    <entityname.ludrothpsponge>水兽 海绵</entityname.ludrothpsponge>
+    <entityname.plesiothhide>水龙 皮</entityname.plesiothhide>
+    <entityname.plesiothclaw>水龙 爪</entityname.plesiothclaw>
+    <entityname.zamitehide>变形冰鲨 皮</entityname.zamitehide>
+    <entityname.zamitetooth>变形冰鲨 牙</entityname.zamitetooth>
+    <entityname.zamiteice>变形冰鲨 冰晶</entityname.zamiteice>
+    <entityname.jyuradotashide>泥头龙 皮</entityname.jyuradotashide>
+    <entityname.jyuradotasfin>泥头龙 鳍</entityname.jyuradotasfin>
+    <entityname.lavasiothhide>熔岩龙 皮</entityname.lavasiothhide>
+    <entityname.lavasiothfin>熔岩龙 鳍</entityname.lavasiothfin>
+    <entityname.ceadeushide>大海龙 皮</entityname.ceadeushide>
+    <entityname.ceadeusmane>大海龙 毛</entityname.ceadeusmane>
+    <entityname.ceadeushorn>大海龙 角</entityname.ceadeushorn>
+    <entityname.alatreonhide>煌黑龙 皮</entityname.alatreonhide>
+    <entityname.alatreonspike>煌黑龙 刺</entityname.alatreonspike>
+    <entityname.alatreonhorn>煌黑龙 角</entityname.alatreonhorn>
+    <entityname.fatalisscale>黑龙 鳞</entityname.fatalisscale>
+    <entityname.fatalisclaw>黑龙 爪</entityname.fatalisclaw>
+    <entityname.fataliseye>黑龙 眼</entityname.fataliseye>
+    <entityname.ludrotheggsmall>水兽蛋</entityname.ludrotheggsmall>
+    <entityname.ludrotheggmedium>水兽蛋</entityname.ludrotheggmedium>
+    <entityname.ludrothegglarge>水兽蛋</entityname.ludrothegglarge>
+    <entityname.ludrotheggmalemedium>水兽蛋</entityname.ludrotheggmalemedium>
+    <entityname.ludrotheggmalelarge>水兽蛋</entityname.ludrotheggmalelarge>
+    <entityname.palicosasuage>艾露猫香肠</entityname.palicosasuage>
+    <entitydescription.palicosasuage>有人饿了吗？</entitydescription.palicosasuage>
+    <entityname.healthpotion>生命药水</entityname.healthpotion>
+    <entitydescription.healthpotion>医学奇迹，简简单单的一瓶药不但能治疗所有伤口，还可以用于基因改造。</entitydescription.healthpotion>
+    <!--Monsterweapons.xml-->
+    <!--未翻译
+    <entityname.agnaktorbeam>Agnaktor beam</entityname.agnaktorbeam>
+    <entityname.glacialagnaktorbeam>Glacial Agnaktor beam</entityname.glacialagnaktorbeam>
+    <entityname.lagiacrusbeam>lagiacrus beam</entityname.lagiacrusbeam>
+    <entityname.lavasiothfireball>Lavasioth fireball</entityname.lavasiothfireball>
+    <entityname.fatalisfireball>Fatalis fireball</entityname.fatalisfireball>
+    -->
+    <!--genes-->
+    <entityname.lagiacrusdna>海龙基因</entityname.lagiacrusdna>
+    <entitydescription.lagiacrusdna>可拼接的海龙基因，让你不再需要氧气，给予你一条在水里可以游得更快的尾巴。</entitydescription.lagiacrusdna>
+    <entityname.lagiacrusabyssal>深渊海龙基因</entityname.lagiacrusabyssal>
+    <entitydescription.lagiacrusabyssal>可拼接的深渊海龙基因，让你不再需要氧气，给予你一条在水里可以游得非常快的尾巴。</entitydescription.lagiacrusabyssal>
+    <!--afflictions-->
+    <afflictionname.fatalispsychosis>黑龙精神病</afflictionname.fatalispsychosis>
+    <afflictiondescription.fatalispsychosis>那件古怪的护甲侵蚀了你的内心，凄惨的嚎叫在你耳边回荡，你永远无法摆脱这些，永远。</afflictiondescription.fatalispsychosis>
+    <afflictionname.ludrothgrowthF>幼儿母水兽</afflictionname.ludrothgrowthF>
+    <afflictiondescription.ludrothgrowthF>你永远都只会往大了长，而不会往小了长。</afflictiondescription.ludrothgrowthF>
+    <afflictioncauseofdeath.ludrothgrowthF>它们长大了，农夫与蛇？</afflictioncauseofdeath.ludrothgrowthF>
+    <afflictioncauseofdeathself.ludrothgrowthF>你成年了。</afflictioncauseofdeathself.ludrothgrowthF>
+    <afflictionname.ludrothgrowthm>幼儿贵族水兽</afflictionname.ludrothgrowthm>
+    <afflictiondescription.ludrothgrowthm>你永远都只会往大了长，而不会往小了长。</afflictiondescription.ludrothgrowthm>
+    <afflictioncauseofdeath.ludrothgrowthm>它们长大了，农夫与蛇？</afflictioncauseofdeath.ludrothgrowthm>
+    <afflictioncauseofdeathself.ludrothgrowthm>你成年了。</afflictioncauseofdeathself.ludrothgrowthm>
+    <afflictionname.huskinfectionMH>怪物猎人式画皮感染</afflictionname.huskinfectionMH>
+    <afflictiondescription.huskinfectionMH>患者被画皮寄生虫寄生，喉咙不可发声，内有蠕动的寄生虫增殖，偶尔会发出明显的几丁质摩擦声。</afflictiondescription.huskinfectionMH>
+    <afflictioncauseofdeath.huskinfectionMH>被画皮感染。</afflictioncauseofdeath.huskinfectionMH>
+    <afflictioncauseofdeathself.huskinfectionMH>你被画皮侵蚀了。</afflictioncauseofdeathself.huskinfectionMH>
+    <afflictionname.Monsterhybridlagi>海龙基因</afflictionname.Monsterhybridlagi>
+    <afflictionname.Monsterhybridlagiabyss>深渊海龙基因</afflictionname.Monsterhybridlagiabyss>
+    <!--missions-->
+    
+    </infotexts>
