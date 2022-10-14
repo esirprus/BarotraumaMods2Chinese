@@ -425,7 +425,7 @@
   <entityname.artmod_oxygendispenser>ED-P4"紧凑型氧气发生器"</entityname.artmod_oxygendispenser>
   <entitydescription.artmod_oxygendispenser>使用时在小范围内产生氧气的设备，能立即补充房间内的氧气水平并充满装入其中的氧气罐，更重要的是，补充液氧罐。运行时不需要第三方能源，但能使用的资源有限。</entitydescription.artmod_oxygendispenser>
   <entityname.plasmacutter_plus>ED-P5"燃素切割器"</entityname.plasmacutter_plus>
-  <entitydescription.plasmacutter_plus>有人将等离子切割器、一些异星零件与燃素混合，并加入液氧。最后不仅没有爆炸，切割的效果甚至比远古兵器好。与自制异星手榴弹不同的是，这个样品和它的蓝图很快便落入了联盟手中。而现在，落在你的手中。使用氧气瓶。需要较高的机械技能（75），否则不起作用。</entitydescription.plasmacutter_plus>
+  <entitydescription.plasmacutter_plus>有人将等离子切割器、一些异星零件与燃素混合，并加入液氧。最后不仅没有爆炸，切割的效果甚至比远古兵器好。与自制异星手榴弹不同的是，这个样品和它的蓝图很快便落入了联盟手中。而现在，落在你的手中。消耗液氧罐。需要较高的机械技能（75），否则不起作用。</entitydescription.plasmacutter_plus>
   <entityname.artmod_bigbatterycell>ED-P6 "NPS"</entityname.artmod_bigbatterycell>
   <entitydescription.artmod_bigbatterycell>容量巨大的电池。液体燃素保存在一个特制的外壳内，以某种方式与浸在里面的放电器相互作用，从中提取能量。壳体上的指示器表明其电量。不能充电。</entitydescription.artmod_bigbatterycell>
   <entityname.artmod_multitool>ED-P7 “多功能工具”</entityname.artmod_multitool>
