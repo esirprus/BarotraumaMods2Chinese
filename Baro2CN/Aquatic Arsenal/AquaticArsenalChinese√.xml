@@ -18,7 +18,6 @@
   <talentdescription.strongcurrents>当你在水中时你收到的伤害会降低 [attackpowerreduction]% ，并且你所受过的专业训练让洋流对于你的影响降低 [flowresistance]% 。</talentdescription.strongcurrents>
   <talentname.murkywaters>浑水摸鱼</talentname.murkywaters>
   <talentdescription.murkywaters>当你在灌入潜艇内部的水中游泳时降低 [statamount1]% 受到的伤害并且增加 [statamount2]% 的游泳速度。</talentdescription.murkywaters>
-  \\
   <talentname.trophyhunter>寻宝者</talentname.trophyhunter>
   <talentdescription.trophyhunter>当你或你的队友杀死一只怪物时, 所有队伍成员都会获得[percentage]% 的最大生命值加成。</talentdescription.trophyhunter>
   <talentname.seadogspirit>熟练水手</talentname.seadogspirit>
@@ -36,7 +35,6 @@
   <talentdescription.deadmanwalking>当你处于濒危状态时，操控你的角色进入布娃娃状态4s，你的敌人将无视你的存在</talentdescription.deadmanwalking>
   <talentname.divinggoodies>有求必应</talentname.divinggoodies>
   <talentdescription.divinggoodies>当你在航行途中至少完成一项任务时，你将获得以下奖励： </talentdescription.divinggoodies>
-  \\
   <talentname.sppschematics>SPP-1 爆弹枪</talentname.sppschematics>
   <talentdescription.sppschematics>这是你在船上唯一可以信任的朋友. 当发生意外情况时你不必依靠其他人.这把手枪发射的穿甲弹可以帮你解决一切问题.</talentdescription.sppschematics>
   <talentname.pxschematics>PX-11 潜水手枪</talentname.pxschematics>
