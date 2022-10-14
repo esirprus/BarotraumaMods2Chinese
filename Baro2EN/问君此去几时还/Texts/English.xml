@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+  <!--Missions-->
+  <missionname.tsmmission1>The Watch of T.S.M</missionname.tsmmission1>
+  <missiondescription.tsmmission1>T.S.M is fighting against the Beast at frontline position in Area 73 of The Aphotic Plateau and currently has no time left to protect the area, but the Beast is approaching and T.S.M promises a [reward] mk to anyone who kills the beast.</missiondescription.tsmmission1>
+  <missionsuccess.tsmmission1>Target confirmed and terminated.</missionsuccess.tsmmission1>
+  <!--<missionfailure.tsmmission1></missionfailure.tsmmission1>-->
+  <missionheader0.tsmmission1>People expect good news from you</missionheader0.tsmmission1>
+  <missionmessage0.tsmmission1>T.S.M is looking forward to collaborating with you next time.</missionmessage0.tsmmission1>
+  <missionsonarlabel.tsmmission1>target</missionsonarlabel.tsmmission1>
+  <missionname.tsmmission2>Eclipse</missionname.tsmmission2>
+  <missiondescription.tsmmission2>T.S.M is fighting in frontline Area 73 and has no time to worry about the safety of this area, but T.S.M guarantees a [reward] mk to the captain who kills these beasts.</missiondescription.tsmmission2>
+  <missionsuccess.tsmmission2>Congratulations, you made it!</missionsuccess.tsmmission2>
+  <!--<missionfailure.tsmmission2></missionfailure.tsmmission2>-->
+  <missionheader0.tsmmission2>Third Contact of Eclipse</missionheader0.tsmmission2>
+  <missionmessage0.tsmmission2>What a bright performance!</missionmessage0.tsmmission2>
+  <missionsonarlabel.tsmmission2>target</missionsonarlabel.tsmmission2>
+  <missionname.tsmmission3>The Deepest Nightmares</missionname.tsmmission3>
+  <missiondescription.tsmmission3>!!! Emergency !!! T.S.M frontline observatory found some giant beasts quickly approaching this area, but the 日暮山 special-op assault squad is out on a mission, they cannot rush back in time. T.S.M is calling for heroic captains to stop disaster from happening and promising that the captain who can return alive will be rewarded with [reward] mk.</missiondescription.tsmmission3>
+  <missionsuccess.tsmmission3>We've brought down the gods.</missionsuccess.tsmmission3>
+  <!--<missionfailure.tsmmission3></missionfailure.tsmmission3>-->
+  <missionheader0.tsmmission3>The Deepest Nightmares</missionheader0.tsmmission3>
+  <missionmessage0.tsmmission3>It's incredible, you really made it, worthy of a legendary captain!</missionmessage0.tsmmission3>
+  <missionsonarlabel.tsmmission3>Nightmares</missionsonarlabel.tsmmission3>
+  <missionname.tsmmission4>Here comes Latcher~</missionname.tsmmission4>
+  <missiondescription.tsmmission4>T.S.M observed a group of Latchers coming towards this area, and we promised a reward of [reward] mk to the captain who repelled them.</missiondescription.tsmmission4>
+  <missionsuccess.tsmmission4>We break the latch.</missionsuccess.tsmmission4>
+  <!--<missionfailure.tsmmission4></missionfailure.tsmmission4>-->
+  <missionheader0.tsmmission4>Shocks that did not occur</missionheader0.tsmmission4>
+  <missionmessage0.tsmmission4>Well done, you have defended the area once again, captain.</missionmessage0.tsmmission4>
+  <missionsonarlabel.tsmmission4>Latcher</missionsonarlabel.tsmmission4>
+  <missionname.tsmmission5>EMBI Experimental Biology Body</missionname.tsmmission5>
+  <missiondescription.tsmmission5>Europa Magic Biotechnology Inc.(EMBI) donated a batch of modified mystical creatures to 東亜重工 EastAsian-HeavyIndustry (EA-HI) , but EA-HI failed to contain them during testing, we had previously sent 日暮山 special-op assault squad over to suppress them, but lost the message after contact with the experiments, please be advised Captain, this is not ordinary bunch of giant spinelings! Please be very careful!</missiondescription.tsmmission5>
+  <missionsuccess.tsmmission5>This mission must be kept secret or the EA-HI will face a hefty fine.</missionsuccess.tsmmission5>
+  <!--<missionfailure.tsmmission5></missionfailure.tsmmission5>-->
+  <missionheader0.tsmmission5>Containment Breach</missionheader0.tsmmission5>
+  <missionmessage0.tsmmission5>Shh! Silence, please!</missionmessage0.tsmmission5>
+  <missionsonarlabel.tsmmission5>Experiment.1</missionsonarlabel.tsmmission5>
+  <missionname.tsmmission6>Moloch Wave</missionname.tsmmission6>
+  <missiondescription.tsmmission6>We have heard a swarm of Moloch attacking traveling ships between [location1] and [location2]. This area is not under the jurisdiction of T.S.M, but for humanitarian reasons we promise to give [reward]mk to the captain that clears this bunch of creatures.</missiondescription.tsmmission6>
+  <missionsuccess.tsmmission6>The Moloch swarm has been eradicated.</missionsuccess.tsmmission6>
+  <!--<missionfailure.tsmmission6></missionfailure.tsmmission6>-->
+  <missionheader0.tsmmission6>Great purge completed.</missionheader0.tsmmission6>
+  <missionmessage0.tsmmission6>All monsters have been eliminated,navigate back now.</missionmessage0.tsmmission6>
+  <missionsonarlabel.tsmmission6>Moloch</missionsonarlabel.tsmmission6>
+  <missionname.tsmmission7>Storms converge, lift me to the clouds</missionname.tsmmission7>
+  <missiondescription.tsmmission7>A large bunch of Hammerheads have threatened the safety of the passage between [location1] and [location2]. This Hammerhead sharknado has swept through many stations, and some people in the area have already been worshipping them as gods. So please, Captain, fire out and destroy them!</missiondescription.tsmmission7>
+  <missionsuccess.tsmmission7>Their altars are erased by me.</missionsuccess.tsmmission7>
+  <!--<missionfailure.tsmmission7></missionfailure.tsmmission7>-->
+  <missionheader0.tsmmission7>cannot withstand a single blow</missionheader0.tsmmission7>
+  <missionmessage0.tsmmission7>The fall of the old gods, the rise of the new ones.</missionmessage0.tsmmission7>
+  <missionsonarlabel.tsmmission7>Storms</missionsonarlabel.tsmmission7>
+  <missionname.tsmmission8>Worm‘s World Party</missionname.tsmmission8>
+  <missiondescription.tsmmission8>We have detected several large worms approaching the area and expecting to reach this station in 5 hours, Captain please repel them or we will all be buried in the cold currents.</missiondescription.tsmmission8>
+  <missionsuccess.tsmmission8>Target down, please return to the station ASAP.</missionsuccess.tsmmission8>
+  <!--<missionfailure.tsmmission8></missionfailure.tsmmission8>-->
+  <missionheader0.tsmmission8>Worm Terminator</missionheader0.tsmmission8>
+  <missionmessage0.tsmmission8>We are no longer afraid of the worms!</missionmessage0.tsmmission8>
+  <missionsonarlabel.tsmmission8>Worms</missionsonarlabel.tsmmission8>
+  <missionname.tsmmission9>Endwhale Wave</missionname.tsmmission9>
+  <missiondescription.tsmmission9>Did you know that there is a profession called 'whaler' back on Earth, and there is also such a profession in Europa, but the whale is absolutely different. Well sailor, head to the target area and eradicate all cetacean creatures.</missiondescription.tsmmission9>
+  <missionsuccess.tsmmission9>The End for Endwhale.</missionsuccess.tsmmission9>
+  <!--<missionfailure.tsmmission9></missionfailure.tsmmission9>-->
+  <missionheader0.tsmmission9>Whaler</missionheader0.tsmmission9>
+  <missionmessage0.tsmmission9>Congratulations, you have become a certified whaler!</missionmessage0.tsmmission9>
+  <missionsonarlabel.tsmmission9>Endwhale</missionsonarlabel.tsmmission9>
+  <missionname.tsmmission10>Dreadnought Fleet</missionname.tsmmission10>
+  <missiondescription.tsmmission10>Not long ago, a Coalition dreadnought fleet fell in the region, but according to the information gathered, they are still 'alive', now the task is to ensure that they are really dead. Please note that it better be a ultra-mobile operation.</missiondescription.tsmmission10>
+  <missionsuccess.tsmmission10>Now that's called ultra-mobile operation.</missionsuccess.tsmmission10>
+  <!--<missionfailure.tsmmission10></missionfailure.tsmmission10>-->
+  <missionheader0.tsmmission10>Dreadnought? Deadnought!</missionheader0.tsmmission10>
+  <missionmessage0.tsmmission10>The real dreadnought fleet should sink in the ship cemetry.</missionmessage0.tsmmission10>
+  <missionsonarlabel.tsmmission10>Dreadnought</missionsonarlabel.tsmmission10>
+  <!--<missionname.tsmmission11></missionname.tsmmission11>
+    <missiondescription.tsmmission11></missiondescription.tsmmission11>
+    <missionsuccess.tsmmission11></missionsuccess.tsmmission11>
+    <missionfailure.tsmmission11></missionfailure.tsmmission11>
+    <missionheader0.tsmmission11></missionheader0.tsmmission11>
+    <missionmessage0.tsmmission11></missionmessage0.tsmmission11>-->
+  <missionsonarlabel.tsmmission11></missionsonarlabel.tsmmission11>
+  <missionname.tsmmission12>Disguiser</missionname.tsmmission12>
+  <missiondescription.tsmmission12>Captain, this time it is the commission from a mining facility, it is said that their mining ship was actually attacked by the mine itself, I am not sure in what state they are to say such outrageous words, but still we need you to go investigate.</missiondescription.tsmmission12>
+  <missionsuccess.tsmmission12>Special encounters with the mine.</missionsuccess.tsmmission12>
+  <!--<missionfailure.tsmmission12></missionfailure.tsmmission12>-->
+  <missionheader0.tsmmission12>The beginning of a cycled revenge</missionheader0.tsmmission12>
+  <missionmessage0.tsmmission12>I feel that one day our evil deeds will lead us to the long sleep in this foreign land.</missionmessage0.tsmmission12>
+  <missionsonarlabel.tsmmission12>Disguiser</missionsonarlabel.tsmmission12>
+  <missionname.tsmmission13>Earthquake</missionname.tsmmission13>
+  <missiondescription.tsmmission13>Giant pulse disturbances have been detected in the area and violent vibrations are being felt in the waterway. All passing captains please stay away from this waterway and wait till T.S.M sort it out.</missiondescription.tsmmission13>
+  <missionsuccess.tsmmission13>Europa-shaking changes are on the horizon</missionsuccess.tsmmission13>
+  <!--<missionfailure.tsmmission13></missionfailure.tsmmission13>-->
+  <missionheader0.tsmmission13>Trial</missionheader0.tsmmission13>
+  <missionmessage0.tsmmission13>I devoted my life to the abyss, for that is the place I shall be buried.</missionmessage0.tsmmission13>
+  <missionsonarlabel.tsmmission13>target</missionsonarlabel.tsmmission13>
+  <missionname.tsmmission14>In the Abyss of Flesh and Blood</missionname.tsmmission14>
+  <missiondescription.tsmmission14>According to the site administrator, there have been several large mudraptors with a bunch of small ones feeding in the passage, many of the ships coming and going have been attacked. The task this time is to clean up these annoying creatures.</missiondescription.tsmmission14>
+  <missionsuccess.tsmmission14>The glory of this moment will eventually be overturned.</missionsuccess.tsmmission14>
+  <!--<missionfailure.tsmmission14></missionfailure.tsmmission14>-->
+  <missionheader0.tsmmission14>Mudraptor Butcher</missionheader0.tsmmission14>
+  <missionmessage0.tsmmission14>They died that winter and we buried them.</missionmessage0.tsmmission14>
+  <missionsonarlabel.tsmmission14>Mudraptor</missionsonarlabel.tsmmission14>
+  <missionname.tsmmission15>Cries of Mothers</missionname.tsmmission15>
+  <missiondescription.tsmmission15>Captain, we have scanned the area and found multiple Crawler Broodmothers with their swarms fighting for territory, but this is affecting the normal navigation of our waterway. Previously we've sent a small group of T.S.M soldiers to sort it out, but their signal were soon gone. The situation is urgent, so we chose you, this time the mission is to clear all the swarms left, and to find the whereabouts of the M.I.A soldiers.</missiondescription.tsmmission15>
+  <missionsuccess.tsmmission15>Graveyard for crawlers ? No, it's the cementry of our own.</missionsuccess.tsmmission15>
+  <!--<missionfailure.tsmmission15></missionfailure.tsmmission15>-->
+  <missionheader0.tsmmission15>The Dissipated Past</missionheader0.tsmmission15>
+  <missionmessage0.tsmmission15>We see inside the belly of the crawler the warriors in the uniform of T.S.M, so young, yet they have to fight like soldiers, be used as weapons and be buried as nobody. In the end, they will not receive the glory or the praise that belongs to them, not even a eulogy or a small grave prepared for them.</missionmessage0.tsmmission15>
+  <missionsonarlabel.tsmmission15>Crawler</missionsonarlabel.tsmmission15>
+  <missionname.tsmmission16>The Long-lasting Past</missionname.tsmmission16>
+  <missiondescription.tsmmission16>We found some fractal guardians left behind by the aliens inside a cave, and they seem to be still on their last mission-clearing the cave. But the minerals inside this cave are exactly what this site needs. T.S.M was going to leave this alone, but they offered too much, so your choice is?</missiondescription.tsmmission16>
+  <missionsuccess.tsmmission16>This is a story of an outcast destroying another.</missionsuccess.tsmmission16>
+  <!--<missionfailure.tsmmission16></missionfailure.tsmmission16>-->
+  <missionheader0.tsmmission16>Till the end of war</missionheader0.tsmmission16>
+  <missionmessage0.tsmmission16>If I have the chance to leave Io like the manufacturers of these machines, I'd like to see the sunset and feel the seasons, and I guess that was her wish too.</missionmessage0.tsmmission16>
+  <missionsonarlabel.tsmmission16>Fractal Guardian</missionsonarlabel.tsmmission16>
+  <missionname.tsmmission17>Deus Ex Machina</missionname.tsmmission17>
+  <missiondescription.tsmmission17>According to the report sent by the T.S.M Observatory, the kind of mechanical worms from the 'Swift' incident appeared in this area, and the local people called it Deus Ex Machina, go investigate!</missiondescription.tsmmission17>
+  <missionsuccess.tsmmission17>The gods fell.</missionsuccess.tsmmission17>
+  <!--<missionfailure.tsmmission17></missionfailure.tsmmission17>-->
+  <missionheader0.tsmmission17>You've taken down the gods.</missionheader0.tsmmission17>
+  <missionmessage0.tsmmission17>Through the chaos of interwoven flesh and blood.</missionmessage0.tsmmission17>
+  <missionsonarlabel.tsmmission17>Deus Ex Machina</missionsonarlabel.tsmmission17>
+  <missionname.tsmmission18>The Living Dead</missionname.tsmmission18>
+  <missiondescription.tsmmission18>This station suddenly lost contact some time ago. Before that there had been a special shipment to this station, investigation shows it was some special eggs, so your task is to clean up this station of all living things and clean up all the eggs.</missiondescription.tsmmission18>
+  <missionsuccess.tsmmission18>The station has been cleared, leave the follow-up to T.S.M.</missionsuccess.tsmmission18>
+  <!--<missionfailure.tsmmission18></missionfailure.tsmmission18>-->
+  <missionheader0.tsmmission18>Tartarus</missionheader0.tsmmission18>
+  <missionmessage0.tsmmission18>T.S.M found the information of this shipment, but please give us some time to decrypt the data and we will find the person behind this.</missionmessage0.tsmmission18>
+  <missionsonarlabel.tsmmission18>Unknown Life Form</missionsonarlabel.tsmmission18>
+  <missionname.tsmmission19>Raging Waves</missionname.tsmmission19>
+  <missiondescription.tsmmission19>We drove away the hammerheads some time ago, but the area has not been peaceful for long, soon a new group of natives continue to dominate this channel, so this time we can not just drive them away, but to make them an example for others. I have to remind you may need to prepare some more anaparalyzant and calyxanide. Destroy this group of natives! We will give you a generous reward.</missiondescription.tsmmission19>
+  <missionsuccess.tsmmission19>Blood on our hands is not yet cold.</missionsuccess.tsmmission19>
+  <!--<missionfailure.tsmmission19></missionfailure.tsmmission19>-->
+  <missionheader0.tsmmission19>Another soul perished because of us.</missionheader0.tsmmission19>
+  <missionmessage0.tsmmission19>This channel will finally be peaceful for a while.</missionmessage0.tsmmission19>
+  <missionsonarlabel.tsmmission19>Swordhead Shark Swarm</missionsonarlabel.tsmmission19>
+  <missionname.tsmmission20>EMBI Experiments 1</missionname.tsmmission20>
+  <missiondescription.tsmmission20>Europa Magic Biotechnology Inc.(EMBI) has issued a challenge, their new experimental subject is ready for use and they are recruiting brave crew members to test the strength of the new subject, then they will record the data during the battle. If someone survived to come back, they will provide a generous bonus.</missiondescription.tsmmission20>
+  <missionsuccess.tsmmission20>"Gods are mourning! Let me hear... Who is crying----"</missionsuccess.tsmmission20>
+  <!--<missionfailure.tsmmission20></missionfailure.tsmmission20>-->
+  <missionheader0.tsmmission20>Death knell</missionheader0.tsmmission20>
+  <missionmessage0.tsmmission20>The death knell had been rung, it's a salute to the opening door to another world.</missionmessage0.tsmmission20>
+  <missionsonarlabel.tsmmission20>New Experimental Subjects</missionsonarlabel.tsmmission20>
+  <missionname.tsmmission21>Land of Milk and Honey</missionname.tsmmission21>
+  <missiondescription.tsmmission21>More and more people are flocking to the site, causing it to be overcrowded, so we decided to set up a new site. We scanned a ruin in the waterway, its location is excellent for a new site, but there are still many remaining guards inside, so we hope you captain can help us take care of these guards, of course, the bounty is not a problem..经过勘探，那个位置极好，但是里面还有很多遗留的守卫，所以我们希望船长可以帮我们解决掉这些守卫，当然费用不是问题。</missiondescription.tsmmission21>
+  <missionsuccess.tsmmission21>A Story of Eternity and Destroy</missionsuccess.tsmmission21>
+  <!--<missionfailure.tsmmission21></missionfailure.tsmmission21>-->
+  <missionheader0.tsmmission21>Plunderer</missionheader0.tsmmission21>
+  <missionmessage0.tsmmission21>We are born plunderers.</missionmessage0.tsmmission21>
+  <missionsonarlabel.tsmmission21>Fractal Guardian</missionsonarlabel.tsmmission21>
+  <missionname.tsmmission22>Micro Warfare</missionname.tsmmission22>
+  <missiondescription.tsmmission22>Hey, hey, guess what. We used a micro weapon to shrink some latcher, and since they got too small, they all got away, so the captain had to get to them quickly!</missiondescription.tsmmission22>
+  <missionsuccess.tsmmission22>Interesting experiments</missionsuccess.tsmmission22>
+  <!--<missionfailure.tsmmission22></missionfailure.tsmmission22>-->
+  <missionheader0.tsmmission22>No turning back</missionheader0.tsmmission22>
+  <missionmessage0.tsmmission22>Will we tire of slaying endless beasts that hunt them</missionmessage0.tsmmission22>
+  <missionsonarlabel.tsmmission22>Small latcher</missionsonarlabel.tsmmission22>
+  <missionname.tsmmission23>Crisis! The Sinking of the Choir</missionname.tsmmission23>
+  <missiondescription.tsmmission23>Captain, the Sea of Miracles transporting genes .... No, no, no, it's the submarine carrying the choir, suddenly sunk by an attack of an unknown life form, please hurry to reach the accident channel, we need to recover the sunken data first, be quick!</missiondescription.tsmmission23>
+  <missionsuccess.tsmmission23></missionsuccess.tsmmission23>
+  <!--<missionfailure.tsmmission23></missionfailure.tsmmission23>-->
+  <missionheader0.tsmmission23>Recovery success</missionheader0.tsmmission23>
+  <missionmessage0.tsmmission23>We have acquired the wreck data, we will parse it first, when we parse it successfully, we will immediately give the next command, please be patient, Captain. It's just a pity that these choir children, these children who love to sing will be buried in the mud under the flowers, and the next spring, the newborn flowers will bloom with their smiling faces.</missionmessage0.tsmmission23>
+  <missionsonarlabel.tsmmission23>Shipwreck</missionsonarlabel.tsmmission23>
+  <!--Affliction(s)-->
+  <!--<afflictionname.genericaffliction1></afflictionname.genericaffliction1>
+    <afflictiondescription.genericaffliction1></afflictiondescription.genericaffliction1>
+    <afflictioncauseofdeath.genericaffliction1></afflictioncauseofdeath.genericaffliction1>
+    <afflictioncauseofdeathself.genericaffliction1></afflictioncauseofdeathself.genericaffliction1>-->
+  <!--OutpostEvents-->
+  <tsm.a1>Hey ! Hello, I am T.S.M Armor Designer, after I finished those two sets of new armor, I have nothing to do for the time being. While this side of the station happens to be in shortage of manpower, so I come here to dispatch tasks. I will send the details to your terminal. Good luck, Captain.</tsm.a1>
+  <tsm.a2>Compared to the long and dark history, countless heroic legends and glorious moments are just a fleeting moment of light. But even if it's just a faint beam of light in this evernight, we still record them down and pass them on like a poem, inspiring those who come after us to keep going. Just as Stefen Zweig said, we called them "Sternstunde", cause they will always shine through the temporary night of human beings.</tsm.a2>
+  <tsm.a3>Look at this world, monsters from your deepest naightmare domineering themselves, while human beings never stops cheating and fighting with their own kind. Good thing you're still here, I'll send the commission to your terminal.</tsm.a3>
+  <!--test:charactor-->
+  <charactername.TSMnpc_1>T.S.M Armor Designer - 幻下琅</charactername.TSMnpc_1>
+  <charactername.TSMnpc_2>T.S.M Combat Dispatcher</charactername.TSMnpc_2>
+  <charactername.TSMnpc_3>T.S.M Executive Officer - 妖梦</charactername.TSMnpc_3>
+  <laser>Laser Pointer</laser>
+  <entityname.mvdxe>The Witch's Jaw</entityname.mvdxe>
+  <entitydescription.mvdxe>The jaws dropped by the Witch of Laplace, as a proof of your victory over her, extremely strong material, perfect for making weapons</entitydescription.mvdxe>
+  <entityname.lldyj>The Eye of the Thunder Dragon</entityname.lldyj>
+  <entitydescription.lldyj>The Eye of the Thunder Dragon, as proof that you defeated her, the glittering eye, you can still feel a slight electric current when you touch it, maybe it can be used to make ammunition? Or something else?</entitydescription.lldyj>
+  <entityname.hyddx>The poisonous glands of the plague</entityname.hyddx>
+  <entitydescription.hyddx>The poisonous glands of the plague, as your proof of defeating her, the deadly poison, but also the antidote</entitydescription.hyddx>
+  <entityname.ddbm>Lamentation of the Earth</entityname.ddbm>
+  <entitydescription.ddbm>The earth wails, as your proof of defeating her, extremely sharp fangs, terrible nightmare</entitydescription.ddbm>
+</infotexts>
