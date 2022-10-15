@@ -1,0 +1,41 @@
+[h1]神经创伤（Neurotrauma）模组完全改造了人类的健康系统。[/h1]
+这个模组增加了更为深度的医疗系统。潜在的病因需要通过症状（或扫描仪）来进行诊断，用药物治疗不应当过量，否则你会受到更多伤害而不是好处。
+肢体会被扯下来，也可以被缝回去，
+器官会衰竭，也可以移植替换，
+以及大脑会被宣布死亡。
+
+这个模组增加了以下内容：
+- 大量的医疗设备
+- 着火
+- 成吨的症状
+- 器官损伤和器官衰竭
+- 手术，包括截肢和器官移植
+- 感染
+
+[h1]一份正在进行中的trello指南可以在 [url=trello.com/b/cabkctsx/neurotrauma-guide]这里[/url]找到[/h1]
+
+[h1]官方的神经创伤Discord服务器可以在[url=discord.gg/s7M58JajkG]这里[/url]找到[/h1]
+我建议你加入这个Discord服务器。你可以在那里报告BUG和提出问题。
+
+[h1]强烈建议同时安装[url=steamcommunity.com/sharedfiles/filedetails/?id=2807158602]Better Health UI[/url][/h1]
+一个由我制作的模组，它使你不必在健康界面滚动超长的苦痛列表。
+
+[h1]这个模组的创作和完善离不开以下内容[/h1]
+- [url=steamcommunity.com/sharedfiles/filedetails/?id=2488816950]Advanced Medicine[/url]，最初的医疗大修模组
+- [url=discord.gg/D59PYyBV]BaroTraumatic Discord 服务器[/url]里的热心玩家 
+- 维基百科 (我在这上面花了[b]非常[/b]多的时间)
+
+为了使模组正常运行，需要安装[url=steamcommunity.com/workshop/filedetails/?id=2559634234]Lua for Barotrauma[/url]。
+如果你正在创建一个服务器，你需要在服务器可执行文件里选择“Lua For Barotrauma - DedicatedServer”一项。
+如果你在单人模式下游玩，必须安装客户端lua。请查看Lua for Barotrauma的创意工坊页面以了解安装指南。
+这个模组与[b]Advanced Medicine及其变体不兼容[/b]，其次是任何修改Human.xml、相应的布娃娃（ragdoll）文件或原版游戏苦痛（afflictions）的模组。
+不过以前运行过Advanced Medicine的存档文件可以继续使用，问题不大。
+
+[h1]欢迎在评论区或Discord中反馈！[/h1]
+我们非常感谢任何关于怪异行为、BUG、故障的反馈。
+
+[h1]此模组启用后，机器人不会试图治疗任何人[/h1]
+要配置这个模组，需要安装客户端lua并在控制台输入“neuro”。
+
+[h1]这里有一张官方教程地图，可以让你进行训练和实验[/h1]
+你可以在[url=steamcommunity.com/sharedfiles/filedetails/?id=2860450711]这里[/url]找到它。
