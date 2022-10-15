@@ -239,8 +239,8 @@
   <entitydescription.ekdockyard_customwire_pipe1black>用来在潜艇中装载电线的工业管道。</entitydescription.ekdockyard_customwire_pipe1black>
   <entityname.ekdockyard_customwire_pipe1bracket>管线支架</entityname.ekdockyard_customwire_pipe1bracket>
   <entitydescription.ekdockyard_customwire_pipe1bracket></entitydescription.ekdockyard_customwire_pipe1bracket>
-  <entityname.ekdockyard_portablespinkler>洒水器</entityname.ekdockyard_portablespinkler>
-  <entitydescription.ekdockyard_portablespinkler>用于消防和水培的一体式喷淋系统。</entitydescription.ekdockyard_portablespinkler>
+  <entityname.ekdockyard_portablesprinkler>洒水器</entityname.ekdockyard_portablesprinkler>
+  <entitydescription.ekdockyard_portablesprinkler>用于消防和水培的一体式喷淋系统。</entitydescription.ekdockyard_portablesprinkler>
   <entityname.ekdockyard_vacuumpumpsmall>小型真空泵</entityname.ekdockyard_vacuumpumpsmall>
   <entitydescription.ekdockyard_vacuumpumpsmall>一种轻型真空泵，可以用来抽空着火点的空气。</entitydescription.ekdockyard_vacuumpumpsmall>
   <entityname.ekdockyard_vacuumpumplarge>大型真空泵</entityname.ekdockyard_vacuumpumplarge>
