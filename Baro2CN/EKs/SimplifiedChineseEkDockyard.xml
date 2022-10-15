@@ -1,21 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
   <!-- custom_commandterminal.xml -->
-  <entityname.ekdockyard_navterminal_eva>Navigation Terminal (EVA)</entityname.ekdockyard_navterminal_eva>
-  <entitydescription.ekdockyard_navterminal_eva>Strike-craft / SDV navigation chair for 'by the seat of your pants' piloting.</entitydescription.ekdockyard_navterminal_eva>
+  <entityname.ekdockyard_navterminal_eva>导航终端（EVA）</entityname.ekdockyard_navterminal_eva>
+  <entitydescription.ekdockyard_navterminal_eva>突击艇/SDV导航椅，让你能凭直觉肆意驰骋。</entitydescription.ekdockyard_navterminal_eva>
   <!-- lazy_commandterminal.xml -->
-  <entityname.ekdockyard_lazynavterminal_switchboard>Navigation Terminal (Switchboard)</entityname.ekdockyard_lazynavterminal_switchboard>
+  <entityname.ekdockyard_lazynavterminal_switchboard>导航终端（控制面板）</entityname.ekdockyard_lazynavterminal_switchboard>
   <entitydescription.ekdockyard_lazynavterminal_switchboard></entitydescription.ekdockyard_lazynavterminal_switchboard>
-  <entityname.ekdockyard_lazynavterminal_terminals>Navigation Terminal (Console)</entityname.ekdockyard_lazynavterminal_terminals>
+  <entityname.ekdockyard_lazynavterminal_terminals>导航终端（终端）</entityname.ekdockyard_lazynavterminal_terminals>
   <entitydescription.ekdockyard_lazynavterminal_terminals></entitydescription.ekdockyard_lazynavterminal_terminals>
   <!-- custom_storagecontainers.xml -->
   <entityname.ekdockyard_divingsuitlocker2>大型潜水服储柜B</entityname.ekdockyard_divingsuitlocker2>
-  <entitydescription.ekdockyard_divingsuitlocker2>大型潜水服储柜B.</entitydescription.ekdockyard_divingsuitlocker2>
+  <entitydescription.ekdockyard_divingsuitlocker2>能整齐地存放多件潜水服。</entitydescription.ekdockyard_divingsuitlocker2>
   <entityname.ekdockyard_divingsuitlocker_secure>潜水服储柜（需要权限）</entityname.ekdockyard_divingsuitlocker_secure>
-  <entitydescription.ekdockyard_divingsuitlocker_secure>潜水服储柜（需要权限）.</entitydescription.ekdockyard_divingsuitlocker_secure>
-  <entityname.ekdockyard_cargocompartment_style1>板条箱柜A</entityname.ekdockyard_cargocompartment_style1>
+  <entitydescription.ekdockyard_divingsuitlocker_secure>潜水服储柜（需要权限）。</entitydescription.ekdockyard_divingsuitlocker_secure>
+  <entityname.ekdockyard_divingsuitlocker_respawn>一次性潜水服柜</entityname.ekdockyard_divingsuitlocker_respawn>
+  <entitydescription.ekdockyard_divingsuitlocker_respawn>用于存放应急潜水服。通电时补充氧气。</entitydescription.ekdockyard_divingsuitlocker_respawn>
+  <entityname.ekdockyard_cargocompartment_style1>板条箱柜A</entityname.ekdockyard_cargocompartment_style1>  <entitydescription.ekdockyard_cargocompartment_style1></entitydescription.ekdockyard_cargocompartment_style1>
   <entitydescription.ekdockyard_cargocompartment_style1></entitydescription.ekdockyard_cargocompartment_style1>
-  <entityname.ekdockyard_cargocompartment_style2>板条箱柜B</entityname.ekdockyard_cargocompartment_style2>
+  <entityname.ekdockyard_cargocompartment_style2>板条箱柜B</entityname.ekdockyard_cargocompartment_style2>  <entitydescription.ekdockyard_cargocompartment_style2></entitydescription.ekdockyard_cargocompartment_style2>
   <entitydescription.ekdockyard_cargocompartment_style2></entitydescription.ekdockyard_cargocompartment_style2>
   <entityname.ekdockyard_cargocompartment_style3>板条箱柜C</entityname.ekdockyard_cargocompartment_style3>
   <entitydescription.ekdockyard_cargocompartment_style3></entitydescription.ekdockyard_cargocompartment_style3>
@@ -24,9 +26,11 @@
   <entityname.ekdockyard_cargocompartment_style5>板条箱柜E</entityname.ekdockyard_cargocompartment_style5>
   <entitydescription.ekdockyard_cargocompartment_style5></entitydescription.ekdockyard_cargocompartment_style5>
   <entityname.ekdockyard_cargocompartment_freezer1>冷藏货柜</entityname.ekdockyard_cargocompartment_freezer1>
-  <entitydescription.ekdockyard_cargocompartment_freezer1>用于运输需要冷藏的物品的货舱，如易腐货物和生物危害性样品材料.</entitydescription.ekdockyard_cargocompartment_freezer1>
+  <entitydescription.ekdockyard_cargocompartment_freezer1>用于运输需要冷藏的物品的货舱，如易腐货物和生物危害性样品材料。</entitydescription.ekdockyard_cargocompartment_freezer1>
   <entityname.ekdockyard_weaponholder_secure>武器架（需要权限）</entityname.ekdockyard_weaponholder_secure>
-  <entitydescription.ekdockyard_weaponholder_secure>一个安全的存放武器的地方（需要权限）.</entitydescription.ekdockyard_weaponholder_secure>
+  <entitydescription.ekdockyard_weaponholder_secure>一个安全的存放武器的地方（需要权限）。</entitydescription.ekdockyard_weaponholder_secure>
+  <!-- <entityname.ekdockyard_fuelstoragetank1>Biofuel Storage Tank</entityname.ekdockyard_fuelstoragetank1>
+<entitydescription.ekdockyard_fuelstoragetank1></entitydescription.ekdockyard_fuelstoragetank1> -->
   <!-- custom_dockingports.xml -->
   <entityname.ekdockyard_dockingportsilent>对接口（静音）</entityname.ekdockyard_dockingportsilent>
   <entitydescription.ekdockyard_dockingportsilent>对接口</entitydescription.ekdockyard_dockingportsilent>
@@ -54,29 +58,29 @@
   <entitydescription.ekdockyard_dockinghatchlarge>大型竖直对接口</entitydescription.ekdockyard_dockinghatchlarge>
   <!-- custom_doors.xml -->
   <entityname.ekdockyard_glassdoor>玻璃门</entityname.ekdockyard_glassdoor>
-  <entitydescription.ekdockyard_glassdoor>一扇有大窗户的滑动门.未集成按钮，需手动接线.</entitydescription.ekdockyard_glassdoor>
+  <entitydescription.ekdockyard_glassdoor>一扇有大窗户的滑动门。未集成按钮，需手动接线。</entitydescription.ekdockyard_glassdoor>
   <entityname.ekdockyard_glassdoorwbuttons>按钮玻璃门</entityname.ekdockyard_glassdoorwbuttons>
-  <entitydescription.ekdockyard_glassdoorwbuttons>一扇有大窗户的滑动门，集成有两个按钮.</entitydescription.ekdockyard_glassdoorwbuttons>
+  <entitydescription.ekdockyard_glassdoorwbuttons>一扇有大窗户的滑动门，集成有两个按钮。</entitydescription.ekdockyard_glassdoorwbuttons>
   <entityname.ekdockyard_glasshatch>带窗舱口</entityname.ekdockyard_glasshatch>
-  <entitydescription.ekdockyard_glasshatch>一个带窗滑动舱口.未集成按钮，需手动接线.</entitydescription.ekdockyard_glasshatch>
+  <entitydescription.ekdockyard_glasshatch>一个带窗滑动舱口。未集成按钮，需手动接线。</entitydescription.ekdockyard_glasshatch>
   <entityname.ekdockyard_glasshatchwbuttons>按钮带窗舱口</entityname.ekdockyard_glasshatchwbuttons>
-  <entitydescription.ekdockyard_glasshatchwbuttons>一个带窗舱口，集成有两个按钮.</entitydescription.ekdockyard_glasshatchwbuttons>
+  <entitydescription.ekdockyard_glasshatchwbuttons>一个带窗舱口，集成有两个按钮。</entitydescription.ekdockyard_glasshatchwbuttons>
   <entityname.ekdockyard_shortdoor>半门</entityname.ekdockyard_shortdoor>
-  <entitydescription.ekdockyard_shortdoor>一扇舱口大小的滑动门.未集成按钮，需手动接线.</entitydescription.ekdockyard_shortdoor>
+  <entitydescription.ekdockyard_shortdoor>一扇舱口大小的滑动门。未集成按钮，需手动接线。</entitydescription.ekdockyard_shortdoor>
   <entityname.ekdockyard_shortdoorwbuttons>按钮半门</entityname.ekdockyard_shortdoorwbuttons>
-  <entitydescription.ekdockyard_shortdoorwbuttons>一扇舱口大小的滑动门，集成有两个按钮.</entitydescription.ekdockyard_shortdoorwbuttons>
+  <entitydescription.ekdockyard_shortdoorwbuttons>一扇舱口大小的滑动门，集成有两个按钮。</entitydescription.ekdockyard_shortdoorwbuttons>
   <entityname.ekdockyard_heavydoorvanilla>重型舱门</entityname.ekdockyard_heavydoorvanilla>
-  <entitydescription.ekdockyard_heavydoorvanilla>一扇重型舱门.未集成按钮，需手动接线.</entitydescription.ekdockyard_heavydoorvanilla>
+  <entitydescription.ekdockyard_heavydoorvanilla>一扇重型舱门。未集成按钮，需手动接线。</entitydescription.ekdockyard_heavydoorvanilla>
   <entityname.ekdockyard_heavydoorvanillawbuttons>按钮重型舱门</entityname.ekdockyard_heavydoorvanillawbuttons>
-  <entitydescription.ekdockyard_heavydoorvanillawbuttons>一扇重型舱门，集成有两个按钮.</entitydescription.ekdockyard_heavydoorvanillawbuttons>
+  <entitydescription.ekdockyard_heavydoorvanillawbuttons>一扇重型舱门，集成有两个按钮。</entitydescription.ekdockyard_heavydoorvanillawbuttons>
   <entityname.ekdockyard_blastdoor>防爆门</entityname.ekdockyard_blastdoor>
-  <entitydescription.ekdockyard_blastdoor>一扇重型装甲舱门.未集成按钮，需手动接线.</entitydescription.ekdockyard_blastdoor>
+  <entitydescription.ekdockyard_blastdoor>一扇重型装甲舱门。未集成按钮，需手动接线。</entitydescription.ekdockyard_blastdoor>
   <entityname.ekdockyard_blastdoorwbuttons>按钮防爆门</entityname.ekdockyard_blastdoorwbuttons>
-  <entitydescription.ekdockyard_blastdoorwbuttons>一扇重型装甲舱门，集成有两个按钮.</entitydescription.ekdockyard_blastdoorwbuttons>
+  <entitydescription.ekdockyard_blastdoorwbuttons>一扇重型装甲舱门，集成有两个按钮。</entitydescription.ekdockyard_blastdoorwbuttons>
   <entityname.ekdockyard_blasthatch>防爆舱口</entityname.ekdockyard_blasthatch>
-  <entitydescription.ekdockyard_blasthatch>一个重型装甲舱口.未集成按钮，需手动接线.</entitydescription.ekdockyard_blasthatch>
+  <entitydescription.ekdockyard_blasthatch>一个重型装甲舱口。未集成按钮，需手动接线。</entitydescription.ekdockyard_blasthatch>
   <entityname.ekdockyard_blasthatchwbuttons>按钮防爆舱口</entityname.ekdockyard_blasthatchwbuttons>
-  <entitydescription.ekdockyard_blasthatchwbuttons>一个重型装甲舱口，集成有两个按钮.</entitydescription.ekdockyard_blasthatchwbuttons>
+  <entitydescription.ekdockyard_blasthatchwbuttons>一个重型装甲舱口，集成有两个按钮。</entitydescription.ekdockyard_blasthatchwbuttons>
   <entityname.ekdockyard_doormaintenance1_vertical416>维护嵌板A（竖直） 416</entityname.ekdockyard_doormaintenance1_vertical416>
   <entitydescription.ekdockyard_doormaintenance1_vertical416>垂直嵌板</entitydescription.ekdockyard_doormaintenance1_vertical416>
   <entityname.ekdockyard_doormaintenance1_vertical256>维护嵌板A（竖直） 256</entityname.ekdockyard_doormaintenance1_vertical256>
@@ -197,190 +201,207 @@
   <entitydescription.ekdockyard_shelldoor1_vertical1024mirrored>竖直船壳墙体</entitydescription.ekdockyard_shelldoor1_vertical1024mirrored>
   <entityname.ekdockyard_shelldoor1windowed_vertical1024mirrored>带窗船壳滑动门A（竖直） 1024 Mirrored</entityname.ekdockyard_shelldoor1windowed_vertical1024mirrored>
   <entitydescription.ekdockyard_shelldoor1windowed_vertical1024mirrored>竖直船壳墙体</entitydescription.ekdockyard_shelldoor1windowed_vertical1024mirrored>
-  <entityname.ekdockyard_mediumduct1>中型排水口 A</entityname.ekdockyard_mediumduct1>
-  <entitydescription.ekdockyard_mediumduct1>一个可控制的排水口，可以打开或关闭以允许水通过. </entitydescription.ekdockyard_mediumduct1>
-  <entityname.ekdockyard_mediumduct2>中型排水口 B</entityname.ekdockyard_mediumduct2>
-  <entitydescription.ekdockyard_mediumduct2>一个可控制的排水口，可以打开或关闭以允许水通过. </entitydescription.ekdockyard_mediumduct2>
-  <entityname.ekdockyard_mediumduct3>中型排水口 C</entityname.ekdockyard_mediumduct3>
-  <entitydescription.ekdockyard_mediumduct3>一个可控制的排水口，可以打开或关闭以允许水通过. </entitydescription.ekdockyard_mediumduct3>
+  <entityname.ekdockyard_mediumduct1>中型排水口A</entityname.ekdockyard_mediumduct1>
+  <entitydescription.ekdockyard_mediumduct1>一个可控制的排水口，可以打开或关闭以允许水通过。</entitydescription.ekdockyard_mediumduct1>
+  <entityname.ekdockyard_mediumduct2>中型排水口B</entityname.ekdockyard_mediumduct2>
+  <entitydescription.ekdockyard_mediumduct2>一个可控制的排水口，可以打开或关闭以允许水通过。</entitydescription.ekdockyard_mediumduct2>
+  <entityname.ekdockyard_mediumduct3>中型排水口C</entityname.ekdockyard_mediumduct3>
+  <entitydescription.ekdockyard_mediumduct3>一个可控制的排水口，可以打开或关闭以允许水通过。</entitydescription.ekdockyard_mediumduct3>
   <entityname.ekdockyard_shellduct1_horizontal>水平排水口</entityname.ekdockyard_shellduct1_horizontal>
-  <entitydescription.ekdockyard_shellduct1_horizontal>一个可控制的排水口，可以打开或关闭以允许水通过. </entitydescription.ekdockyard_shellduct1_horizontal>
-  <entityname.ekdockyard_shellduct1_horizontalmirrored>水平排水口 (镜像)</entityname.ekdockyard_shellduct1_horizontalmirrored>
-  <entitydescription.ekdockyard_shellduct1_horizontalmirrored>一个可控制的排水口，可以打开或关闭以允许水通过. </entitydescription.ekdockyard_shellduct1_horizontalmirrored>
+  <entitydescription.ekdockyard_shellduct1_horizontal>一个可控制的排水口，可以打开或关闭以允许水通过。</entitydescription.ekdockyard_shellduct1_horizontal>
+  <entityname.ekdockyard_shellduct1_horizontalmirrored>水平排水口（镜像）</entityname.ekdockyard_shellduct1_horizontalmirrored>
+  <entitydescription.ekdockyard_shellduct1_horizontalmirrored>一个可控制的排水口，可以打开或关闭以允许水通过。</entitydescription.ekdockyard_shellduct1_horizontalmirrored>
   <!-- custom_cameras.xml -->
   <entityname.ekdockyard_camerasmall1>摄像头</entityname.ekdockyard_camerasmall1>
-  <entitydescription.ekdockyard_camerasmall1>高分辨率摄像机，采用坚固的万向节，可进行大范围运动.</entitydescription.ekdockyard_camerasmall1>
+  <entitydescription.ekdockyard_camerasmall1>装在坚固万向节上的高分辨率摄像头，可进行大角度观察。</entitydescription.ekdockyard_camerasmall1>
   <entityname.ekdockyard_cameradeco_sensor1>桅杆传感器A</entityname.ekdockyard_cameradeco_sensor1>
-  <entitydescription.ekdockyard_cameradeco_sensor1>用于大范围观察潜艇周围环境的专用传感器设备.</entitydescription.ekdockyard_cameradeco_sensor1>
+  <entitydescription.ekdockyard_cameradeco_sensor1>用于大范围观察潜艇周围环境的专业多传感器设备。</entitydescription.ekdockyard_cameradeco_sensor1>
   <entityname.ekdockyard_cameradeco_sensor2>桅杆传感器B</entityname.ekdockyard_cameradeco_sensor2>
-  <entitydescription.ekdockyard_cameradeco_sensor2>用于大范围观察潜艇周围环境的专用传感器设备.</entitydescription.ekdockyard_cameradeco_sensor2>
+  <entitydescription.ekdockyard_cameradeco_sensor2>用于大范围观察潜艇周围环境的专业多传感器设备。</entitydescription.ekdockyard_cameradeco_sensor2>
   <entityname.ekdockyard_cameradeco_sensor3>桅杆传感器C</entityname.ekdockyard_cameradeco_sensor3>
-  <entitydescription.ekdockyard_cameradeco_sensor3>用于大范围观察潜艇周围环境的专用传感器设备.</entitydescription.ekdockyard_cameradeco_sensor3>
+  <entitydescription.ekdockyard_cameradeco_sensor3>用于大范围观察潜艇周围环境的专业多传感器设备。</entitydescription.ekdockyard_cameradeco_sensor3>
   <entityname.ekdockyard_transducer_sonardome1>声呐换能器A</entityname.ekdockyard_transducer_sonardome1>
-  <entitydescription.ekdockyard_transducer_sonardome1>采用传统穹顶阵列配置的声呐换能器.</entitydescription.ekdockyard_transducer_sonardome1>
+  <entitydescription.ekdockyard_transducer_sonardome1>采用传统声呐导流罩构型的声呐信号发生器。</entitydescription.ekdockyard_transducer_sonardome1>
   <entityname.ekdockyard_transducer_sonardome2>声呐换能器B</entityname.ekdockyard_transducer_sonardome2>
-  <entitydescription.ekdockyard_transducer_sonardome2>采用传统穹顶阵列配置的声呐换能器.</entitydescription.ekdockyard_transducer_sonardome2>
+  <entitydescription.ekdockyard_transducer_sonardome2>采用传统声呐导流罩构型的声呐信号发生器。</entitydescription.ekdockyard_transducer_sonardome2>
   <!-- custom_devices.xml -->
-  <entityname.ekdockyard_portablespinkler>自动喷水灭火装置</entityname.ekdockyard_portablespinkler>
-  <entitydescription.ekdockyard_portablespinkler>用于消防和种植的自动喷淋装置</entitydescription.ekdockyard_portablespinkler>
+  <entityname.ekdockyard_customwire_pipe1>电线管道</entityname.ekdockyard_customwire_pipe1>
+  <entitydescription.ekdockyard_customwire_pipe1>用来在潜艇中装载电线的工业管道。</entitydescription.ekdockyard_customwire_pipe1>
+  <entityname.ekdockyard_customwire_pipe1red>红色电线管道</entityname.ekdockyard_customwire_pipe1red>
+  <entitydescription.ekdockyard_customwire_pipe1red>用来在潜艇中装载电线的工业管道。</entitydescription.ekdockyard_customwire_pipe1red>
+  <entityname.ekdockyard_customwire_pipe1blue>蓝色电线管道</entityname.ekdockyard_customwire_pipe1blue>
+  <entitydescription.ekdockyard_customwire_pipe1blue>用来在潜艇中装载电线的工业管道。</entitydescription.ekdockyard_customwire_pipe1blue>
+  <entityname.ekdockyard_customwire_pipe1orange>橙色电线管道</entityname.ekdockyard_customwire_pipe1orange>
+  <entitydescription.ekdockyard_customwire_pipe1orange>用来在潜艇中装载电线的工业管道。</entitydescription.ekdockyard_customwire_pipe1orange>
+  <entityname.ekdockyard_customwire_pipe1green>绿色电线管道</entityname.ekdockyard_customwire_pipe1green>
+  <entitydescription.ekdockyard_customwire_pipe1green>用来在潜艇中装载电线的工业管道。</entitydescription.ekdockyard_customwire_pipe1green>
+  <entityname.ekdockyard_customwire_pipe1black>黑色电线管道</entityname.ekdockyard_customwire_pipe1black>
+  <entitydescription.ekdockyard_customwire_pipe1black>用来在潜艇中装载电线的工业管道。</entitydescription.ekdockyard_customwire_pipe1black>
+  <entityname.ekdockyard_customwire_pipe1bracket>管线支架</entityname.ekdockyard_customwire_pipe1bracket>
+  <entitydescription.ekdockyard_customwire_pipe1bracket></entitydescription.ekdockyard_customwire_pipe1bracket>
+  <entityname.ekdockyard_portablespinkler>洒水器</entityname.ekdockyard_portablespinkler>
+  <entitydescription.ekdockyard_portablespinkler>用于消防和水培的一体式喷淋系统。</entitydescription.ekdockyard_portablespinkler>
   <entityname.ekdockyard_vacuumpumpsmall>小型真空泵</entityname.ekdockyard_vacuumpumpsmall>
-  <entitydescription.ekdockyard_vacuumpumpsmall>一种轻型真空泵，可以用来抽空着火点的空气.</entitydescription.ekdockyard_vacuumpumpsmall>
+  <entitydescription.ekdockyard_vacuumpumpsmall>一种轻型真空泵，可以用来抽空着火点的空气。</entitydescription.ekdockyard_vacuumpumpsmall>
   <entityname.ekdockyard_vacuumpumplarge>大型真空泵</entityname.ekdockyard_vacuumpumplarge>
-  <entitydescription.ekdockyard_vacuumpumplarge>一种重型真空泵，可以快速抽空一个房间内的大部分空气.</entitydescription.ekdockyard_vacuumpumplarge>
+  <entitydescription.ekdockyard_vacuumpumplarge>一种重型真空泵，可以快速抽空一个房间内的大部分空气。</entitydescription.ekdockyard_vacuumpumplarge>
   <entityname.ekdockyard_firejet>喷火器</entityname.ekdockyard_firejet>
-  <entitydescription.ekdockyard_firejet>一台使用大量的能量产生燃烧的空气射流的装置.</entitydescription.ekdockyard_firejet>
+  <entitydescription.ekdockyard_firejet>一台能喷射燃烧的空气射流的装置。</entitydescription.ekdockyard_firejet>
+  <entityname.ekdockyard_firejet_radial>喷火器（放射式）</entityname.ekdockyard_firejet_radial>
+  <entitydescription.ekdockyard_firejet_radial>台能喷射燃烧的空气射流的装置。</entitydescription.ekdockyard_firejet_radial>
+  <entityname.ekdockyard_steamjet>高压灭菌器</entityname.ekdockyard_steamjet>
+  <entitydescription.ekdockyard_steamjet>启动时喷出过热蒸汽，通常用于医疗和工业设施。</entitydescription.ekdockyard_steamjet>
+  <entityname.ekdockyard_steamjet_radial>高压灭菌器（放射式）</entityname.ekdockyard_steamjet_radial>
+  <entitydescription.ekdockyard_steamjet_radial>启动时喷出过热蒸汽，通常用于医疗和工业设施。</entitydescription.ekdockyard_steamjet_radial>
   <entityname.ekdockyard_advancedvent>高级通风口</entityname.ekdockyard_advancedvent>
-  <entitydescription.ekdockyard_advancedvent>氧气输出点.必须连接到一台制氧机以确保正常工作.</entitydescription.ekdockyard_advancedvent>
+  <entitydescription.ekdockyard_advancedvent>氧气输出点.必须链接到制氧机才能正常工作。</entitydescription.ekdockyard_advancedvent>
   <entityname.ekdockyard_looseadvancedvent>松动的高级通风口</entityname.ekdockyard_looseadvancedvent>
-  <entitydescription.ekdockyard_looseadvancedvent>藏匿违禁物品的好地方.</entitydescription.ekdockyard_looseadvancedvent>
-  <entityname.ekdockyard_switchboard>控制面板</entityname.ekdockyard_switchboard>
-  <entitydescription.ekdockyard_switchboard>一个操作多个系统的有线控制面板.</entitydescription.ekdockyard_switchboard>
-  <entityname.ekdockyard_portablespinkler>自动喷水灭火装置</entityname.ekdockyard_portablespinkler>
-  <entitydescription.ekdockyard_portablespinkler>用于消防和水培的整体式洒水系统.</entitydescription.ekdockyard_portablespinkler>
-  <entityname.ekdockyard_vacuumpumpsmall>小型真空泵</entityname.ekdockyard_vacuumpumpsmall>
-  <entitydescription.ekdockyard_vacuumpumpsmall>一种轻型真空泵，可以用来抽空着火点的空气.</entitydescription.ekdockyard_vacuumpumpsmall>
-  <entityname.ekdockyard_vacuumpumplarge>大型真空泵</entityname.ekdockyard_vacuumpumplarge>
-  <entitydescription.ekdockyard_vacuumpumplarge>一种重型真空泵，可以快速抽空一个房间内的大部分空气.</entitydescription.ekdockyard_vacuumpumplarge>
-  <entityname.ekdockyard_firejet>喷火器</entityname.ekdockyard_firejet>
-  <entitydescription.ekdockyard_firejet>一台使用大量的能量产生燃烧的空气射流的装置.</entitydescription.ekdockyard_firejet>
-  <entityname.ekdockyard_advancedvent>高级通风口</entityname.ekdockyard_advancedvent>
-  <entitydescription.ekdockyard_advancedvent>氧气输出点.必须连接到一台制氧机以确保正常工作.</entitydescription.ekdockyard_advancedvent>
-  <entityname.ekdockyard_looseadvancedvent>松动的高级通风口</entityname.ekdockyard_looseadvancedvent>
-  <entitydescription.ekdockyard_looseadvancedvent>藏匿违禁物品的好地方.</entitydescription.ekdockyard_looseadvancedvent>
+  <entitydescription.ekdockyard_looseadvancedvent>藏匿违禁物品的好地方。</entitydescription.ekdockyard_looseadvancedvent>
   <entityname.ekdockyard_switchboard>控制面板A</entityname.ekdockyard_switchboard>
-  <entitydescription.ekdockyard_switchboard>一个操作多个系统的有线控制面板.</entitydescription.ekdockyard_switchboard>
+  <entitydescription.ekdockyard_switchboard>一个能同时操作多个系统的有线控制面板。</entitydescription.ekdockyard_switchboard>
   <entityname.ekdockyard_switchboard2>控制面板B</entityname.ekdockyard_switchboard2>
-  <entitydescription.ekdockyard_switchboard2>一个操作多个系统的有线控制面板.</entitydescription.ekdockyard_switchboard2>
+  <entitydescription.ekdockyard_switchboard2>一个能同时操作多个系统的有线控制面板。</entitydescription.ekdockyard_switchboard2>
   <entityname.ekdockyard_keypad>小键盘</entityname.ekdockyard_keypad>
-  <entitydescription.ekdockyard_keypad>数字输入装置.可用于各种应用，如终端数据输入或安全代码锁.</entitydescription.ekdockyard_keypad>
+  <entitydescription.ekdockyard_keypad>数字输入装置。可用于各种场景，如终端数据输入或安全密码锁.</entitydescription.ekdockyard_keypad>
   <entityname.ekdockyard_textdisplaylong>文本显示器（长）</entityname.ekdockyard_textdisplaylong>
   <entitydescription.ekdockyard_textdisplaylong></entitydescription.ekdockyard_textdisplaylong>
-  <entityname.ekdockyard_emergencysiren_legacy1>报警器 (Legacy 1)</entityname.ekdockyard_emergencysiren_legacy1>
+  <entityname.ekdockyard_emergencysiren_legacy1>应急警报器（Legacy 1）</entityname.ekdockyard_emergencysiren_legacy1>
   <entitydescription.ekdockyard_emergencysiren_legacy1></entitydescription.ekdockyard_emergencysiren_legacy1>
-  <entityname.ekdockyard_emergencysiren_legacy2>报警器 (Legacy 2)</entityname.ekdockyard_emergencysiren_legacy2>
+  <entityname.ekdockyard_emergencysiren_legacy2>应急警报器（Legacy 2）</entityname.ekdockyard_emergencysiren_legacy2>
   <entitydescription.ekdockyard_emergencysiren_legacy2></entitydescription.ekdockyard_emergencysiren_legacy2>
-  <entityname.ekdockyard_emergencysiren_legacy3>报警器 (Legacy 3)</entityname.ekdockyard_emergencysiren_legacy3>
+  <entityname.ekdockyard_emergencysiren_legacy3>应急警报器（Legacy 3）</entityname.ekdockyard_emergencysiren_legacy3>
   <entitydescription.ekdockyard_emergencysiren_legacy3></entitydescription.ekdockyard_emergencysiren_legacy3>
-  <entityname.ekdockyard_emergencysiren_ek1>报警器 (EK 1)</entityname.ekdockyard_emergencysiren_ek1>
+  <entityname.ekdockyard_emergencysiren_ek1>应急警报器（EK 1）</entityname.ekdockyard_emergencysiren_ek1>
   <entitydescription.ekdockyard_emergencysiren_ek1>Bunker alarm</entitydescription.ekdockyard_emergencysiren_ek1>
-  <entityname.ekdockyard_alarmbuzzer_ek1>蜂鸣器 (EK 1)</entityname.ekdockyard_alarmbuzzer_ek1>
+  <entityname.ekdockyard_emergencysiren_ek2>应急警报器（EK 2）</entityname.ekdockyard_emergencysiren_ek2>
+  <entitydescription.ekdockyard_emergencysiren_ek2>Cave alarm</entitydescription.ekdockyard_emergencysiren_ek2>
+  <entityname.ekdockyard_alarmbuzzer_ek1>蜂鸣报警器（EK 1）</entityname.ekdockyard_alarmbuzzer_ek1>
   <entitydescription.ekdockyard_alarmbuzzer_ek1>Alarm bell</entitydescription.ekdockyard_alarmbuzzer_ek1>
-  <entityname.ekdockyard_emergencywarning_ek1>报警器 (EK 1)</entityname.ekdockyard_emergencywarning_ek1>
+  <entityname.ekdockyard_emergencywarning_ek1>报警器（EK 1）</entityname.ekdockyard_emergencywarning_ek1>
   <entitydescription.ekdockyard_emergencywarning_ek1>Long klaxon</entitydescription.ekdockyard_emergencywarning_ek1>
-  <entityname.ekdockyard_emergencywarning_ek2>报警器 (EK 2)</entityname.ekdockyard_emergencywarning_ek2>
+  <entityname.ekdockyard_emergencywarning_ek2>报警器（EK 2）</entityname.ekdockyard_emergencywarning_ek2>
   <entitydescription.ekdockyard_emergencywarning_ek2>Digital klaxon</entitydescription.ekdockyard_emergencywarning_ek2>
-  <entityname.ekdockyard_emergencywarning_ek3>报警器 (EK 3)</entityname.ekdockyard_emergencywarning_ek3>
+  <entityname.ekdockyard_emergencywarning_ek3>报警器（EK 3）</entityname.ekdockyard_emergencywarning_ek3>
   <entitydescription.ekdockyard_emergencywarning_ek3>Intercom buzzer</entitydescription.ekdockyard_emergencywarning_ek3>
-  <entityname.ekdockyard_emergencywarning_ek4>报警器 (EK 4)</entityname.ekdockyard_emergencywarning_ek4>
+  <entityname.ekdockyard_emergencywarning_ek4>报警器（EK 4）</entityname.ekdockyard_emergencywarning_ek4>
   <entitydescription.ekdockyard_emergencywarning_ek4>Launch warning</entitydescription.ekdockyard_emergencywarning_ek4>
-  <entityname.ekdockyard_beepwarning_ek1>报警器 (EK 1)</entityname.ekdockyard_beepwarning_ek1>
+  <entityname.ekdockyard_emergencywarning_ek5>报警器（EK 5）</entityname.ekdockyard_emergencywarning_ek5>
+  <entitydescription.ekdockyard_emergencywarning_ek5>Classic klaxon</entitydescription.ekdockyard_emergencywarning_ek5>
+  <entityname.ekdockyard_emergencywarning_ek6>报警器（EK 6）</entityname.ekdockyard_emergencywarning_ek6>
+  <entitydescription.ekdockyard_emergencywarning_ek6>Piezoelectric buzzer</entitydescription.ekdockyard_emergencywarning_ek6>
+  <entityname.ekdockyard_beepwarning_ek1>警铃（EK 1）</entityname.ekdockyard_beepwarning_ek1>
   <entitydescription.ekdockyard_beepwarning_ek1>Notification buzzer</entitydescription.ekdockyard_beepwarning_ek1>
-  <entityname.ekdockyard_beepwarning_ek2>报警器 (EK 2)</entityname.ekdockyard_beepwarning_ek2>
+  <entityname.ekdockyard_beepwarning_ek2>警铃（EK 2）</entityname.ekdockyard_beepwarning_ek2>
   <entitydescription.ekdockyard_beepwarning_ek2>Equipment alarm 1</entitydescription.ekdockyard_beepwarning_ek2>
-  <entityname.ekdockyard_beepwarning_ek3>报警器 (EK 3)</entityname.ekdockyard_beepwarning_ek3>
+  <entityname.ekdockyard_beepwarning_ek3>警铃（EK 3）</entityname.ekdockyard_beepwarning_ek3>
   <entitydescription.ekdockyard_beepwarning_ek3>Equipment alarm 2</entitydescription.ekdockyard_beepwarning_ek3>
-  <entityname.ekdockyard_beepwarning_ek4>报警器 (EK 4)</entityname.ekdockyard_beepwarning_ek4>
+  <entityname.ekdockyard_beepwarning_ek4>警铃（EK 4）</entityname.ekdockyard_beepwarning_ek4>
   <entitydescription.ekdockyard_beepwarning_ek4>Equipment alarm 3</entitydescription.ekdockyard_beepwarning_ek4>
-  <entityname.ekdockyard_beepwarning_ek5>报警器 (EK 5)</entityname.ekdockyard_beepwarning_ek5>
+  <entityname.ekdockyard_beepwarning_ek5>警铃（EK 5）</entityname.ekdockyard_beepwarning_ek5>
   <entitydescription.ekdockyard_beepwarning_ek5>Equipment alarm 4</entitydescription.ekdockyard_beepwarning_ek5>
-  <entityname.ekdockyard_integraldetonator>多通道雷管</entityname.ekdockyard_integraldetonator>
-  <entitydescription.ekdockyard_integraldetonator>无法拆除的多通道引爆系统</entitydescription.ekdockyard_integraldetonator>
+  <entityname.ekdockyard_integraldetonator>一体式引爆器</entityname.ekdockyard_integraldetonator>
+  <entitydescription.ekdockyard_integraldetonator>无法拆除的多通道引爆系统。</entitydescription.ekdockyard_integraldetonator>
   <entityname.ekdockyard_ioterminal_reactor>反应堆终端</entityname.ekdockyard_ioterminal_reactor>
-  <entitydescription.ekdockyard_ioterminal_reactor>允许船员远程操作反应堆，需要连接到对应设备以确保正常工作.</entitydescription.ekdockyard_ioterminal_reactor>
-  <entityname.ekdockyard_ioterminal_fabricator>合成台终端</entityname.ekdockyard_ioterminal_fabricator>
-  <entitydescription.ekdockyard_ioterminal_fabricator>允许船员远程操作合成台，需要连接到对应设备以确保正常工作.</entitydescription.ekdockyard_ioterminal_fabricator>
+  <entitydescription.ekdockyard_ioterminal_reactor>用于远程操作潜艇反应堆的指令和访问端口。</entitydescription.ekdockyard_ioterminal_reactor>
+  <entityname.ekdockyard_ioterminal_fabricator>加工台终端</entityname.ekdockyard_ioterminal_fabricator>
+  <entitydescription.ekdockyard_ioterminal_fabricator>制造终端和物流系统，可以进行物品远程制造和交付。</entitydescription.ekdockyard_ioterminal_fabricator>
   <entityname.ekdockyard_ioterminal_deconstructor>解构仪终端</entityname.ekdockyard_ioterminal_deconstructor>
-  <entitydescription.ekdockyard_ioterminal_deconstructor>允许船员远程操作解构仪，需要连接到对应设备以确保正常工作.</entitydescription.ekdockyard_ioterminal_deconstructor>
+  <entitydescription.ekdockyard_ioterminal_deconstructor>终端处理系统，能把物品被送去解构。</entitydescription.ekdockyard_ioterminal_deconstructor>
   <entityname.ekdockyard_ioterminal_chair1>操纵椅</entityname.ekdockyard_ioterminal_chair1>
-  <entitydescription.ekdockyard_ioterminal_chair1>允许船员坐着操作设备，必须连接到对应设备以确保正常工作.</entitydescription.ekdockyard_ioterminal_chair1>
+  <entitydescription.ekdockyard_ioterminal_chair1>能让人员在坐着时操作机器和终端。需要链接且勾选并排显示来生效。</entitydescription.ekdockyard_ioterminal_chair1>
   <entityname.ekdockyard_navcomputer1>导航电脑</entityname.ekdockyard_navcomputer1>
-  <entitydescription.ekdockyard_navcomputer1>独立数据处理单元，能够执行与导航终端相同的所有操作.可用作备用指挥系统或高级无人机导航系统.</entitydescription.ekdockyard_navcomputer1>
+  <entitydescription.ekdockyard_navcomputer1>独立数据处理单元，能够执行导航终端的所有操作.可用作备用指挥系统或高级无人机导航系统。</entitydescription.ekdockyard_navcomputer1>
+  <entityname.ekdockyard_junctiondata1>信号接线盒</entityname.ekdockyard_junctiondata1>
+  <entitydescription.ekdockyard_junctiondata1>重型数据处理总线，用于连接信号线而不是能源线。</entitydescription.ekdockyard_junctiondata1>
+  <entityname.ekdockyard_shockcoil1>电击线圈</entityname.ekdockyard_shockcoil1>
+  <entitydescription.ekdockyard_shockcoil1>为室内使用而设计的小型放电线圈。</entitydescription.ekdockyard_shockcoil1>
   <!-- custom_gauges.xml -->
-  <entityname.ekdockyard_customgauge1a>Gauge</entityname.ekdockyard_customgauge1a>
+  <entityname.ekdockyard_customgauge1a>仪表1a</entityname.ekdockyard_customgauge1a>
   <entitydescription.ekdockyard_customgauge1a></entitydescription.ekdockyard_customgauge1a>
-  <entityname.ekdockyard_customgauge1b>Gauge</entityname.ekdockyard_customgauge1b>
+  <entityname.ekdockyard_customgauge1b>仪表1b</entityname.ekdockyard_customgauge1b>
   <entitydescription.ekdockyard_customgauge1b></entitydescription.ekdockyard_customgauge1b>
-  <entityname.ekdockyard_customgaugesector1a>Gauge Sector</entityname.ekdockyard_customgaugesector1a>
+  <entityname.ekdockyard_customgaugesector1a>仪表区间1a</entityname.ekdockyard_customgaugesector1a>
   <entitydescription.ekdockyard_customgaugesector1a></entitydescription.ekdockyard_customgaugesector1a>
-  <entityname.ekdockyard_customgaugesector1b>Gauge Sector</entityname.ekdockyard_customgaugesector1b>
+  <entityname.ekdockyard_customgaugesector1b>仪表区间1b</entityname.ekdockyard_customgaugesector1b>
   <entitydescription.ekdockyard_customgaugesector1b></entitydescription.ekdockyard_customgaugesector1b>
-  <entityname.ekdockyard_customgaugesector1c>GaugeSector</entityname.ekdockyard_customgaugesector1c>
+  <entityname.ekdockyard_customgaugesector1c>仪表区间1c</entityname.ekdockyard_customgaugesector1c>
   <entitydescription.ekdockyard_customgaugesector1c></entitydescription.ekdockyard_customgaugesector1c>
-  <entityname.ekdockyard_customgauge2a>Gauge</entityname.ekdockyard_customgauge2a>
+  <entityname.ekdockyard_customgauge2a>仪表2a</entityname.ekdockyard_customgauge2a>
   <entitydescription.ekdockyard_customgauge2a></entitydescription.ekdockyard_customgauge2a>
-  <entityname.ekdockyard_customgauge2b>Gauge</entityname.ekdockyard_customgauge2b>
+  <entityname.ekdockyard_customgauge2b>仪表2b</entityname.ekdockyard_customgauge2b>
   <entitydescription.ekdockyard_customgauge2b></entitydescription.ekdockyard_customgauge2b>
-  <entityname.ekdockyard_customgaugesector2a>Gauge Sector</entityname.ekdockyard_customgaugesector2a>
+  <entityname.ekdockyard_customgaugesector2a>仪表区间2a</entityname.ekdockyard_customgaugesector2a>
   <entitydescription.ekdockyard_customgaugesector2a></entitydescription.ekdockyard_customgaugesector2a>
-  <entityname.ekdockyard_customgaugesector2b>Gauge Sector</entityname.ekdockyard_customgaugesector2b>
+  <entityname.ekdockyard_customgaugesector2b>仪表区间2b</entityname.ekdockyard_customgaugesector2b>
   <entitydescription.ekdockyard_customgaugesector2b></entitydescription.ekdockyard_customgaugesector2b>
-  <entityname.ekdockyard_customgaugesector2c>Gauge Sector</entityname.ekdockyard_customgaugesector2c>
+  <entityname.ekdockyard_customgaugesector2c>仪表区间2c</entityname.ekdockyard_customgaugesector2c>
   <entitydescription.ekdockyard_customgaugesector2c></entitydescription.ekdockyard_customgaugesector2c>
-  <entityname.ekdockyard_customgauge_engine1a>Gauge Engine</entityname.ekdockyard_customgauge_engine1a>
+  <entityname.ekdockyard_customgauge_engine1a>仪表（引擎）1a</entityname.ekdockyard_customgauge_engine1a>
   <entitydescription.ekdockyard_customgauge_engine1a></entitydescription.ekdockyard_customgauge_engine1a>
-  <entityname.ekdockyard_customgauge_engine1b>Gauge Engine</entityname.ekdockyard_customgauge_engine1b>
+  <entityname.ekdockyard_customgauge_engine1b>仪表（引擎）1b</entityname.ekdockyard_customgauge_engine1b>
   <entitydescription.ekdockyard_customgauge_engine1b></entitydescription.ekdockyard_customgauge_engine1b>
-  <entityname.ekdockyard_customgaugemarkings_engine1a>Gauge Engine Markings</entityname.ekdockyard_customgaugemarkings_engine1a>
+  <entityname.ekdockyard_customgaugemarkings_engine1a>仪表（引擎）标记1a</entityname.ekdockyard_customgaugemarkings_engine1a>
   <entitydescription.ekdockyard_customgaugemarkings_engine1a></entitydescription.ekdockyard_customgaugemarkings_engine1a>
-  <entityname.ekdockyard_customgaugemarkings_engine1b>Gauge Engine Markings</entityname.ekdockyard_customgaugemarkings_engine1b>
+  <entityname.ekdockyard_customgaugemarkings_engine1b>仪表（引擎）标记1b</entityname.ekdockyard_customgaugemarkings_engine1b>
   <entitydescription.ekdockyard_customgaugemarkings_engine1b></entitydescription.ekdockyard_customgaugemarkings_engine1b>
-  <entityname.ekdockyard_customgaugesector_engine1a>Gauge Engine Sector</entityname.ekdockyard_customgaugesector_engine1a>
+  <entityname.ekdockyard_customgaugesector_engine1a>仪表（引擎）区间1a</entityname.ekdockyard_customgaugesector_engine1a>
   <entitydescription.ekdockyard_customgaugesector_engine1a></entitydescription.ekdockyard_customgaugesector_engine1a>
-  <entityname.ekdockyard_customgauge_turret1a>Gauge Turret</entityname.ekdockyard_customgauge_turret1a>
+  <entityname.ekdockyard_customgauge_turret1a>仪表（炮塔）1a</entityname.ekdockyard_customgauge_turret1a>
   <entitydescription.ekdockyard_customgauge_turret1a></entitydescription.ekdockyard_customgauge_turret1a>
-  <entityname.ekdockyard_customgaugemarkings_turret1a>Gauge Turret Markings</entityname.ekdockyard_customgaugemarkings_turret1a>
+  <entityname.ekdockyard_customgaugemarkings_turret1a>仪表（炮塔）标记1a</entityname.ekdockyard_customgaugemarkings_turret1a>
   <entitydescription.ekdockyard_customgaugemarkings_turret1a></entitydescription.ekdockyard_customgaugemarkings_turret1a>
-  <entityname.ekdockyard_customgaugemarkings_turret1b>Gauge Turret Markings</entityname.ekdockyard_customgaugemarkings_turret1b>
+  <entityname.ekdockyard_customgaugemarkings_turret1b>仪表（炮塔）标记1b</entityname.ekdockyard_customgaugemarkings_turret1b>
   <entitydescription.ekdockyard_customgaugemarkings_turret1b></entitydescription.ekdockyard_customgaugemarkings_turret1b>
+  <!-- custom_lights.xml -->
   <entityname.ekdockyard_emergencylightadvanced>高级应急灯</entityname.ekdockyard_emergencylightadvanced>
-  <entitydescription.ekdockyard_emergencylightadvanced>高级应急灯</entitydescription.ekdockyard_emergencylightadvanced>
+  <entitydescription.ekdockyard_emergencylightadvanced></entitydescription.ekdockyard_emergencylightadvanced>
   <entityname.ekdockyard_vanillalightadvanced01>高级照明灯1</entityname.ekdockyard_vanillalightadvanced01>
-  <entitydescription.ekdockyard_vanillalightadvanced01>高级照明灯1</entitydescription.ekdockyard_vanillalightadvanced01>
+  <entitydescription.ekdockyard_vanillalightadvanced01></entitydescription.ekdockyard_vanillalightadvanced01>
   <entityname.ekdockyard_vanillalightadvanced02>高级照明灯2</entityname.ekdockyard_vanillalightadvanced02>
-  <entitydescription.ekdockyard_vanillalightadvanced02>高级照明灯2</entitydescription.ekdockyard_vanillalightadvanced02>
+  <entitydescription.ekdockyard_vanillalightadvanced02></entitydescription.ekdockyard_vanillalightadvanced02>
   <entityname.ekdockyard_vanillalightadvanced03>高级照明灯3</entityname.ekdockyard_vanillalightadvanced03>
-  <entitydescription.ekdockyard_vanillalightadvanced03>高级照明灯3</entitydescription.ekdockyard_vanillalightadvanced03>
+  <entitydescription.ekdockyard_vanillalightadvanced03></entitydescription.ekdockyard_vanillalightadvanced03>
   <entityname.ekdockyard_vanillalightadvanced04>高级照明灯4</entityname.ekdockyard_vanillalightadvanced04>
-  <entitydescription.ekdockyard_vanillalightadvanced04>高级照明灯4</entitydescription.ekdockyard_vanillalightadvanced04>
+  <entitydescription.ekdockyard_vanillalightadvanced04></entitydescription.ekdockyard_vanillalightadvanced04>
   <entityname.ekdockyard_vanillalightadvanced05>高级照明灯5</entityname.ekdockyard_vanillalightadvanced05>
-  <entitydescription.ekdockyard_vanillalightadvanced05>高级照明灯5</entitydescription.ekdockyard_vanillalightadvanced05>
+  <entitydescription.ekdockyard_vanillalightadvanced05></entitydescription.ekdockyard_vanillalightadvanced05>
   <entityname.ekdockyard_lightadvanced01>高级照明灯A</entityname.ekdockyard_lightadvanced01>
-  <entitydescription.ekdockyard_lightadvanced01>高级照明灯A</entitydescription.ekdockyard_lightadvanced01>
+  <entitydescription.ekdockyard_lightadvanced01></entitydescription.ekdockyard_lightadvanced01>
   <entityname.ekdockyard_lightadvanced02>高级照明灯B</entityname.ekdockyard_lightadvanced02>
-  <entitydescription.ekdockyard_lightadvanced02>高级照明灯B</entitydescription.ekdockyard_lightadvanced02>
+  <entitydescription.ekdockyard_lightadvanced02></entitydescription.ekdockyard_lightadvanced02>
   <entityname.ekdockyard_lightadvanced03>高级照明灯C</entityname.ekdockyard_lightadvanced03>
-  <entitydescription.ekdockyard_lightadvanced03>高级照明灯C</entitydescription.ekdockyard_lightadvanced03>
+  <entitydescription.ekdockyard_lightadvanced03></entitydescription.ekdockyard_lightadvanced03>
   <entityname.ekdockyard_lightadvanced04>高级照明灯D</entityname.ekdockyard_lightadvanced04>
-  <entitydescription.ekdockyard_lightadvanced04>高级照明灯D</entitydescription.ekdockyard_lightadvanced04>
+  <entitydescription.ekdockyard_lightadvanced04></entitydescription.ekdockyard_lightadvanced04>
   <entityname.ekdockyard_lightadvanced05>高级照明灯E</entityname.ekdockyard_lightadvanced05>
-  <entitydescription.ekdockyard_lightadvanced05>高级照明灯E</entitydescription.ekdockyard_lightadvanced05>
+  <entitydescription.ekdockyard_lightadvanced05></entitydescription.ekdockyard_lightadvanced05>
   <entityname.ekdockyard_lightspinner1>旋转式报警灯</entityname.ekdockyard_lightspinner1>
-  <entitydescription.ekdockyard_lightspinner1>旋转式报警灯</entitydescription.ekdockyard_lightspinner1>
+  <entitydescription.ekdockyard_lightspinner1></entitydescription.ekdockyard_lightspinner1>
   <entityname.ekdockyard_lightindicator1>指示灯A</entityname.ekdockyard_lightindicator1>
-  <entitydescription.ekdockyard_lightindicator1>指示灯A</entitydescription.ekdockyard_lightindicator1>
+  <entitydescription.ekdockyard_lightindicator1></entitydescription.ekdockyard_lightindicator1>
   <entityname.ekdockyard_lightindicator2>指示灯B</entityname.ekdockyard_lightindicator2>
-  <entitydescription.ekdockyard_lightindicator2>指示灯B</entitydescription.ekdockyard_lightindicator2>
+  <entitydescription.ekdockyard_lightindicator2></entitydescription.ekdockyard_lightindicator2>
   <entityname.ekdockyard_lightindicator3>指示灯C</entityname.ekdockyard_lightindicator3>
-  <entitydescription.ekdockyard_lightindicator3>指示灯C</entitydescription.ekdockyard_lightindicator3>
+  <entitydescription.ekdockyard_lightindicator3></entitydescription.ekdockyard_lightindicator3>
   <!-- custom_submarine_function.xml -->
-  <entityname.ekdockyard_function_icebreaker1>Icebreaker Hull (Small)</entityname.ekdockyard_function_icebreaker1>
-  <entitydescription.ekdockyard_function_icebreaker1>Damages ice walls and spires.</entitydescription.ekdockyard_function_icebreaker1>
-  <entityname.ekdockyard_function_icebreaker2>Icebreaker Hull (Medium)</entityname.ekdockyard_function_icebreaker2>
-  <entitydescription.ekdockyard_function_icebreaker2>Damages ice walls and spires.</entitydescription.ekdockyard_function_icebreaker2>
-  <entityname.ekdockyard_function_icebreaker3>Icebreaker Hull (Large)</entityname.ekdockyard_function_icebreaker3>
-  <entitydescription.ekdockyard_function_icebreaker3>Damages ice walls and spires.</entitydescription.ekdockyard_function_icebreaker3>
+  <entityname.ekdockyard_function_icebreaker1>破冰船体（小）</entityname.ekdockyard_function_icebreaker1>
+  <entitydescription.ekdockyard_function_icebreaker1>用于破坏冰块和冰尖岩。</entitydescription.ekdockyard_function_icebreaker1>
+  <entityname.ekdockyard_function_icebreaker2>破冰船体（中）</entityname.ekdockyard_function_icebreaker2>
+  <entitydescription.ekdockyard_function_icebreaker2>用于破坏冰块和冰尖岩。</entitydescription.ekdockyard_function_icebreaker2>
+  <entityname.ekdockyard_function_icebreaker3>破冰船体（大）</entityname.ekdockyard_function_icebreaker3>
+  <entitydescription.ekdockyard_function_icebreaker3>用于破坏冰块和冰尖岩。</entitydescription.ekdockyard_function_icebreaker3>
   <!-- poweritem_variants.xml -->
-  <entityname.ekdockyard_junctiondistributor>Distributor Junction</entityname.ekdockyard_junctiondistributor>
-  <entitydescription.ekdockyard_junctiondistributor>(Placeholder Sprite) Heavy power distribution bus for connecting to many high-power systems throughout the submarine.</entitydescription.ekdockyard_junctiondistributor>
-  <entityname.ekdockyard_junctiondistributor_style2>Distributor Junction</entityname.ekdockyard_junctiondistributor_style2>
-  <entitydescription.ekdockyard_junctiondistributor_style2>Heavy power distribution bus for connecting to many high-power systems throughout the submarine.</entitydescription.ekdockyard_junctiondistributor_style2>
-  <entityname.ekdockyard_junctiondistributor_style3>Distributor Junction</entityname.ekdockyard_junctiondistributor_style3>
-  <entitydescription.ekdockyard_junctiondistributor_style3>Heavy power distribution bus for connecting to many high-power systems throughout the submarine.</entitydescription.ekdockyard_junctiondistributor_style3>
-  <entityname.ekdockyard_junctionbox_style2>Junction Box</entityname.ekdockyard_junctionbox_style2>
-  <entitydescription.ekdockyard_junctionbox_style2>Serves as a hub for power distribution and relaying signals between devices.</entitydescription.ekdockyard_junctionbox_style2>
-  <entityname.ekdockyard_junctionbox_style3>Junction Box</entityname.ekdockyard_junctionbox_style3>
-  <entitydescription.ekdockyard_junctionbox_style3>Serves as a hub for power distribution and relaying signals between devices.</entitydescription.ekdockyard_junctionbox_style3>
-  <entityname.ekdockyard_battery_style1>电池A</entityname.ekdockyard_battery_style1>
+  <entityname.ekdockyard_junctiondistributor>配电器接线盒</entityname.ekdockyard_junctiondistributor>
+  <entitydescription.ekdockyard_junctiondistributor>（贴图占位）重型配电总线，用于连接整艘潜艇的各个大功率系统。</entitydescription.ekdockyard_junctiondistributor>
+  <entityname.ekdockyard_junctiondistributor_style2>配电器接线盒</entityname.ekdockyard_junctiondistributor_style2>
+  <entitydescription.ekdockyard_junctiondistributor_style2>重型配电总线，用于连接整艘潜艇的各个大功率系统。</entitydescription.ekdockyard_junctiondistributor_style2>
+  <entityname.ekdockyard_junctiondistributor_style3>配电器接线盒</entityname.ekdockyard_junctiondistributor_style3>
+  <entitydescription.ekdockyard_junctiondistributor_style3>重型配电总线，用于连接整艘潜艇的各个大功率系统。</entitydescription.ekdockyard_junctiondistributor_style3>
+  <entityname.ekdockyard_junctionbox_style2>接线盒</entityname.ekdockyard_junctionbox_style2>
+  <entitydescription.ekdockyard_junctionbox_style2>为设备分配功率、中继信号的集线器。</entitydescription.ekdockyard_junctionbox_style2>
+  <entityname.ekdockyard_junctionbox_style3>接线盒</entityname.ekdockyard_junctionbox_style3>
+  <entitydescription.ekdockyard_junctionbox_style3>为设备分配功率、中继信号的集线器。</entitydescription.ekdockyard_junctionbox_style3>
+  <entityname.ekdockyard_battery_style1>电池</entityname.ekdockyard_battery_style1>
   <entitydescription.ekdockyard_battery_style1></entitydescription.ekdockyard_battery_style1>
   <entityname.ekdockyard_battery_style2>电池</entityname.ekdockyard_battery_style2>
   <entitydescription.ekdockyard_battery_style2></entitydescription.ekdockyard_battery_style2>
@@ -390,45 +411,50 @@
   <entitydescription.ekdockyard_battery_style4></entitydescription.ekdockyard_battery_style4>
   <entityname.ekdockyard_battery_style5>电池</entityname.ekdockyard_battery_style5>
   <entitydescription.ekdockyard_battery_style5></entitydescription.ekdockyard_battery_style5>
-  <entityname.ekdockyard_kineticcapacitor1>Kinetic Capacitor</entityname.ekdockyard_kineticcapacitor1>
-  <entitydescription.ekdockyard_kineticcapacitor1>A large flywheel and transmission system. Accumulated energy can be used to drive high-power systems like engines.</entitydescription.ekdockyard_kineticcapacitor1>
-  <entityname.ekdockyard_kineticcapacitor2>Kinetic Capacitor</entityname.ekdockyard_kineticcapacitor2>
-  <entitydescription.ekdockyard_kineticcapacitor2>A large flywheel and transmission system. Accumulated energy can be used to drive high-power systems like engines.</entitydescription.ekdockyard_kineticcapacitor2>
+  <entityname.ekdockyard_kineticcapacitor1>动能蓄能器</entityname.ekdockyard_kineticcapacitor1>
+  <entitydescription.ekdockyard_kineticcapacitor1>大型转轮和传动系统。积累的能量可用于驱动引擎等大功率系统。</entitydescription.ekdockyard_kineticcapacitor1>
+  <entityname.ekdockyard_kineticcapacitor2>动能蓄能器</entityname.ekdockyard_kineticcapacitor2>
+  <entitydescription.ekdockyard_kineticcapacitor2>大型转轮和传动系统。积累的能量可用于驱动引擎等大功率系统。</entitydescription.ekdockyard_kineticcapacitor2>
+  <entityname.ekdockyard_capacitor1>电容器</entityname.ekdockyard_capacitor1>
+  <entitydescription.ekdockyard_capacitor1>有着高输出功率的蓄能器，能够进行快速充电循环。可作为超级电容器的替代品，但代价是最大充电率较低。</entitydescription.ekdockyard_capacitor1>
+  <!-- fabricator_variants.xml -->
+  <entityname.ekdockyard_fabricator_adaptive>加工台（自适应）</entityname.ekdockyard_fabricator_adaptive>
+  <entitydescription.ekdockyard_fabricator_adaptive>经过改进的制造装置，带有自适应控制计算机和更低的制造误差。比标准工作台需要的校正技能要求更低。</entitydescription.ekdockyard_fabricator_adaptive>
   <!-- thruster_engines.xml -->
-  <entityname.ekdockyard_newthrusterengine_fixedtiny050>Fixed Thruster B 00-5</entityname.ekdockyard_newthrusterengine_fixedtiny050>
-  <entitydescription.ekdockyard_newthrusterengine_fixedtiny050>Fixed-mount electrically driven thruster for manuvering the sub laterally. Output thrust is roughtly equivalent to that of a 50kW engine.</entitydescription.ekdockyard_newthrusterengine_fixedtiny050>
+  <entityname.ekdockyard_newthrusterengine_fixedtiny050>固定推进器 B 00-5</entityname.ekdockyard_newthrusterengine_fixedtiny050>
+  <entitydescription.ekdockyard_newthrusterengine_fixedtiny050>固定安装的电驱动推进器，用于侧向操纵潜艇。输出推力大致相当于一个50kW引擎的推力。</entitydescription.ekdockyard_newthrusterengine_fixedtiny050>
   <entityname.ekdockyard_newthrusterforcer_tiny_050>ekdockyard_newthrusterforcer_tiny_050</entityname.ekdockyard_newthrusterforcer_tiny_050>
   <entitydescription.ekdockyard_newthrusterforcer_tiny_050></entitydescription.ekdockyard_newthrusterforcer_tiny_050>
-  <entityname.ekdockyard_newthrusterengine_fixedtiny100>Fixed Thruster B 01</entityname.ekdockyard_newthrusterengine_fixedtiny100>
-  <entitydescription.ekdockyard_newthrusterengine_fixedtiny100>Fixed-mount electrically driven thruster for manuvering the sub laterally. Output thrust is roughtly equivalent to that of a 100kW engine.</entitydescription.ekdockyard_newthrusterengine_fixedtiny100>
+  <entityname.ekdockyard_newthrusterengine_fixedtiny100>固定推进器 B 01</entityname.ekdockyard_newthrusterengine_fixedtiny100>
+  <entitydescription.ekdockyard_newthrusterengine_fixedtiny100>固定安装的电驱动推进器，用于侧向操纵潜艇。输出推力大致相当于一个100kW引擎的推力。</entitydescription.ekdockyard_newthrusterengine_fixedtiny100>
   <entityname.ekdockyard_newthrusterforcer_tiny_100>ekdockyard_newthrusterforcer_tiny_100</entityname.ekdockyard_newthrusterforcer_tiny_100>
   <entitydescription.ekdockyard_newthrusterforcer_tiny_100></entitydescription.ekdockyard_newthrusterforcer_tiny_100>
-  <entityname.ekdockyard_newthrusterengine_fixedsmall300>Fixed Thruster C 03</entityname.ekdockyard_newthrusterengine_fixedsmall300>
-  <entitydescription.ekdockyard_newthrusterengine_fixedsmall300>Fixed-mount electrically driven thruster for manuvering the sub laterally. Output thrust is roughtly equivalent to that of a 300kW engine.</entitydescription.ekdockyard_newthrusterengine_fixedsmall300>
+  <entityname.ekdockyard_newthrusterengine_fixedsmall300>固定推进器 C 03</entityname.ekdockyard_newthrusterengine_fixedsmall300>
+  <entitydescription.ekdockyard_newthrusterengine_fixedsmall300>固定安装的电驱动推进器，用于侧向操纵潜艇。输出推力大致相当于一个300kW引擎的推力。</entitydescription.ekdockyard_newthrusterengine_fixedsmall300>
   <entityname.ekdockyard_newthrusterforcer_small_300>ekdockyard_newthrusterforcer_small_300</entityname.ekdockyard_newthrusterforcer_small_300>
   <entitydescription.ekdockyard_newthrusterforcer_small_300></entitydescription.ekdockyard_newthrusterforcer_small_300>
-  <entityname.ekdockyard_newthrusterengine_fixedsmall500>Fixed Thruster C 05</entityname.ekdockyard_newthrusterengine_fixedsmall500>
-  <entitydescription.ekdockyard_newthrusterengine_fixedsmall500>Fixed-mount electrically driven thruster for manuvering the sub laterally. Output thrust is roughtly equivalent to that of a 500kW engine.</entitydescription.ekdockyard_newthrusterengine_fixedsmall500>
+  <entityname.ekdockyard_newthrusterengine_fixedsmall500>固定推进器 C 05</entityname.ekdockyard_newthrusterengine_fixedsmall500>
+  <entitydescription.ekdockyard_newthrusterengine_fixedsmall500>固定安装的电驱动推进器，用于侧向操纵潜艇。输出推力大致相当于一个500kW引擎的推力。</entitydescription.ekdockyard_newthrusterengine_fixedsmall500>
   <entityname.ekdockyard_newthrusterforcer_small_500>ekdockyard_newthrusterforcer_small_500</entityname.ekdockyard_newthrusterforcer_small_500>
   <entitydescription.ekdockyard_newthrusterforcer_small_500></entitydescription.ekdockyard_newthrusterforcer_small_500>
-  <entityname.ekdockyard_newthrusterengine_fixedmedium500>Fixed Thruster D 05</entityname.ekdockyard_newthrusterengine_fixedmedium500>
-  <entitydescription.ekdockyard_newthrusterengine_fixedmedium500>Fixed-mount electrically driven thruster for manuvering the sub laterally. Output thrust is roughtly equivalent to that of a 500kW engine.</entitydescription.ekdockyard_newthrusterengine_fixedmedium500>
+  <entityname.ekdockyard_newthrusterengine_fixedmedium500>固定推进器 D 05</entityname.ekdockyard_newthrusterengine_fixedmedium500>
+  <entitydescription.ekdockyard_newthrusterengine_fixedmedium500>固定安装的电驱动推进器，用于侧向操纵潜艇。输出推力大致相当于一个500kW引擎的推力。</entitydescription.ekdockyard_newthrusterengine_fixedmedium500>
   <entityname.ekdockyard_newthrusterforcer_medium_500>ekdockyard_newthrusterforcer_medium_500</entityname.ekdockyard_newthrusterforcer_medium_500>
   <entitydescription.ekdockyard_newthrusterforcer_medium_500></entitydescription.ekdockyard_newthrusterforcer_medium_500>
-  <entityname.ekdockyard_newthrusterengine_fixedmedium1000>Fixed Thruster D 10</entityname.ekdockyard_newthrusterengine_fixedmedium1000>
-  <entitydescription.ekdockyard_newthrusterengine_fixedmedium1000>Fixed-mount electrically driven thruster for manuvering the sub laterally. Output thrust is roughtly equivalent to that of a 1000kW engine.</entitydescription.ekdockyard_newthrusterengine_fixedmedium1000>
+  <entityname.ekdockyard_newthrusterengine_fixedmedium1000>固定推进器 D 10</entityname.ekdockyard_newthrusterengine_fixedmedium1000>
+  <entitydescription.ekdockyard_newthrusterengine_fixedmedium1000>固定安装的电驱动推进器，用于侧向操纵潜艇。输出推力大致相当于一个1000kW引擎的推力。</entitydescription.ekdockyard_newthrusterengine_fixedmedium1000>
   <entityname.ekdockyard_newthrusterforcer_medium_1000>ekdockyard_newthrusterforcer_medium_1000</entityname.ekdockyard_newthrusterforcer_medium_1000>
   <entitydescription.ekdockyard_newthrusterforcer_medium_1000></entitydescription.ekdockyard_newthrusterforcer_medium_1000>
-  <entityname.ekdockyard_newthrusterengine_fixedmedium2000>Fixed Thruster D 20</entityname.ekdockyard_newthrusterengine_fixedmedium2000>
-  <entitydescription.ekdockyard_newthrusterengine_fixedmedium2000>Fixed-mount electrically driven thruster for manuvering the sub laterally. Output thrust is roughtly equivalent to that of a 2000kW engine.</entitydescription.ekdockyard_newthrusterengine_fixedmedium2000>
+  <entityname.ekdockyard_newthrusterengine_fixedmedium2000>固定推进器 D 20</entityname.ekdockyard_newthrusterengine_fixedmedium2000>
+  <entitydescription.ekdockyard_newthrusterengine_fixedmedium2000>固定安装的电驱动推进器，用于侧向操纵潜艇。输出推力大致相当于一个2000kW引擎的推力。</entitydescription.ekdockyard_newthrusterengine_fixedmedium2000>
   <entityname.ekdockyard_newthrusterforcer_medium_2000>ekdockyard_newthrusterforcer_medium_2000</entityname.ekdockyard_newthrusterforcer_medium_2000>
   <entitydescription.ekdockyard_newthrusterforcer_medium_2000></entitydescription.ekdockyard_newthrusterforcer_medium_2000>
-  <entityname.ekdockyard_newthrusterengine_fixedmediumalt300>Fixed Thruster E 03</entityname.ekdockyard_newthrusterengine_fixedmediumalt300>
-  <entitydescription.ekdockyard_newthrusterengine_fixedmediumalt300>Fixed-mount electrically driven thruster for manuvering the sub laterally. Output thrust is roughtly equivalent to that of a 300kW engine.</entitydescription.ekdockyard_newthrusterengine_fixedmediumalt300>
+  <entityname.ekdockyard_newthrusterengine_fixedmediumalt300>固定推进器 E 03</entityname.ekdockyard_newthrusterengine_fixedmediumalt300>
+  <entitydescription.ekdockyard_newthrusterengine_fixedmediumalt300>固定安装的电驱动推进器，用于侧向操纵潜艇。输出推力大致相当于一个300kW引擎的推力。</entitydescription.ekdockyard_newthrusterengine_fixedmediumalt300>
   <entityname.ekdockyard_newthrusterforcer_mediumalt_300>ekdockyard_newthrusterforcer_mediumalt_300</entityname.ekdockyard_newthrusterforcer_mediumalt_300>
   <entitydescription.ekdockyard_newthrusterforcer_mediumalt_300></entitydescription.ekdockyard_newthrusterforcer_mediumalt_300>
-  <entityname.ekdockyard_newthrusterengine_fixedmediumalt500>Fixed Thruster E 05</entityname.ekdockyard_newthrusterengine_fixedmediumalt500>
-  <entitydescription.ekdockyard_newthrusterengine_fixedmediumalt500>Fixed-mount electrically driven thruster for manuvering the sub laterally. Output thrust is roughtly equivalent to that of a 500kW engine.</entitydescription.ekdockyard_newthrusterengine_fixedmediumalt500>
+  <entityname.ekdockyard_newthrusterengine_fixedmediumalt500>固定推进器 E 05</entityname.ekdockyard_newthrusterengine_fixedmediumalt500>
+  <entitydescription.ekdockyard_newthrusterengine_fixedmediumalt500>固定安装的电驱动推进器，用于侧向操纵潜艇。输出推力大致相当于一个500kW引擎的推力。</entitydescription.ekdockyard_newthrusterengine_fixedmediumalt500>
   <entityname.ekdockyard_newthrusterforcer_mediumalt_500>ekdockyard_newthrusterforcer_mediumalt_500</entityname.ekdockyard_newthrusterforcer_mediumalt_500>
   <entitydescription.ekdockyard_newthrusterforcer_mediumalt_500></entitydescription.ekdockyard_newthrusterforcer_mediumalt_500>
   <!-- thruster_engines_legacy.xml -->
@@ -540,32 +566,35 @@
   <entityname.ekdockyard_customenvironmentsounds_thunder2large>Env Sound Thunder</entityname.ekdockyard_customenvironmentsounds_thunder2large>
   <entitydescription.ekdockyard_customenvironmentsounds_thunder2large>Distant Thunder (large)</entitydescription.ekdockyard_customenvironmentsounds_thunder2large>
   <!-- generator.xml -->
-  <entityname.ekdockyard_reactor_mini>Nuclear Reactor (Mini)</entityname.ekdockyard_reactor_mini>
-  <entitydescription.ekdockyard_reactor_mini>Usable device for generating electrical power. A successfull miniaturization of small-modular-reactor architecture， compact enough to see use on some shuttle craft for extended range.</entitydescription.ekdockyard_reactor_mini>
-  <entityname.ekdockyard_reactor_small>Nuclear Reactor (Small)</entityname.ekdockyard_reactor_small>
-  <entitydescription.ekdockyard_reactor_small>Usable device for generating electrical power. An undersized reactor unit for vessels with lower power requirements.</entitydescription.ekdockyard_reactor_small>
-  <entityname.ekdockyard_reactorslow_small>Slow Nuclear Reactor (Small)</entityname.ekdockyard_reactorslow_small>
-  <entitydescription.ekdockyard_reactorslow_small>Nuclear power generation design which is designed for high-mass reaction and efficient usage of fuel at sub-critical levels.</entitydescription.ekdockyard_reactorslow_small>
-  <entityname.ekdockyard_generatorfuel>烃基燃料</entityname.ekdockyard_generatorfuel>
-  <entitydescription.ekdockyard_generatorfuel>柴油发电机使用的烃基燃料</entitydescription.ekdockyard_generatorfuel>
-  <entityname.ekdockyard_generatordiesel_large>柴油发电机 (大)</entityname.ekdockyard_generatordiesel_large>
-  <entitydescription.ekdockyard_generatordiesel_large></entitydescription.ekdockyard_generatordiesel_large>
-  <entityname.ekdockyard_generatordiesel_medium>柴油发电机 (中)</entityname.ekdockyard_generatordiesel_medium>
-  <entitydescription.ekdockyard_generatordiesel_medium></entitydescription.ekdockyard_generatordiesel_medium>
-  <entityname.ekdockyard_generatordiesel_small>柴油发电机 (小)</entityname.ekdockyard_generatordiesel_small>
-  <entitydescription.ekdockyard_generatordiesel_small></entitydescription.ekdockyard_generatordiesel_small>
-  <entityname.ekdockyard_fusionsmall_aftereffectemitter>ekdockyard_fusionsmall_aftereffectemitter</entityname.ekdockyard_fusionsmall_aftereffectemitter>
-  <entitydescription.ekdockyard_fusionsmall_aftereffectemitter></entitydescription.ekdockyard_fusionsmall_aftereffectemitter>
+  <entityname.ekdockyard_reactor_mini>核反应堆（微型）</entityname.ekdockyard_reactor_mini>
+  <entitydescription.ekdockyard_reactor_mini>可用的发电设备。成功将小型模块化反应堆结构微型化，使其紧凑到可以在一些穿梭艇上使用，以提高其航程。</entitydescription.ekdockyard_reactor_mini>
+  <entityname.ekdockyard_reactor_small>核反应堆（小）</entityname.ekdockyard_reactor_small>
+  <entitydescription.ekdockyard_reactor_small>可用的发电设备。用于功率要求较低的船只的小型反应堆。</entitydescription.ekdockyard_reactor_small>
+  <entityname.ekdockyard_reactorslow_small>慢速核反应堆（小）</entityname.ekdockyard_reactorslow_small>
+  <entitydescription.ekdockyard_reactorslow_small>其核能发电的设计，是为了在亚临界水平上进行大规模反应的同时，更有效地利用燃料。</entitydescription.ekdockyard_reactorslow_small>
+  <entityname.ekdockyard_generatorfuel>生物柴油</entityname.ekdockyard_generatorfuel>
+  <displayname.ekdockyard_generatorfuel_empty>生物柴油（空）</displayname.ekdockyard_generatorfuel_empty>
+  <entitydescription.ekdockyard_generatorfuel>柴油发电机使用的烃基燃料。</entitydescription.ekdockyard_generatorfuel>
+  <entityname.ekdockyard_generatordiesel_large>柴油发电机（大）</entityname.ekdockyard_generatordiesel_large>
+  <entitydescription.ekdockyard_generatordiesel_large>通过化学燃烧产生的动能发电。</entitydescription.ekdockyard_generatordiesel_large>
+  <entityname.ekdockyard_generatordiesel_medium>柴油发电机（中）</entityname.ekdockyard_generatordiesel_medium>
+  <entitydescription.ekdockyard_generatordiesel_medium>通过化学燃烧产生的动能发电。</entitydescription.ekdockyard_generatordiesel_medium>
+  <entityname.ekdockyard_generatordiesel_small>柴油发电机（小）</entityname.ekdockyard_generatordiesel_small>
+  <entitydescription.ekdockyard_generatordiesel_small>通过化学燃烧产生的动能发电。</entitydescription.ekdockyard_generatordiesel_small>
   <entityname.ekdockyard_fusionfuel_tritiumdeuterium>聚变燃料（氚-氘）</entityname.ekdockyard_fusionfuel_tritiumdeuterium>
-  <entitydescription.ekdockyard_fusionfuel_tritiumdeuterium>传统的聚变材料.然而，由于庞大的群体资源需求，在工业规模上生产可行的氚-氘燃料仍然是非常昂贵的.</entitydescription.ekdockyard_fusionfuel_tritiumdeuterium>
-  <entityname.ekdockyard_fusionfuel_oxygenite>聚变燃料 (氧矿)</entityname.ekdockyard_fusionfuel_oxygenite>
-  <entitydescription.ekdockyard_fusionfuel_oxygenite>加压的氧矿蒸汽和锂粉尘的混合物.该工艺利用了氧矿独特的物理性质，生产出易于聚变的燃料，但有效输出相对较低.</entitydescription.ekdockyard_fusionfuel_oxygenite>
-  <entityname.ekdockyard_fusionfuel_helium3>聚变燃料 (氦-3)</entityname.ekdockyard_fusionfuel_helium3>
-  <entitydescription.ekdockyard_fusionfuel_helium3>一种自然出现但分布地分散的聚变物质.有时与其他放射性矿物一起出现在大矿脉中，或是在冰冷的小行星中，使其直到最近才成为相对容易的燃料来源.</entitydescription.ekdockyard_fusionfuel_helium3>
-  <entityname.ekdockyard_fusionfuel_aliencell>聚变燃料 (外星人核心)</entityname.ekdockyard_fusionfuel_aliencell>
-  <entitydescription.ekdockyard_fusionfuel_aliencell>由一个外星核心供能的实验性聚变材料. 能够提供非常强劲的能源， 但具体的工作原理仍不清楚.</entitydescription.ekdockyard_fusionfuel_aliencell>
-  <entityname.ekdockyard_reactorfusion_small>聚变反应堆 (小)</entityname.ekdockyard_reactorfusion_small>
-  <entitydescription.ekdockyard_reactorfusion_small>使用环状托卡马克装置的小型磁约束聚变反应堆. 可以使用多种聚变燃料.</entitydescription.ekdockyard_reactorfusion_small>
+  <entitydescription.ekdockyard_fusionfuel_tritiumdeuterium>早于殖民地就存在的常规可聚变材料。然而，介于殖民地规模庞大的资源需求，即使是通过工业规模生产出的可用氚-氘燃料仍然非常昂贵。</entitydescription.ekdockyard_fusionfuel_tritiumdeuterium>
+  <entityname.ekdockyard_fusionfuel_oxygenite>聚变燃料（氧矿）</entityname.ekdockyard_fusionfuel_oxygenite>
+  <entitydescription.ekdockyard_fusionfuel_oxygenite>加压液氧蒸气和锂粉的混合物。这个过程利用了氧矿独特的超自然特性，从而制造出了一种更容易聚变，但有效输出相对较低的燃料。</entitydescription.ekdockyard_fusionfuel_oxygenite>
+  <entityname.ekdockyard_fusionfuel_helium3>聚变燃料（氦-3）</entityname.ekdockyard_fusionfuel_helium3>
+  <entitydescription.ekdockyard_fusionfuel_helium3>一种天然存在但分布密度低的聚变材料。有时会在大型矿脉中与其他放射性矿物一起被发现，又或者能在冰冷的小行星上被找到，这使其成为相对容易获得的燃料来源--直到最近发生的事改变了一切。</entitydescription.ekdockyard_fusionfuel_helium3>
+  <entityname.ekdockyard_fusionfuel_aliencell>聚变燃料（异星电池）</entityname.ekdockyard_fusionfuel_aliencell>
+  <entitydescription.ekdockyard_fusionfuel_aliencell>由异星电池驱动的实验性聚变材料。其聚变反应能产生非常澎湃的能源，但具体工作原理尚不明了.</entitydescription.ekdockyard_fusionfuel_aliencell>
+  <entityname.ekdockyard_reactorfusion_small>聚变反应堆（小）</entityname.ekdockyard_reactorfusion_small>
+  <entitydescription.ekdockyard_reactorfusion_small>采用球形托卡马克构型的微型磁约束核聚变反应堆。能够使用各式聚变燃料。</entitydescription.ekdockyard_reactorfusion_small>
+  <entityname.ekdockyard_reactorfusion_medium>聚变反应堆（中）</entityname.ekdockyard_reactorfusion_medium>
+  <entitydescription.ekdockyard_reactorfusion_medium>紧凑的仿星器式核聚变反应器，其使粒子沿着曲状通路循环以提高稳定性。能够使用各式聚变燃料。</entitydescription.ekdockyard_reactorfusion_medium>
+  <entityname.ekdockyard_rtg_small>辐射-热能发电机（小）</entityname.ekdockyard_rtg_small>
+  <entitydescription.ekdockyard_rtg_small>从放射性衰变中产出少量的能量。介于其高可靠性，有时被会用作无人机和紧急穿梭机的动力源。</entitydescription.ekdockyard_rtg_small>
   <!-- dynamic_fins.xml -->
   <entityname.ekdockyard_dynamicfinvanilla1>动力鳍 1A</entityname.ekdockyard_dynamicfinvanilla1>
   <entitydescription.ekdockyard_dynamicfinvanilla1></entitydescription.ekdockyard_dynamicfinvanilla1>
@@ -611,15 +640,15 @@
   <entityname.ekdockyard_pumpfloor1>Small Floor Pump</entityname.ekdockyard_pumpfloor1>
   <entitydescription.ekdockyard_pumpfloor1>Small pump recessed into the floor for easy drainage.</entitydescription.ekdockyard_pumpfloor1>
   <!-- searchlight_custom -->
-  <entityname.ekdockyard_searchlightwide>探照灯 (广角)</entityname.ekdockyard_searchlightwide>
+  <entityname.ekdockyard_searchlightwide>探照灯（广角）</entityname.ekdockyard_searchlightwide>
   <entitydescription.ekdockyard_searchlightwide></entitydescription.ekdockyard_searchlightwide>
-  <entityname.ekdockyard_searchlighthuge>探照灯 (甚广角)</entityname.ekdockyard_searchlighthuge>
+  <entityname.ekdockyard_searchlighthuge>探照灯（超广角）</entityname.ekdockyard_searchlighthuge>
   <entitydescription.ekdockyard_searchlighthuge></entitydescription.ekdockyard_searchlighthuge>
   <entityname.ekdockyard_fixedsearchlight>探照灯</entityname.ekdockyard_fixedsearchlight>
   <entitydescription.ekdockyard_fixedsearchlight></entitydescription.ekdockyard_fixedsearchlight>
-  <entityname.ekdockyard_fixedsearchlightwide>探照灯 (广角)</entityname.ekdockyard_fixedsearchlightwide>
+  <entityname.ekdockyard_fixedsearchlightwide>探照灯（广角）</entityname.ekdockyard_fixedsearchlightwide>
   <entitydescription.ekdockyard_fixedsearchlightwide></entitydescription.ekdockyard_fixedsearchlightwide>
-  <entityname.ekdockyard_fixedsearchlighthuge>探照灯 (甚广角)</entityname.ekdockyard_fixedsearchlighthuge>
+  <entityname.ekdockyard_fixedsearchlighthuge>探照灯（超广角）</entityname.ekdockyard_fixedsearchlighthuge>
   <entitydescription.ekdockyard_fixedsearchlighthuge></entitydescription.ekdockyard_fixedsearchlighthuge>
   <!-- customitems_natureprops -->
   <entityname.ekdockyard_biomeice_walledgechunks1>Ice Rock</entityname.ekdockyard_biomeice_walledgechunks1>
@@ -659,8 +688,288 @@
   <entityname.ekdockyard_biomeaphotic_levelobjects2>Aphotic Cluster 2</entityname.ekdockyard_biomeaphotic_levelobjects2>
   <entitydescription.ekdockyard_biomeaphotic_levelobjects2>Use condition to change between sprites</entitydescription.ekdockyard_biomeaphotic_levelobjects2>
   <!-- customstructures_glass -->
+  <entityname.ekdockyard_legacyglassshell_horiz>Legacy Shell Glass Horizontal</entityname.ekdockyard_legacyglassshell_horiz>
+  <entitydescription.ekdockyard_legacyglassshell_horiz>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_horiz>
+  <entityname.ekdockyard_legacyglassshell_vert>Legacy Shell Glass Vertical</entityname.ekdockyard_legacyglassshell_vert>
+  <entitydescription.ekdockyard_legacyglassshell_vert>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_vert>
+  <entityname.ekdockyard_legacyglassshell_quarterverysmall>Legacy Shell Glass 45</entityname.ekdockyard_legacyglassshell_quarterverysmall>
+  <entitydescription.ekdockyard_legacyglassshell_quarterverysmall>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_quarterverysmall>
+  <entityname.ekdockyard_legacyglassshell_quartersmall>Legacy Shell Glass 45</entityname.ekdockyard_legacyglassshell_quartersmall>
+  <entitydescription.ekdockyard_legacyglassshell_quartersmall>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_quartersmall>
+  <entityname.ekdockyard_legacyglassshell_quarter>Legacy Shell Glass 45</entityname.ekdockyard_legacyglassshell_quarter>
+  <entitydescription.ekdockyard_legacyglassshell_quarter>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_quarter>
+  <entityname.ekdockyard_legacyglassshell_eighthsmall1>Legacy Shell Glass 30</entityname.ekdockyard_legacyglassshell_eighthsmall1>
+  <entitydescription.ekdockyard_legacyglassshell_eighthsmall1>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_eighthsmall1>
+  <entityname.ekdockyard_legacyglassshell_eighthsmall2>Legacy Shell Glass 60</entityname.ekdockyard_legacyglassshell_eighthsmall2>
+  <entitydescription.ekdockyard_legacyglassshell_eighthsmall2>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_eighthsmall2>
+  <entityname.ekdockyard_legacyglassshell_curve20>Legacy Shell Glass 20</entityname.ekdockyard_legacyglassshell_curve20>
+  <entitydescription.ekdockyard_legacyglassshell_curve20>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_curve20>
+  <entityname.ekdockyard_legacyglassshell_curve70>Legacy Shell Glass 70</entityname.ekdockyard_legacyglassshell_curve70>
+  <entitydescription.ekdockyard_legacyglassshell_curve70>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_curve70>
+  <entityname.ekdockyard_legacyglassshell_diag1>Legacy Glass 45</entityname.ekdockyard_legacyglassshell_diag1>
+  <entitydescription.ekdockyard_legacyglassshell_diag1>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_diag1>
+  <entityname.ekdockyard_legacyglassshell_diag2>Legacy Glass 45</entityname.ekdockyard_legacyglassshell_diag2>
+  <entitydescription.ekdockyard_legacyglassshell_diag2>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_diag2>
+  <entityname.ekdockyard_legacyglassshell_diag3>Legacy Glass 45</entityname.ekdockyard_legacyglassshell_diag3>
+  <entitydescription.ekdockyard_legacyglassshell_diag3>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_diag3>
+  <entityname.ekdockyard_legacyglassshell_diag1b>Legacy Glass 45</entityname.ekdockyard_legacyglassshell_diag1b>
+  <entitydescription.ekdockyard_legacyglassshell_diag1b>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_diag1b>
+  <entityname.ekdockyard_legacyglassshell_diag2b>Legacy Glass 45</entityname.ekdockyard_legacyglassshell_diag2b>
+  <entitydescription.ekdockyard_legacyglassshell_diag2b>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_diag2b>
+  <entityname.ekdockyard_legacyglassshell_diag3b>Legacy Glass 45</entityname.ekdockyard_legacyglassshell_diag3b>
+  <entitydescription.ekdockyard_legacyglassshell_diag3b>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_diag3b>
+  <entityname.ekdockyard_legacyglassshell_straight20>Legacy Glass 20</entityname.ekdockyard_legacyglassshell_straight20>
+  <entitydescription.ekdockyard_legacyglassshell_straight20>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_straight20>
+  <entityname.ekdockyard_legacyglassshell_straight20b>Legacy Glass 20</entityname.ekdockyard_legacyglassshell_straight20b>
+  <entitydescription.ekdockyard_legacyglassshell_straight20b>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_straight20b>
+  <entityname.ekdockyard_legacyglassshell_straight70>Legacy Glass 70</entityname.ekdockyard_legacyglassshell_straight70>
+  <entitydescription.ekdockyard_legacyglassshell_straight70>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_straight70>
+  <entityname.ekdockyard_legacyglassshell_straight70b>Legacy Glass 70</entityname.ekdockyard_legacyglassshell_straight70b>
+  <entitydescription.ekdockyard_legacyglassshell_straight70b>Pressure-rated glass wall</entitydescription.ekdockyard_legacyglassshell_straight70b>
+  <entityname.ekdockyard_vanillaglassshell_horiz>Legacy Shell Glass Horizontal</entityname.ekdockyard_vanillaglassshell_horiz>
+  <entitydescription.ekdockyard_vanillaglassshell_horiz>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_horiz>
+  <entityname.ekdockyard_vanillaglassshell_vert>Legacy Shell Glass Vertical</entityname.ekdockyard_vanillaglassshell_vert>
+  <entitydescription.ekdockyard_vanillaglassshell_vert>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_vert>
+  <entityname.ekdockyard_vanillaglassshell_quarterverysmall>Legacy Shell Glass 45</entityname.ekdockyard_vanillaglassshell_quarterverysmall>
+  <entitydescription.ekdockyard_vanillaglassshell_quarterverysmall>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_quarterverysmall>
+  <entityname.ekdockyard_vanillaglassshell_quartersmall>Legacy Shell Glass 45</entityname.ekdockyard_vanillaglassshell_quartersmall>
+  <entitydescription.ekdockyard_vanillaglassshell_quartersmall>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_quartersmall>
+  <entityname.ekdockyard_vanillaglassshell_quarter>Legacy Shell Glass 45</entityname.ekdockyard_vanillaglassshell_quarter>
+  <entitydescription.ekdockyard_vanillaglassshell_quarter>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_quarter>
+  <entityname.ekdockyard_vanillaglassshell_eighthsmall1>Legacy Shell Glass 30</entityname.ekdockyard_vanillaglassshell_eighthsmall1>
+  <entitydescription.ekdockyard_vanillaglassshell_eighthsmall1>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_eighthsmall1>
+  <entityname.ekdockyard_vanillaglassshell_eighthsmall2>Legacy Shell Glass 60</entityname.ekdockyard_vanillaglassshell_eighthsmall2>
+  <entitydescription.ekdockyard_vanillaglassshell_eighthsmall2>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_eighthsmall2>
+  <entityname.ekdockyard_vanillaglassshell_curve20>Legacy Shell Glass 20</entityname.ekdockyard_vanillaglassshell_curve20>
+  <entitydescription.ekdockyard_vanillaglassshell_curve20>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_curve20>
+  <entityname.ekdockyard_vanillaglassshell_curve70>Legacy Shell Glass 70</entityname.ekdockyard_vanillaglassshell_curve70>
+  <entitydescription.ekdockyard_vanillaglassshell_curve70>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_curve70>
+  <entityname.ekdockyard_vanillaglassshell_diag1>Legacy Glass 45</entityname.ekdockyard_vanillaglassshell_diag1>
+  <entitydescription.ekdockyard_vanillaglassshell_diag1>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_diag1>
+  <entityname.ekdockyard_vanillaglassshell_diag2>Legacy Glass 45</entityname.ekdockyard_vanillaglassshell_diag2>
+  <entitydescription.ekdockyard_vanillaglassshell_diag2>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_diag2>
+  <entityname.ekdockyard_vanillaglassshell_diag3>Legacy Glass 45</entityname.ekdockyard_vanillaglassshell_diag3>
+  <entitydescription.ekdockyard_vanillaglassshell_diag3>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_diag3>
+  <entityname.ekdockyard_vanillaglassshell_diag1b>Legacy Glass 45</entityname.ekdockyard_vanillaglassshell_diag1b>
+  <entitydescription.ekdockyard_vanillaglassshell_diag1b>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_diag1b>
+  <entityname.ekdockyard_vanillaglassshell_diag2b>Legacy Glass 45</entityname.ekdockyard_vanillaglassshell_diag2b>
+  <entitydescription.ekdockyard_vanillaglassshell_diag2b>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_diag2b>
+  <entityname.ekdockyard_vanillaglassshell_diag3b>Legacy Glass 45</entityname.ekdockyard_vanillaglassshell_diag3b>
+  <entitydescription.ekdockyard_vanillaglassshell_diag3b>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_diag3b>
+  <entityname.ekdockyard_vanillaglassshell_straight20>Legacy Glass 20</entityname.ekdockyard_vanillaglassshell_straight20>
+  <entitydescription.ekdockyard_vanillaglassshell_straight20>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_straight20>
+  <entityname.ekdockyard_vanillaglassshell_straight20b>Legacy Glass 20</entityname.ekdockyard_vanillaglassshell_straight20b>
+  <entitydescription.ekdockyard_vanillaglassshell_straight20b>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_straight20b>
+  <entityname.ekdockyard_vanillaglassshell_straight70>Legacy Glass 70</entityname.ekdockyard_vanillaglassshell_straight70>
+  <entitydescription.ekdockyard_vanillaglassshell_straight70>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_straight70>
+  <entityname.ekdockyard_vanillaglassshell_straight70b>Legacy Glass 70</entityname.ekdockyard_vanillaglassshell_straight70b>
+  <entitydescription.ekdockyard_vanillaglassshell_straight70b>Pressure-rated glass wall</entitydescription.ekdockyard_vanillaglassshell_straight70b>
+  <entityname.ekdockyard_reinforcedglassdeco1_horiz>Shell Glass Decoration 1 Horizontal</entityname.ekdockyard_reinforcedglassdeco1_horiz>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_horiz>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_horiz>
+  <entityname.ekdockyard_reinforcedglassdeco2_horiz>Shell Glass Decoration 2 Horizontal</entityname.ekdockyard_reinforcedglassdeco2_horiz>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_horiz>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_horiz>
+  <entityname.ekdockyard_reinforcedglassdeco1_vert>Shell Glass Decoration 1 Vertical</entityname.ekdockyard_reinforcedglassdeco1_vert>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_vert>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_vert>
+  <entityname.ekdockyard_reinforcedglassdeco2_vert>Shell Glass Decoration 2 Vertical</entityname.ekdockyard_reinforcedglassdeco2_vert>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_vert>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_vert>
+  <entityname.ekdockyard_reinforcedglassdeco1_quarter>Shell Glass Decoration 1 Curve</entityname.ekdockyard_reinforcedglassdeco1_quarter>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_quarter>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_quarter>
+  <entityname.ekdockyard_reinforcedglassdeco2_quarter>Shell Glass Decoration 2 Curve</entityname.ekdockyard_reinforcedglassdeco2_quarter>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_quarter>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_quarter>
+  <entityname.ekdockyard_reinforcedglassdeco1_quartersmall>Shell Glass Decoration 1 Curve</entityname.ekdockyard_reinforcedglassdeco1_quartersmall>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_quartersmall>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_quartersmall>
+  <entityname.ekdockyard_reinforcedglassdeco2_quartersmall>Shell Glass Decoration 2 Curve</entityname.ekdockyard_reinforcedglassdeco2_quartersmall>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_quartersmall>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_quartersmall>
+  <entityname.ekdockyard_reinforcedglassdeco1_quarterverysmall>Shell Glass Decoration 1 Curve</entityname.ekdockyard_reinforcedglassdeco1_quarterverysmall>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_quarterverysmall>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_quarterverysmall>
+  <entityname.ekdockyard_reinforcedglassdeco2_quarterverysmall>Shell Glass Decoration 2 Curve</entityname.ekdockyard_reinforcedglassdeco2_quarterverysmall>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_quarterverysmall>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_quarterverysmall>
+  <entityname.ekdockyard_reinforcedglassdeco1_eighthsmall1>Shell Glass Decoration 1 Curve</entityname.ekdockyard_reinforcedglassdeco1_eighthsmall1>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_eighthsmall1>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_eighthsmall1>
+  <entityname.ekdockyard_reinforcedglassdeco1_eighthsmall2>Shell Glass Decoration 2 Curve</entityname.ekdockyard_reinforcedglassdeco1_eighthsmall2>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_eighthsmall2>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_eighthsmall2>
+  <entityname.ekdockyard_reinforcedglassdeco2_eighthsmall1>Shell Glass Decoration 1 Curve</entityname.ekdockyard_reinforcedglassdeco2_eighthsmall1>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_eighthsmall1>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_eighthsmall1>
+  <entityname.ekdockyard_reinforcedglassdeco2_eighthsmall2>Shell Glass Decoration 2 Curve</entityname.ekdockyard_reinforcedglassdeco2_eighthsmall2>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_eighthsmall2>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_eighthsmall2>
+  <entityname.ekdockyard_reinforcedglassdeco1_curve20>Shell Glass Decoration 1 Curve</entityname.ekdockyard_reinforcedglassdeco1_curve20>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_curve20>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_curve20>
+  <entityname.ekdockyard_reinforcedglassdeco2_curve20>Shell Glass Decoration 2 Curve</entityname.ekdockyard_reinforcedglassdeco2_curve20>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_curve20>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_curve20>
+  <entityname.ekdockyard_reinforcedglassdeco1_curve70>Shell Glass Decoration 1 Curve</entityname.ekdockyard_reinforcedglassdeco1_curve70>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_curve70>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_curve70>
+  <entityname.ekdockyard_reinforcedglassdeco2_curve70>Shell Glass Decoration 2 Curve</entityname.ekdockyard_reinforcedglassdeco2_curve70>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_curve70>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_curve70>
+  <entityname.ekdockyard_reinforcedglassdeco1_straight20>Shell Glass Decoration 1 Slope</entityname.ekdockyard_reinforcedglassdeco1_straight20>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_straight20>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_straight20>
+  <entityname.ekdockyard_reinforcedglassdeco2_straight20>Shell Glass Decoration 2 Slope</entityname.ekdockyard_reinforcedglassdeco2_straight20>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_straight20>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_straight20>
+  <entityname.ekdockyard_reinforcedglassdeco1_straight70>Shell Glass Decoration 1 Slope</entityname.ekdockyard_reinforcedglassdeco1_straight70>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_straight70>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_straight70>
+  <entityname.ekdockyard_reinforcedglassdeco2_straight70>Shell Glass Decoration 2 Slope</entityname.ekdockyard_reinforcedglassdeco2_straight70>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_straight70>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_straight70>
+  <entityname.ekdockyard_reinforcedglassdeco1_straight45>Shell Glass Decoration 1 Slope</entityname.ekdockyard_reinforcedglassdeco1_straight45>
+  <entitydescription.ekdockyard_reinforcedglassdeco1_straight45>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco1_straight45>
+  <entityname.ekdockyard_reinforcedglassdeco2_straight45>Shell Glass Decoration 2 Slope</entityname.ekdockyard_reinforcedglassdeco2_straight45>
+  <entitydescription.ekdockyard_reinforcedglassdeco2_straight45>Pressure-rated glass wall</entitydescription.ekdockyard_reinforcedglassdeco2_straight45>
   <!-- customstructures_interiorwall -->
+  <entityname.ekdockyard_largeinsidewall_horiz_style1>Large Horizontal Inside Wall</entityname.ekdockyard_largeinsidewall_horiz_style1>
+  <entitydescription.ekdockyard_largeinsidewall_horiz_style1></entitydescription.ekdockyard_largeinsidewall_horiz_style1>
+  <entityname.ekdockyard_largeinsidewall_horiz_style2>Large Horizontal Inside Wall</entityname.ekdockyard_largeinsidewall_horiz_style2>
+  <entitydescription.ekdockyard_largeinsidewall_horiz_style2></entitydescription.ekdockyard_largeinsidewall_horiz_style2>
+  <entityname.ekdockyard_largeinsidewall_horiz_style3>Large Horizontal Inside Wall</entityname.ekdockyard_largeinsidewall_horiz_style3>
+  <entitydescription.ekdockyard_largeinsidewall_horiz_style3></entitydescription.ekdockyard_largeinsidewall_horiz_style3>
+  <entityname.ekdockyard_largeinsidewall_horiz_style4>Large Horizontal Inside Wall</entityname.ekdockyard_largeinsidewall_horiz_style4>
+  <entitydescription.ekdockyard_largeinsidewall_horiz_style4></entitydescription.ekdockyard_largeinsidewall_horiz_style4>
+  <entityname.ekdockyard_largeinsidewall_horiz_style5>Large Horizontal Inside Wall</entityname.ekdockyard_largeinsidewall_horiz_style5>
+  <entitydescription.ekdockyard_largeinsidewall_horiz_style5></entitydescription.ekdockyard_largeinsidewall_horiz_style5>
+  <entityname.ekdockyard_largeinsidewall_vert_style1>Large Vertical Inside Wall</entityname.ekdockyard_largeinsidewall_vert_style1>
+  <entitydescription.ekdockyard_largeinsidewall_vert_style1></entitydescription.ekdockyard_largeinsidewall_vert_style1>
+  <entityname.ekdockyard_largeinsidewall_vert_style2>Large Vertical Inside Wall</entityname.ekdockyard_largeinsidewall_vert_style2>
+  <entitydescription.ekdockyard_largeinsidewall_vert_style2></entitydescription.ekdockyard_largeinsidewall_vert_style2>
+  <entityname.ekdockyard_largeinsidewall_vert_style3>Large Vertical Inside Wall</entityname.ekdockyard_largeinsidewall_vert_style3>
+  <entitydescription.ekdockyard_largeinsidewall_vert_style3></entitydescription.ekdockyard_largeinsidewall_vert_style3>
+  <entityname.ekdockyard_legacyheavywall_horiz_style1>Heavy Horizontal Wall</entityname.ekdockyard_legacyheavywall_horiz_style1>
+  <entitydescription.ekdockyard_legacyheavywall_horiz_style1></entitydescription.ekdockyard_legacyheavywall_horiz_style1>
+  <entityname.ekdockyard_legacyheavywall_horiz_style2>Heavy Horizontal Wall</entityname.ekdockyard_legacyheavywall_horiz_style2>
+  <entitydescription.ekdockyard_legacyheavywall_horiz_style2></entitydescription.ekdockyard_legacyheavywall_horiz_style2>
+  <entityname.ekdockyard_legacyheavywall_horiz_style3>Heavy Horizontal Wall</entityname.ekdockyard_legacyheavywall_horiz_style3>
+  <entitydescription.ekdockyard_legacyheavywall_horiz_style3></entitydescription.ekdockyard_legacyheavywall_horiz_style3>
+  <entityname.ekdockyard_legacyheavywall_horiz_style4>Heavy Horizontal Wall</entityname.ekdockyard_legacyheavywall_horiz_style4>
+  <entitydescription.ekdockyard_legacyheavywall_horiz_style4></entitydescription.ekdockyard_legacyheavywall_horiz_style4>
+  <entityname.ekdockyard_legacyheavywall_vert_style1>Heavy Vertical Wall</entityname.ekdockyard_legacyheavywall_vert_style1>
+  <entitydescription.ekdockyard_legacyheavywall_vert_style1></entitydescription.ekdockyard_legacyheavywall_vert_style1>
+  <entityname.ekdockyard_legacyheavywall_vert_style2>Heavy Vertical Wall</entityname.ekdockyard_legacyheavywall_vert_style2>
+  <entitydescription.ekdockyard_legacyheavywall_vert_style2></entitydescription.ekdockyard_legacyheavywall_vert_style2>
+  <entityname.ekdockyard_legacyheavywall_vert_style3>Heavy Vertical Wall</entityname.ekdockyard_legacyheavywall_vert_style3>
+  <entitydescription.ekdockyard_legacyheavywall_vert_style3></entitydescription.ekdockyard_legacyheavywall_vert_style3>
+  <entityname.ekdockyard_legacyheavywall_vert_style4>Heavy Vertical Wall</entityname.ekdockyard_legacyheavywall_vert_style4>
+  <entitydescription.ekdockyard_legacyheavywall_vert_style4></entitydescription.ekdockyard_legacyheavywall_vert_style4>
+  <entityname.ekdockyard_largeinsidewall_caph1>Large Inside Wall Cap</entityname.ekdockyard_largeinsidewall_caph1>
+  <entitydescription.ekdockyard_largeinsidewall_caph1></entitydescription.ekdockyard_largeinsidewall_caph1>
+  <entityname.ekdockyard_largeinsidewall_caph2>Large Inside Wall Cap</entityname.ekdockyard_largeinsidewall_caph2>
+  <entitydescription.ekdockyard_largeinsidewall_caph2></entitydescription.ekdockyard_largeinsidewall_caph2>
+  <entityname.ekdockyard_largeinsidewall_caph3>Large Inside Wall Cap</entityname.ekdockyard_largeinsidewall_caph3>
+  <entitydescription.ekdockyard_largeinsidewall_caph3></entitydescription.ekdockyard_largeinsidewall_caph3>
+  <entityname.ekdockyard_largeinsidewall_capy1>Large Inside Wall Cap</entityname.ekdockyard_largeinsidewall_capy1>
+  <entitydescription.ekdockyard_largeinsidewall_capy1></entitydescription.ekdockyard_largeinsidewall_capy1>
+  <entityname.ekdockyard_largeinsidewall_capy2>Large Inside Wall Cap</entityname.ekdockyard_largeinsidewall_capy2>
+  <entitydescription.ekdockyard_largeinsidewall_capy2></entitydescription.ekdockyard_largeinsidewall_capy2>
+  <entityname.ekdockyard_largeinsidewall_capy3>Large Inside Wall Cap</entityname.ekdockyard_largeinsidewall_capy3>
+  <entitydescription.ekdockyard_largeinsidewall_capy3></entitydescription.ekdockyard_largeinsidewall_capy3>
   <!-- customstructures_labels -->
+  <entityname.ekdockyard_labelsshapecircle>Label Shape Circle</entityname.ekdockyard_labelsshapecircle>
+  <entitydescription.ekdockyard_labelsshapecircle></entitydescription.ekdockyard_labelsshapecircle>
+  <entityname.ekdockyard_labelssmallshapecircle>Label Shape Circle</entityname.ekdockyard_labelssmallshapecircle>
+  <entitydescription.ekdockyard_labelssmallshapecircle></entitydescription.ekdockyard_labelssmallshapecircle>
+  <entityname.ekdockyard_labelsshapehex>Label Shape Hexagon</entityname.ekdockyard_labelsshapehex>
+  <entitydescription.ekdockyard_labelsshapehex></entitydescription.ekdockyard_labelsshapehex>
+  <entityname.ekdockyard_labelssmallshapehex>Label Shape Hexagon</entityname.ekdockyard_labelssmallshapehex>
+  <entitydescription.ekdockyard_labelssmallshapehex></entitydescription.ekdockyard_labelssmallshapehex>
+  <entityname.ekdockyard_labelsshapetri1>Label Shape Triangle</entityname.ekdockyard_labelsshapetri1>
+  <entitydescription.ekdockyard_labelsshapetri1></entitydescription.ekdockyard_labelsshapetri1>
+  <entityname.ekdockyard_labelssmallshapetri1>Label Shape Triangle</entityname.ekdockyard_labelssmallshapetri1>
+  <entitydescription.ekdockyard_labelssmallshapetri1></entitydescription.ekdockyard_labelssmallshapetri1>
+  <entityname.ekdockyard_labelsshapetri2>Label Shape Triangle</entityname.ekdockyard_labelsshapetri2>
+  <entitydescription.ekdockyard_labelsshapetri2></entitydescription.ekdockyard_labelsshapetri2>
+  <entityname.ekdockyard_labelssmallshapetri2>Label Shape Triangle</entityname.ekdockyard_labelssmallshapetri2>
+  <entitydescription.ekdockyard_labelssmallshapetri2></entitydescription.ekdockyard_labelssmallshapetri2>
+  <entityname.ekdockyard_labelsshapetri3>Label Shape Triangle</entityname.ekdockyard_labelsshapetri3>
+  <entitydescription.ekdockyard_labelsshapetri3></entitydescription.ekdockyard_labelsshapetri3>
+  <entityname.ekdockyard_labelssmallshapetri3>Label Shape Triangle</entityname.ekdockyard_labelssmallshapetri3>
+  <entitydescription.ekdockyard_labelssmallshapetri3></entitydescription.ekdockyard_labelssmallshapetri3>
+  <entityname.ekdockyard_labelsshapediamond>Label Shape Diamond</entityname.ekdockyard_labelsshapediamond>
+  <entitydescription.ekdockyard_labelsshapediamond></entitydescription.ekdockyard_labelsshapediamond>
+  <entityname.ekdockyard_labelssmallshapediamond>Label Shape Diamond</entityname.ekdockyard_labelssmallshapediamond>
+  <entitydescription.ekdockyard_labelssmallshapediamond></entitydescription.ekdockyard_labelssmallshapediamond>
+  <entityname.ekdockyard_labelspatternhazard>Label Pattern Hazardstripe</entityname.ekdockyard_labelspatternhazard>
+  <entitydescription.ekdockyard_labelspatternhazard></entitydescription.ekdockyard_labelspatternhazard>
+  <entityname.ekdockyard_labelssmallpatternhazard>Label Pattern Hazardstripe</entityname.ekdockyard_labelssmallpatternhazard>
+  <entitydescription.ekdockyard_labelssmallpatternhazard></entitydescription.ekdockyard_labelssmallpatternhazard>
+  <entityname.ekdockyard_labelspatterncheck>Label Pattern Checkerboard</entityname.ekdockyard_labelspatterncheck>
+  <entitydescription.ekdockyard_labelspatterncheck></entitydescription.ekdockyard_labelspatterncheck>
+  <entityname.ekdockyard_labelssmallpatterncheck>Label Pattern Checkerboard</entityname.ekdockyard_labelssmallpatterncheck>
+  <entitydescription.ekdockyard_labelssmallpatterncheck></entitydescription.ekdockyard_labelssmallpatterncheck>
+  <entityname.ekdockyard_labelsiconexclamation>Label Icon Exclamation</entityname.ekdockyard_labelsiconexclamation>
+  <entitydescription.ekdockyard_labelsiconexclamation></entitydescription.ekdockyard_labelsiconexclamation>
+  <entityname.ekdockyard_labelssmalliconexclamation>Label Icon Exclamation</entityname.ekdockyard_labelssmalliconexclamation>
+  <entitydescription.ekdockyard_labelssmalliconexclamation></entitydescription.ekdockyard_labelssmalliconexclamation>
+  <entityname.ekdockyard_labelsiconbiohazard>Label Icon Biohazard</entityname.ekdockyard_labelsiconbiohazard>
+  <entitydescription.ekdockyard_labelsiconbiohazard></entitydescription.ekdockyard_labelsiconbiohazard>
+  <entityname.ekdockyard_labelssmalliconbiohazard>Label Icon Biohazard</entityname.ekdockyard_labelssmalliconbiohazard>
+  <entitydescription.ekdockyard_labelssmalliconbiohazard></entitydescription.ekdockyard_labelssmalliconbiohazard>
+  <entityname.ekdockyard_labelsiconfire>Label Icon Fire</entityname.ekdockyard_labelsiconfire>
+  <entitydescription.ekdockyard_labelsiconfire></entitydescription.ekdockyard_labelsiconfire>
+  <entityname.ekdockyard_labelssmalliconfire>Label Icon Fire</entityname.ekdockyard_labelssmalliconfire>
+  <entitydescription.ekdockyard_labelssmalliconfire></entitydescription.ekdockyard_labelssmalliconfire>
+  <entityname.ekdockyard_labelsiconradioactive>Label Icon Radioactive</entityname.ekdockyard_labelsiconradioactive>
+  <entitydescription.ekdockyard_labelsiconradioactive></entitydescription.ekdockyard_labelsiconradioactive>
+  <entityname.ekdockyard_labelssmalliconradioactive>Label Icon Radioactive</entityname.ekdockyard_labelssmalliconradioactive>
+  <entitydescription.ekdockyard_labelssmalliconradioactive></entitydescription.ekdockyard_labelssmalliconradioactive>
+  <entityname.ekdockyard_labelsiconequipment>Label Icon Equipment</entityname.ekdockyard_labelsiconequipment>
+  <entitydescription.ekdockyard_labelsiconequipment></entitydescription.ekdockyard_labelsiconequipment>
+  <entityname.ekdockyard_labelssmalliconequipment>Label Icon Equipment</entityname.ekdockyard_labelssmalliconequipment>
+  <entitydescription.ekdockyard_labelssmalliconequipment></entitydescription.ekdockyard_labelssmalliconequipment>
+  <entityname.ekdockyard_labelsicontools>Label Icon Tools</entityname.ekdockyard_labelsicontools>
+  <entitydescription.ekdockyard_labelsicontools></entitydescription.ekdockyard_labelsicontools>
+  <entityname.ekdockyard_labelssmallicontools>Label Icon Tools</entityname.ekdockyard_labelssmallicontools>
+  <entitydescription.ekdockyard_labelssmallicontools></entitydescription.ekdockyard_labelssmallicontools>
+  <entityname.ekdockyard_labelsicontank>Label Icon Tank</entityname.ekdockyard_labelsicontank>
+  <entitydescription.ekdockyard_labelsicontank></entitydescription.ekdockyard_labelsicontank>
+  <entityname.ekdockyard_labelssmallicontank>Label Icon Tank</entityname.ekdockyard_labelssmallicontank>
+  <entitydescription.ekdockyard_labelssmallicontank></entitydescription.ekdockyard_labelssmallicontank>
+  <entityname.ekdockyard_labelsiconshell>Label Icon Shell</entityname.ekdockyard_labelsiconshell>
+  <entitydescription.ekdockyard_labelsiconshell></entitydescription.ekdockyard_labelsiconshell>
+  <entityname.ekdockyard_labelssmalliconshell>Label Icon Shell</entityname.ekdockyard_labelssmalliconshell>
+  <entitydescription.ekdockyard_labelssmalliconshell></entitydescription.ekdockyard_labelssmalliconshell>
+  <entityname.ekdockyard_labelsiconmagazine>Label Icon Magazine</entityname.ekdockyard_labelsiconmagazine>
+  <entitydescription.ekdockyard_labelsiconmagazine></entitydescription.ekdockyard_labelsiconmagazine>
+  <entityname.ekdockyard_labelssmalliconmagazine>Label Icon Magazine</entityname.ekdockyard_labelssmalliconmagazine>
+  <entitydescription.ekdockyard_labelssmalliconmagazine></entitydescription.ekdockyard_labelssmalliconmagazine>
+  <entityname.ekdockyard_labelsiconsubmarine>Label Icon Submarine</entityname.ekdockyard_labelsiconsubmarine>
+  <entitydescription.ekdockyard_labelsiconsubmarine></entitydescription.ekdockyard_labelsiconsubmarine>
+  <entityname.ekdockyard_labelssmalliconsubmarine>Label Icon Submarine</entityname.ekdockyard_labelssmalliconsubmarine>
+  <entitydescription.ekdockyard_labelssmalliconsubmarine></entitydescription.ekdockyard_labelssmalliconsubmarine>
+  <entityname.ekdockyard_labelsiconshuttle>Label Icon Shuttle</entityname.ekdockyard_labelsiconshuttle>
+  <entitydescription.ekdockyard_labelsiconshuttle></entitydescription.ekdockyard_labelsiconshuttle>
+  <entityname.ekdockyard_labelssmalliconshuttle>Label Icon Shuttle</entityname.ekdockyard_labelssmalliconshuttle>
+  <entitydescription.ekdockyard_labelssmalliconshuttle></entitydescription.ekdockyard_labelssmalliconshuttle>
   <!-- customstructures_naturalwall -->
+  <entityname.ekdockyard_biomeice_wall>Ice Wall</entityname.ekdockyard_biomeice_wall>
+  <entitydescription.ekdockyard_biomeice_wall></entitydescription.ekdockyard_biomeice_wall>
+  <entityname.ekdockyard_biomeice_wall90>Ice Wall 90 Degrees</entityname.ekdockyard_biomeice_wall90>
+  <entitydescription.ekdockyard_biomeice_wall90></entitydescription.ekdockyard_biomeice_wall90>
+  <entityname.ekdockyard_biomerock_wall>Cave Wall</entityname.ekdockyard_biomerock_wall>
+  <entitydescription.ekdockyard_biomerock_wall></entitydescription.ekdockyard_biomerock_wall>
+  <entityname.ekdockyard_biomerock_wall90>Cave Wall 90 Degrees</entityname.ekdockyard_biomerock_wall90>
+  <entitydescription.ekdockyard_biomerock_wall90></entitydescription.ekdockyard_biomerock_wall90>
+  <entityname.ekdockyard_biomemushroom_wall>Mushroom Wall</entityname.ekdockyard_biomemushroom_wall>
+  <entitydescription.ekdockyard_biomemushroom_wall></entitydescription.ekdockyard_biomemushroom_wall>
+  <entityname.ekdockyard_biomemushroom_wall90>Mushroom Wall 90 Degrees</entityname.ekdockyard_biomemushroom_wall90>
+  <entitydescription.ekdockyard_biomemushroom_wall90></entitydescription.ekdockyard_biomemushroom_wall90>
+  <entityname.ekdockyard_biomevolcanic_wall>Volcanic Wall</entityname.ekdockyard_biomevolcanic_wall>
+  <entitydescription.ekdockyard_biomevolcanic_wall></entitydescription.ekdockyard_biomevolcanic_wall>
+  <entityname.ekdockyard_biomevolcanic_wall90>Volcanic Wall 90 Degrees</entityname.ekdockyard_biomevolcanic_wall90>
+  <entitydescription.ekdockyard_biomevolcanic_wall90></entitydescription.ekdockyard_biomevolcanic_wall90>
+  <entityname.ekdockyard_biomeforest_wall>Forest Wall</entityname.ekdockyard_biomeforest_wall>
+  <entitydescription.ekdockyard_biomeforest_wall></entitydescription.ekdockyard_biomeforest_wall>
+  <entityname.ekdockyard_biomeforest_wall90>Forest Wall 90 Degrees</entityname.ekdockyard_biomeforest_wall90>
+  <entitydescription.ekdockyard_biomeforest_wall90></entitydescription.ekdockyard_biomeforest_wall90>
+  <entityname.ekdockyard_biomeaphotic_wall>Aphotic Wall</entityname.ekdockyard_biomeaphotic_wall>
+  <entitydescription.ekdockyard_biomeaphotic_wall></entitydescription.ekdockyard_biomeaphotic_wall>
+  <entityname.ekdockyard_biomeaphotic_wall90>Aphotic Wall 90 Degrees</entityname.ekdockyard_biomeaphotic_wall90>
+  <entitydescription.ekdockyard_biomeaphotic_wall90></entitydescription.ekdockyard_biomeaphotic_wall90>
   <!-- customstructures_shelldeco -->
+  <entityname.ekdockyard_shelldeco1a>Shell Deco 1A</entityname.ekdockyard_shelldeco1a>
+  <entitydescription.ekdockyard_shelldeco1a></entitydescription.ekdockyard_shelldeco1a>
+  <entityname.ekdockyard_shelldeco1a_solid>Shell Deco 1A (Solid)</entityname.ekdockyard_shelldeco1a_solid>
+  <entitydescription.ekdockyard_shelldeco1a_solid></entitydescription.ekdockyard_shelldeco1a_solid>
+  <entityname.ekdockyard_shelldeco1b>Shell Deco 1B</entityname.ekdockyard_shelldeco1b>
+  <entitydescription.ekdockyard_shelldeco1b></entitydescription.ekdockyard_shelldeco1b>
+  <entityname.ekdockyard_shelldeco1b_solid>Shell Deco 1B (Solid)</entityname.ekdockyard_shelldeco1b_solid>
+  <entitydescription.ekdockyard_shelldeco1b_solid></entitydescription.ekdockyard_shelldeco1b_solid>
+  <entityname.ekdockyard_shelldeco1c>Shell Deco 1C</entityname.ekdockyard_shelldeco1c>
+  <entitydescription.ekdockyard_shelldeco1c></entitydescription.ekdockyard_shelldeco1c>
+  <entityname.ekdockyard_shelldeco1c_solid>Shell Deco 1C (Solid)</entityname.ekdockyard_shelldeco1c_solid>
+  <entitydescription.ekdockyard_shelldeco1c_solid></entitydescription.ekdockyard_shelldeco1c_solid>
 </infotexts>
