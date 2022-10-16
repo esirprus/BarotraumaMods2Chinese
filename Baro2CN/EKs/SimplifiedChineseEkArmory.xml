@@ -22,46 +22,46 @@
   <entitydescription.ek_ammocrate_shotgun></entitydescription.ek_ammocrate_shotgun>
   <entityname.ek_ammocrate_microtorpedo>微型鱼雷箱</entityname.ek_ammocrate_microtorpedo>
   <entitydescription.ek_ammocrate_microtorpedo></entitydescription.ek_ammocrate_microtorpedo>
-  <entityname.ek_ammocrate_physicorium>刚素 弹药箱</entityname.ek_ammocrate_physicorium>
+  <entityname.ek_ammocrate_physicorium>刚素弹药箱</entityname.ek_ammocrate_physicorium>
   <entitydescription.ek_ammocrate_physicorium></entitydescription.ek_ammocrate_physicorium>
-  <entityname.ek_ammobox_shotgun_shells>12口径霰弹</entityname.ek_ammobox_shotgun_shells>
-  <entitydescription.ek_ammobox_shotgun_shells>霰弹枪散弹</entitydescription.ek_ammobox_shotgun_shells>
+  <entityname.ek_ammobox_shotgun_shells>12号口径霰弹</entityname.ek_ammobox_shotgun_shells>
+  <entitydescription.ek_ammobox_shotgun_shells>霰弹枪用鹿弹。</entitydescription.ek_ammobox_shotgun_shells>
   <entityname.ek_ammobox_shotgun_beanbag>豆袋弹</entityname.ek_ammobox_shotgun_beanbag>
-  <entitydescription.ek_ammobox_shotgun_beanbag>霰弹枪用豆袋弹。</entitydescription.ek_ammobox_shotgun_beanbag>
-  <entityname.ek_ammobox_shotgun_slug>独头弹</entityname.ek_ammobox_shotgun_slug>
-  <entitydescription.ek_ammobox_shotgun_slug>霰弹枪用独头弹，对有护甲目标有效。</entitydescription.ek_ammobox_shotgun_slug>
-  <entityname.ek_ammobox_shotgun_hollowpoint>空尖弹</entityname.ek_ammobox_shotgun_hollowpoint>
-  <entitydescription.ek_ammobox_shotgun_hollowpoint>霰弹枪用空尖弹，对无护甲目标有效。</entitydescription.ek_ammobox_shotgun_hollowpoint>
-  <entityname.ek_ammobox_shotgun_flechette>箭型弹</entityname.ek_ammobox_shotgun_flechette>
-  <entitydescription.ek_ammobox_shotgun_flechette>霰弹枪用箭型弹，对无护甲目标有效。</entitydescription.ek_ammobox_shotgun_flechette>
+  <entitydescription.ek_ammobox_shotgun_beanbag>霰弹枪用豆袋弹。内装单射弹，致命性低。</entitydescription.ek_ammobox_shotgun_beanbag>
+  <entityname.ek_ammobox_shotgun_slug>12号口径独头弹</entityname.ek_ammobox_shotgun_slug>
+  <entitydescription.ek_ammobox_shotgun_slug>霰弹枪用独头弹。内装单射弹，对有护甲目标有效。</entitydescription.ek_ammobox_shotgun_slug>
+  <entityname.ek_ammobox_shotgun_hollowpoint>12号口径空尖弹</entityname.ek_ammobox_shotgun_hollowpoint>
+  <entitydescription.ek_ammobox_shotgun_hollowpoint>霰弹枪用空尖独头弹。内装单射弹，对无护甲目标有效。</entitydescription.ek_ammobox_shotgun_hollowpoint>
+  <entityname.ek_ammobox_shotgun_flechette>箭形弹</entityname.ek_ammobox_shotgun_flechette>
+  <entitydescription.ek_ammobox_shotgun_flechette>霰弹枪用箭形弹。内装紧密排列的多组的金属射弹，对无护甲目标有效。。</entitydescription.ek_ammobox_shotgun_flechette>
   <entityname.ek_ammobox_shotgun_grenade>FRAG高爆霰弹</entityname.ek_ammobox_shotgun_grenade>
-  <entitydescription.ek_ammobox_shotgun_grenade>霰弹枪用FRAG高爆霰弹，击中目标后会发生爆炸。</entitydescription.ek_ammobox_shotgun_grenade>
+  <entitydescription.ek_ammobox_shotgun_grenade>霰弹枪用FRAG高爆霰弹。击中目标后爆炸。</entitydescription.ek_ammobox_shotgun_grenade>
   <entityname.ek_ammobox_shotgun_physicorium>刚素独头弹</entityname.ek_ammobox_shotgun_physicorium>
-  <entitydescription.ek_ammobox_shotgun_physicorium>霰弹枪用刚素独头弹，对有护甲目标有效。</entitydescription.ek_ammobox_shotgun_physicorium>
+  <entitydescription.ek_ammobox_shotgun_physicorium>霰弹枪用刚素独头弹。内装单射弹，对有护甲目标有效。</entitydescription.ek_ammobox_shotgun_physicorium>
   <entityname.ek_weaponparts>武器零件</entityname.ek_weaponparts>
   <entitydescription.ek_weaponparts>高精度机械零件，是大多数枪械的组成部分。</entitydescription.ek_weaponparts>
   <entityname.ek_loadingkit>装弹工具</entityname.ek_loadingkit>
-  <entitydescription.ek_loadingkit>用于手动复装大多数标准的木卫二联盟标准弹匣。</entitydescription.ek_loadingkit>
+  <entitydescription.ek_loadingkit>一箱用于装载和压制大多数木卫二联盟标准弹匣的工具和底火。</entitydescription.ek_loadingkit>
   <entityname.ek_ammocrate_rockets>火箭弹箱</entityname.ek_ammocrate_rockets>
   <entitydescription.ek_ammocrate_rockets></entitydescription.ek_ammocrate_rockets>
   <entityname.ek_handcuff_container>手铐箱</entityname.ek_handcuff_container>
   <entitydescription.ek_handcuff_container></entitydescription.ek_handcuff_container>
   <!-- ek_divinggear.xml -->
   <entityname.ek_armored_hardsuit>Mk-I军用动力装甲</entityname.ek_armored_hardsuit>
-  <entitydescription.ek_armored_hardsuit>用于联盟军事行动的重型装甲潜水服。能为使用者提供全身防弹保护，但装甲的重量显著限制了移动速度。[深度6000m]</entitydescription.ek_armored_hardsuit>
+  <entitydescription.ek_armored_hardsuit>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，但装甲的重量显著限制了移动速度。[深度6000m]</entitydescription.ek_armored_hardsuit>
   <entityname.ek_armored_hardsuit_paintbandit>Mk-I军用动力装甲（海盗涂装）</entityname.ek_armored_hardsuit_paintbandit>
-  <entitydescription.ek_armored_hardsuit_paintbandit>用于联盟军事行动的重型装甲潜水服。能为使用者提供全身防弹保护，但装甲的重量显著限制了移动速度。[深度6000m]</entitydescription.ek_armored_hardsuit_paintbandit>
+  <entitydescription.ek_armored_hardsuit_paintbandit>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，但装甲的重量显著限制了移动速度。[深度6000m]</entitydescription.ek_armored_hardsuit_paintbandit>
   <entityname.ek_armored_hardsuit_paintmercenary>Mk-I军用动力装甲（佣兵涂装）</entityname.ek_armored_hardsuit_paintmercenary>
-  <entitydescription.ek_armored_hardsuit_paintmercenary>用于联盟军事行动的重型装甲潜水服。能为使用者提供全身防弹保护，但装甲的重量显著限制了移动速度。[深度6000m]</entitydescription.ek_armored_hardsuit_paintmercenary>
+  <entitydescription.ek_armored_hardsuit_paintmercenary>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，但装甲的重量显著限制了移动速度。[深度6000m]</entitydescription.ek_armored_hardsuit_paintmercenary>
   <entityname.ek_armored_hardsuit2>Mk-II军用动力装甲</entityname.ek_armored_hardsuit2>
-  <entitydescription.ek_armored_hardsuit2>用于联盟军事行动的重型装甲潜水服。能为使用者提供全身防弹保护，改进的设计使得装甲更加轻便且保护能力更强。[深度10000m]</entitydescription.ek_armored_hardsuit2>
+  <entitydescription.ek_armored_hardsuit2>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，改进的设计使得装甲更加轻便且保护能力更强。[深度10000m]</entitydescription.ek_armored_hardsuit2>
   <entityname.ek_armored_hardsuit2_paintbandit>Mk-II军用动力装甲（海盗涂装）</entityname.ek_armored_hardsuit2_paintbandit>
-  <entitydescription.ek_armored_hardsuit2_paintbandit>用于联盟军事行动的重型装甲潜水服。能为使用者提供全身防弹保护，改进的设计使得装甲更加轻便且保护能力更强。[深度10000m]</entitydescription.ek_armored_hardsuit2_paintbandit>
+  <entitydescription.ek_armored_hardsuit2_paintbandit>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，改进的设计使得装甲更加轻便且保护能力更强。[深度10000m]</entitydescription.ek_armored_hardsuit2_paintbandit>
   <entityname.ek_armored_hardsuit2_paintmercenary>Mk-II军用动力装甲（佣兵涂装）</entityname.ek_armored_hardsuit2_paintmercenary>
-  <entitydescription.ek_armored_hardsuit2_paintmercenary>用于联盟军事行动的重型装甲潜水服。能为使用者提供全身防弹保护，改进的设计使得装甲更加轻便且保护能力更强。[深度10000m]</entitydescription.ek_armored_hardsuit2_paintmercenary>
-  <entityname.ek_shearclaw_outfit>Mk-I 锐爪装甲</entityname.ek_shearclaw_outfit>
-  <entitydescription.ek_shearclaw_outfit>实验性的潜水服，拥有极高的水下机动性。装甲提供了一定的火焰和撞击抗性。[深度4000m]</entitydescription.ek_shearclaw_outfit>
-  <entityname.ek_shearclaw_helmet>Mk-I 锐爪头盔</entityname.ek_shearclaw_helmet>
+  <entitydescription.ek_armored_hardsuit2_paintmercenary>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，改进的设计使得装甲更加轻便且保护能力更强。[深度10000m]</entitydescription.ek_armored_hardsuit2_paintmercenary>
+  <entityname.ek_shearclaw_outfit>Mk-I锐爪装甲</entityname.ek_shearclaw_outfit>
+  <entitydescription.ek_shearclaw_outfit>实验性的潜水服，拥有极高的水下机动性。内织装甲能提供轻量的抗穿刺和抗烧伤能力。[深度4000m]</entitydescription.ek_shearclaw_outfit>
+  <entityname.ek_shearclaw_helmet>Mk-I锐爪头盔</entityname.ek_shearclaw_helmet>
   <entitydescription.ek_shearclaw_helmet></entitydescription.ek_shearclaw_helmet>
   <!-- ek_jobgear.xml -->
   <entityname.ek_marine_armor>军用防弹衣</entityname.ek_marine_armor>
@@ -82,199 +82,199 @@
   <entitydescription.ek_merc_armor_uniform></entitydescription.ek_merc_armor_uniform>
   <entityname.ek_merc_helmet>雇佣兵头盔</entityname.ek_merc_helmet>
   <entitydescription.ek_merc_helmet></entitydescription.ek_merc_helmet>
-  <entityname.ek_fire_jumpsuit>消防衣</entityname.ek_fire_jumpsuit>
+  <entityname.ek_fire_jumpsuit>消防连体服</entityname.ek_fire_jumpsuit>
   <entitydescription.ek_fire_jumpsuit></entitydescription.ek_fire_jumpsuit>
   <entityname.ek_fire_helmet>消防头盔</entityname.ek_fire_helmet>
-  <entitydescription.ek_fire_helmet>坚固且防火的头盔，配有呼吸面罩。</entitydescription.ek_fire_helmet>
+  <entitydescription.ek_fire_helmet>坚固且隔热的头盔，配有呼吸面罩。</entitydescription.ek_fire_helmet>
   <entityname.ek_mechanic_armor>简易防弹衣</entityname.ek_mechanic_armor>
-  <entitydescription.ek_mechanic_armor>使用防弹插板和内衬拼接而成的简易护甲，缝有一些小口袋。</entitydescription.ek_mechanic_armor>
+  <entitydescription.ek_mechanic_armor>使用防弹插板和内衬组装而成的简易护甲，缝有一些小口袋。</entitydescription.ek_mechanic_armor>
   <entityname.ek_security_radio>对讲机</entityname.ek_security_radio>
-  <entitydescription.ek_security_radio>主要由船只和站点安全员使用的通信系统。</entitydescription.ek_security_radio>
+  <entitydescription.ek_security_radio>低调、隐蔽的无线电通信系统，主要由船舶和站点安全官使用。</entitydescription.ek_security_radio>
   <entityname.ek_ammobandolier>子弹带</entityname.ek_ammobandolier>
-  <entitydescription.ek_ammobandolier>一个装载弹药的跨带，用于携带作战人员的各种物品。</entitydescription.ek_ammobandolier>
+  <entitydescription.ek_ammobandolier>弹药背带，也可用于装载突击队员的各种物品。</entitydescription.ek_ammobandolier>
   <entityname.ek_tacticalbackpack>战术背包</entityname.ek_tacticalbackpack>
-  <entitydescription.ek_tacticalbackpack>一个紧凑的战术背包，可以容纳一些弹药和装备。</entitydescription.ek_tacticalbackpack>
+  <entitydescription.ek_tacticalbackpack>能装下中量弹药和装备的紧凑背包。</entitydescription.ek_tacticalbackpack>
   <!-- ek_materials.xml -->
   <entityname.ek_weapontritium>氚</entityname.ek_weapontritium>
   <entitydescription.ek_weapontritium>氢的同位素，可用作聚变原料。</entitydescription.ek_weapontritium>
   <entityname.ek_gaussparts>高斯线圈组件</entityname.ek_gaussparts>
-  <entitydescription.ek_gaussparts>超导体。高斯武器的主要元件。</entitydescription.ek_gaussparts>
+  <entitydescription.ek_gaussparts>雷素超导体。制作高斯武器的主要元件。</entitydescription.ek_gaussparts>
   <entityname.ek_laserparts>激光二极管</entityname.ek_laserparts>
-  <entitydescription.ek_laserparts>大功率激光泵。激光武器的主要元件。</entitydescription.ek_laserparts>
+  <entitydescription.ek_laserparts>大功率激光泵。制作激光武器的主要元件。</entitydescription.ek_laserparts>
   <!-- ek_attachments.xml -->
   <entityname.ek_suppressor>军用消音器</entityname.ek_suppressor>
-  <entitydescription.ek_suppressor>枪械消音器，使用制造机来移除和装备</entitydescription.ek_suppressor>
+  <entitydescription.ek_suppressor>枪械消音器，使用加工台来卸下和装备。</entitydescription.ek_suppressor>
   <entityname.ek_lightattachment>战术手电</entityname.ek_lightattachment>
-  <entitydescription.ek_lightattachment>战术照明装置，使用制造机来移除和装备</entitydescription.ek_lightattachment>
+  <entitydescription.ek_lightattachment>战术照明装置，使用加工台来卸下和装备。</entitydescription.ek_lightattachment>
   <entityname.ek_laserattachment>激光瞄准器</entityname.ek_laserattachment>
-  <entitydescription.ek_laserattachment>使用制造机来移除和装备</entitydescription.ek_laserattachment>
-  <entityname.ek_sonarattachment>声纳瞄准器</entityname.ek_sonarattachment>
-  <entitydescription.ek_sonarattachment>运用了声纳技术的瞄准和定位设备，使用制造机来移除和装备.</entitydescription.ek_sonarattachment>
+  <entitydescription.ek_laserattachment>可安装的激光设备，使用加工台来卸下和装备。</entitydescription.ek_laserattachment>
+  <entityname.ek_sonarattachment>声呐引导器</entityname.ek_sonarattachment>
+  <entitydescription.ek_sonarattachment>使用声呐技术进行探测和追踪的设备，使用加工台来卸下和装备。</entitydescription.ek_sonarattachment>
   <entityname.ek_piperifle_flashlight>简易步枪（战术手电）</entityname.ek_piperifle_flashlight>
-  <entitydescription.ek_piperifle_flashlight>一种由各种机械零件拼凑而成的临时武器。粗糙但有效。（真有人会给这玩意装配件？）</entitydescription.ek_piperifle_flashlight>
+  <entitydescription.ek_piperifle_flashlight>由各种机械零件拼凑而成的临时武器。粗糙但在紧急情况下很有用。</entitydescription.ek_piperifle_flashlight>
   <entityname.ek_piperifle_laser>简易步枪（激光瞄准器）</entityname.ek_piperifle_laser>
-  <entitydescription.ek_piperifle_laser>一种由各种机械零件拼凑而成的临时武器。粗糙但有效。（真有人会给这玩意装配件？）</entitydescription.ek_piperifle_laser>
+  <entitydescription.ek_piperifle_laser>由各种机械零件拼凑而成的临时武器。粗糙但在紧急情况下很有用。</entitydescription.ek_piperifle_laser>
   <entityname.ek_piperifle_suppressed>简易步枪（消音器）</entityname.ek_piperifle_suppressed>
-  <entitydescription.ek_piperifle_suppressed>一种由各种机械零件拼凑而成的临时武器。粗糙但有效。（真有人会给这玩意装配件？）</entitydescription.ek_piperifle_suppressed>
+  <entitydescription.ek_piperifle_suppressed>由各种机械零件拼凑而成的临时武器。粗糙但在紧急情况下很有用。</entitydescription.ek_piperifle_suppressed>
   <entityname.ek_piperifle_suppressed_flashlight>简易步枪（消音器，战术手电）</entityname.ek_piperifle_suppressed_flashlight>
-  <entitydescription.ek_piperifle_suppressed_flashlight>一种由各种机械零件拼凑而成的临时武器。粗糙但有效。（真有人会给这玩意装配件？）</entitydescription.ek_piperifle_suppressed_flashlight>
+  <entitydescription.ek_piperifle_suppressed_flashlight>由各种机械零件拼凑而成的临时武器。粗糙但在紧急情况下很有用。</entitydescription.ek_piperifle_suppressed_flashlight>
   <entityname.ek_piperifle_suppressed_laser>简易步枪（消音器，激光瞄准器）</entityname.ek_piperifle_suppressed_laser>
-  <entitydescription.ek_piperifle_suppressed_laser>一种由各种机械零件拼凑而成的临时武器。粗糙但有效。（真有人会给这玩意装配件？）</entitydescription.ek_piperifle_suppressed_laser>
+  <entitydescription.ek_piperifle_suppressed_laser>由各种机械零件拼凑而成的临时武器。粗糙但在紧急情况下很有用。</entitydescription.ek_piperifle_suppressed_laser>
   <entityname.ek_handgun_flashlight>手枪（战术手电）</entityname.ek_handgun_flashlight>
-  <entitydescription.ek_handgun_flashlight>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是为了应对叛变的船员，但在面对来自深渊的怪物时也是一点聊胜于无的防御手段。</entitydescription.ek_handgun_flashlight>
+  <entitydescription.ek_handgun_flashlight>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是设计用于应对可能叛变的船员，但在面对来自深渊的怪物时也算是一点聊胜于无的防御手段。</entitydescription.ek_handgun_flashlight>
   <entityname.ek_handgun_laser>手枪（激光瞄准器）</entityname.ek_handgun_laser>
-  <entitydescription.ek_handgun_laser>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是为了应对叛变的船员，但在面对来自深渊的怪物时也是一点聊胜于无的防御手段。</entitydescription.ek_handgun_laser>
+  <entitydescription.ek_handgun_laser>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是设计用于应对可能叛变的船员，但在面对来自深渊的怪物时也算是一点聊胜于无的防御手段。</entitydescription.ek_handgun_laser>
   <entityname.ek_handgun_suppressed>手枪（消音器）</entityname.ek_handgun_suppressed>
-  <entitydescription.ek_handgun_suppressed>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是为了应对叛变的船员，但在面对来自深渊的怪物时也是一点聊胜于无的防御手段。</entitydescription.ek_handgun_suppressed>
+  <entitydescription.ek_handgun_suppressed>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是设计用于应对可能叛变的船员，但在面对来自深渊的怪物时也算是一点聊胜于无的防御手段。</entitydescription.ek_handgun_suppressed>
   <entityname.ek_handgun_suppressed_flashlight>手枪（消音器，战术手电）</entityname.ek_handgun_suppressed_flashlight>
-  <entitydescription.ek_handgun_suppressed_flashlight>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是为了应对叛变的船员，但在面对来自深渊的怪物时也是一点聊胜于无的防御手段。</entitydescription.ek_handgun_suppressed_flashlight>
+  <entitydescription.ek_handgun_suppressed_flashlight>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是设计用于应对可能叛变的船员，但在面对来自深渊的怪物时也算是一点聊胜于无的防御手段。</entitydescription.ek_handgun_suppressed_flashlight>
   <entityname.ek_handgun_suppressed_laser>手枪（消音器，激光瞄准器）</entityname.ek_handgun_suppressed_laser>
-  <entitydescription.ek_handgun_suppressed_laser>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是为了应对叛变的船员，但在面对来自深渊的怪物时也是一点聊胜于无的防御手段。</entitydescription.ek_handgun_suppressed_laser>
+  <entitydescription.ek_handgun_suppressed_laser>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是设计用于应对可能叛变的船员，但在面对来自深渊的怪物时也算是一点聊胜于无的防御手段。</entitydescription.ek_handgun_suppressed_laser>
   <entityname.ek_mini_smg_flashlight>紧凑冲锋枪（战术手电）</entityname.ek_mini_smg_flashlight>
-  <entitydescription.ek_mini_smg_flashlight>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_flashlight>
+  <entitydescription.ek_mini_smg_flashlight>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还算能用。</entitydescription.ek_mini_smg_flashlight>
   <entityname.ek_mini_smg_laser>紧凑冲锋枪（激光瞄准器）</entityname.ek_mini_smg_laser>
-  <entitydescription.ek_mini_smg_laser>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_laser>
+  <entitydescription.ek_mini_smg_laser>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还算能用。</entitydescription.ek_mini_smg_laser>
   <entityname.ek_mini_smg_suppressed>紧凑冲锋枪（消音器）</entityname.ek_mini_smg_suppressed>
-  <entitydescription.ek_mini_smg_suppressed>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_suppressed>
+  <entitydescription.ek_mini_smg_suppressed>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还算能用。</entitydescription.ek_mini_smg_suppressed>
   <entityname.ek_mini_smg_suppressed_flashlight>紧凑冲锋枪（消音器，战术手电）</entityname.ek_mini_smg_suppressed_flashlight>
-  <entitydescription.ek_mini_smg_suppressed_flashlight>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_suppressed_flashlight>
+  <entitydescription.ek_mini_smg_suppressed_flashlight>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还算能用。</entitydescription.ek_mini_smg_suppressed_flashlight>
   <entityname.ek_mini_smg_suppressed_laser>紧凑冲锋枪（消音器，激光瞄准器）</entityname.ek_mini_smg_suppressed_laser>
-  <entitydescription.ek_mini_smg_suppressed_laser>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg_suppressed_laser>
+  <entitydescription.ek_mini_smg_suppressed_laser>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还算能用。</entitydescription.ek_mini_smg_suppressed_laser>
   <entityname.ek_smg_flashlight>军用冲锋枪（战术手电）</entityname.ek_smg_flashlight>
-  <entitydescription.ek_smg_flashlight>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_flashlight>
+  <entitydescription.ek_smg_flashlight>由木卫二联盟开发的先进军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自推式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_flashlight>
   <entityname.ek_smg_laser>军用冲锋枪（激光瞄准器）</entityname.ek_smg_laser>
-  <entitydescription.ek_smg_laser>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_laser>
+  <entitydescription.ek_smg_laser>由木卫二联盟开发的先进军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自推式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_laser>
   <entityname.ek_smg_suppressed>军用冲锋枪（消音器）</entityname.ek_smg_suppressed>
-  <entitydescription.ek_smg_suppressed>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed>
+  <entitydescription.ek_smg_suppressed>由木卫二联盟开发的先进军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自推式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed>
   <entityname.ek_smg_suppressed_flashlight>军用冲锋枪（消音器，战术手电）</entityname.ek_smg_suppressed_flashlight>
-  <entitydescription.ek_smg_suppressed_flashlight>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed_flashlight>
+  <entitydescription.ek_smg_suppressed_flashlight>由木卫二联盟开发的先进军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自推式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed_flashlight>
   <entityname.ek_smg_suppressed_laser>军用冲锋枪（消音器，激光瞄准器）</entityname.ek_smg_suppressed_laser>
-  <entitydescription.ek_smg_suppressed_laser>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed_laser>
+  <entitydescription.ek_smg_suppressed_laser>由木卫二联盟开发的先进军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自推式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed_laser>
   <entityname.ek_shotgun_flashlight>战术霰弹枪（战术手电）</entityname.ek_shotgun_flashlight>
   <entitydescription.ek_shotgun_flashlight>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_shotgun_flashlight>
   <entityname.ek_shotgun_laser>战术霰弹枪（激光瞄准器）</entityname.ek_shotgun_laser>
-  <entitydescription.ek_shotgun_laser>联盟标准泵动式霰弹枪。能装载8发子弹。</entitydescription.ek_shotgun_laser>
+  <entitydescription.ek_shotgun_laser>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_shotgun_laser>
   <entityname.ek_tazer_flashlight>泰瑟枪（战术手电）</entityname.ek_tazer_flashlight>
-  <entitydescription.ek_tazer_flashlight>和电击甩棍相同的击晕效果，但射程更长。</entitydescription.ek_tazer_flashlight>
+  <entitydescription.ek_tazer_flashlight>和电击甩棍的击晕效果相似，但射程更长。</entitydescription.ek_tazer_flashlight>
   <entityname.ek_drumlmg_flashlight>轻机枪（战术手电）</entityname.ek_drumlmg_flashlight>
-  <entitydescription.ek_drumlmg_flashlight>重型自动武器，发射5.56x45mm parabellum弹药。火力持续力强。</entitydescription.ek_drumlmg_flashlight>
+  <entitydescription.ek_drumlmg_flashlight>重型自动武器，发射5.56x45mmParabellum弹药。持续射击能力超强。</entitydescription.ek_drumlmg_flashlight>
   <entityname.ek_dartgun_flashlight>飞镖枪（战术手电）</entityname.ek_dartgun_flashlight>
   <entitydescription.ek_dartgun_flashlight>紧凑型气动飞镖枪，用于发射药品或其他化学物质。</entitydescription.ek_dartgun_flashlight>
   <entityname.ek_gausspistol_flashlight>高斯手枪（战术手电）</entityname.ek_gausspistol_flashlight>
-  <entitydescription.ek_gausspistol_flashlight>先进动能武器，利用电磁线圈以高速度推动金属弹头。使用雷素电池供电，需要定期充电。</entitydescription.ek_gausspistol_flashlight>
+  <entitydescription.ek_gausspistol_flashlight>先进雷素武器，利用电磁线圈以极高速度推动金属弹头。由雷素电池供电，需要定期充电。</entitydescription.ek_gausspistol_flashlight>
   <entityname.ek_gausspistol_laser>高斯手枪（激光瞄准器）</entityname.ek_gausspistol_laser>
-  <entitydescription.ek_gausspistol_laser>先进动能武器，利用电磁线圈以高速度推动金属弹头。使用雷素电池供电，需要定期充电。</entitydescription.ek_gausspistol_laser>
+  <entitydescription.ek_gausspistol_laser>先进雷素武器，利用电磁线圈以极高速度推动金属弹头。由雷素电池供电，需要定期充电。</entitydescription.ek_gausspistol_laser>
   <entityname.ek_gaussrifle_flashlight>高斯步枪（战术手电）</entityname.ek_gaussrifle_flashlight>
-  <entitydescription.ek_gaussrifle_flashlight>先进动能武器，利用电磁线圈以高速度推动金属弹头。使用雷素电池供电，需要定期充电。</entitydescription.ek_gaussrifle_flashlight>
+  <entitydescription.ek_gaussrifle_flashlight>先进雷素武器，利用电磁线圈以极高速度推动金属弹头。由雷素电池供电，需要定期充电。</entitydescription.ek_gaussrifle_flashlight>
   <entityname.ek_gaussrifle_laser>高斯步枪（激光瞄准器）</entityname.ek_gaussrifle_laser>
-  <entitydescription.ek_gaussrifle_laser>先进动能武器，利用电磁线圈以高速度推动金属弹头。使用雷素电池供电，需要定期充电。</entitydescription.ek_gaussrifle_laser>
-  <entityname.ek_torpedorifle_sonarscope>鱼雷发射器（声纳瞄准器）</entityname.ek_torpedorifle_sonarscope>
-  <entitydescription.ek_torpedorifle_sonarscope>先进的水下发射器，设计用于针对潜艇和重甲怪物，发射拥有可观射程的微型鱼雷。</entitydescription.ek_torpedorifle_sonarscope>
-  <entityname.ek_rocketlauncher_sonarscope>火箭发射器（声纳瞄准器）</entityname.ek_rocketlauncher_sonarscope>
-  <entitydescription.ek_rocketlauncher_sonarscope>重型肩扛式火箭发射器，设计用于木卫二联盟特种行动。笨重且昂贵，但效果拔群。</entitydescription.ek_rocketlauncher_sonarscope>
+  <entitydescription.ek_gaussrifle_laser>先进雷素武器，利用电磁线圈以极高速度推动金属弹头。由雷素电池供电，需要定期充电。</entitydescription.ek_gaussrifle_laser>
+  <entityname.ek_torpedorifle_sonarscope>鱼雷发射器（声呐引导器）</entityname.ek_torpedorifle_sonarscope>
+  <entitydescription.ek_torpedorifle_sonarscope>先进的水下无后座力发射器，设计用于针对潜艇和重甲怪物，发射拥有可观射程的微型鱼雷。</entitydescription.ek_torpedorifle_sonarscope>
+  <entityname.ek_rocketlauncher_sonarscope>火箭发射器（声呐引导器）</entityname.ek_rocketlauncher_sonarscope>
+  <entitydescription.ek_rocketlauncher_sonarscope>重型军用肩扛式火箭发射器，设计用于木卫二联盟特种作战行动。笨重且昂贵，但效果拔群。</entitydescription.ek_rocketlauncher_sonarscope>
   <entityname.ek_beast_ssl_flashlight>“野兽” SSL（战术手电）</entityname.ek_beast_ssl_flashlight>
-  <entitydescription.ek_beast_ssl_flashlight>实验性便携式30毫米FC机炮，具有强大的压制火力，但同时暴露出笨重和射速慢的缺点。</entitydescription.ek_beast_ssl_flashlight>
-  <entityname.ek_battlerifle_flashlight>军用步枪（战术手电）</entityname.ek_battlerifle_flashlight>
+  <entitydescription.ek_beast_ssl_flashlight>实验性便携式30mmFC自动炮，具有强大的压制火力。</entitydescription.ek_beast_ssl_flashlight>
+  <entityname.ek_battlerifle_flashlight>军用战斗步枪（战术手电）</entityname.ek_battlerifle_flashlight>
   <entitydescription.ek_battlerifle_flashlight>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_flashlight>
-  <entityname.ek_battlerifle_laser>军用步枪（激光瞄准器）</entityname.ek_battlerifle_laser>
+  <entityname.ek_battlerifle_laser>军用战斗步枪（激光瞄准器）</entityname.ek_battlerifle_laser>
   <entitydescription.ek_battlerifle_laser>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_laser>
-  <entityname.ek_battlerifle_suppressed>军用步枪（消音器）</entityname.ek_battlerifle_suppressed>
+  <entityname.ek_battlerifle_suppressed>军用战斗步枪（消音器）</entityname.ek_battlerifle_suppressed>
   <entitydescription.ek_battlerifle_suppressed>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_suppressed>
-  <entityname.ek_battlerifle_suppressed_flashlight>军用步枪（消音器，战术手电）</entityname.ek_battlerifle_suppressed_flashlight>
+  <entityname.ek_battlerifle_suppressed_flashlight>军用战斗步枪（消音器，战术手电）</entityname.ek_battlerifle_suppressed_flashlight>
   <entitydescription.ek_battlerifle_suppressed_flashlight>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_suppressed_flashlight>
-  <entityname.ek_battlerifle_suppressed_laser>军用步枪（消音器，激光瞄准器）</entityname.ek_battlerifle_suppressed_laser>
+  <entityname.ek_battlerifle_suppressed_laser>军用战斗步枪（消音器，激光瞄准器）</entityname.ek_battlerifle_suppressed_laser>
   <entitydescription.ek_battlerifle_suppressed_laser>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle_suppressed_laser>
   <entityname.ek_laserpistol_flashlight>激光手枪（战术手电）</entityname.ek_laserpistol_flashlight>
-  <entitydescription.ek_laserpistol_flashlight>应用了脉冲放大激光原理的武器。由特殊的大功率电池驱动。</entitydescription.ek_laserpistol_flashlight>
+  <entitydescription.ek_laserpistol_flashlight>应用了脉冲放大原理的激光武器。由特殊的大功率电池驱动。</entitydescription.ek_laserpistol_flashlight>
   <entityname.ek_laserpistol_laser>激光手枪（激光瞄准器）</entityname.ek_laserpistol_laser>
-  <entitydescription.ek_laserpistol_laser>应用了脉冲放大激光原理的武器。由特殊的大功率电池驱动。</entitydescription.ek_laserpistol_laser>
+  <entitydescription.ek_laserpistol_laser>应用了脉冲放大原理的激光武器。由特殊的大功率电池驱动。</entitydescription.ek_laserpistol_laser>
   <entityname.ek_laserrifle_flashlight>激光步枪（战术手电）</entityname.ek_laserrifle_flashlight>
-  <entitydescription.ek_laserrifle_flashlight>应用了脉冲放大激光原理的武器。由特殊的大功率电池驱动。</entitydescription.ek_laserrifle_flashlight>
+  <entitydescription.ek_laserrifle_flashlight>应用了脉冲放大原理的激光武器。由特殊的大功率电池驱动。</entitydescription.ek_laserrifle_flashlight>
   <entityname.ek_laserrifle_laser>激光步枪（激光瞄准器）</entityname.ek_laserrifle_laser>
-  <entitydescription.ek_laserrifle_laser>应用了脉冲放大激光原理的武器。由特殊的大功率电池驱动。</entitydescription.ek_laserrifle_laser>
+  <entitydescription.ek_laserrifle_laser>应用了脉冲放大原理的激光武器。由特殊的大功率电池驱动。</entitydescription.ek_laserrifle_laser>
   <entityname.ek_revolver_flashlight>.357左轮（战术手电）</entityname.ek_revolver_flashlight>
-  <entitydescription.ek_revolver_flashlight>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_flashlight>
+  <entitydescription.ek_revolver_flashlight>印有复古花纹的单动左轮，是有戏剧天赋的船长们的最爱。</entitydescription.ek_revolver_flashlight>
   <entityname.ek_revolver_laser>.357左轮（激光瞄准器）</entityname.ek_revolver_laser>
-  <entitydescription.ek_revolver_laser>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_laser>
+  <entitydescription.ek_revolver_laser>印有复古花纹的单动左轮，是有戏剧天赋的船长们的最爱。</entitydescription.ek_revolver_laser>
   <entityname.ek_revolver_suppressed>.357左轮（消音器）</entityname.ek_revolver_suppressed>
-  <entitydescription.ek_revolver_suppressed>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_suppressed>
+  <entitydescription.ek_revolver_suppressed>印有复古花纹的单动左轮，是有戏剧天赋的船长们的最爱。</entitydescription.ek_revolver_suppressed>
   <entityname.ek_revolver_suppressed_flashlight>.357左轮（消音器，战术手电）</entityname.ek_revolver_suppressed_flashlight>
-  <entitydescription.ek_revolver_suppressed_flashlight>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_suppressed_flashlight>
+  <entitydescription.ek_revolver_suppressed_flashlight>印有复古花纹的单动左轮，是有戏剧天赋的船长们的最爱。</entitydescription.ek_revolver_suppressed_flashlight>
   <entityname.ek_revolver_suppressed_laser>.357左轮（消音器，激光瞄准器）</entityname.ek_revolver_suppressed_laser>
-  <entitydescription.ek_revolver_suppressed_laser>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver_suppressed_laser>
+  <entitydescription.ek_revolver_suppressed_laser>印有复古花纹的单动左轮，是有戏剧天赋的船长们的最爱。</entitydescription.ek_revolver_suppressed_laser>
   <!-- ek_chaingunammo.xml -->
-  <entityname.ek_chaingunammo_large>扩展链式机炮弹药箱</entityname.ek_chaingunammo_large>
+  <entityname.ek_chaingunammo_large>连射炮扩展弹药箱</entityname.ek_chaingunammo_large>
   <entitydescription.ek_chaingunammo_large></entitydescription.ek_chaingunammo_large>
-  <entityname.ek_chaingunammophysicorium_large>扩展链式机炮刚素弹药箱</entityname.ek_chaingunammophysicorium_large>
+  <entityname.ek_chaingunammophysicorium_large>连射炮扩展刚素弹药箱</entityname.ek_chaingunammophysicorium_large>
   <entitydescription.ek_chaingunammophysicorium_large></entitydescription.ek_chaingunammophysicorium_large>
-  <entityname.ek_chaingunammoexplosive>链式机炮高爆弹药箱</entityname.ek_chaingunammoexplosive>
+  <entityname.ek_chaingunammoexplosive>连射炮高爆弹药箱</entityname.ek_chaingunammoexplosive>
   <entitydescription.ek_chaingunammoexplosive></entitydescription.ek_chaingunammoexplosive>
-  <entityname.ek_chaingunammoexplosive_large>扩展链式机炮高爆弹药箱</entityname.ek_chaingunammoexplosive_large>
+  <entityname.ek_chaingunammoexplosive_large>连射炮扩展高爆弹药箱</entityname.ek_chaingunammoexplosive_large>
   <entitydescription.ek_chaingunammoexplosive_large></entitydescription.ek_chaingunammoexplosive_large>
-  <entityname.ek_chaingunboltexplosive>Explosive Chaingun Bolt</entityname.ek_chaingunboltexplosive>
+  <entityname.ek_chaingunboltexplosive>Exploding Chaingun Bolt</entityname.ek_chaingunboltexplosive>
   <entitydescription.ek_chaingunboltexplosive></entitydescription.ek_chaingunboltexplosive>
-  <entityname.ek_chaingunammoheavy>HEFC连射炮弹药箱</entityname.ek_chaingunammoheavy>
-  <entitydescription.ek_chaingunammoheavy>对软硬目标均具有强大的杀伤力。</entitydescription.ek_chaingunammoheavy>
-  <entityname.ek_chaingunammoheavy_large>扩展HEFC链式机炮弹药箱</entityname.ek_chaingunammoheavy_large>
-  <entitydescription.ek_chaingunammoheavy_large>对软硬目标均具有强大的杀伤力。</entitydescription.ek_chaingunammoheavy_large>
+  <entityname.ek_chaingunammoheavy>连射炮HEFC弹药箱</entityname.ek_chaingunammoheavy>
+  <entitydescription.ek_chaingunammoheavy>连射炮弹药。有着强大抑止力的高爆破片复合弹药对软硬目标均具有强大的杀伤力。</entitydescription.ek_chaingunammoheavy>
+  <entityname.ek_chaingunammoheavy_large>连射炮HEFC扩展弹药箱</entityname.ek_chaingunammoheavy_large>
+  <entitydescription.ek_chaingunammoheavy_large>连射炮弹药。有着强大抑止力的高爆破片复合弹药对软硬目标均具有强大的杀伤力。</entitydescription.ek_chaingunammoheavy_large>
   <entityname.ek_chaingunboltheavy>HEFC Chaingun Bolt</entityname.ek_chaingunboltheavy>
   <entitydescription.ek_chaingunboltheavy></entitydescription.ek_chaingunboltheavy>
   <!-- ek_coilgunammo.xml -->
-  <entityname.ek_coilgunammo_large>扩展弹药箱</entityname.ek_coilgunammo_large>
+  <entityname.ek_coilgunammo_large>电磁枪扩展弹药箱</entityname.ek_coilgunammo_large>
   <entitydescription.ek_coilgunammo_large></entitydescription.ek_coilgunammo_large>
-  <entityname.ek_coilgunammoexplosive_large>扩展爆破弹药箱</entityname.ek_coilgunammoexplosive_large>
+  <entityname.ek_coilgunammoexplosive_large>电磁枪扩展爆破弹药箱</entityname.ek_coilgunammoexplosive_large>
   <entitydescription.ek_coilgunammoexplosive_large></entitydescription.ek_coilgunammoexplosive_large>
-  <entityname.ek_coilgunammopiercing_large>扩展穿甲弹药箱</entityname.ek_coilgunammopiercing_large>
+  <entityname.ek_coilgunammopiercing_large>电磁枪扩展穿甲弹药箱</entityname.ek_coilgunammopiercing_large>
   <entitydescription.ek_coilgunammopiercing_large></entitydescription.ek_coilgunammopiercing_large>
-  <entityname.ek_coilgunammophysicorium_large>扩展刚素弹药箱</entityname.ek_coilgunammophysicorium_large>
+  <entityname.ek_coilgunammophysicorium_large>电磁枪扩展刚素弹药箱</entityname.ek_coilgunammophysicorium_large>
   <entitydescription.ek_coilgunammophysicorium_large></entitydescription.ek_coilgunammophysicorium_large>
-  <entityname.ek_coilgunammoboxheavy>HEFC弹药箱</entityname.ek_coilgunammoboxheavy>
-  <entitydescription.ek_coilgunammoboxheavy>对软硬目标均具有强大的杀伤力。</entitydescription.ek_coilgunammoboxheavy>
-  <entityname.ek_coilgunammoheavy_large>扩展HEFC弹药箱</entityname.ek_coilgunammoheavy_large>
-  <entitydescription.ek_coilgunammoheavy_large>对软硬目标均具有强大的杀伤力。</entitydescription.ek_coilgunammoheavy_large>
-  <entityname.ek_coilgunboltheavy>HEFC线圈炮子弹</entityname.ek_coilgunboltheavy>
+  <entityname.ek_coilgunammoboxheavy>电磁枪HEFC弹药箱</entityname.ek_coilgunammoboxheavy>
+  <entitydescription.ek_coilgunammoboxheavy>电磁枪弹药。有着强大抑止力的高爆破片复合弹药对软硬目标均具有强大的杀伤力。</entitydescription.ek_coilgunammoboxheavy>
+  <entityname.ek_coilgunammoheavy_large>电磁枪扩展HEFC弹药箱</entityname.ek_coilgunammoheavy_large>
+  <entitydescription.ek_coilgunammoheavy_large>电磁枪弹药。有着强大抑止力的高爆破片复合弹药对软硬目标均具有强大的杀伤力。</entitydescription.ek_coilgunammoheavy_large>
+  <entityname.ek_coilgunboltheavy>HEFC Coilgun Bolt</entityname.ek_coilgunboltheavy>
   <entitydescription.ek_coilgunboltheavy></entitydescription.ek_coilgunboltheavy>
-  <entityname.ek_coilgunammohybrid>混合弹药箱</entityname.ek_coilgunammohybrid>
-  <entitydescription.ek_coilgunammohybrid>大口径版本的线圈炮弹药，具有更大的威力。</entitydescription.ek_coilgunammohybrid>
-  <entityname.ek_coilgunammohybrid_large>扩展混合弹药箱</entityname.ek_coilgunammohybrid_large>
+  <entityname.ek_coilgunammohybrid>电磁枪混合弹药箱</entityname.ek_coilgunammohybrid>
+  <entitydescription.ek_coilgunammohybrid>大口径电磁枪弹药，抑止力大大增强。</entitydescription.ek_coilgunammohybrid>
+  <entityname.ek_coilgunammohybrid_large>电磁枪扩展混合弹药箱</entityname.ek_coilgunammohybrid_large>
   <entitydescription.ek_coilgunammohybrid_large></entitydescription.ek_coilgunammohybrid_large>
-  <entityname.ek_coilgunbolt_hybrid>Hybrid线圈炮Bolt</entityname.ek_coilgunbolt_hybrid>
+  <entityname.ek_coilgunbolt_hybrid>Hybrid Coilgun Bolt</entityname.ek_coilgunbolt_hybrid>
   <entitydescription.ek_coilgunbolt_hybrid></entitydescription.ek_coilgunbolt_hybrid>
-  <entityname.ek_coilgunammohybridflak>混合榴霰弹弹药箱</entityname.ek_coilgunammohybridflak>
-  <entitydescription.ek_coilgunammohybridflak>大口径版本的线圈炮弹药，具有更大的威力。</entitydescription.ek_coilgunammohybridflak>
-  <entityname.ek_coilgunammohybridflak_large>扩展混合榴霰弹弹药箱</entityname.ek_coilgunammohybridflak_large>
+  <entityname.ek_coilgunammohybridflak>电磁枪混合榴霰弹弹药箱</entityname.ek_coilgunammohybridflak>
+  <entitydescription.ek_coilgunammohybridflak>大口径电磁枪弹药，射弹装上了榴霰战斗部。</entitydescription.ek_coilgunammohybridflak>
+  <entityname.ek_coilgunammohybridflak_large>电磁枪扩展混合榴霰弹弹药箱</entityname.ek_coilgunammohybridflak_large>
   <entitydescription.ek_coilgunammohybridflak_large></entitydescription.ek_coilgunammohybridflak_large>
-  <entityname.ek_coilgunbolt_hybridflak>混合榴霰弹线圈炮Bolt</entityname.ek_coilgunbolt_hybridflak>
+  <entityname.ek_coilgunbolt_hybridflak>Hybrid Flak Coilgun Bolt</entityname.ek_coilgunbolt_hybridflak>
   <entitydescription.ek_coilgunbolt_hybridflak></entitydescription.ek_coilgunbolt_hybridflak>
-  <entityname.ek_coilgunammohybridflak_smartfuse>混合榴霰弹近炸引信弹药箱</entityname.ek_coilgunammohybridflak_smartfuse>
-  <entitydescription.ek_coilgunammohybridflak_smartfuse>大口径版本的线圈炮弹药(近炸版本）。</entitydescription.ek_coilgunammohybridflak_smartfuse>
-  <entityname.ek_coilgunammohybridflak_smartfuse_large>扩展混合榴霰弹（近炸）弹药箱</entityname.ek_coilgunammohybridflak_smartfuse_large>
+  <entityname.ek_coilgunammohybridflak_smartfuse>电磁枪混合混合榴霰弹（近炸）弹药箱</entityname.ek_coilgunammohybridflak_smartfuse>
+  <entitydescription.ek_coilgunammohybridflak_smartfuse>大口径电磁枪弹药,射弹装上了近炸榴霰战斗部。</entitydescription.ek_coilgunammohybridflak_smartfuse>
+  <entityname.ek_coilgunammohybridflak_smartfuse_large>电磁枪扩展混合榴霰弹（近炸）弹药箱</entityname.ek_coilgunammohybridflak_smartfuse_large>
   <entitydescription.ek_coilgunammohybridflak_smartfuse_large></entitydescription.ek_coilgunammohybridflak_smartfuse_large>
   <entityname.ek_coilgunbolt_hybridflak_smartfuse>Hybrid Proximity Flak Coilgun Bolt</entityname.ek_coilgunbolt_hybridflak_smartfuse>
   <entitydescription.ek_coilgunbolt_hybridflak_smartfuse></entitydescription.ek_coilgunbolt_hybridflak_smartfuse>
-  <entityname.ek_coilgunammohybridap>混合穿甲弹药箱</entityname.ek_coilgunammohybridap>
-  <entitydescription.ek_coilgunammohybridap>大口径版本的线圈炮弹药，带有穿甲聚能装药。</entitydescription.ek_coilgunammohybridap>
-  <entityname.ek_coilgunammohybridap_large>扩展混合穿甲弹药箱</entityname.ek_coilgunammohybridap_large>
+  <entityname.ek_coilgunammohybridap>电磁枪混合穿甲弹药箱</entityname.ek_coilgunammohybridap>
+  <entitydescription.ek_coilgunammohybridap>大口径电磁枪弹药，带有穿甲聚能装药。</entitydescription.ek_coilgunammohybridap>
+  <entityname.ek_coilgunammohybridap_large>电磁枪扩展混合穿甲弹药箱</entityname.ek_coilgunammohybridap_large>
   <entitydescription.ek_coilgunammohybridap_large></entitydescription.ek_coilgunammohybridap_large>
-  <entityname.ek_coilgunbolt_hybridap>混合穿甲线圈枪Bolt</entityname.ek_coilgunbolt_hybridap>
+  <entityname.ek_coilgunbolt_hybridap>Hybrid Piercing Coilgun Bolt</entityname.ek_coilgunbolt_hybridap>
   <entitydescription.ek_coilgunbolt_hybridap></entitydescription.ek_coilgunbolt_hybridap>
-  <entityname.ek_coilgunammo_laser>线圈枪激光发射器</entityname.ek_coilgunammo_laser>
-  <entitydescription.ek_coilgunammo_laser>实验性线圈炮硬件改装，使用线圈炮的能源驱动激光阵列。</entitydescription.ek_coilgunammo_laser>
-  <entityname.ek_coilgunbolt_laser>线圈枪激光 Bolt</entityname.ek_coilgunbolt_laser>
+  <entityname.ek_coilgunammo_laser>电磁枪激光发射器</entityname.ek_coilgunammo_laser>
+  <entitydescription.ek_coilgunammo_laser>实验性电磁枪硬件改装，能直接使用电磁枪能源驱动的大型激光阵列。</entitydescription.ek_coilgunammo_laser>
+  <entityname.ek_coilgunbolt_laser>Coilgun Laser Bolt</entityname.ek_coilgunbolt_laser>
   <entitydescription.ek_coilgunbolt_laser></entitydescription.ek_coilgunbolt_laser>
-  <entityname.ek_coilgunammohybridtoxin>混合毒素弹药箱</entityname.ek_coilgunammohybridtoxin>
-  <entitydescription.ek_coilgunammohybridtoxin>大口径版本的线圈炮弹药(毒剂版本）。</entitydescription.ek_coilgunammohybridtoxin>
-  <entityname.ek_coilgunbolt_hybridtoxin>混合Toxin Bolt</entityname.ek_coilgunbolt_hybridtoxin>
+  <entityname.ek_coilgunammohybridtoxin>电磁枪混合毒剂弹药箱</entityname.ek_coilgunammohybridtoxin>
+  <entitydescription.ek_coilgunammohybridtoxin>大口径电磁枪弹药（毒剂版本），抑止力大大增强。</entitydescription.ek_coilgunammohybridtoxin>
+  <entityname.ek_coilgunbolt_hybridtoxin>Hybrid Toxin Bolt</entityname.ek_coilgunbolt_hybridtoxin>
   <entitydescription.ek_coilgunbolt_hybridtoxin></entitydescription.ek_coilgunbolt_hybridtoxin>
-  <entityname.ek_coilgunammohybridflare>混合照明弹弹药箱</entityname.ek_coilgunammohybridflare>
-  <entitydescription.ek_coilgunammohybridflare>发射后能点亮一大片区域，便于发现敌人。</entitydescription.ek_coilgunammohybridflare>
-  <entityname.ek_coilgunbolt_hybridflare>混合Flare Bolt</entityname.ek_coilgunbolt_hybridflare>
+  <entityname.ek_coilgunammohybridflare>电磁枪混合照明弹弹药箱</entityname.ek_coilgunammohybridflare>
+  <entitydescription.ek_coilgunammohybridflare>电磁枪版本的照明弹投射方案。发射后产生的明亮信号弹，将便于发现敌人。</entitydescription.ek_coilgunammohybridflare>
+  <entityname.ek_coilgunbolt_hybridflare>Hybrid Flare Bolt</entityname.ek_coilgunbolt_hybridflare>
   <entitydescription.ek_coilgunbolt_hybridflare></entitydescription.ek_coilgunbolt_hybridflare>
-  <entityname.ek_coilgunammohighvelocity>高速弹弹药箱</entityname.ek_coilgunammohighvelocity>
-  <entitydescription.ek_coilgunammohighvelocity>线圈炮高速弹，弹道较为平直。</entitydescription.ek_coilgunammohighvelocity>
-  <entityname.ek_coilgunammohighvelocity_large>扩展高速弹弹药箱</entityname.ek_coilgunammohighvelocity_large>
+  <entityname.ek_coilgunammohighvelocity>电磁枪高速弹弹药箱</entityname.ek_coilgunammohighvelocity>
+  <entitydescription.ek_coilgunammohighvelocity>电磁枪弹药。高速复合弹药，弹道较为平直。</entitydescription.ek_coilgunammohighvelocity>
+  <entityname.ek_coilgunammohighvelocity_large>电磁枪扩展高速弹弹药箱</entityname.ek_coilgunammohighvelocity_large>
   <entitydescription.ek_coilgunammohighvelocity_large></entitydescription.ek_coilgunammohighvelocity_large>
-  <entityname.ek_coilgunbolthighvelocity>High-Velocity线圈炮Bolt</entityname.ek_coilgunbolthighvelocity>
+  <entityname.ek_coilgunbolthighvelocity>High-Velocity Coilgun Bolt</entityname.ek_coilgunbolthighvelocity>
   <entitydescription.ek_coilgunbolthighvelocity></entitydescription.ek_coilgunbolthighvelocity>
   <!-- ek_drones.xml -->
   <entityname.ek_drone_beacon>无人机中继信标</entityname.ek_drone_beacon>
@@ -300,10 +300,10 @@
   <!--EK Armory/Items/Weapons/ek_shells.xml-->
   <entityname.ek_depthcharge_container>载货深水炸弹</entityname.ek_depthcharge_container>
   <entitydescription.ek_depthcharge_container>一个可以用深水炸弹投放器部署的抗压容器，用于抛弃危险物品或快速投放物资到潜艇外。</entitydescription.ek_depthcharge_container>
-  <entityname.ek_railshell_decoy>轨道炮声纳诱饵</entityname.ek_railshell_decoy>
-  <entitydescription.ek_railshell_decoy>实验性的诱饵设备，炮弹会在发射后100m停下并释放声纳诱饵信号。</entitydescription.ek_railshell_decoy>
-  <entityname.ek_railshell_nucleardecoy>核能声纳诱饵</entityname.ek_railshell_nucleardecoy>
-  <entitydescription.ek_railshell_nucleardecoy>实验性的诱饵设备，炮弹会在发射后100m停下并释放声纳诱饵信号。</entitydescription.ek_railshell_nucleardecoy>
+  <entityname.ek_railshell_decoy>轨道炮声呐诱饵</entityname.ek_railshell_decoy>
+  <entitydescription.ek_railshell_decoy>实验性的诱饵设备，炮弹会在发射后100m停下并释放声呐诱饵信号。</entitydescription.ek_railshell_decoy>
+  <entityname.ek_railshell_nucleardecoy>核能声呐诱饵</entityname.ek_railshell_nucleardecoy>
+  <entitydescription.ek_railshell_nucleardecoy>实验性的诱饵设备，炮弹会在发射后100m停下并释放声呐诱饵信号。</entitydescription.ek_railshell_nucleardecoy>
   <entityname.ek_railshell_flechette>轨道炮脱壳穿甲弹</entityname.ek_railshell_flechette>
   <entitydescription.ek_railshell_flechette>特殊设计的弹药，发射后会弹头会射出一根穿甲弹芯。</entitydescription.ek_railshell_flechette>
   <entityname.ek_railgun_flechette_pellet>ek_railgun_flechette_pellet</entityname.ek_railgun_flechette_pellet>
@@ -367,12 +367,12 @@
   <entityname.ek_depthcharge_chaff_aitarget>ek_depthcharge_chaff_aitarget</entityname.ek_depthcharge_chaff_aitarget>
   <entitydescription.ek_depthcharge_chaff_aitarget></entitydescription.ek_depthcharge_chaff_aitarget>
   <entityname.ek_depthcharge_chaff>干扰深水炸弹</entityname.ek_depthcharge_chaff>
-  <entitydescription.ek_depthcharge_chaff>被动声纳反制手段。在区域内释放一片声纳干扰物质。</entitydescription.ek_depthcharge_chaff>
+  <entitydescription.ek_depthcharge_chaff>被动声呐反制手段。在区域内释放一片声呐干扰物质。</entitydescription.ek_depthcharge_chaff>
   <entityname.ek_railshell_chaff>轨道炮干扰炮弹</entityname.ek_railshell_chaff>
-  <entitydescription.ek_railshell_chaff>被动声纳反制手段。在区域内释放一片声纳干扰物质。</entitydescription.ek_railshell_chaff>
+  <entitydescription.ek_railshell_chaff>被动声呐反制手段。在区域内释放一片声呐干扰物质。</entitydescription.ek_railshell_chaff>
   <!--EK Armory/Items/Weapons/ek_weapons.xml-->
   <entityname.ek_piperifle>简易步枪</entityname.ek_piperifle>
-  <entitydescription.ek_piperifle>一种由各种机械零件拼凑而成的临时武器。粗糙但有效。</entitydescription.ek_piperifle>
+  <entitydescription.ek_piperifle>由各种机械零件拼凑而成的临时武器。粗糙但在紧急情况下很有用。</entitydescription.ek_piperifle>
   <entityname.ek_piperound>简易步枪子弹</entityname.ek_piperound>
   <entitydescription.ek_piperound></entitydescription.ek_piperound>
   <entityname.ek_piperound_alien>简易步枪刚素子弹</entityname.ek_piperound_alien>
@@ -380,39 +380,39 @@
   <entityname.ek_revolver_flare>左轮信号枪</entityname.ek_revolver_flare>
   <entitydescription.ek_revolver_flare>防水的照明弹发射枪，可以照亮一小片区域。</entitydescription.ek_revolver_flare>
   <entityname.ek_handgun>手枪</entityname.ek_handgun>
-  <entitydescription.ek_handgun>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是为了应对叛变的船员，但在面对来自深渊的怪物时也是一点聊胜于无的防御手段。</entitydescription.ek_handgun>
+  <entitydescription.ek_handgun>紧凑的9mm手枪，通常配发给私人前哨站或船只的安保部队。虽然其本是设计用于应对可能叛变的船员，但在面对来自深渊的怪物时也算是一点聊胜于无的防御手段。</entitydescription.ek_handgun>
   <entityname.ek_handgun_mag>9mm弹匣</entityname.ek_handgun_mag>
   <entitydescription.ek_handgun_mag></entitydescription.ek_handgun_mag>
   <entityname.ek_handgun_magextended>9mm弹匣（大容量）</entityname.ek_handgun_magextended>
   <entitydescription.ek_handgun_magextended></entitydescription.ek_handgun_magextended>
-  <entityname.ek_handgun_round>9mm子弹</entityname.ek_handgun_round>
+  <entityname.ek_handgun_round>9mm Round</entityname.ek_handgun_round>
   <entitydescription.ek_handgun_round></entitydescription.ek_handgun_round>
   <entityname.ek_handgun_alienmag>9mm刚素弹匣</entityname.ek_handgun_alienmag>
   <entitydescription.ek_handgun_alienmag></entitydescription.ek_handgun_alienmag>
-  <entityname.ek_handgun_alienround>9mm刚素子弹</entityname.ek_handgun_alienround>
+  <entityname.ek_handgun_alienround>Physicorium 9mm Round</entityname.ek_handgun_alienround>
   <entitydescription.ek_handgun_alienround></entitydescription.ek_handgun_alienround>
   <entityname.ek_handgun_riot_mag>9mm弹匣（镇暴弹）</entityname.ek_handgun_riot_mag>
   <entitydescription.ek_handgun_riot_mag></entitydescription.ek_handgun_riot_mag>
-  <entityname.ek_handgun_riot_round>9mm镇暴子弹</entityname.ek_handgun_riot_round>
+  <entityname.ek_handgun_riot_round>9mm Riot Round</entityname.ek_handgun_riot_round>
   <entitydescription.ek_handgun_riot_round></entitydescription.ek_handgun_riot_round>
   <entityname.ek_smg>军用冲锋枪</entityname.ek_smg>
-  <entitydescription.ek_smg>一种由木卫二联盟开发的先进的军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自行式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg>
+  <entitydescription.ek_smg>由木卫二联盟开发的先进军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自推式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg>
   <entityname.ek_smg_mag>5.7x28mm弹匣</entityname.ek_smg_mag>
   <entitydescription.ek_smg_mag>联盟5.7x28mm弹匣</entitydescription.ek_smg_mag>
-  <entityname.ek_smg_round>5.7x28mm子弹</entityname.ek_smg_round>
+  <entityname.ek_smg_round>5.7x28mm Round</entityname.ek_smg_round>
   <entitydescription.ek_smg_round></entitydescription.ek_smg_round>
   <entityname.ek_smg_alienmag>5.7x28mm刚素弹匣</entityname.ek_smg_alienmag>
   <entitydescription.ek_smg_alienmag>联盟5.7x28mm弹匣</entitydescription.ek_smg_alienmag>
-  <entityname.ek_smg_alienround>5.7x28mm刚素子弹</entityname.ek_smg_alienround>
+  <entityname.ek_smg_alienround>Physicorium 5.7x28mm Round</entityname.ek_smg_alienround>
   <entitydescription.ek_smg_alienround></entitydescription.ek_smg_alienround>
   <entityname.ek_smg_riot_mag>5.7x28mm弹匣（镇暴弹）</entityname.ek_smg_riot_mag>
   <entitydescription.ek_smg_riot_mag>联盟5.7x28mm弹匣</entitydescription.ek_smg_riot_mag>
-  <entityname.ek_smg_riot_round>5.7x28mm镇暴弹</entityname.ek_smg_riot_round>
+  <entityname.ek_smg_riot_round>5.7x28mm Riot Round</entityname.ek_smg_riot_round>
   <entitydescription.ek_smg_riot_round></entitydescription.ek_smg_riot_round>
   <entityname.ek_riotshield>轻型防暴盾</entityname.ek_riotshield>
   <entitydescription.ek_riotshield>由透明防弹树脂制成的轻型防暴盾牌</entitydescription.ek_riotshield>
   <entityname.ek_torpedorifle>鱼雷发射器</entityname.ek_torpedorifle>
-  <entitydescription.ek_torpedorifle>先进的水下发射器，设计用于针对潜艇和重甲怪物，发射拥有可观射程的微型鱼雷。</entitydescription.ek_torpedorifle>
+  <entitydescription.ek_torpedorifle>先进的水下无后座力发射器，设计用于针对潜艇和重甲怪物，发射拥有可观射程的微型鱼雷。</entitydescription.ek_torpedorifle>
   <entityname.ek_torpedorifle_round_slug>微型鱼雷（实心弹头）</entityname.ek_torpedorifle_round_slug>
   <entitydescription.ek_torpedorifle_round_slug>小型化的动能杀伤弹头，使用鱼雷发射器发射。</entitydescription.ek_torpedorifle_round_slug>
   <entityname.ek_torpedorifle_round>微型鱼雷（高爆）</entityname.ek_torpedorifle_round>
@@ -436,7 +436,7 @@
   <entityname.ek_double_shotgun>双管霰弹枪</entityname.ek_double_shotgun>
   <entitydescription.ek_double_shotgun>截短双管霰弹枪。便宜且有效，是联盟安保员的最爱。</entitydescription.ek_double_shotgun>
   <entityname.ek_shotgun>战术霰弹枪</entityname.ek_shotgun>
-  <entitydescription.ek_shotgun>联盟标准泵动式霰弹枪。能装载8发子弹。</entitydescription.ek_shotgun>
+  <entitydescription.ek_shotgun>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_shotgun>
   <entityname.ek_shotgun_shell>12号霰弹</entityname.ek_shotgun_shell>
   <entitydescription.ek_shotgun_shell>霰弹枪散弹</entitydescription.ek_shotgun_shell>
   <entityname.ek_shotgun_beanbag>豆袋弹</entityname.ek_shotgun_beanbag>
@@ -449,8 +449,8 @@
   <entitydescription.ek_shotgun_alien_slug>霰弹枪用刚素独头弹，对有护甲目标有效。</entitydescription.ek_shotgun_alien_slug>
   <entityname.ek_shotgun_grenade>FRAG高爆霰弹</entityname.ek_shotgun_grenade>
   <entitydescription.ek_shotgun_grenade>霰弹枪用FRAG高爆霰弹，击中目标后会发生爆炸。</entitydescription.ek_shotgun_grenade>
-  <entityname.ek_shotgun_flechette>箭型弹</entityname.ek_shotgun_flechette>
-  <entitydescription.ek_shotgun_flechette>霰弹枪用箭型弹，对无护甲目标有效。</entitydescription.ek_shotgun_flechette>
+  <entityname.ek_shotgun_flechette>箭形弹</entityname.ek_shotgun_flechette>
+  <entitydescription.ek_shotgun_flechette>霰弹枪用箭形弹，对无护甲目标有效。</entitydescription.ek_shotgun_flechette>
   <entityname.ek_tazer>泰瑟枪</entityname.ek_tazer>
   <entitydescription.ek_tazer>和电击甩棍相同的击晕效果，但射程更长。</entitydescription.ek_tazer>
   <entityname.ek_tazer_mag>泰瑟枪弹匣</entityname.ek_tazer_mag>
@@ -473,8 +473,8 @@
   <entitydescription.ek_alienrifle_mag></entitydescription.ek_alienrifle_mag>
   <entityname.ek_alienrifle_round>异星步枪子弹</entityname.ek_alienrifle_round>
   <entitydescription.ek_alienrifle_round></entitydescription.ek_alienrifle_round>
-  <entityname.ek_petrobomb>莫洛托夫</entityname.ek_petrobomb>
-  <entitydescription.ek_petrobomb>一瓶高度数鸡尾酒，瓶口塞了布条。粗糙但有效的火焰武器。</entitydescription.ek_petrobomb>
+  <entityname.ek_petrobomb>莫洛托夫鸡尾酒</entityname.ek_petrobomb>
+  <entitydescription.ek_petrobomb>一瓶酒精加上浸湿的绷带构成的引芯，简陋但好用的火焰武器。</entitydescription.ek_petrobomb>
   <entityname.ek_micro_dartgun>微型飞镖枪</entityname.ek_micro_dartgun>
   <entitydescription.ek_micro_dartgun>小型手持飞镖发射器，常用于暗杀。</entitydescription.ek_micro_dartgun>
   <entityname.ek_dartgun>飞镖枪</entityname.ek_dartgun>
@@ -502,7 +502,7 @@
   <entityname.ek_dart_ethanol>飞镖（医用酒精）</entityname.ek_dart_ethanol>
   <entitydescription.ek_dart_ethanol></entitydescription.ek_dart_ethanol>
   <entityname.ek_dart_chloralhydrate>飞镖（水合三氯乙醛）</entityname.ek_dart_chloralhydrate>
-  <entitydescription.ek_dart_chloralhydrate>镇静剂飞镖</entitydescription.ek_dart_chloralhydrate>
+  <entitydescription.ek_dart_chloralhydrate></entitydescription.ek_dart_chloralhydrate>
   <entityname.ek_dart_deliriumine>飞镖（谵妄毒剂）</entityname.ek_dart_deliriumine>
   <entitydescription.ek_dart_deliriumine></entitydescription.ek_dart_deliriumine>
   <entityname.ek_dart_acid>飞镖（硫酸）</entityname.ek_dart_acid>
@@ -510,7 +510,7 @@
   <entityname.ek_dart_cyanide>飞镖（氰化物毒剂）</entityname.ek_dart_cyanide>
   <entitydescription.ek_dart_cyanide></entitydescription.ek_dart_cyanide>
   <entityname.ek_dart_radiotoxin>飞镖（辐射毒剂）</entityname.ek_dart_radiotoxin>
-  <entitydescription.ek_dart_radiotoxin>辐射毒剂：一种强效神经毒剂。</entitydescription.ek_dart_radiotoxin>
+  <entitydescription.ek_dart_radiotoxin></entitydescription.ek_dart_radiotoxin>
   <entityname.ek_dart_morbusine>飞镖（窒死毒剂）</entityname.ek_dart_morbusine>
   <entitydescription.ek_dart_morbusine></entitydescription.ek_dart_morbusine>
   <entityname.ek_dart_sufforin>飞镖（升天毒剂）</entityname.ek_dart_sufforin>
@@ -520,73 +520,73 @@
   <entityname.ek_dart_raptorbane>飞镖（枭祸根精华）</entityname.ek_dart_raptorbane>
   <entitydescription.ek_dart_raptorbane></entitydescription.ek_dart_raptorbane>
   <entityname.ek_dart_explosive>飞镖（爆炸）</entityname.ek_dart_explosive>
-  <entitydescription.ek_dart_explosive>飞镖携带的少量塑性炸药会在命中后一段时间爆炸。</entitydescription.ek_dart_explosive>
+  <entitydescription.ek_dart_explosive>飞镖携带的微型爆炸探针会在命中后一段时间爆炸。</entitydescription.ek_dart_explosive>
   <entityname.ek_mini_smg>紧凑冲锋枪</entityname.ek_mini_smg>
-  <entitydescription.ek_mini_smg>简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还是能打死东西。</entitydescription.ek_mini_smg>
+  <entitydescription.ek_mini_smg>结构简单的10mm冲锋枪，用于船只和前哨站防卫。精度很低而且弹药消耗大，不过还算能用。</entitydescription.ek_mini_smg>
   <entityname.ek_mini_smg_mag>10mm-Auto弹匣</entityname.ek_mini_smg_mag>
   <entitydescription.ek_mini_smg_mag></entitydescription.ek_mini_smg_mag>
-  <entityname.ek_mini_smg_round>10mm-Auto弹</entityname.ek_mini_smg_round>
+  <entityname.ek_mini_smg_round>10mm-Auto Round</entityname.ek_mini_smg_round>
   <entitydescription.ek_mini_smg_round></entitydescription.ek_mini_smg_round>
   <entityname.ek_mini_smg_alienmag>10mm-Auto刚素弹匣</entityname.ek_mini_smg_alienmag>
   <entitydescription.ek_mini_smg_alienmag></entitydescription.ek_mini_smg_alienmag>
-  <entityname.ek_mini_smg_alienround>10mm-Auto刚素弹</entityname.ek_mini_smg_alienround>
+  <entityname.ek_mini_smg_alienround>Physicorium 10mm-Auto Round</entityname.ek_mini_smg_alienround>
   <entitydescription.ek_mini_smg_alienround></entitydescription.ek_mini_smg_alienround>
   <entityname.ek_mini_smg_riot_mag>10mm-Auto弹匣（镇暴弹）</entityname.ek_mini_smg_riot_mag>
   <entitydescription.ek_mini_smg_riot_mag></entitydescription.ek_mini_smg_riot_mag>
-  <entityname.ek_mini_smg_riot_round>10mm-Auto镇暴弹</entityname.ek_mini_smg_riot_round>
+  <entityname.ek_mini_smg_riot_round>10mm-Auto Riot Round</entityname.ek_mini_smg_riot_round>
   <entitydescription.ek_mini_smg_riot_round></entitydescription.ek_mini_smg_riot_round>
   <entityname.ek_rocketlauncher>火箭发射器</entityname.ek_rocketlauncher>
-  <entitydescription.ek_rocketlauncher>重型肩扛式火箭发射器，设计用于木卫二联盟特种行动。笨重且昂贵，但效果拔群。</entitydescription.ek_rocketlauncher>
+  <entitydescription.ek_rocketlauncher>重型军用肩扛式火箭发射器，设计用于木卫二联盟特种作战行动。笨重且昂贵，但效果拔群。</entitydescription.ek_rocketlauncher>
   <entityname.ek_rocketammo_explosive>火箭弹（高爆）</entityname.ek_rocketammo_explosive>
-  <entitydescription.ek_rocketammo_explosive>带有大型战斗部的撞击引爆火箭弹。</entitydescription.ek_rocketammo_explosive>
-  <entityname.ek_rocketammo_shortfuse>火箭弹（近炸引信）</entityname.ek_rocketammo_shortfuse>
-  <entitydescription.ek_rocketammo_shortfuse>带有大型战斗部的近炸引信火箭弹。</entitydescription.ek_rocketammo_shortfuse>
+  <entitydescription.ek_rocketammo_explosive>带有大型战斗部的碰炸引信火箭弹。</entitydescription.ek_rocketammo_explosive>
+  <entityname.ek_rocketammo_shortfuse>火箭弹（延时引信）</entityname.ek_rocketammo_shortfuse>
+  <entitydescription.ek_rocketammo_shortfuse>带有大型战斗部的延时引信火箭弹。</entitydescription.ek_rocketammo_shortfuse>
   <entityname.ek_rocketammo_armorpiercing>火箭弹（穿甲）</entityname.ek_rocketammo_armorpiercing>
   <entitydescription.ek_rocketammo_armorpiercing>依靠动能杀伤目标的穿甲火箭弹。</entitydescription.ek_rocketammo_armorpiercing>
   <entityname.ek_rocketammo_alien>火箭弹（刚素）</entityname.ek_rocketammo_alien>
-  <entitydescription.ek_rocketammo_alien>实验性刚素火箭弹，当量更大。</entitydescription.ek_rocketammo_alien>
+  <entitydescription.ek_rocketammo_alien>实验性刚素火箭弹，威力更大。</entitydescription.ek_rocketammo_alien>
   <entityname.ek_gausspistol>高斯手枪</entityname.ek_gausspistol>
-  <entitydescription.ek_gausspistol>先进动能武器，利用电磁线圈以高速度推动金属弹头。使用雷素电池供电，需要定期充电。</entitydescription.ek_gausspistol>
+  <entitydescription.ek_gausspistol>先进雷素武器，利用电磁线圈以极高速度推动金属弹头。由雷素电池供电，需要定期充电。</entitydescription.ek_gausspistol>
   <entityname.ek_gausspistol_mag>高斯手枪弹匣</entityname.ek_gausspistol_mag>
   <entitydescription.ek_gausspistol_mag></entitydescription.ek_gausspistol_mag>
   <entityname.ek_gausspistol_round>高斯手枪子弹</entityname.ek_gausspistol_round>
   <entitydescription.ek_gausspistol_round></entitydescription.ek_gausspistol_round>
   <entityname.ek_gaussrifle>高斯步枪</entityname.ek_gaussrifle>
-  <entitydescription.ek_gaussrifle>先进动能武器，利用电磁线圈以高速度推动金属弹头。使用雷素电池供电，需要定期充电。</entitydescription.ek_gaussrifle>
+  <entitydescription.ek_gaussrifle>先进雷素武器，利用电磁线圈以极高速度推动金属弹头。由雷素电池供电，需要定期充电。</entitydescription.ek_gaussrifle>
   <entityname.ek_gaussrifle_mag>高斯步枪弹匣</entityname.ek_gaussrifle_mag>
   <entitydescription.ek_gaussrifle_mag></entitydescription.ek_gaussrifle_mag>
-  <entityname.ek_gaussrifle_round>高斯步枪子弹</entityname.ek_gaussrifle_round>
+  <entityname.ek_gaussrifle_round>Gauss Pistol Bolt</entityname.ek_gaussrifle_round>
   <entitydescription.ek_gaussrifle_round></entitydescription.ek_gaussrifle_round>
   <entityname.ek_drumlmg>轻机枪</entityname.ek_drumlmg>
-  <entitydescription.ek_drumlmg>重型自动武器，发射5.56x45mm弹药。火力持续力强。</entitydescription.ek_drumlmg>
+  <entitydescription.ek_drumlmg>重型自动武器，发射5.56x45mm弹药。持续射击能力超强。</entitydescription.ek_drumlmg>
   <entityname.ek_drumlmg_mag>5.56x45mm弹鼓</entityname.ek_drumlmg_mag>
-  <entitydescription.ek_drumlmg_mag>5.56x45mm机枪弹</entitydescription.ek_drumlmg_mag>
-  <entityname.ek_drumlmg_round>5.56x45mm弹</entityname.ek_drumlmg_round>
+  <entitydescription.ek_drumlmg_mag>5.56x45mmParabellum机枪弹。</entitydescription.ek_drumlmg_mag>
+  <entityname.ek_drumlmg_round>5.56x45mm Round</entityname.ek_drumlmg_round>
   <entitydescription.ek_drumlmg_round></entitydescription.ek_drumlmg_round>
   <entityname.ek_drumlmg_alienmag>5.56x45mm刚素弹鼓</entityname.ek_drumlmg_alienmag>
   <entitydescription.ek_drumlmg_alienmag></entitydescription.ek_drumlmg_alienmag>
-  <entityname.ek_drumlmg_alienround>5.56x45mm刚素弹</entityname.ek_drumlmg_alienround>
+  <entityname.ek_drumlmg_alienround>Physicorium 5.56x45mm Round</entityname.ek_drumlmg_alienround>
   <entitydescription.ek_drumlmg_alienround></entitydescription.ek_drumlmg_alienround>
   <entityname.ek_smokegrenade>烟雾弹</entityname.ek_smokegrenade>
   <entitydescription.ek_smokegrenade></entitydescription.ek_smokegrenade>
-  <entityname.ek_battlerifle>军用步枪</entityname.ek_battlerifle>
+  <entityname.ek_battlerifle>军用战斗步枪</entityname.ek_battlerifle>
   <entitydescription.ek_battlerifle>木卫二联盟制式5.56x45mm步枪，精准可靠。受到木卫二佣兵的广泛好评。</entitydescription.ek_battlerifle>
   <entityname.ek_battlerifle_mag>5.56x45mm弹匣</entityname.ek_battlerifle_mag>
-  <entitydescription.ek_battlerifle_mag>Coalition 5.56x45mm</entitydescription.ek_battlerifle_mag>
+  <entitydescription.ek_battlerifle_mag>联盟5.56x45mm弹药。</entitydescription.ek_battlerifle_mag>
   <entityname.ek_battlerifle_alien_mag>5.56x45mm刚素弹匣</entityname.ek_battlerifle_alien_mag>
-  <entitydescription.ek_battlerifle_alien_mag>Coalition 5.56x45mm</entitydescription.ek_battlerifle_alien_mag>
+  <entitydescription.ek_battlerifle_alien_mag>联盟5.56x45mm弹药。</entitydescription.ek_battlerifle_alien_mag>
   <entityname.ek_battlerifle_riot_mag>5.56x45mm弹匣（镇暴弹）</entityname.ek_battlerifle_riot_mag>
-  <entitydescription.ek_battlerifle_riot_mag>Coalition 5.56x45mm</entitydescription.ek_battlerifle_riot_mag>
+  <entitydescription.ek_battlerifle_riot_mag>联盟5.56x45mm弹药。</entitydescription.ek_battlerifle_riot_mag>
   <entityname.ek_beast_ssl>“野兽” SSL</entityname.ek_beast_ssl>
-  <entitydescription.ek_beast_ssl>实验性便携式30毫米FC机炮，具有强大的压制火力，但同时暴露出笨重和射速慢的缺点。</entitydescription.ek_beast_ssl>
+  <entitydescription.ek_beast_ssl>实验性便携式30mmFC自动炮，具有强大的压制火力。</entitydescription.ek_beast_ssl>
   <entityname.ek_ssl_magazine>30mm-FC弹夹</entityname.ek_ssl_magazine>
-  <entitydescription.ek_ssl_magazine>30mm-FC弹夹，用于“野兽” SSL机炮。</entitydescription.ek_ssl_magazine>
-  <entityname.ek_ssl_round>30mm-FC弹药</entityname.ek_ssl_round>
+  <entitydescription.ek_ssl_magazine>30mm SSL复合弹夹，用于实验性的便携式“野兽”SSL机炮。</entitydescription.ek_ssl_magazine>
+  <entityname.ek_ssl_round>30mm-FC Round</entityname.ek_ssl_round>
   <entitydescription.ek_ssl_round></entitydescription.ek_ssl_round>
   <entityname.ek_ied>简易爆炸物</entityname.ek_ied>
-  <entitydescription.ek_ied>用简单电路和一个燃料罐构成的简易炸弹。</entitydescription.ek_ied>
+  <entitydescription.ek_ied>用简单电路和燃料罐构成的简易炸弹。</entitydescription.ek_ied>
   <entityname.ek_breachingcharge>破墙炸药</entityname.ek_breachingcharge>
-  <entitydescription.ek_breachingcharge>轻量特制炸药，可用于破拆门和船体。</entitydescription.ek_breachingcharge>
+  <entitydescription.ek_breachingcharge>轻量级侵彻装备，爆炸范围小。适用于破门和破拆船体薄弱区域。</entitydescription.ek_breachingcharge>
   <entityname.ek_breachingcharge_effect>ek_breachingcharge_effect</entityname.ek_breachingcharge_effect>
   <entitydescription.ek_breachingcharge_effect></entitydescription.ek_breachingcharge_effect>
   <entityname.ek_explosivecharge_uex>炸药包（UEX）</entityname.ek_explosivecharge_uex>
@@ -604,13 +604,13 @@
   <entityname.ek_thermite_effect_large>ek_thermite_effect_large</entityname.ek_thermite_effect_large>
   <entitydescription.ek_thermite_effect_large></entitydescription.ek_thermite_effect_large>
   <entityname.ek_laserpistol>激光手枪</entityname.ek_laserpistol>
-  <entitydescription.ek_laserpistol>应用了脉冲放大激光原理的武器。由特殊的大功率电池驱动。</entitydescription.ek_laserpistol>
+  <entitydescription.ek_laserpistol>应用了脉冲放大原理的激光武器。由特殊的大功率电池驱动。</entitydescription.ek_laserpistol>
   <entityname.ek_laserpistol_mag>激光手枪弹仓</entityname.ek_laserpistol_mag>
   <entitydescription.ek_laserpistol_mag></entitydescription.ek_laserpistol_mag>
   <entityname.ek_laserpistol_round>激光手枪弹药</entityname.ek_laserpistol_round>
   <entitydescription.ek_laserpistol_round></entitydescription.ek_laserpistol_round>
   <entityname.ek_laserrifle>激光步枪</entityname.ek_laserrifle>
-  <entitydescription.ek_laserrifle>应用了脉冲放大激光原理的武器。由特殊的大功率电池驱动。</entitydescription.ek_laserrifle>
+  <entitydescription.ek_laserrifle>应用了脉冲放大原理的激光武器。由特殊的大功率电池驱动。</entitydescription.ek_laserrifle>
   <entityname.ek_laserrifle_mag>激光步枪弹仓</entityname.ek_laserrifle_mag>
   <entitydescription.ek_laserrifle_mag></entitydescription.ek_laserrifle_mag>
   <entityname.ek_laserrifle_round>激光步枪弹药</entityname.ek_laserrifle_round>
@@ -620,11 +620,11 @@
   <entityname.ek_flame_hypergolic>Hypergolic Droplet</entityname.ek_flame_hypergolic>
   <entitydescription.ek_flame_hypergolic></entitydescription.ek_flame_hypergolic>
   <entityname.ek_dynamite>炸药</entityname.ek_dynamite>
-  <entitydescription.ek_dynamite>由常见有机物经初步加工而成的爆炸化合物（手持时按使用键点燃）</entitydescription.ek_dynamite>
+  <entitydescription.ek_dynamite>由常见有机化学品经初步加工而成的爆炸化合物（手持时按使用键点燃）</entitydescription.ek_dynamite>
   <entityname.ek_explosivecharge_dynamite>炸药包（炸药）</entityname.ek_explosivecharge_dynamite>
   <entitydescription.ek_explosivecharge_dynamite>定时炸药包。</entitydescription.ek_explosivecharge_dynamite>
   <entityname.ek_revolver>.357左轮</entityname.ek_revolver>
-  <entitydescription.ek_revolver>印有复古花纹的单动左轮，受到有戏剧天赋船长的喜爱。</entitydescription.ek_revolver>
+  <entitydescription.ek_revolver>印有复古花纹的单动左轮，是有戏剧天赋的船长们的最爱。</entitydescription.ek_revolver>
   <entityname.ek_revolverammo>.357左轮弹药</entityname.ek_revolverammo>
   <entitydescription.ek_revolverammo></entitydescription.ek_revolverammo>
   <entityname.ek_revolverspeedloader>.357快速装弹器</entityname.ek_revolverspeedloader>
@@ -640,9 +640,9 @@
   <entityname.ek_flashgrenade>闪光震撼弹</entityname.ek_flashgrenade>
   <entitydescription.ek_flashgrenade></entitydescription.ek_flashgrenade>
   <entityname.ek_spear_rocket>火箭鱼叉</entityname.ek_spear_rocket>
-  <entitydescription.ek_spear_rocket>用于鱼叉枪的鱼叉，带有一个推进用的火箭以增加射程和伤害。</entitydescription.ek_spear_rocket>
+  <entitydescription.ek_spear_rocket>用于鱼叉枪，由一个小型火箭引擎推动以增加射程和伤害。</entitydescription.ek_spear_rocket>
   <entityname.ek_divinggrenade>水下手雷</entityname.ek_divinggrenade>
-  <entitydescription.ek_divinggrenade>浮力经过调整的手雷，适合水下使用。引信时间比一般手雷短。</entitydescription.ek_divinggrenade>
+  <entitydescription.ek_divinggrenade>为水下使用而设计的浮力中性手榴弹。引信时间比一般手雷短。</entitydescription.ek_divinggrenade>
   <entityname.ek_40mmsmoke>40mm 烟雾榴弹</entityname.ek_40mmsmoke>
   <entitydescription.ek_40mmsmoke>爆炸后产生一片烟雾的榴弹发射器弹药。</entitydescription.ek_40mmsmoke>
   <entityname.ek_40mmbeehive>40mm 蜂巢榴弹</entityname.ek_40mmbeehive>
@@ -653,9 +653,9 @@
   <entityname.ek_hatchet>斧头</entityname.ek_hatchet>
   <entitydescription.ek_hatchet>蓝星上的传统砍树工具，现在主要用于去除讨厌的的真菌菌落。也算是一件趁手的武器。</entitydescription.ek_hatchet>
   <entityname.ek_captains_sabre>骑兵军刀</entityname.ek_captains_sabre>
-  <entitydescription.ek_captains_sabre>一种发给老船长的过时武器，但如果使用得当仍然致命。</entitydescription.ek_captains_sabre>
+  <entitydescription.ek_captains_sabre>配发给老船长的武器，古老，但如果使用得当仍然相当致命。</entitydescription.ek_captains_sabre>
   <entityname.ek_tonfa>甩棍</entityname.ek_tonfa>
-  <entitydescription.ek_tonfa>安保用甩棍，去除了那些花里胡哨的配件。</entitydescription.ek_tonfa>
+  <entitydescription.ek_tonfa>安保甩棍，没有任何花里胡哨的配件。</entitydescription.ek_tonfa>
   <entityname.ek_throwingknife>飞刀</entityname.ek_throwingknife>
-  <entitydescription.ek_throwingknife>Road roller not included.（这又是什么梗）</entitydescription.ek_throwingknife>
+  <entitydescription.ek_throwingknife>这里没有压路机。（译者注：JOJO梗）</entitydescription.ek_throwingknife>
 </infotexts>
