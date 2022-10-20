@@ -2,19 +2,19 @@
 <infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
   <!-- ekutility_containers.xml -->
   <entityname.ekutility_smallshelf>小架子</entityname.ekutility_smallshelf>
-  <entitydescription.ekutility_smallshelf>基本壁挂存储解决方案。 （按瞄准+使用即可放置）</entitydescription.ekutility_smallshelf>
+  <entitydescription.ekutility_smallshelf>基本壁挂存储解决方案。 （右键调整位置+E键即可放置）</entitydescription.ekutility_smallshelf>
   <entityname.ekutility_mediumshelf>架子</entityname.ekutility_mediumshelf>
-  <entitydescription.ekutility_mediumshelf>基本壁挂存储解决方案。 （按瞄准+使用即可放置）</entitydescription.ekutility_mediumshelf>
+  <entitydescription.ekutility_mediumshelf>基本壁挂存储解决方案。 （右键调整位置+E键即可放置）</entitydescription.ekutility_mediumshelf>
   <entityname.ekutility_shellrack>大型轨道炮弹架</entityname.ekutility_shellrack>
-  <entitydescription.ekutility_shellrack>一个设计用于放置轨道炮弹的金属架。 （按瞄准+使用即可放置）</entitydescription.ekutility_shellrack>
+  <entitydescription.ekutility_shellrack>一个设计用于放置轨道炮弹的金属架。 （右键调整位置+E键即可放置）</entitydescription.ekutility_shellrack>
   <entityname.ekutility_shellrack_huge>巨型轨道炮弹架</entityname.ekutility_shellrack_huge>
-  <entitydescription.ekutility_shellrack_huge>一种壁挂式弹匣，可以装更多轨道炮炮弹。 （按瞄准+使用即可放置）</entitydescription.ekutility_shellrack_huge>
+  <entitydescription.ekutility_shellrack_huge>一种壁挂式弹匣，可以装更多轨道炮炮弹。 （右键调整位置+E键即可放置）</entitydescription.ekutility_shellrack_huge>
   <entityname.ekutility_craterack>板条货架</entityname.ekutility_craterack>
-  <entitydescription.ekutility_craterack>一个架子，用于整齐地存放货物周转箱。 （按瞄准+使用即可放置）</entitydescription.ekutility_craterack>
+  <entitydescription.ekutility_craterack>一个架子，用于整齐地存放货物周转箱。 （右键调整位置+E键即可放置）</entitydescription.ekutility_craterack>
   <entityname.ekutility_craterack_tall>高条板箱架</entityname.ekutility_craterack_tall>
-  <entitydescription.ekutility_craterack_tall>一个较高的架子，用于整齐地存放货物周转箱。 （按瞄准+使用即可放置）</entitydescription.ekutility_craterack_tall>
+  <entitydescription.ekutility_craterack_tall>一个较高的架子，用于整齐地存放货物周转箱。 （右键调整位置+E键即可放置）</entitydescription.ekutility_craterack_tall>
   <entityname.ekutility_craterack_freezer>恒温板条箱架</entityname.ekutility_craterack_freezer>
-  <entitydescription.ekutility_craterack_freezer>恒温的货物周转箱架，用于储存对温度或湿度敏感的货物，需要电力。（按瞄准+使用即可放置）</entitydescription.ekutility_craterack_freezer>
+  <entitydescription.ekutility_craterack_freezer>恒温的货物周转箱架，用于储存对温度或湿度敏感的货物，需要电力。（右键调整位置+E键即可放置）</entitydescription.ekutility_craterack_freezer>
   <entityname.ekutility_chemlightboxred>荧光棒箱（红色）</entityname.ekutility_chemlightboxred>
   <entitydescription.ekutility_chemlightboxred>一盒一次性荧光棒，红色。</entitydescription.ekutility_chemlightboxred>
   <entityname.ekutility_chemlightboxgreen>荧光棒箱（绿色）</entityname.ekutility_chemlightboxgreen>
@@ -36,19 +36,19 @@
   <entityname.ekutility_crateblocker>货箱挡板</entityname.ekutility_crateblocker>
   <entitydescription.ekutility_crateblocker>一个空的存储隔板。可用于防止将货物放在未使用的板条箱槽中。</entitydescription.ekutility_crateblocker>
   <entityname.ekutility_materiallocker>材料存储柜</entityname.ekutility_materiallocker>
-  <entitydescription.ekutility_materiallocker>用于整理物品的储物柜。（按瞄准+使用即可放置）</entitydescription.ekutility_materiallocker>
+  <entitydescription.ekutility_materiallocker>用于整理物品的储物柜。（右键调整位置+E键即可放置）</entitydescription.ekutility_materiallocker>
   <entityname.ekutility_mulecargo>运输式水下推进器</entityname.ekutility_mulecargo>
   <entitydescription.ekutility_mulecargo>自动推进的水下雪橇，能够装载4个货物箱。</entitydescription.ekutility_mulecargo>
   <entityname.ekutility_securelockercaptain>保险钢柜（船长）</entityname.ekutility_securelockercaptain>
-  <entitydescription.ekutility_securelockercaptain>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockercaptain>
+  <entitydescription.ekutility_securelockercaptain>可以储存中小型物品的带锁安全柜。（右键调整位置+E键即可放置）</entitydescription.ekutility_securelockercaptain>
   <entityname.ekutility_securelockersecurityofficer>保险钢柜（安全官）</entityname.ekutility_securelockersecurityofficer>
-  <entitydescription.ekutility_securelockersecurityofficer>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockersecurityofficer>
+  <entitydescription.ekutility_securelockersecurityofficer>可以储存中小型物品的带锁安全柜。（右键调整位置+E键即可放置）</entitydescription.ekutility_securelockersecurityofficer>
   <entityname.ekutility_securelockermedicaldoctor>保险钢柜（医生）</entityname.ekutility_securelockermedicaldoctor>
-  <entitydescription.ekutility_securelockermedicaldoctor>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockermedicaldoctor>
+  <entitydescription.ekutility_securelockermedicaldoctor>可以储存中小型物品的带锁安全柜。（右键调整位置+E键即可放置）</entitydescription.ekutility_securelockermedicaldoctor>
   <entityname.ekutility_securelockermechanic>保险钢柜（机修工）</entityname.ekutility_securelockermechanic>
-  <entitydescription.ekutility_securelockermechanic>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockermechanic>
+  <entitydescription.ekutility_securelockermechanic>可以储存中小型物品的带锁安全柜。（右键调整位置+E键即可放置）</entitydescription.ekutility_securelockermechanic>
   <entityname.ekutility_securelockerengineer>保险钢柜（工程师）</entityname.ekutility_securelockerengineer>
-  <entitydescription.ekutility_securelockerengineer>可以储存中小型物品的带锁安全柜。（按瞄准+使用即可放置）</entitydescription.ekutility_securelockerengineer>
+  <entitydescription.ekutility_securelockerengineer>可以储存中小型物品的带锁安全柜。（右键调整位置+E键即可放置）</entitydescription.ekutility_securelockerengineer>
   <!-- ekutility_labels.xml -->
   <entityname.ekutility_label_text>Text Label</entityname.ekutility_label_text>
   <entitydescription.ekutility_label_text>A blank label card with room for written information.</entitydescription.ekutility_label_text>
@@ -280,8 +280,8 @@
   <entityname.ekutility_rebreatherunit>循环呼吸器</entityname.ekutility_rebreatherunit>
   <entitydescription.ekutility_rebreatherunit>实验性自给式再呼吸装置，其连接设计与大多数标准潜水设备兼容。需要电池和内部氧气储存才能工作。</entitydescription.ekutility_rebreatherunit>
   <entityname.ekutility_jetscooter>喷气水下推进器</entityname.ekutility_jetscooter>
-  <entitydescription.ekutility_jetscooter>先进的水下推进装置。具有更大的电池容量和内置声纳导航系统。</entitydescription.ekutility_jetscooter>
-  <entityname.ekutility_advancedsonarbeacon>高级声纳信标</entityname.ekutility_advancedsonarbeacon>
+  <entitydescription.ekutility_jetscooter>先进的水下推进装置。具有更大的电池容量和内置声呐导航系统。</entitydescription.ekutility_jetscooter>
+  <entityname.ekutility_advancedsonarbeacon>高级声呐信标</entityname.ekutility_advancedsonarbeacon>
   <entitydescription.ekutility_advancedsonarbeacon>手持式定位信标发射器，对进行舱外活动很有帮助。</entitydescription.ekutility_advancedsonarbeacon>
   <entityname.ekutility_Utility_hardsuit>多功能压力服MK1</entityname.ekutility_Utility_hardsuit>
   <entitydescription.ekutility_Utility_hardsuit>坚固的压力套装，专为施工，采矿和救助操作而设计,提供一定的高温和电击保护的同时允许使用者正常操作各种工具装备。[额定6000米]</entitydescription.ekutility_Utility_hardsuit>
@@ -454,15 +454,15 @@
   <entitydescription.ekutility_densifiedmaterial_antiparalysis>装箱的麻痹治愈剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antiparalysis>
   <!-- ekutility_placeablemachines.xml -->
   <entityname.ekutility_divingsuitlocker>潜水服柜</entityname.ekutility_divingsuitlocker>
-  <entitydescription.ekutility_divingsuitlocker>存放潜水服的储物柜, 通电后可为潜水服补充氧气。 （按瞄准+使用即可放置）</entitydescription.ekutility_divingsuitlocker>
+  <entitydescription.ekutility_divingsuitlocker>存放潜水服的储物柜, 通电后可为潜水服补充氧气。 （右键调整位置+E键即可放置）</entitydescription.ekutility_divingsuitlocker>
   <entityname.ekutility_oxygentankshelf>氧气罐置物架</entityname.ekutility_oxygentankshelf>
-  <entitydescription.ekutility_oxygentankshelf>可摆放多个氧气罐，通电后可为氧气罐补充氧气。 （按瞄准+使用即可放置）</entitydescription.ekutility_oxygentankshelf>
+  <entitydescription.ekutility_oxygentankshelf>可摆放多个氧气罐，通电后可为氧气罐补充氧气。 （右键调整位置+E键即可放置）</entitydescription.ekutility_oxygentankshelf>
   <entityname.ekutility_placeabletextdisplay>文本显示器</entityname.ekutility_placeabletextdisplay>
   <entitydescription.ekutility_placeabletextdisplay></entitydescription.ekutility_placeabletextdisplay>
   <entityname.ekutility_placeabletextdisplaylong>文本显示器（长）</entityname.ekutility_placeabletextdisplaylong>
   <entitydescription.ekutility_placeabletextdisplaylong></entitydescription.ekutility_placeabletextdisplaylong>
   <entityname.ekutility_portablesprinkler>洒水器</entityname.ekutility_portablesprinkler>
-  <entitydescription.ekutility_portablesprinkler>多用途洒水系统，可用于农业或扑灭轻度火灾。需要电力。 （按瞄准+使用即可放置）</entitydescription.ekutility_portablesprinkler>
+  <entitydescription.ekutility_portablesprinkler>多用途洒水系统，可用于农业或扑灭轻度火灾。需要电力。 （右键调整位置+E键即可放置）</entitydescription.ekutility_portablesprinkler>
   <entityname.ekutility_securebuttoncaptain>权限按钮（船长）</entityname.ekutility_securebuttoncaptain>
   <entitydescription.ekutility_securebuttoncaptain></entitydescription.ekutility_securebuttoncaptain>
   <entityname.ekutility_securebuttonsecurityofficer>权限按钮（安全官）</entityname.ekutility_securebuttonsecurityofficer>
@@ -474,29 +474,29 @@
   <entityname.ekutility_securebuttonengineer>权限按钮（工程师）</entityname.ekutility_securebuttonengineer>
   <entitydescription.ekutility_securebuttonengineer></entitydescription.ekutility_securebuttonengineer>
   <entityname.ekutility_placeablejunction>辅助电力总线</entityname.ekutility_placeablejunction>
-  <entitydescription.ekutility_placeablejunction>壁挂式接线盒。（按瞄准+使用即可放置）</entitydescription.ekutility_placeablejunction>
+  <entitydescription.ekutility_placeablejunction>壁挂式接线盒。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablejunction>
   <entityname.ekutility_heavypowerswitch>大功率断路器</entityname.ekutility_heavypowerswitch>
-  <entitydescription.ekutility_heavypowerswitch>工业级电源断路器，可支持单路5000kw。（按瞄准+使用即可放置）</entitydescription.ekutility_heavypowerswitch>
+  <entitydescription.ekutility_heavypowerswitch>工业级电源断路器，可支持单路5000kw。（右键调整位置+E键即可放置）</entitydescription.ekutility_heavypowerswitch>
   <entityname.ekutility_placeablebattery>电池组</entityname.ekutility_placeablebattery>
-  <entitydescription.ekutility_placeablebattery>壁挂式大型电池组。（按瞄准+使用即可放置）</entitydescription.ekutility_placeablebattery>
+  <entitydescription.ekutility_placeablebattery>壁挂式大型电池组。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablebattery>
   <entityname.ekutility_placeableterminal>终端</entityname.ekutility_placeableterminal>
   <entitydescription.ekutility_placeableterminal>输出用户提交的字符串</entitydescription.ekutility_placeableterminal>
   <entityname.ekutility_placeablesmallpump>小型泵</entityname.ekutility_placeablesmallpump>
   <entitydescription.ekutility_placeablesmallpump>抽水用的设备</entitydescription.ekutility_placeablesmallpump>
   <entityname.ekutility_placeablefabricator>加工台</entityname.ekutility_placeablefabricator>
-  <entitydescription.ekutility_placeablefabricator>能用基本原料制造多种产品的机器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeablefabricator>
+  <entitydescription.ekutility_placeablefabricator>能用基本原料制造多种产品的机器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeablefabricator>
   <entityname.ekutility_placeablefabricator_adaptive>加工台 （自适应）</entityname.ekutility_placeablefabricator_adaptive>
-  <entitydescription.ekutility_placeablefabricator_adaptive>能用基本原料制造多种产品的机器。改进的版本带有辅助控制计算机，降低所需的技能等级。（按瞄准+使用即可放置）</entitydescription.ekutility_placeablefabricator_adaptive>
+  <entitydescription.ekutility_placeablefabricator_adaptive>能用基本原料制造多种产品的机器。改进的版本带有辅助控制计算机，降低所需的技能等级。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablefabricator_adaptive>
   <entityname.ekutility_placeablemedicalfabricator>医药加工台</entityname.ekutility_placeablemedicalfabricator>
-  <entitydescription.ekutility_placeablemedicalfabricator>可合成多种医疗用品的机器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeablemedicalfabricator>
+  <entitydescription.ekutility_placeablemedicalfabricator>可合成多种医疗用品的机器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeablemedicalfabricator>
   <entityname.ekutility_placeabledeconstructor>解构仪</entityname.ekutility_placeabledeconstructor>
-  <entitydescription.ekutility_placeabledeconstructor>将物品分解成可用组件和原材料的机器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeabledeconstructor>
-  <entityname.ekutility_placeablesonarmonitor>声纳监控器r</entityname.ekutility_placeablesonarmonitor>
-  <entitydescription.ekutility_placeablesonarmonitor>用于观察潜艇声纳反馈结果的仪器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeablesonarmonitor>
+  <entitydescription.ekutility_placeabledeconstructor>将物品分解成可用组件和原材料的机器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeabledeconstructor>
+  <entityname.ekutility_placeablesonarmonitor>声呐监控器</entityname.ekutility_placeablesonarmonitor>
+  <entitydescription.ekutility_placeablesonarmonitor>用于观察潜艇声呐反馈结果的仪器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeablesonarmonitor>
   <entityname.ekutility_placeablestatusmonitor>状态监控器</entityname.ekutility_placeablestatusmonitor>
-  <entitydescription.ekutility_placeablestatusmonitor>可以用来查看潜艇结构图与每个房间状态的仪器。 （按瞄准+使用即可放置）</entitydescription.ekutility_placeablestatusmonitor>
+  <entitydescription.ekutility_placeablestatusmonitor>可以用来查看潜艇结构图与每个房间状态的仪器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeablestatusmonitor>
   <entityname.ekutility_chargingdock1>充电坞站</entityname.ekutility_chargingdock1>
-  <entitydescription.ekutility_chargingdock1>壁挂式电池充电坞。 （按瞄准+使用即可放置）</entitydescription.ekutility_chargingdock1>
+  <entitydescription.ekutility_chargingdock1>壁挂式电池充电坞。 （右键调整位置+E键即可放置）</entitydescription.ekutility_chargingdock1>
   <!-- ekutility_tools.xml -->
   <entityname.ekutility_reinforcedtank_weldingfuel>强化焊接油罐</entityname.ekutility_reinforcedtank_weldingfuel>
   <entitydescription.ekutility_reinforcedtank_weldingfuel>经强化的燃料罐，耐冲击和高温。</entitydescription.ekutility_reinforcedtank_weldingfuel>

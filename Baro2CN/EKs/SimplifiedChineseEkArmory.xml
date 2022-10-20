@@ -150,10 +150,10 @@
   <entitydescription.ek_smg_suppressed_flashlight>由木卫二联盟开发的先进军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自推式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed_flashlight>
   <entityname.ek_smg_suppressed_laser>军用冲锋枪（消音器，激光瞄准器）</entityname.ek_smg_suppressed_laser>
   <entitydescription.ek_smg_suppressed_laser>由木卫二联盟开发的先进军用冲锋枪，用于船只和前哨站防卫。发射5.7x28mm自推式水下超空泡子弹，对无护甲目标特别有效。</entitydescription.ek_smg_suppressed_laser>
-  <entityname.ek_shotgun_flashlight>战术霰弹枪（战术手电）</entityname.ek_shotgun_flashlight>
-  <entitydescription.ek_shotgun_flashlight>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_shotgun_flashlight>
-  <entityname.ek_shotgun_laser>战术霰弹枪（激光瞄准器）</entityname.ek_shotgun_laser>
-  <entitydescription.ek_shotgun_laser>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_shotgun_laser>
+  <entityname.ek_tactical_shotgun_flashlight>军用战术霰弹枪（战术手电）</entityname.ek_tactical_shotgun_flashlight>
+  <entitydescription.ek_tactical_shotgun_flashlight>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_tactical_shotgun_flashlight>
+  <entityname.ek_tactical_shotgun_laser>军用战术霰弹枪（激光瞄准器）</entityname.ek_tactical_shotgun_laser>
+  <entitydescription.ek_tactical_shotgun_laser>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_tactical_shotgun_laser>
   <entityname.ek_tazer_flashlight>泰瑟枪（战术手电）</entityname.ek_tazer_flashlight>
   <entitydescription.ek_tazer_flashlight>和电击甩棍的击晕效果相似，但射程更长。</entitydescription.ek_tazer_flashlight>
   <entityname.ek_drumlmg_flashlight>轻机枪（战术手电）</entityname.ek_drumlmg_flashlight>
@@ -435,8 +435,8 @@
   <entitydescription.ek_proximity_mine>先进的接近引爆漂浮地雷。部署三秒后引信激活。</entitydescription.ek_proximity_mine>
   <entityname.ek_double_shotgun>双管霰弹枪</entityname.ek_double_shotgun>
   <entitydescription.ek_double_shotgun>截短双管霰弹枪。便宜且有效，是联盟安保员的最爱。</entitydescription.ek_double_shotgun>
-  <entityname.ek_shotgun>战术霰弹枪</entityname.ek_shotgun>
-  <entitydescription.ek_shotgun>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_shotgun>
+  <entityname.ek_tactical_shotgun>军用战术霰弹枪</entityname.ek_tactical_shotgun>
+  <entitydescription.ek_tactical_shotgun>联盟标准泵动式霰弹枪。能装载5发子弹。</entitydescription.ek_tactical_shotgun>
   <entityname.ek_shotgun_shell>12号霰弹</entityname.ek_shotgun_shell>
   <entitydescription.ek_shotgun_shell>霰弹枪散弹</entitydescription.ek_shotgun_shell>
   <entityname.ek_shotgun_beanbag>豆袋弹</entityname.ek_shotgun_beanbag>
