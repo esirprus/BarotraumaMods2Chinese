@@ -2,43 +2,43 @@
 <infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
   <!-- ekutility_containers.xml -->
   <entityname.ekutility_smallshelf>小架子</entityname.ekutility_smallshelf>
-  <entitydescription.ekutility_smallshelf>基本壁挂存储解决方案。 （右键调整位置+E键即可放置）</entitydescription.ekutility_smallshelf>
+  <entitydescription.ekutility_smallshelf>基础壁挂存储解决方案。（右键调整位置+E键即可放置）</entitydescription.ekutility_smallshelf>
   <entityname.ekutility_mediumshelf>架子</entityname.ekutility_mediumshelf>
-  <entitydescription.ekutility_mediumshelf>基本壁挂存储解决方案。 （右键调整位置+E键即可放置）</entitydescription.ekutility_mediumshelf>
-  <entityname.ekutility_shellrack>大型轨道炮弹架</entityname.ekutility_shellrack>
-  <entitydescription.ekutility_shellrack>一个设计用于放置轨道炮弹的金属架。 （右键调整位置+E键即可放置）</entitydescription.ekutility_shellrack>
-  <entityname.ekutility_shellrack_huge>巨型轨道炮弹架</entityname.ekutility_shellrack_huge>
-  <entitydescription.ekutility_shellrack_huge>一种壁挂式弹匣，可以装更多轨道炮炮弹。 （右键调整位置+E键即可放置）</entitydescription.ekutility_shellrack_huge>
-  <entityname.ekutility_craterack>板条货架</entityname.ekutility_craterack>
-  <entitydescription.ekutility_craterack>一个架子，用于整齐地存放货物周转箱。 （右键调整位置+E键即可放置）</entitydescription.ekutility_craterack>
-  <entityname.ekutility_craterack_tall>高条板箱架</entityname.ekutility_craterack_tall>
-  <entitydescription.ekutility_craterack_tall>一个较高的架子，用于整齐地存放货物周转箱。 （右键调整位置+E键即可放置）</entitydescription.ekutility_craterack_tall>
+  <entitydescription.ekutility_mediumshelf>基础壁挂存储解决方案。（右键调整位置+E键即可放置）</entitydescription.ekutility_mediumshelf>
+  <entityname.ekutility_shellrack>大型轨道炮弹药架</entityname.ekutility_shellrack>
+  <entitydescription.ekutility_shellrack>设计用于存放轨道炮弹的金属架。（右键调整位置+E键即可放置）</entitydescription.ekutility_shellrack>
+  <entityname.ekutility_shellrack_huge>巨型轨道炮弹药架</entityname.ekutility_shellrack_huge>
+  <entitydescription.ekutility_shellrack_huge>一种壁挂式弹箱，可以装更多轨道炮炮弹。（右键调整位置+E键即可放置）</entitydescription.ekutility_shellrack_huge>
+  <entityname.ekutility_craterack>板条箱架</entityname.ekutility_craterack>
+  <entitydescription.ekutility_craterack>用于整齐地存放货物的架子。（右键调整位置+E键即可放置）</entitydescription.ekutility_craterack>
+  <entityname.ekutility_craterack_tall>高板条箱架</entityname.ekutility_craterack_tall>
+  <entitydescription.ekutility_craterack_tall>用于整齐地存放货物的架子，比板条箱架更高，容量更大。（右键调整位置+E键即可放置）</entitydescription.ekutility_craterack_tall>
   <entityname.ekutility_craterack_freezer>恒温板条箱架</entityname.ekutility_craterack_freezer>
-  <entitydescription.ekutility_craterack_freezer>恒温的货物周转箱架，用于储存对温度或湿度敏感的货物，需要电力。（右键调整位置+E键即可放置）</entitydescription.ekutility_craterack_freezer>
-  <entityname.ekutility_chemlightboxred>荧光棒箱（红色）</entityname.ekutility_chemlightboxred>
+  <entitydescription.ekutility_craterack_freezer>密封式板条箱架，用于储存对温度或湿度敏感的货物，需要电力。（右键调整位置+E键即可放置）</entitydescription.ekutility_craterack_freezer>
+  <entityname.ekutility_chemlightboxred>荧光棒盒（红色）</entityname.ekutility_chemlightboxred>
   <entitydescription.ekutility_chemlightboxred>一盒一次性荧光棒，红色。</entitydescription.ekutility_chemlightboxred>
-  <entityname.ekutility_chemlightboxgreen>荧光棒箱（绿色）</entityname.ekutility_chemlightboxgreen>
+  <entityname.ekutility_chemlightboxgreen>荧光棒盒（绿色）</entityname.ekutility_chemlightboxgreen>
   <entitydescription.ekutility_chemlightboxgreen>一盒一次性荧光棒，绿色。</entitydescription.ekutility_chemlightboxgreen>
-  <entityname.ekutility_chemlightboxblue>荧光棒箱（蓝色）</entityname.ekutility_chemlightboxblue>
+  <entityname.ekutility_chemlightboxblue>荧光棒盒（蓝色）</entityname.ekutility_chemlightboxblue>
   <entitydescription.ekutility_chemlightboxblue>一盒一次性荧光棒，蓝色。</entitydescription.ekutility_chemlightboxblue>
-  <entityname.ekutility_chemlightboxyellow>荧光棒箱（黄色）</entityname.ekutility_chemlightboxyellow>
+  <entityname.ekutility_chemlightboxyellow>荧光棒盒（黄色）</entityname.ekutility_chemlightboxyellow>
   <entitydescription.ekutility_chemlightboxyellow>一盒一次性荧光棒，黄色。</entitydescription.ekutility_chemlightboxyellow>
   <entityname.ekutility_cart_depthcharge>运输车</entityname.ekutility_cart_depthcharge>
-  <entitydescription.ekutility_cart_depthcharge>坚固的金属手推车，用于运输金属板条箱，深水炸弹和潜水服等物品。</entitydescription.ekutility_cart_depthcharge>
+  <entitydescription.ekutility_cart_depthcharge>坚固的金属手推车，用于运输金属箱，深水炸弹和潜水服等物品。</entitydescription.ekutility_cart_depthcharge>
   <entityname.ekutility_handtruck>手推车</entityname.ekutility_handtruck>
-  <entitydescription.ekutility_handtruck>用于运输轨道炮炮弹的手推车。</entitydescription.ekutility_handtruck>
+  <entitydescription.ekutility_handtruck>用于运输轨道炮炮弹的简易手推车。</entitydescription.ekutility_handtruck>
   <entityname.ekutility_handtruck_reactorfuel>燃料棒装卸车</entityname.ekutility_handtruck_reactorfuel>
-  <entitydescription.ekutility_handtruck_reactorfuel>一种带屏蔽管的手推车，用于在反应堆外搬运燃料棒。</entitydescription.ekutility_handtruck_reactorfuel>
+  <entitydescription.ekutility_handtruck_reactorfuel>带屏蔽管的手推车，用于搬运燃料棒。</entitydescription.ekutility_handtruck_reactorfuel>
   <entityname.ekutility_artifactbox>遗物容器</entityname.ekutility_artifactbox>
-  <entitydescription.ekutility_artifactbox>一个大型绝缘容器，用于安全储存异星遗物。手持遗物后将遗物拖动到容器上进行储存，同时遗物容器是中性浮力，在水下不会漂浮或下沉。</entitydescription.ekutility_artifactbox>
+  <entitydescription.ekutility_artifactbox>厚重的大型绝缘容器，用于安全储存异星遗物。手持遗物后将遗物拖动到容器上进行储存，同时遗物容器是中性浮力，在水下不会上浮或下沉。</entitydescription.ekutility_artifactbox>
   <entityname.ekutility_storagecrate>工业加强箱</entityname.ekutility_storagecrate>
   <entitydescription.ekutility_storagecrate>坚固的防水容器，用于存储和运输。</entitydescription.ekutility_storagecrate>
-  <entityname.ekutility_crateblocker>货箱挡板</entityname.ekutility_crateblocker>
-  <entitydescription.ekutility_crateblocker>一个空的存储隔板。可用于防止将货物放在未使用的板条箱槽中。</entitydescription.ekutility_crateblocker>
+  <entityname.ekutility_crateblocker>货架挡板</entityname.ekutility_crateblocker>
+  <entitydescription.ekutility_crateblocker>占位挡板。用于防止货物被放在部分板条箱架上。</entitydescription.ekutility_crateblocker>
   <entityname.ekutility_materiallocker>材料存储柜</entityname.ekutility_materiallocker>
-  <entitydescription.ekutility_materiallocker>用于整理物品的储物柜。（右键调整位置+E键即可放置）</entitydescription.ekutility_materiallocker>
+  <entitydescription.ekutility_materiallocker>用于整理物品的重型储物柜。（右键调整位置+E键即可放置）</entitydescription.ekutility_materiallocker>
   <entityname.ekutility_mulecargo>运输式水下推进器</entityname.ekutility_mulecargo>
-  <entitydescription.ekutility_mulecargo>自动推进的水下雪橇，能够装载4个货物箱。</entitydescription.ekutility_mulecargo>
+  <entitydescription.ekutility_mulecargo>自推式水下雪橇，能装载4个货箱。</entitydescription.ekutility_mulecargo>
   <entityname.ekutility_securelockercaptain>保险钢柜（船长）</entityname.ekutility_securelockercaptain>
   <entitydescription.ekutility_securelockercaptain>可以储存中小型物品的带锁安全柜。（右键调整位置+E键即可放置）</entitydescription.ekutility_securelockercaptain>
   <entityname.ekutility_securelockersecurityofficer>保险钢柜（安全官）</entityname.ekutility_securelockersecurityofficer>
@@ -271,26 +271,26 @@
   <entityname.ekutility_label_arcwelder>Arc Welder Label</entityname.ekutility_label_arcwelder>
   <entitydescription.ekutility_label_arcwelder>A label card with a picture of an arc welder on it.</entitydescription.ekutility_label_arcwelder>
   <entityname.ekutility_labelprinter>标签打印机</entityname.ekutility_labelprinter>
-  <entitydescription.ekutility_labelprinter>军需官最好的朋友。这个手持设备可以扫描和打印常见货物的分类标签。</entitydescription.ekutility_labelprinter>
+  <entitydescription.ekutility_labelprinter>军需官的挚友。这个手持设备可以扫描和打印大部分常见货物的分类标签。</entitydescription.ekutility_labelprinter>
   <!-- ekutility_divinggear.xml -->
   <entityname.ekutility_reinforcedtank_oxygen>强化氧气罐</entityname.ekutility_reinforcedtank_oxygen>
-  <entitydescription.ekutility_reinforcedtank_oxygen>经强化的氧气罐，耐冲击和高温。</entitydescription.ekutility_reinforcedtank_oxygen>
-  <entityname.ekutility_reinforcedtank_oxygenite>强化氧矿罐</entityname.ekutility_reinforcedtank_oxygenite>
-  <entitydescription.ekutility_reinforcedtank_oxygenite>经强化的氧气罐，耐冲击和高温。</entitydescription.ekutility_reinforcedtank_oxygenite>
+  <entitydescription.ekutility_reinforcedtank_oxygen>高压复合氧气罐，耐穿刺和高温。</entitydescription.ekutility_reinforcedtank_oxygen>
+  <entityname.ekutility_reinforcedtank_oxygenite>强化液氧罐</entityname.ekutility_reinforcedtank_oxygenite>
+  <entitydescription.ekutility_reinforcedtank_oxygenite>高压复合液氧罐，耐穿刺和高温。</entitydescription.ekutility_reinforcedtank_oxygenite>
   <entityname.ekutility_rebreatherunit>循环呼吸器</entityname.ekutility_rebreatherunit>
-  <entitydescription.ekutility_rebreatherunit>实验性自给式再呼吸装置，其连接设计与大多数标准潜水设备兼容。需要电池和内部氧气储存才能工作。</entitydescription.ekutility_rebreatherunit>
-  <entityname.ekutility_jetscooter>喷气水下推进器</entityname.ekutility_jetscooter>
-  <entitydescription.ekutility_jetscooter>先进的水下推进装置。具有更大的电池容量和内置声呐导航系统。</entitydescription.ekutility_jetscooter>
+  <entitydescription.ekutility_rebreatherunit>实验性自给式再呼吸装置，其线路设计与大多数联盟标准潜水设备兼容。需要电池和内部有氧气储存才能工作。</entitydescription.ekutility_rebreatherunit>
+  <entityname.ekutility_jetscooter>喷气式水下推进器</entityname.ekutility_jetscooter>
+  <entitydescription.ekutility_jetscooter>先进的水下推进装置。电池使用寿命更长且内置声呐导航系统。</entitydescription.ekutility_jetscooter>
   <entityname.ekutility_advancedsonarbeacon>高级声呐信标</entityname.ekutility_advancedsonarbeacon>
-  <entitydescription.ekutility_advancedsonarbeacon>手持式定位信标发射器，对进行舱外活动很有帮助。</entitydescription.ekutility_advancedsonarbeacon>
-  <entityname.ekutility_Utility_hardsuit>多功能压力服MK1</entityname.ekutility_Utility_hardsuit>
-  <entitydescription.ekutility_Utility_hardsuit>坚固的压力套装，专为施工，采矿和救助操作而设计,提供一定的高温和电击保护的同时允许使用者正常操作各种工具装备。[额定6000米]</entitydescription.ekutility_Utility_hardsuit>
-  <entityname.ekutility_utility_hardsuit_paintmechanic>多功能压力服MK1（机修工涂装）</entityname.ekutility_utility_hardsuit_paintmechanic>
-  <entitydescription.ekutility_utility_hardsuit_paintmechanic>坚固的压力套装，专为施工，采矿和救助操作而设计,提供一定的高温和电击保护的同时允许使用者正常操作各种工具装备。[额定6000米]</entitydescription.ekutility_utility_hardsuit_paintmechanic>
+  <entitydescription.ekutility_advancedsonarbeacon>手持式定位信标发射器，对舱外活动很有帮助。</entitydescription.ekutility_advancedsonarbeacon>
+  <entityname.ekutility_Utility_hardsuit>多功能防护服 Mk-I</entityname.ekutility_Utility_hardsuit>
+  <entitydescription.ekutility_Utility_hardsuit>坚固的压力套装，专为船坞施工，矿物开采和打捞作业而设计，提供一定的高温和电击保护的同时允许使用者正常操作各种工具装备。[额定6000米]</entitydescription.ekutility_Utility_hardsuit>
+  <entityname.ekutility_utility_hardsuit_paintmechanic>多功能防护服 Mk-I（机修工涂装）</entityname.ekutility_utility_hardsuit_paintmechanic>
+  <entitydescription.ekutility_utility_hardsuit_paintmechanic>坚固的压力套装，专为船坞施工，矿物开采和打捞作业而设计，提供一定的高温和电击保护的同时允许使用者正常操作各种工具装备。[额定6000米]</entitydescription.ekutility_utility_hardsuit_paintmechanic>
   <entityname.ekutility_oxygencell1>氧气单元 Mk-I</entityname.ekutility_oxygencell1>
-  <entitydescription.ekutility_oxygencell1>利用化学试剂产生氧气的潜水服一次性氧气源，能提供大量氧气。</entitydescription.ekutility_oxygencell1>
+  <entitydescription.ekutility_oxygencell1>利用化学试剂制氧的一次性氧气源，能提供大量氧气。</entitydescription.ekutility_oxygencell1>
   <entityname.ekutility_oxygencell2>氧气单元 Mk-II</entityname.ekutility_oxygencell2>
-  <entitydescription.ekutility_oxygencell2>利用化学试剂产生氧气的潜水服一次性氧气源，能提供大量氧气。</entitydescription.ekutility_oxygencell2>
+  <entitydescription.ekutility_oxygencell2>利用化学试剂制氧的一次性氧气源，能提供大量氧气。</entitydescription.ekutility_oxygencell2>
   <!-- ekutility_densifiedmaterials.xml -->
   <entityname.ekutility_densifiedmaterial_iron>一箱铁</entityname.ekutility_densifiedmaterial_iron>
   <entitydescription.ekutility_densifiedmaterial_iron>装箱的铁，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_iron>
@@ -320,10 +320,10 @@
   <entitydescription.ekutility_densifiedmaterial_rubber>装箱的橡胶，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_rubber>
   <entityname.ekutility_densifiedmaterial_fpgacircuit>一箱FPGA电路</entityname.ekutility_densifiedmaterial_fpgacircuit>
   <entitydescription.ekutility_densifiedmaterial_fpgacircuit>装箱的FPGA电路，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_fpgacircuit>
-  <entityname.ekutility_densifiedmaterial_organicfiber>一箱有机纤维</entityname.ekutility_densifiedmaterial_organicfiber>
-  <entitydescription.ekutility_densifiedmaterial_organicfiber>装箱的有机纤维，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_organicfiber>
-  <entityname.ekutility_densifiedmaterial_ballisticfiber>一箱弹性纤维</entityname.ekutility_densifiedmaterial_ballisticfiber>
-  <entitydescription.ekutility_densifiedmaterial_ballisticfiber>装箱的弹性纤维，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ballisticfiber>
+  <entityname.ekutility_densifiedmaterial_organicfiber>一箱活性纤维</entityname.ekutility_densifiedmaterial_organicfiber>
+  <entitydescription.ekutility_densifiedmaterial_organicfiber>装箱的活性纤维，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_organicfiber>
+  <entityname.ekutility_densifiedmaterial_ballisticfiber>一箱防弹纤维</entityname.ekutility_densifiedmaterial_ballisticfiber>
+  <entitydescription.ekutility_densifiedmaterial_ballisticfiber>装箱的防弹纤维，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ballisticfiber>
   <entityname.ekutility_densifiedmaterial_uranium>一箱铀</entityname.ekutility_densifiedmaterial_uranium>
   <entitydescription.ekutility_densifiedmaterial_uranium>装箱的铀，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_uranium>
   <entityname.ekutility_densifiedmaterial_thorium>一箱钍</entityname.ekutility_densifiedmaterial_thorium>
@@ -346,26 +346,26 @@
   <entitydescription.ekutility_densifiedmaterial_calcium>装箱的钙，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_calcium>
   <entityname.ekutility_densifiedmaterial_phosphorus>一箱磷</entityname.ekutility_densifiedmaterial_phosphorus>
   <entitydescription.ekutility_densifiedmaterial_phosphorus>装箱的磷，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_phosphorus>
-  <entityname.ekutility_densifiedmaterial_ethanol>一箱乙醇</entityname.ekutility_densifiedmaterial_ethanol>
-  <entitydescription.ekutility_densifiedmaterial_ethanol>装箱的乙醇，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ethanol>
+  <entityname.ekutility_densifiedmaterial_ethanol>一箱医用酒精</entityname.ekutility_densifiedmaterial_ethanol>
+  <entitydescription.ekutility_densifiedmaterial_ethanol>装箱的医用酒精，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ethanol>
   <entityname.ekutility_densifiedmaterial_sulphuricacid>一箱硫酸</entityname.ekutility_densifiedmaterial_sulphuricacid>
   <entitydescription.ekutility_densifiedmaterial_sulphuricacid>装箱的硫酸，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_sulphuricacid>
   <entityname.ekutility_densifiedmaterial_uex>一箱UEX</entityname.ekutility_densifiedmaterial_uex>
   <entitydescription.ekutility_densifiedmaterial_uex>装箱的UEX，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_uex>
   <entityname.ekutility_densifiedmaterial_c4block>一箱C-4</entityname.ekutility_densifiedmaterial_c4block>
   <entitydescription.ekutility_densifiedmaterial_c4block>装箱的C-4，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_c4block>
-  <entityname.ekutility_densifiedmaterial_compoundn>一箱化合物N</entityname.ekutility_densifiedmaterial_compoundn>
-  <entitydescription.ekutility_densifiedmaterial_compoundn>装箱的化合物N，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_compoundn>
+  <entityname.ekutility_densifiedmaterial_compoundn>一箱叠氮化合物</entityname.ekutility_densifiedmaterial_compoundn>
+  <entitydescription.ekutility_densifiedmaterial_compoundn>装箱的叠氮化合物，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_compoundn>
   <entityname.ekutility_densifiedmaterial_ic4block>一箱IC-4</entityname.ekutility_densifiedmaterial_ic4block>
   <entitydescription.ekutility_densifiedmaterial_ic4block>装箱的IC-4，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_ic4block>
   <entityname.ekutility_densifiedmaterial_physicorium>一箱刚素</entityname.ekutility_densifiedmaterial_physicorium>
   <entitydescription.ekutility_densifiedmaterial_physicorium>装箱的刚素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_physicorium>
   <entityname.ekutility_densifiedmaterial_fulgurium>一箱雷素</entityname.ekutility_densifiedmaterial_fulgurium>
   <entitydescription.ekutility_densifiedmaterial_fulgurium>装箱的雷素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_fulgurium>
-  <entityname.ekutility_densifiedmaterial_sulphuriteshard>一箱硫酸盐</entityname.ekutility_densifiedmaterial_sulphuriteshard>
-  <entitydescription.ekutility_densifiedmaterial_sulphuriteshard>装箱的硫酸盐，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_sulphuriteshard>
-  <entityname.ekutility_densifiedmaterial_oxygeniteshard>一箱氧石</entityname.ekutility_densifiedmaterial_oxygeniteshard>
-  <entitydescription.ekutility_densifiedmaterial_oxygeniteshard>装箱的氧石，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_oxygeniteshard>
+  <entityname.ekutility_densifiedmaterial_sulphuriteshard>一箱硫酸矿</entityname.ekutility_densifiedmaterial_sulphuriteshard>
+  <entitydescription.ekutility_densifiedmaterial_sulphuriteshard>装箱的硫酸矿碎片，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_sulphuriteshard>
+  <entityname.ekutility_densifiedmaterial_oxygeniteshard>一箱氧矿</entityname.ekutility_densifiedmaterial_oxygeniteshard>
+  <entitydescription.ekutility_densifiedmaterial_oxygeniteshard>装箱的氧矿碎片，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_oxygeniteshard>
   <entityname.ekutility_densifiedmaterial_incendium>一箱燃素</entityname.ekutility_densifiedmaterial_incendium>
   <entitydescription.ekutility_densifiedmaterial_incendium>装箱的燃素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_incendium>
   <entityname.ekutility_densifiedmaterial_dementonite>一箱摄魂矿</entityname.ekutility_densifiedmaterial_dementonite>
@@ -378,8 +378,8 @@
   <entitydescription.ekutility_densifiedmaterial_antibleeding3>装箱的抗生素，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibleeding3>
   <entityname.ekutility_densifiedmaterial_tonicliquid>一箱内用辅液</entityname.ekutility_densifiedmaterial_tonicliquid>
   <entitydescription.ekutility_densifiedmaterial_tonicliquid>装箱的内用辅液，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_tonicliquid>
-  <entityname.ekutility_densifiedmaterial_antibloodloss1>一箱医用盐水</entityname.ekutility_densifiedmaterial_antibloodloss1>
-  <entitydescription.ekutility_densifiedmaterial_antibloodloss1>装箱的医用盐水，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibloodloss1>
+  <entityname.ekutility_densifiedmaterial_antibloodloss1>一箱生理盐水</entityname.ekutility_densifiedmaterial_antibloodloss1>
+  <entitydescription.ekutility_densifiedmaterial_antibloodloss1>装箱的生理盐水，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibloodloss1>
   <entityname.ekutility_densifiedmaterial_antibloodloss2>一箱血袋</entityname.ekutility_densifiedmaterial_antibloodloss2>
   <entitydescription.ekutility_densifiedmaterial_antibloodloss2>装箱的血袋，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antibloodloss2>
   <entityname.ekutility_densifiedmaterial_adrenaline>一箱肾上腺素</entityname.ekutility_densifiedmaterial_adrenaline>
@@ -388,8 +388,8 @@
   <entitydescription.ekutility_densifiedmaterial_opium>装箱的药用鸦片，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_opium>
   <entityname.ekutility_densifiedmaterial_elastin>一箱弹性蛋白</entityname.ekutility_densifiedmaterial_elastin>
   <entitydescription.ekutility_densifiedmaterial_elastin>装箱的弹性蛋白，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_elastin>
-  <entityname.ekutility_densifiedmaterial_alienblood>一箱外星血浆</entityname.ekutility_densifiedmaterial_alienblood>
-  <entitydescription.ekutility_densifiedmaterial_alienblood>装箱的外星血浆，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_alienblood>
+  <entityname.ekutility_densifiedmaterial_alienblood>一箱异星血浆</entityname.ekutility_densifiedmaterial_alienblood>
+  <entitydescription.ekutility_densifiedmaterial_alienblood>装箱的异星血浆，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_alienblood>
   <entityname.ekutility_densifiedmaterial_adrenalinegland>一箱肾上腺素腺体</entityname.ekutility_densifiedmaterial_adrenalinegland>
   <entitydescription.ekutility_densifiedmaterial_adrenalinegland>装箱的肾上腺素腺体，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_adrenalinegland>
   <entityname.ekutility_densifiedmaterial_swimbladder>一箱自愈囊泡</entityname.ekutility_densifiedmaterial_swimbladder>
@@ -424,8 +424,8 @@
   <entitydescription.ekutility_densifiedmaterial_chloralhydrate>装箱的水合三氯乙醛，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_chloralhydrate>
   <entityname.ekutility_densifiedmaterial_calyxanide>一箱皮虫净</entityname.ekutility_densifiedmaterial_calyxanide>
   <entitydescription.ekutility_densifiedmaterial_calyxanide>装箱的皮虫净，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_calyxanide>
-  <entityname.ekutility_densifiedmaterial_raptorbaneextract>一箱枭祸根精华</entityname.ekutility_densifiedmaterial_raptorbaneextract>
-  <entitydescription.ekutility_densifiedmaterial_raptorbaneextract>装箱的枭祸根精华，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_raptorbaneextract>
+  <entityname.ekutility_densifiedmaterial_raptorbaneextract>一箱迅猛龙杀手精华</entityname.ekutility_densifiedmaterial_raptorbaneextract>
+  <entitydescription.ekutility_densifiedmaterial_raptorbaneextract>装箱的迅猛龙杀手精华，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_raptorbaneextract>
   <entityname.ekutility_densifiedmaterial_pomegrenadeextract>一箱爆弹石榴精华</entityname.ekutility_densifiedmaterial_pomegrenadeextract>
   <entitydescription.ekutility_densifiedmaterial_pomegrenadeextract>装箱的爆弹石榴精华，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_pomegrenadeextract>
   <entityname.ekutility_densifiedmaterial_cyanide>一箱氰化物毒剂</entityname.ekutility_densifiedmaterial_cyanide>
@@ -454,15 +454,15 @@
   <entitydescription.ekutility_densifiedmaterial_antiparalysis>装箱的麻痹治愈剂，便于储存和运输。</entitydescription.ekutility_densifiedmaterial_antiparalysis>
   <!-- ekutility_placeablemachines.xml -->
   <entityname.ekutility_divingsuitlocker>潜水服柜</entityname.ekutility_divingsuitlocker>
-  <entitydescription.ekutility_divingsuitlocker>存放潜水服的储物柜, 通电后可为潜水服补充氧气。 （右键调整位置+E键即可放置）</entitydescription.ekutility_divingsuitlocker>
+  <entitydescription.ekutility_divingsuitlocker>用于存放潜水服的储柜, 通电后可为潜水服补充氧气。（右键调整位置+E键即可放置）</entitydescription.ekutility_divingsuitlocker>
   <entityname.ekutility_oxygentankshelf>氧气罐置物架</entityname.ekutility_oxygentankshelf>
-  <entitydescription.ekutility_oxygentankshelf>可摆放多个氧气罐，通电后可为氧气罐补充氧气。 （右键调整位置+E键即可放置）</entitydescription.ekutility_oxygentankshelf>
+  <entitydescription.ekutility_oxygentankshelf>可存放3个氧气罐，通电后可为氧气罐补充氧气。（右键调整位置+E键即可放置）</entitydescription.ekutility_oxygentankshelf>
   <entityname.ekutility_placeabletextdisplay>文本显示器</entityname.ekutility_placeabletextdisplay>
   <entitydescription.ekutility_placeabletextdisplay></entitydescription.ekutility_placeabletextdisplay>
   <entityname.ekutility_placeabletextdisplaylong>文本显示器（长）</entityname.ekutility_placeabletextdisplaylong>
   <entitydescription.ekutility_placeabletextdisplaylong></entitydescription.ekutility_placeabletextdisplaylong>
   <entityname.ekutility_portablesprinkler>洒水器</entityname.ekutility_portablesprinkler>
-  <entitydescription.ekutility_portablesprinkler>多用途洒水系统，可用于农业或扑灭轻度火灾。需要电力。 （右键调整位置+E键即可放置）</entitydescription.ekutility_portablesprinkler>
+  <entitydescription.ekutility_portablesprinkler>多用途洒水系统，可用于农业灌溉或扑灭轻度火灾。需要电力。（右键调整位置+E键即可放置）</entitydescription.ekutility_portablesprinkler>
   <entityname.ekutility_securebuttoncaptain>权限按钮（船长）</entityname.ekutility_securebuttoncaptain>
   <entitydescription.ekutility_securebuttoncaptain></entitydescription.ekutility_securebuttoncaptain>
   <entityname.ekutility_securebuttonsecurityofficer>权限按钮（安全官）</entityname.ekutility_securebuttonsecurityofficer>
@@ -474,49 +474,49 @@
   <entityname.ekutility_securebuttonengineer>权限按钮（工程师）</entityname.ekutility_securebuttonengineer>
   <entitydescription.ekutility_securebuttonengineer></entitydescription.ekutility_securebuttonengineer>
   <entityname.ekutility_placeablejunction>辅助电力总线</entityname.ekutility_placeablejunction>
-  <entitydescription.ekutility_placeablejunction>壁挂式接线盒。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablejunction>
+  <entitydescription.ekutility_placeablejunction>简易的壁挂式接线盒。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablejunction>
   <entityname.ekutility_heavypowerswitch>大功率断路器</entityname.ekutility_heavypowerswitch>
-  <entitydescription.ekutility_heavypowerswitch>工业级电源断路器，可支持单路5000kw。（右键调整位置+E键即可放置）</entitydescription.ekutility_heavypowerswitch>
+  <entitydescription.ekutility_heavypowerswitch>工业级电源断路器，可支持单路功率为5000kw。（右键调整位置+E键即可放置）</entitydescription.ekutility_heavypowerswitch>
   <entityname.ekutility_placeablebattery>电池组</entityname.ekutility_placeablebattery>
-  <entitydescription.ekutility_placeablebattery>壁挂式大型电池组。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablebattery>
+  <entitydescription.ekutility_placeablebattery>壁挂式重型电池组。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablebattery>
   <entityname.ekutility_placeableterminal>终端</entityname.ekutility_placeableterminal>
-  <entitydescription.ekutility_placeableterminal>输出用户提交的字符串</entitydescription.ekutility_placeableterminal>
+  <entitydescription.ekutility_placeableterminal>输出用户提交的字符串。</entitydescription.ekutility_placeableterminal>
   <entityname.ekutility_placeablesmallpump>小型泵</entityname.ekutility_placeablesmallpump>
-  <entitydescription.ekutility_placeablesmallpump>抽水用的设备</entitydescription.ekutility_placeablesmallpump>
+  <entitydescription.ekutility_placeablesmallpump>抽水用的设备。</entitydescription.ekutility_placeablesmallpump>
   <entityname.ekutility_placeablefabricator>加工台</entityname.ekutility_placeablefabricator>
-  <entitydescription.ekutility_placeablefabricator>能用基本原料制造多种产品的机器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeablefabricator>
-  <entityname.ekutility_placeablefabricator_adaptive>加工台 （自适应）</entityname.ekutility_placeablefabricator_adaptive>
-  <entitydescription.ekutility_placeablefabricator_adaptive>能用基本原料制造多种产品的机器。改进的版本带有辅助控制计算机，降低所需的技能等级。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablefabricator_adaptive>
+  <entitydescription.ekutility_placeablefabricator>能用基本原料制造多种产品的机器。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablefabricator>
+  <entityname.ekutility_placeablefabricator_adaptive>加工台（自适应）</entityname.ekutility_placeablefabricator_adaptive>
+  <entitydescription.ekutility_placeablefabricator_adaptive>能用基本原料制造多种产品的机器。改进的版本带有辅助控制计算机，降低制造所需的技能等级。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablefabricator_adaptive>
   <entityname.ekutility_placeablemedicalfabricator>医药加工台</entityname.ekutility_placeablemedicalfabricator>
-  <entitydescription.ekutility_placeablemedicalfabricator>可合成多种医疗用品的机器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeablemedicalfabricator>
+  <entitydescription.ekutility_placeablemedicalfabricator>可合成多种医疗用品的机器。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablemedicalfabricator>
   <entityname.ekutility_placeabledeconstructor>解构仪</entityname.ekutility_placeabledeconstructor>
-  <entitydescription.ekutility_placeabledeconstructor>将物品分解成可用组件和原材料的机器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeabledeconstructor>
+  <entitydescription.ekutility_placeabledeconstructor>将物品分解成可用组件和原材料的机器。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeabledeconstructor>
   <entityname.ekutility_placeablesonarmonitor>声呐监控器</entityname.ekutility_placeablesonarmonitor>
-  <entitydescription.ekutility_placeablesonarmonitor>用于观察潜艇声呐反馈结果的仪器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeablesonarmonitor>
+  <entitydescription.ekutility_placeablesonarmonitor>用于观察潜艇声呐反馈结果的仪器。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablesonarmonitor>
   <entityname.ekutility_placeablestatusmonitor>状态监控器</entityname.ekutility_placeablestatusmonitor>
-  <entitydescription.ekutility_placeablestatusmonitor>可以用来查看潜艇结构图与每个房间状态的仪器。 （右键调整位置+E键即可放置）</entitydescription.ekutility_placeablestatusmonitor>
+  <entitydescription.ekutility_placeablestatusmonitor>可以用来查看潜艇结构图与每个房间状态的仪器。（右键调整位置+E键即可放置）</entitydescription.ekutility_placeablestatusmonitor>
   <entityname.ekutility_chargingdock1>充电坞站</entityname.ekutility_chargingdock1>
-  <entitydescription.ekutility_chargingdock1>壁挂式电池充电坞。 （右键调整位置+E键即可放置）</entitydescription.ekutility_chargingdock1>
+  <entitydescription.ekutility_chargingdock1>壁挂式电池充电坞。（右键调整位置+E键即可放置）</entitydescription.ekutility_chargingdock1>
   <!-- ekutility_tools.xml -->
   <entityname.ekutility_reinforcedtank_weldingfuel>强化焊接油罐</entityname.ekutility_reinforcedtank_weldingfuel>
-  <entitydescription.ekutility_reinforcedtank_weldingfuel>经强化的燃料罐，耐冲击和高温。</entitydescription.ekutility_reinforcedtank_weldingfuel>
+  <entitydescription.ekutility_reinforcedtank_weldingfuel>高压复合燃料罐，耐穿刺和高温。</entitydescription.ekutility_reinforcedtank_weldingfuel>
   <entityname.ekutility_heavytank_incendium>强化燃素油罐</entityname.ekutility_heavytank_incendium>
-  <entitydescription.ekutility_heavytank_incendium>经强化的燃料罐，耐冲击和高温。</entitydescription.ekutility_heavytank_incendium>
+  <entitydescription.ekutility_heavytank_incendium>高压复合燃料罐，耐穿刺和高温。</entitydescription.ekutility_heavytank_incendium>
   <entityname.ekutility_miningdrill>电钻</entityname.ekutility_miningdrill>
-  <entitydescription.ekutility_miningdrill>工业手持钻。用于采矿和打捞作业。</entitydescription.ekutility_miningdrill>
+  <entitydescription.ekutility_miningdrill>工业手持电钻。用于采矿和打捞作业。</entitydescription.ekutility_miningdrill>
   <entityname.ekutility_metalfoam_tank>金属泡沫罐</entityname.ekutility_metalfoam_tank>
-  <entitydescription.ekutility_metalfoam_tank>内含金属泡沫和催化剂，用于快速修复船体损伤,与金属泡沫喷雾机配合使用。危险:剧毒，严禁破拆。</entitydescription.ekutility_metalfoam_tank>
+  <entitydescription.ekutility_metalfoam_tank>装有一种先进的金属催化溶剂，用于快速修复船体损伤，与金属泡沫喷雾机配合使用。危险：剧毒，严禁拆开。</entitydescription.ekutility_metalfoam_tank>
   <entityname.ekutility_metalfoam_gun>金属泡沫喷雾机</entityname.ekutility_metalfoam_gun>
-  <entitydescription.ekutility_metalfoam_gun>先进的船体修复科技。通过加热喷嘴喷出化学金属泡沫快速修复船体。</entitydescription.ekutility_metalfoam_gun>
+  <entitydescription.ekutility_metalfoam_gun>先进的船体修复科技。通过加热喷嘴喷出一种特殊的化学-类金属配方泡沫快速修复船体。</entitydescription.ekutility_metalfoam_gun>
   <entityname.ekutility_ioncutter>离子脉冲切割器</entityname.ekutility_ioncutter>
-  <entitydescription.ekutility_ioncutter>重型切割工具,利用高速带电粒子脉冲切割物体。可以切割大多数材料，但耗电量很大。危险：在切割器工作时阻挡离子束可能会导致残疾或严重伤害，例如 - 三度烧伤、断肢、汽化和死亡。</entitydescription.ekutility_ioncutter>
-  <entityname.ekutility_redchemlight>化学荧光棒(红色)</entityname.ekutility_redchemlight>
+  <entitydescription.ekutility_ioncutter>重型切割工具,利用高速带电粒子脉冲切割物体。可以切割大多数材料，但能量效率很差。危险：在切割器工作时阻挡离子束可能会导致残疾或严重伤害，例如：三度烧伤、断肢、汽化和死亡。</entitydescription.ekutility_ioncutter>
+  <entityname.ekutility_redchemlight>荧光棒(红色)</entityname.ekutility_redchemlight>
   <entitydescription.ekutility_redchemlight></entitydescription.ekutility_redchemlight>
-  <entityname.ekutility_greenchemlight>化学荧光棒(绿色)</entityname.ekutility_greenchemlight>
+  <entityname.ekutility_greenchemlight>荧光棒(绿色)</entityname.ekutility_greenchemlight>
   <entitydescription.ekutility_greenchemlight></entitydescription.ekutility_greenchemlight>
-  <entityname.ekutility_bluechemlight>化学荧光棒(蓝色)</entityname.ekutility_bluechemlight>
+  <entityname.ekutility_bluechemlight>荧光棒(蓝色)</entityname.ekutility_bluechemlight>
   <entitydescription.ekutility_bluechemlight></entitydescription.ekutility_bluechemlight>
-  <entityname.ekutility_yellowchemlight>化学荧光棒(黄色)</entityname.ekutility_yellowchemlight>
+  <entityname.ekutility_yellowchemlight>荧光棒(黄色)</entityname.ekutility_yellowchemlight>
   <entitydescription.ekutility_yellowchemlight></entitydescription.ekutility_yellowchemlight>
   <entityname.ekutility_medicalscanner>医学扫描仪</entityname.ekutility_medicalscanner>
   <entitydescription.ekutility_medicalscanner>用于显示生物健康状况的手持扫描仪。</entitydescription.ekutility_medicalscanner>
@@ -529,33 +529,33 @@
   <entityname.ekutility_grapplegunprojectile_rappel>ekutility_grapplegunprojectile_rappel</entityname.ekutility_grapplegunprojectile_rappel>
   <entitydescription.ekutility_grapplegunprojectile_rappel></entitydescription.ekutility_grapplegunprojectile_rappel>
   <entityname.ekutility_jetpack1>火箭腰带</entityname.ekutility_jetpack1>
-  <entitydescription.ekutility_jetpack1>一种曾经被地表甚至更远世界的探险家使用的新型设备。使用与标准焊接油罐相同的燃料成分运行。</entitydescription.ekutility_jetpack1>
+  <entitydescription.ekutility_jetpack1>曾经被地表甚至更远世界的探险家使用的新型设备。使用与标准焊接油罐相同的燃料成分运行。</entitydescription.ekutility_jetpack1>
   <entityname.ekutility_advancedheadset>工程耳机</entityname.ekutility_advancedheadset>
   <entitydescription.ekutility_advancedheadset></entitydescription.ekutility_advancedheadset>
-  <entityname.ekutility_longrangeradio>远程无线电</entityname.ekutility_longrangeradio>
-  <entitydescription.ekutility_longrangeradio>防水高功率无线电发射机。专为联盟探险队员设计。</entitydescription.ekutility_longrangeradio>
+  <entityname.ekutility_longrangeradio>远距离无线电</entityname.ekutility_longrangeradio>
+  <entitydescription.ekutility_longrangeradio>防水的高功率无线电发射器背包。专为联盟探险队员设计。</entitydescription.ekutility_longrangeradio>
   <entityname.ekutility_sledgehammer>破拆锤</entityname.ekutility_sledgehammer>
-  <entitydescription.ekutility_sledgehammer>拆除多余墙壁的低科技方案。</entitydescription.ekutility_sledgehammer>
+  <entitydescription.ekutility_sledgehammer>拆除无用墙壁的低科技方案。</entitydescription.ekutility_sledgehammer>
   <entityname.ekutility_electroflare>电子照明弹</entityname.ekutility_electroflare>
-  <entitydescription.ekutility_electroflare>小型照明设备。可以在充电座充电。</entitydescription.ekutility_electroflare>
-  <entityname.ekutility_pda>状态监控器</entityname.ekutility_pda>
-  <entitydescription.ekutility_pda>手持计算机，可显示来舰载诊断网络的船舱完整性和空气质量信息。</entitydescription.ekutility_pda>
-  <entityname.ekutility_pdacargo>物流监控器</entityname.ekutility_pdacargo>
-  <entitydescription.ekutility_pdacargo>手持计算机，可显示来舰载诊断网络的物流和货物信息。</entitydescription.ekutility_pdacargo>
+  <entitydescription.ekutility_electroflare>小型照明设备。可以在充电坞站充电。</entitydescription.ekutility_electroflare>
+  <entityname.ekutility_pda>状态监控PDA</entityname.ekutility_pda>
+  <entitydescription.ekutility_pda>掌上电脑，可显示来自舰载诊断网络的船舱结构完整性和空气质量信息。</entitydescription.ekutility_pda>
+  <entityname.ekutility_pdacargo>物流监控PDA</entityname.ekutility_pdacargo>
+  <entitydescription.ekutility_pdacargo>掌上电脑，可显示来自舰载诊断网络的物流和货物信息。</entitydescription.ekutility_pdacargo>
   <entityname.ekutility_hullrepairkit>船体修补工具</entityname.ekutility_hullrepairkit>
-  <entitydescription.ekutility_hullrepairkit>简易船体修补方案。需要使用钢筋。</entitydescription.ekutility_hullrepairkit>
+  <entitydescription.ekutility_hullrepairkit>简易船体修补方案。消耗钢筋来修补结构破损。</entitydescription.ekutility_hullrepairkit>
   <entityname.ekutility_laserdrill>激光钻机</entityname.ekutility_laserdrill>
-  <entitydescription.ekutility_laserdrill>手持激光发生器，通过产生相倍激光切割冰块和岩石。由于设计紧凑容易过热。</entitydescription.ekutility_laserdrill>
+  <entitydescription.ekutility_laserdrill>使用相位倍增技术的手持激光发生器，用来切割冰块和岩石。由于设计紧凑容易过热。</entitydescription.ekutility_laserdrill>
   <entityname.ekutility_miningbackpack>矿工背包</entityname.ekutility_miningbackpack>
-  <entitydescription.ekutility_miningbackpack>一个带有外部框架的结实背包,通常由矿业基地人员使用。</entitydescription.ekutility_miningbackpack>
+  <entitydescription.ekutility_miningbackpack>带有外部框架的结实背包,通常由矿业基地人员使用。</entitydescription.ekutility_miningbackpack>
   <entityname.ekutility_medicalbackpack>医疗背包</entityname.ekutility_medicalbackpack>
-  <entitydescription.ekutility_medicalbackpack>一个简易的医疗包，可以背在背上。</entitydescription.ekutility_medicalbackpack>
+  <entitydescription.ekutility_medicalbackpack>简易的医疗包，可以背在背上。</entitydescription.ekutility_medicalbackpack>
   <entityname.ekutility_arcwelder>弧焊机</entityname.ekutility_arcwelder>
-  <entitydescription.ekutility_arcwelder>电驱动的焊接工具。</entitydescription.ekutility_arcwelder>
+  <entitydescription.ekutility_arcwelder>电力供能的焊接工具，利用沉重的电极来产生等离子体电弧。</entitydescription.ekutility_arcwelder>
   <entityname.ekutility_portablepump>便携式舱底泵</entityname.ekutility_portablepump>
   <entitydescription.ekutility_portablepump>[未完成的物品，仅作调试功能]</entitydescription.ekutility_portablepump>
   <entityname.ekutility_incendiumfuelrod>燃素燃料棒</entityname.ekutility_incendiumfuelrod>
-  <entitydescription.ekutility_incendiumfuelrod>用于反应堆发电的浓缩燃素棒，比铀燃料棒产生更多热量、使用寿命更长。</entitydescription.ekutility_incendiumfuelrod>
+  <entitydescription.ekutility_incendiumfuelrod>用于反应堆发电的高丰度燃素棒，比铀燃料棒产生的热量多得多，使用寿命也更长。</entitydescription.ekutility_incendiumfuelrod>
   <entityname.ekutility_supplypouch>装备袋</entityname.ekutility_supplypouch>
-  <entitydescription.ekutility_supplypouch>一个用来装工具和药品的口袋。</entitydescription.ekutility_supplypouch>
+  <entitydescription.ekutility_supplypouch>用来装工具和药品等小物品的口袋。</entitydescription.ekutility_supplypouch>
 </infotexts>
