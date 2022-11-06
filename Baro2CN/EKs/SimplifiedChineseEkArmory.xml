@@ -47,21 +47,21 @@
   <entityname.ek_handcuff_container>手铐箱</entityname.ek_handcuff_container>
   <entitydescription.ek_handcuff_container></entitydescription.ek_handcuff_container>
   <!-- ek_divinggear.xml -->
-  <entityname.ek_armored_hardsuit>Mk-I军用动力装甲</entityname.ek_armored_hardsuit>
+  <entityname.ek_armored_hardsuit>军用动力装甲Mk-I</entityname.ek_armored_hardsuit>
   <entitydescription.ek_armored_hardsuit>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，但装甲的重量显著限制了移动速度。[深度6000m]</entitydescription.ek_armored_hardsuit>
-  <entityname.ek_armored_hardsuit_paintbandit>Mk-I军用动力装甲（海盗涂装）</entityname.ek_armored_hardsuit_paintbandit>
+  <entityname.ek_armored_hardsuit_paintbandit>军用动力装甲Mk-I（海盗涂装）</entityname.ek_armored_hardsuit_paintbandit>
   <entitydescription.ek_armored_hardsuit_paintbandit>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，但装甲的重量显著限制了移动速度。[深度6000m]</entitydescription.ek_armored_hardsuit_paintbandit>
-  <entityname.ek_armored_hardsuit_paintmercenary>Mk-I军用动力装甲（佣兵涂装）</entityname.ek_armored_hardsuit_paintmercenary>
+  <entityname.ek_armored_hardsuit_paintmercenary>军用动力装甲Mk-I（佣兵涂装）</entityname.ek_armored_hardsuit_paintmercenary>
   <entitydescription.ek_armored_hardsuit_paintmercenary>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，但装甲的重量显著限制了移动速度。[深度6000m]</entitydescription.ek_armored_hardsuit_paintmercenary>
-  <entityname.ek_armored_hardsuit2>Mk-II军用动力装甲</entityname.ek_armored_hardsuit2>
+  <entityname.ek_armored_hardsuit2>军用动力装甲Mk-II</entityname.ek_armored_hardsuit2>
   <entitydescription.ek_armored_hardsuit2>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，改进的设计使得装甲更加轻便且保护能力更强。[深度10000m]</entitydescription.ek_armored_hardsuit2>
-  <entityname.ek_armored_hardsuit2_paintbandit>Mk-II军用动力装甲（海盗涂装）</entityname.ek_armored_hardsuit2_paintbandit>
+  <entityname.ek_armored_hardsuit2_paintbandit>军用动力装甲Mk-II（海盗涂装）</entityname.ek_armored_hardsuit2_paintbandit>
   <entitydescription.ek_armored_hardsuit2_paintbandit>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，改进的设计使得装甲更加轻便且保护能力更强。[深度10000m]</entitydescription.ek_armored_hardsuit2_paintbandit>
-  <entityname.ek_armored_hardsuit2_paintmercenary>Mk-II军用动力装甲（佣兵涂装）</entityname.ek_armored_hardsuit2_paintmercenary>
+  <entityname.ek_armored_hardsuit2_paintmercenary>军用动力装甲Mk-II（佣兵涂装）</entityname.ek_armored_hardsuit2_paintmercenary>
   <entitydescription.ek_armored_hardsuit2_paintmercenary>用于联盟军事行动的重装压力防护服。能为使用者提供全身防弹保护，改进的设计使得装甲更加轻便且保护能力更强。[深度10000m]</entitydescription.ek_armored_hardsuit2_paintmercenary>
-  <entityname.ek_shearclaw_outfit>Mk-I锐爪装甲</entityname.ek_shearclaw_outfit>
+  <entityname.ek_shearclaw_outfit>锐爪装甲Mk-I</entityname.ek_shearclaw_outfit>
   <entitydescription.ek_shearclaw_outfit>实验性的潜水服，拥有极高的水下机动性。内织装甲能提供轻量的抗穿刺和抗烧伤能力。[深度4000m]</entitydescription.ek_shearclaw_outfit>
-  <entityname.ek_shearclaw_helmet>Mk-I锐爪头盔</entityname.ek_shearclaw_helmet>
+  <entityname.ek_shearclaw_helmet>锐爪头盔Mk-I</entityname.ek_shearclaw_helmet>
   <entitydescription.ek_shearclaw_helmet></entitydescription.ek_shearclaw_helmet>
   <!-- ek_jobgear.xml -->
   <entityname.ek_marine_armor>军用防弹衣</entityname.ek_marine_armor>

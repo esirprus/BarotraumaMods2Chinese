@@ -637,8 +637,8 @@
   <entityname.ekdockyard_dynamicfinvanilla10mirror>动力鳍 10B</entityname.ekdockyard_dynamicfinvanilla10mirror>
   <entitydescription.ekdockyard_dynamicfinvanilla10mirror></entitydescription.ekdockyard_dynamicfinvanilla10mirror>
   <!-- custom_pumps.xml -->
-  <entityname.ekdockyard_pumpfloor1>Small Floor Pump</entityname.ekdockyard_pumpfloor1>
-  <entitydescription.ekdockyard_pumpfloor1>Small pump recessed into the floor for easy drainage.</entitydescription.ekdockyard_pumpfloor1>
+  <entityname.ekdockyard_pumpfloor1>小型地板泵</entityname.ekdockyard_pumpfloor1>
+  <entitydescription.ekdockyard_pumpfloor1>嵌入地板的小泵，便于排水。</entitydescription.ekdockyard_pumpfloor1>
   <!-- searchlight_custom -->
   <entityname.ekdockyard_searchlightwide>探照灯（广角）</entityname.ekdockyard_searchlightwide>
   <entitydescription.ekdockyard_searchlightwide></entitydescription.ekdockyard_searchlightwide>
