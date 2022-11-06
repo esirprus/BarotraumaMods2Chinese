@@ -307,7 +307,7 @@
   <entitydescription.ekdockyard_ioterminal_fabricator>制造终端和物流系统，可以进行物品远程制造和交付。</entitydescription.ekdockyard_ioterminal_fabricator>
   <entityname.ekdockyard_ioterminal_deconstructor>解构仪终端</entityname.ekdockyard_ioterminal_deconstructor>
   <entitydescription.ekdockyard_ioterminal_deconstructor>终端处理系统，能把物品被送去解构。</entitydescription.ekdockyard_ioterminal_deconstructor>
-  <entityname.ekdockyard_ioterminal_chair1>操纵椅</entityname.ekdockyard_ioterminal_chair1>
+  <entityname.ekdockyard_ioterminal_chair1>操作椅</entityname.ekdockyard_ioterminal_chair1>
   <entitydescription.ekdockyard_ioterminal_chair1>能让人员在坐着时操作机器和终端。需要链接且勾选并排显示来生效。</entitydescription.ekdockyard_ioterminal_chair1>
   <entityname.ekdockyard_navcomputer1>导航电脑</entityname.ekdockyard_navcomputer1>
   <entitydescription.ekdockyard_navcomputer1>独立数据处理单元，能够执行导航终端的所有操作.可用作备用指挥系统或高级无人机导航系统。</entitydescription.ekdockyard_navcomputer1>
