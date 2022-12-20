@@ -56,48 +56,90 @@
   <afflictionname.ha-ha>???</afflictionname.ha-ha>
   <afflictiondescription.ha-ha>你感到越来越焦虑……</afflictiondescription.ha-ha>
   <afflictionname.infernoburn>热偏头痛</afflictionname.infernoburn>
-  <afflictiondescription.infernoburn>头部有可怕的疼痛感，仿佛大脑在融化。</afflictiondescription.infernoburn>
+  <infernoburn.1.self></infernoburn.1.self>
+  <infernoburn.2.self>头部有可怕的疼痛感，仿佛大脑在融化。</infernoburn.2.self>
+  <infernoburn.3.self></infernoburn.3.self>
   <afflictioncauseofdeath.infernoburn>致命的脑过热</afflictioncauseofdeath.infernoburn>
   <afflictioncauseofdeathself.infernoburn>你的大脑已经融化</afflictioncauseofdeathself.infernoburn>
   <afflictionname.IncubationS>???</afflictionname.IncubationS>
-  <afflictiondescription.IncubationS>你感到越来越焦虑，胸口有点难受……</afflictiondescription.IncubationS>
+  <IncubationS.1.self>你感到越来越焦虑……</IncubationS.1.self>
+  <IncubationS.2.self>你感到越来越焦虑，胸口有点难受……</IncubationS.2.self>
   <afflictionname.artmod_anomalyfunctionalnecrosis>幻觉？</afflictionname.artmod_anomalyfunctionalnecrosis>
-  <afflictiondescription.artmod_anomalyfunctionalnecrosis>你的眼睛充盈着血液，它也从你身体的各个部位流出来。你的胃里翻江倒海，你听到了别人听不到的奇怪声音，你的身体充满了能量……而且一股无名怒火在你内心积攒。</afflictiondescription.artmod_anomalyfunctionalnecrosis>
+  <artmod_anomalyfunctionalnecrosis.1>患者眼睑痉挛，仿佛看到别人看不到的东西。</artmod_anomalyfunctionalnecrosis.1>
+  <artmod_anomalyfunctionalnecrosis.2>患者表现出类似于严重精神病的症状，但同时血液周期性地从头部流出，头部布满烧伤的痕迹，下巴不自然地收缩。</artmod_anomalyfunctionalnecrosis.2>
+  <artmod_anomalyfunctionalnecrosis.1.self>你不认为你听到了低语，对吗？...</artmod_anomalyfunctionalnecrosis.1.self>
+  <artmod_anomalyfunctionalnecrosis.2.self>闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴 闭嘴</artmod_anomalyfunctionalnecrosis.2.self>
   <afflictioncauseofdeath.artmod_anomalyfunctionalnecrosis>死因不明。</afflictioncauseofdeath.artmod_anomalyfunctionalnecrosis>
   <afflictioncauseofdeathself.artmod_anomalyfunctionalnecrosis>你死于灵能感染。</afflictioncauseofdeathself.artmod_anomalyfunctionalnecrosis>
   <afflictiondescription.artmod_incurablefunctionalnecrosis>患者看起来像一具活尸</afflictiondescription.artmod_incurablefunctionalnecrosis>
   <afflictionname.craser_bleeding>异常的出血</afflictionname.craser_bleeding>
-  <afflictiondescription.craser_bleeding>血液从身体的各个孔道奔涌而出……</afflictiondescription.craser_bleeding>
+  <craser_bleeding.1>血液缓慢地、随着脉搏从身体的各个孔道流出。</craser_bleeding.1>
+  <craser_bleeding.2>血液正在从身体的各个孔道快速流出。</craser_bleeding.2>
+  <craser_bleeding.3>血液正从身体的各个孔道奔涌而出！</craser_bleeding.3>
   <afflictioncauseofdeath.craser_bleeding>死于异常的出血。</afflictioncauseofdeath.craser_bleeding>
   <afflictioncauseofdeathself.craser_bleeding>你死于异常的出血。</afflictioncauseofdeathself.craser_bleeding>
   <afflictionname.theheavenpsychosis>异常的瘫痪</afflictionname.theheavenpsychosis>
   <afflictiondescription.theheavenpsychosis>病人的身体僵硬，肌肉停止工作。</afflictiondescription.theheavenpsychosis>
-  <afflictiondescription.Soulless>病人看起来没有什么问题，但他的眼睛暗淡无光，体内的生命力似乎在逐渐消散。</afflictiondescription.Soulless>
+  
+  <soulless.1>患者看起来没事，但是...</soulless.1>
+  <soulless.2>患者看起来没事，但他的眼睛暗淡无光，肌肉难以绷紧。</soulless.2>
+  <soulless.3>没有明显的伤口，也没有内脏损伤。但是病人的生命正在消逝。</soulless.3>
+  <soulless.1.self>多么奇怪的感觉，就像过度劳累一样。也许你需要休息一下？</soulless.1.self>
+  <soulless.2.self>你的眼前就像有一片恼人的阴霾，完全没有力气去做任何事情了。而且似乎简单的休息也不能解决这个问题。</soulless.2.self>
+  <soulless.3.self>你几乎迈不开你的腿，你的思想像果冻一样卡在你的脑子里，你的手也拿不住任何东西，只能看着它们滑落到地上，你的眼皮也似乎不想睁开，所以几乎什么都看不到。你只是不关心你周围的一切。</soulless.3.self>
   <afflictioncauseofdeath.Soulless>死因不明。</afflictioncauseofdeath.Soulless>
   <afflictioncauseofdeathself.Soulless>最后一丝生命力也在这具身体上流逝了。</afflictioncauseofdeathself.Soulless>
   <afflictionname.oasispsychosis>异常的幻觉</afflictionname.oasispsychosis>
   <afflictiondescription.oasispsychosis>患者的灵魂被蒙蔽了，他的意识可能在几万里开外。</afflictiondescription.oasispsychosis>
   <afflictionname.artaddiction>异常的成瘾性</afflictionname.artaddiction>
   <afflictiondescription.artaddiction>患者对于一切都很满意，从房间的地板到所有所有...他可太开心了。</afflictiondescription.artaddiction>
+  <artaddiction.1>病人显示出喜悦的迹象，对于一般的潜艇来说，喜悦的程度可疑地高。</artaddiction.1>
+  <artaddiction.2>病人似乎对一切都很满意...太高兴了。</artaddiction.2>
+  <artaddiction.3>病人只是很高兴。这太不正常了。</artaddiction.3>
+  <artaddiction.self1>一切肯定会好起来的，你就知道。</artaddiction.self1>
+  <artaddiction.self2>一种非常不寻常的欢快状态冲击着你的头脑。你喝醉了！</artaddiction.self2>
+  <artaddiction.self3>生活是美好的。你也是美好的。</artaddiction.self3>
   <afflictionname.artwithdrawal>异常的戒断反应</afflictionname.artwithdrawal>
   <afflictiondescription.artwithdrawal>患者表现出正常的戒断反应，但...总感觉有哪里不对？错觉吧。</afflictiondescription.artwithdrawal>
-  <afflictiondescription.artvisualwithdrawal>你感到越来越焦虑...有一种想让身体崩溃的渴望，这让你感到无比的奇怪和痛苦。想要再次触摸治愈异星遗物。</afflictiondescription.artvisualwithdrawal>
+  <artwithdrawal.1>患者表现出正常的戒断反应，但总感觉哪里不对...</artwithdrawal.1>
+  <artwithdrawal.self1>你感到越来越焦虑...</artwithdrawal.self1>
+  <artwithdrawal.self2>你感到一种奇怪的、痛苦的、想要打破身体的渴望，想再次触摸那件治疗遗物。至少一次。</artwithdrawal.self2>
+  <artwithdrawal.self3>主啊，你的整个身体都在可怕地自内而外破碎。触摸治疗遗物，它那红色的治疗表面是至关重要的，至少用你的指尖...请...</artwithdrawal.self3>  
   <afflictioncauseofdeath.artwithdrawal>死于异常的戒断反应。</afflictioncauseofdeath.artwithdrawal>
   <afflictioncauseofdeathself.artwithdrawal>你死于异常的戒断反应。</afflictioncauseofdeathself.artwithdrawal>
   <afflictionname.burnresist>烧伤抗性</afflictionname.burnresist>
-  <afflictiondescription.burnresist>烧伤对你造成的伤害会更少。</afflictiondescription.burnresist>
+  <burnresist.1>该角色对烧伤有轻微保护。</burnresist.1>
+  <burnresist.2>该角色对烧伤有良好保护。</burnresist.2>
+  <burnresist.1.self>药物的效力减弱，你现在对烧伤有轻微保护。</burnresist.1.self>
+  <burnresist.2.self>你对烧伤有良好保护。</burnresist.2.self>
+  <burnresist.3.self>药物充分发挥了它的作用，你是一块不会被烧伤的石头！好吧，几乎是。</burnresist.3.self>
   <afflictionname.burnresistS>烧伤抗性+</afflictionname.burnresistS>
-  <afflictiondescription.burnresistS>烧伤对你造成的伤害要小很多。</afflictiondescription.burnresistS>
+  <burnresistS.1>该角色几乎对烧伤免疫。</burnresistS.1>
+  <burnresistS.1.self>你拥有黑曜石一般的皮肤。你几乎不会受到烧伤的伤害。</burnresistS.1.self>
   <afflictionname.bleedingresist>出血抗性</afflictionname.bleedingresist>
-  <afflictiondescription.bleedingresist>你的伤口出血量会更少。</afflictiondescription.bleedingresist>
+  <bleedingresist.1>该角色的伤口出血轻微减少。</bleedingresist.1>
+  <bleedingresist.2>该角色的伤口出血减少。</bleedingresist.2>
+  <bleedingresist.1.self>药物的效力减弱，你的伤口出血略微减少。</bleedingresist.1.self>
+  <bleedingresist.2.self>你的伤口出血减少。</bleedingresist.2.self>
+  <bleedingresist.3.self>你的皮肤当然不是燧石，但你的伤口也不怎么流血。</bleedingresist.3.self>
   <afflictionname.bleedingresistS>出血抗性+</afflictionname.bleedingresistS>
-  <afflictiondescription.bleedingresistS>你的伤口出血量会少很多。</afflictiondescription.bleedingresistS>
+  <bleedingresistS.1>病人很难出血。</bleedingresistS.1>
+  <bleedingresistS.1.self>你的热血将永远伴随你！你的伤口几乎不流血。</bleedingresistS.1.self>
   <afflictionname.chemresist>眩晕抗性</afflictionname.chemresist>
-  <afflictiondescription.chemresist>你不太容易晕眩。</afflictiondescription.chemresist>
+  <chemresist.1>该角色对眩晕的抵抗力稍微提高。</chemresist.1>
+  <chemresist.2>该角色对眩晕的抵抗力提高。</chemresist.2>
+  <chemresist.1.self>药物的效力减弱，你对眩晕的抵抗力只是稍有提高。</chemresist.1.self>
+  <chemresist.2.self>你对眩晕的抵抗力更强了。</chemresist.2.self>
+  <chemresist.3.self>清醒的头脑，清晰的思维。好吧，至少击晕你现在是一项非同小可的任务。</chemresist.3.self>
   <afflictionname.chemresistS>眩晕抗性+</afflictionname.chemresistS>
-  <afflictiondescription.chemresistS>你不会晕眩</afflictiondescription.chemresistS>
+  <chemresistS.1>该角色很难进入眩晕状态。</chemresistS.1>
+  <chemresistS.1.self>现在没有什么能使你眩晕。当然，除了过重的伤势。</chemresistS.1.self>
   <afflictionname.dontusetoomuch>细胞降解</afflictionname.dontusetoomuch>
-  <afflictiondescription.dontusetoomuch>使用了含有治愈水晶的药物所产生的普遍后遗症。</afflictiondescription.dontusetoomuch>
+  <dontusetoomuch.1>该角色身体状况的普遍恶化与使用某些含有红色晶体的药物有关。</dontusetoomuch.1>
+  <dontusetoomuch.2>身体状况的严重恶化与使用某些含有红色晶体的药物有关。病人需要长期休息，或服用一剂 "抗降解药剂"。</dontusetoomuch.2>
+  <dontusetoomuch.1.self>有点不适。这是使用含有红色晶体的药物后的通常状况。</dontusetoomuch.1.self>
+  <dontusetoomuch.2.self>哇，出问题了。这附近有抗降解药剂，对吗？</dontusetoomuch.2.self>
+  <dontusetoomuch.3.self>非常疼...嘶...</dontusetoomuch.3.self>
   <causeofdeathdescription.dontusetoomuch>死于细胞降解</causeofdeathdescription.dontusetoomuch>
   <selfcauseofdeathdescription.dontusetoomuch>你死于细胞降解</selfcauseofdeathdescription.dontusetoomuch>
   <afflictionname.redroundpill>肾上腺素</afflictionname.redroundpill>
@@ -117,13 +159,20 @@
   <afflictionname.psihelmetresist>灵能防护</afflictionname.psihelmetresist>
   <afflictiondescription.psihelmetresist>像是酒精，不过比那还带劲！</afflictiondescription.psihelmetresist>
   <afflictionname.psi_internaldamage>异常脑损伤</afflictionname.psi_internaldamage>
-  <afflictiondescription.psi_internaldamage>我们对这种情况毫无了解，只知道这会导致患者死亡...</afflictiondescription.psi_internaldamage>
+  <psi_internaldamage.1>一种从未研究过的现象，最终可能导致患者死亡</psi_internaldamage.1>
+  <psi_internaldamage.2>一种从未研究过的现象，这可能会成为患者死亡的主导因素。</psi_internaldamage.2>
+  <psi_internaldamage.1.self>头等和眼睛都有点痛。</psi_internaldamage.1.self>
+  <psi_internaldamage.2.self>头部的疼痛比酒精戒断的时候还要严重。眼睛疼得厉害。</psi_internaldamage.2.self>
+  <psi_internaldamage.3.self>思考...会很痛...剧烈的疼痛...看不见东西...</psi_internaldamage.3.self>
   <afflictioncauseofdeath.psi_internaldamage>死于大脑液化。</afflictioncauseofdeath.psi_internaldamage>
   <afflictioncauseofdeathself.psi_internaldamage>你的大脑液化了。</afflictioncauseofdeathself.psi_internaldamage>
   <afflictionname.transformationgift>?</afflictionname.transformationgift>
   <afflictiondescription.transformationgift>有一种莫名的奇怪，消之不去...</afflictiondescription.transformationgift>
   <afflictionname.artmod_drunk>异常的醉酒</afflictionname.artmod_drunk>
-  <afflictiondescription.artmod_drunk>有醉酒的迹象，但令人匪夷所思的是他的体内没有酒精。</afflictiondescription.artmod_drunk>
+  <artmod_drunk.1>患者有醉酒的迹象，但是他的血液里没有酒精。</artmod_drunk.1>
+  <artmod_drunk.self1>你突然感觉非常非常愉悦，就像刚喝完了一瓶酒一样。</artmod_drunk.self1>
+  <artmod_drunk.self2>地板好像在左右摇晃...还有，为什么总有人在按小丑喇叭..</artmod_drunk.self2>
+  <artmod_drunk.self3>小丑的喇叭声...响个不停...</artmod_drunk.self3>
   <afflictionname.bracletbuff>手镯</afflictionname.bracletbuff>
   <afflictiondescription.bracletbuff>他手上的异星造物——那件手镯深深地嵌进了他的皮肤，扎进了血管和肌肉。想要移除这个手镯就不得不伤害佩戴者。</afflictiondescription.bracletbuff>
   <afflictionname.bracletbuff_hostvisual1>母与子</afflictionname.bracletbuff_hostvisual1>
@@ -282,11 +331,11 @@
   <entityname.winchester>温彻斯特</entityname.winchester>
   <entitydescription.winchester>带着这把改造过的步枪去重建水下西部吧！</entitydescription.winchester>
   <entityname.wichesterround>温彻斯特子弹</entityname.wichesterround>
-  <entitydescription.wichesterround>.300口径的子弹。可以让一个正常人彻底失去行动力——一只海兽应该也行...</entitydescription.wichesterround>
+  <entitydescription.wichesterround>.300口径的子弹。可以让一个正常人彻底失去行动力——一只海兽应该也行...\n温彻斯特和步枪均可用。</entitydescription.wichesterround>
   <entityname.wichesterroundhard>温彻斯特尖头弹</entityname.wichesterroundhard>
-  <entitydescription.wichesterroundhard>一颗.300口径尖头弹，给予你的目标致命打击，使其再起不能，寄！</entitydescription.wichesterroundhard>
+  <entitydescription.wichesterroundhard>一颗.300口径尖头弹，给予你的目标致命打击，使其再起不能，寄！\n温彻斯特和步枪均可用。</entitydescription.wichesterroundhard>
   <entityname.wichesterrounddepletedfuel>温彻斯特贫铀子弹</entityname.wichesterrounddepletedfuel>
-  <entitydescription.wichesterrounddepletedfuel>.300口径子弹，弹体的材料是贫铀燃料。这种特殊的材质增加了子弹穿透力，同时会让目标染上辐射病。</entitydescription.wichesterrounddepletedfuel>
+  <entitydescription.wichesterrounddepletedfuel>.300口径子弹，弹体的材料是贫铀燃料。这种特殊的材质增加了子弹穿透力，同时会让目标染上辐射病。\n温彻斯特和步枪均可用。</entitydescription.wichesterrounddepletedfuel>
   <entityname.artmod_autoshotgun>半自动霰弹枪</entityname.artmod_autoshotgun>
   <entitydescription.artmod_autoshotgun>一把新式的自动装填霰弹枪。射速奇快，就是装弹量太少，清空弹仓只需要一瞬间。</entitydescription.artmod_autoshotgun>
   <entityname.fisshotgunshell>刚素霰弹枪弹药</entityname.fisshotgunshell>
@@ -303,6 +352,8 @@
   <entitydescription.electrogun>基于外星材料的最新武器之一，可供普通人使用。使用经过特殊改造的雷素电池，产生短暂的能量束，击中时使目标眩晕，并造成无视防御的轻微烧伤伤害。在水中，电脉冲命中后会产生小范围扩散电涌，进一步震晕附近的目标，并造成中等程度的烧伤。该武器的效率相对较低，而且在长时间射击时也会过载，但它的无限弹药弥补了这些点。</entitydescription.electrogun>
   <entityname.electrogunmagazine>电涌步枪专用雷素电池</entityname.electrogunmagazine>
   <entitydescription.electrogunmagazine>一个改装版的雷素电池，它有专门用于电涌步枪的接口，但仍能在电池和充电站上充电。</entitydescription.electrogunmagazine>
+  <entityname.artmod_pulselaserrifle>激光卡宾枪</entityname.artmod_pulselaserrifle>
+  <entitydescription.artmod_pulselaserrifle>最新的武器之一。高精度的激光卡宾枪，具有有限的、不可充电的能量储备。需要较高的武器技能等级以获得最大的准确性。\n“简单*，可靠，品质。”\n*“简单”一词的概念可能与大多数人的意见不一致。</entitydescription.artmod_pulselaserrifle>
   <entityname.artmod_supershotgun>四管霰弹枪</entityname.artmod_supershotgun>
   <entitydescription.artmod_supershotgun>双管霰弹枪+未知组件+奇思妙想=强大的火力+可怕的准度+泪目的耗弹。能够同时发射四颗子弹。</entitydescription.artmod_supershotgun>
   <entityname.artmod_heavymachinegun>重机枪</entityname.artmod_heavymachinegun>
@@ -325,6 +376,8 @@
   <entitydescription.artmod_laserdrill>采矿业的技术新词。“EK”公司利用外星技术对激光钻机进行现代化改造后的产品。"优雅，品质，可靠。"</entitydescription.artmod_laserdrill>
   <entityname.artmod_laserdrill_batterycell>重型采矿激光钻机电池</entityname.artmod_laserdrill_batterycell>
   <entitydescription.artmod_laserdrill_batterycell>大容量电池，仅与重型采矿激光钻机兼容。可在充电坞站中充电。</entitydescription.artmod_laserdrill_batterycell>
+  <entityname.artmod_compactpump>P.U.M.P.</entityname.artmod_compactpump>
+  <entitydescription.artmod_compactpump>从潜艇中“手动”抽水的最新技术。\n没有人知道这个缩写是什么意思。没有人知道它是如何工作的。\n不管怎样，最主要的是它能正常并出色地完成工作。</entitydescription.artmod_compactpump>
   <entityname.plpistol>坏掉的激光手枪</entityname.plpistol>
   <entitydescription.plpistol>奇怪的武器。感觉是坏掉了，不管怎么试都没反应。</entitydescription.plpistol>
   <entityname.plsmg>坏掉的激光冲锋枪</entityname.plsmg>
@@ -341,7 +394,6 @@
   <entitydescription.lmachinegun>不需要子弹的实验性武器之一。看起来有人要比我们更加了解怎样使用这些异星物质。</entitydescription.lmachinegun>
   <entityname.lgrenadelauncher>激光狙击步枪</entityname.lgrenadelauncher>
   <entitydescription.lgrenadelauncher>不需要子弹的实验性武器之一。看起来有人要比我们更加了解怎样使用这些异星物质。</entitydescription.lgrenadelauncher>
-  <subcategory.artmod_piratestuff>海盗装备</subcategory.artmod_piratestuff>
   <entityname.artpirateminigun>海盗“转轮机枪”</entityname.artpirateminigun>
   <entitydescription.artpirateminigun>海盗武器。这把枪的主体是一把便携式榴弹发射器，转轮机枪的机件都被以一种奇怪的方式塞了进去，发射器被涂成全黑，枪管上缠绕着带刺铁丝网。俺寻思能行。它的射速较慢，只能容纳少许子弹。同时它还需要熟练使用，因为后坐力会使枪体猛烈冲击操控者的手腕。不熟练的人使用这把枪，射击精准度在一个不理想的水准...</entitydescription.artpirateminigun>
   <entityname.piratealienminigun>海盗"Arzi"</entityname.piratealienminigun>
@@ -356,8 +408,8 @@
   <entitydescription.artmod_piraterevolver>左轮手枪，被重新涂成黑色，枪管上挂着废金属。功能上与普通左轮手枪相同。</entitydescription.artmod_piraterevolver>
   <entityname.artmod_piratesmg>海盗SMG</entityname.artmod_piratesmg>
   <entitydescription.artmod_piratesmg>冲锋枪，被重新涂成黑色。它被人用异星材料进行了改装，因此射击时消耗的弹药更少。这里面肯定有时空异常。或者没有？</entitydescription.artmod_piratesmg>
-  <entityname.artmod_pirateboardingaxe>撬棍斧</entityname.artmod_pirateboardingaxe>
-  <entitydescription.artmod_pirateboardingaxe>海盗的另一项发明。一个与斧头焊接在一起的撬棍。它最后的测试结果输给了登船斧和普通撬棍，但是从干涸的血迹来看，差的并不多。</entitydescription.artmod_pirateboardingaxe>
+  <entityname.artmod_pirateshotgun>海盗霰弹枪</entityname.artmod_pirateshotgun>
+  <entitydescription.artmod_pirateshotgun>一把严重生锈的猎枪，外表被废旧金属包裹，第二个枪管被粗暴地连接在第一个枪管旁。\n曾经的爆鸣。</entitydescription.artmod_pirateshotgun>
   <entityname.pirate_winchester>海盗温彻斯特</entityname.pirate_winchester>
   <entitydescription.pirate_winchester>温彻斯特，枪托上绑着个护身符。方便你携带更多的弹药。位于枪管下方的废金属没有任何实际功能。装弹装置已损坏，只能容纳一发子弹。</entitydescription.pirate_winchester>
   <entityname.autopistol_pirate>海盗自动手枪</entityname.autopistol_pirate>
@@ -372,72 +424,122 @@
   <entitydescription.artmod_piratedivingmask>一种有装甲板保护的潜水面罩，更有效的过滤器使其消耗的氧气更少。</entitydescription.artmod_piratedivingmask>
   <entityname.artmod_pirateshellshield>海盗甲壳盾牌</entityname.artmod_pirateshellshield>
   <entitydescription.artmod_pirateshellshield>用废料和刚素块加固的摩洛克甲壳碎片。它可以用一个相对舒适的手柄单手握住，能够承受大量的伤害。</entitydescription.artmod_pirateshellshield>
-  <entityname.artminigun>EW-P1"转轮机枪"</entityname.artminigun>
+  <entityname.artmod_scrapassaultrifle>海盗突击步枪</entityname.artmod_scrapassaultrifle>
+  <entitydescription.artmod_scrapassaultrifle>一支过时的步枪，现在不知道是什么系列，人们在欧罗巴刚刚开始定居时经常使用。经过现代化改造，可以在水下使用，甚至很可能不会爆炸。\n与突击步枪的弹夹兼容。</entitydescription.artmod_scrapassaultrifle>
+  <entityname.artmod_scrapassaultriflemagazine>海盗突击步枪弹夹</entityname.artmod_scrapassaultriflemagazine>
+  <entitydescription.artmod_scrapassaultriflemagazine>适用于6.8毫米口径子弹的弹夹。容量稍大，与突击步枪兼容。</entitydescription.artmod_scrapassaultriflemagazine>
+  <entityname.artmod_scrapautopistol>废料冲锋枪</entityname.artmod_scrapautopistol>
+  <entitydescription.artmod_scrapautopistol>自动手枪的先驱，经过无数次的改造。特别有价值的是其不可拆卸的消音器，可以将射击噪音减少到零。\n可以使用自动手枪的弹药。</entitydescription.artmod_scrapautopistol>
+  <entityname.artmod_scrapautopistolmagazine>废料冲锋枪弹药</entityname.artmod_scrapautopistolmagazine>
+  <entitydescription.artmod_scrapautopistolmagazine>内有58发子弹。</entitydescription.artmod_scrapautopistolmagazine>
+  <entityname.artmod_scraprevolver>废料手枪</entityname.artmod_scraprevolver>
+  <entitydescription.artmod_scraprevolver>这把武器由废旧金属制成，以自动手枪为基础，使用左轮手枪的子弹，具有相当出色的射速。但由于其弹容量小，必须不断地重新装弹。\n枪上的刀显然是装饰。</entitydescription.artmod_scraprevolver>
+  <entityname.artmod_scrapshotgun>废料霰弹枪</entityname.artmod_scrapshotgun>
+  <entitydescription.artmod_scrapshotgun>这把枪相比普通的霰弹枪可以容纳两倍的子弹，然后在不使用泵的情况下重新装弹，而这惊人的机制却是来自简单的、勉强可以工作的设计。</entitydescription.artmod_scrapshotgun>
+  <entityname.artmod_scrapheavymachinegun>废料重机枪</entityname.artmod_scrapheavymachinegun>
+  <entitydescription.artmod_scrapheavymachinegun>一把设计笨重的武器，只不过是对重机枪的复刻。与原版相比，射速和精度都比较低。\n可以使用重机枪的弹药。令人惊讶的是，即使是没有经验的使用者也不会被其后坐力震晕。</entitydescription.artmod_scrapheavymachinegun>
+  <entityname.artmod_scrapheavymachinegunmagazine>废料重机枪弹药箱</entityname.artmod_scrapheavymachinegunmagazine>
+  <entitydescription.artmod_scrapheavymachinegunmagazine>两倍的子弹数量，一半的防水保护。可用于重机枪。</entitydescription.artmod_scrapheavymachinegunmagazine>
+  <entityname.artmod_scrapmechaknife>废料多功能刀</entityname.artmod_scrapmechaknife>
+  <entitydescription.artmod_scrapmechaknife>而这把武器的扳手部分则像新的一样，算是吧。</entitydescription.artmod_scrapmechaknife>
+  <entityname.artmod_scrapsword>废料砍刀</entityname.artmod_scrapsword>
+  <entitydescription.artmod_scrapsword>一把不规整的锯齿刀，可以预见它将造成血流不止的可怕伤口</entitydescription.artmod_scrapsword>
+  <entityname.artmod_scrapsecira>废料双刃斧</entityname.artmod_scrapsecira>
+  <entitydescription.artmod_scrapsecira>不方便的短柄很烦人，会把人的头敲下来。</entitydescription.artmod_scrapsecira>
+  <entityname.artmod_scraphammer>暖气片大锤</entityname.artmod_scraphammer>
+  <entitydescription.artmod_scraphammer>它很蠢，它很重，但它很有用。\n"... "我会以如山的报复和无尽的怒火击倒你"..."</entitydescription.artmod_scraphammer>
+  <entityname.artmod_pirateboardingaxe>撬棍斧</entityname.artmod_pirateboardingaxe>
+  <entitydescription.artmod_pirateboardingaxe>一根焊接在斧头上的撬棍。最后的成品输给了砍斧和撬棍，但是，从干涸的血迹来看，并没有输太多。</entitydescription.artmod_pirateboardingaxe>
+  <entityname.artmod_scrapknife>废料潜水刀</entityname.artmod_scrapknife>
+  <entitydescription.artmod_scrapknife>实际上，这把采用看似不可靠的潜水刀与普通的刀一样有效。</entitydescription.artmod_scrapknife>
+  <entityname.artmod_scraperknife>废料刮刀</entityname.artmod_scraperknife>
+  <entitydescription.artmod_scraperknife>它的刀片是由不规则的刚素碎片制成的。</entitydescription.artmod_scraperknife>
+  <entityname.artmod_scrapdementoniteaxe>废料宽刃斧</entityname.artmod_scrapdementoniteaxe>
+  <entitydescription.artmod_scrapdementoniteaxe>采用摄魂块而不是普通金属做斧刃，持有时脑内会感受到低沉的嗡嗡声。</entitydescription.artmod_scrapdementoniteaxe>
+  <entityname.artmod_scraphalfsword>废料剑</entityname.artmod_scraphalfsword>
+  <entitydescription.artmod_scraphalfsword>夹在其中的刀刃很钝，比起切割，这把剑可能更适合破坏。</entitydescription.artmod_scraphalfsword>
+  <entityname.artmod_scrapclub>废料球棍</entityname.artmod_scrapclub>
+  <entitydescription.artmod_scrapclub>刀柄顶部的无形状金属片很容易划伤（自己的）手。</entitydescription.artmod_scrapclub>
+  <entityname.artmod_scrapaxe>废料斧</entityname.artmod_scrapaxe>
+  <entitydescription.artmod_scrapaxe>这是一把斧头，它可以用于砍切物品。制造者把它用于预定的目的。直到落入你手中时它还没有散架，从侧面证明了这把武器的质量。</entitydescription.artmod_scrapaxe>
+  <entityname.artmod_scraphardbench>废料...刀</entityname.artmod_scraphardbench>
+  <entitydescription.artmod_scraphardbench>一把外形独特的武器，具有致命的杀伤力。</entitydescription.artmod_scraphardbench>
+  <entityname.artmod_scraplockpata>废料...刀</entityname.artmod_scraplockpata>
+  <entitydescription.artmod_scraplockpata>一把外形独特的武器，具有致命的杀伤力。</entitydescription.artmod_scraplockpata>
+  <entityname.artmod_scrapsteelknife>废钢刀</entityname.artmod_scrapsteelknife>
+  <entitydescription.artmod_scrapsteelknife>钝而重的武器，它能切开血肉，粉碎骨头。</entitydescription.artmod_scrapsteelknife>
+  <entityname.artmod_scrapfulgurknife>废料刀</entityname.artmod_scrapfulgurknife>
+  <entitydescription.artmod_scrapfulgurknife>这把刀有着非常尴尬的握法，令人手指刺痛...</entitydescription.artmod_scrapfulgurknife>
+  <entityname.artmod_scraplittleaxe>废料小手斧</entityname.artmod_scraplittleaxe>
+  <entitydescription.artmod_scraplittleaxe>一个体面的工具，用于切碎爬行者的肉作为午餐，或者切碎一个人... 有人能看出他们切碎之后的区别吗？</entitydescription.artmod_scraplittleaxe>
+  <entityname.artmod_scraplittlesaw>废料圆锯</entityname.artmod_scraplittlesaw>
+  <entitydescription.artmod_scraplittlesaw>刀片炽热。烹制多汁牛排所需的一切。</entitydescription.artmod_scraplittlesaw>
+  <entityname.artminigun>EW-P-"转轮机枪"-2</entityname.artminigun>
   <entitydescription.artminigun>联盟新研发的几种原型武器之一。这是整个系列的第一把原型武器，是一种改进过的转轮机枪，在水下也能够正常使用，内置了与电池连接的枪灯。它可以将自己折叠到一个紧凑的形态，使其更容易携带。不过这个功能并不完美，展开和折叠时会让武器从操作者手中掉落，并且会无法挽回的“吞掉”枪内的子弹和电池。沉入水中时会自动打开绿色闪光灯。</entitydescription.artminigun>
-  <entityname.artminigun_und>EW-P1"转轮机枪" - 折叠模式</entityname.artminigun_und>
+  <entityname.artminigun_und>EW-P-"转轮机枪"-2 - 折叠模式</entityname.artminigun_und>
   <entitydescription.artminigun_und>联盟新研发的几种原型武器之一。这是整个系列的第一把原型武器，是一种改进过的转轮机枪，在水下也能够正常使用，内置了与电池连接的枪灯。它可以将自己折叠到一个紧凑的形态，使其更容易携带。不过这个功能并不完美，展开和折叠时会让武器从操作者手中掉落，并且会无法挽回的“吞掉”枪内的子弹和电池。沉入水中时会自动打开绿色闪光灯。</entitydescription.artminigun_und>
-  <entityname.artminigunmagazine>EW-P1的弹药盒</entityname.artminigunmagazine>
+  <entityname.artbatterycell>内置电池</entityname.artbatterycell>
+  <entitydescription.artbatterycell>用于武器内置的手电筒供电，当不用时会自动充电。</entitydescription.artbatterycell>
+  <entityname.artminigunmagazine>EW-P-“转轮机枪”的弹药盒</entityname.artminigunmagazine>
   <entitydescription.artminigunmagazine>一盒5.56口径钢芯弹，沉甸甸的。</entitydescription.artminigunmagazine>
-  <entityname.artminigunminimagazine>EW-P1的小型弹药盒</entityname.artminigunminimagazine>
+  <entityname.artminigunminimagazine>EW-P-“转轮机枪”的小型弹药盒</entityname.artminigunminimagazine>
   <entitydescription.artminigunminimagazine>一盒5.56口径钢芯弹。这种弹盒装弹量更少，但允许你一次携带多个。</entitydescription.artminigunminimagazine>
-  <entityname.artminigunmagazinepfire>EW-P1的燃素弹药盒</entityname.artminigunmagazinepfire>
+  <entityname.artminigunmagazinepfire>EW-P-“转轮机枪”的燃素弹药盒</entityname.artminigunmagazinepfire>
   <entitydescription.artminigunmagazinepfire>一盒使用燃素水晶弹芯的5.56口径子弹。直接命中的伤害大大降低，但随后的微爆造成的烧伤伤害足以弥补这一不足。</entitydescription.artminigunmagazinepfire>
-  <entityname.artminigunminimagazinefire>EW-P1的小型燃素弹药盒</entityname.artminigunminimagazinefire>
+  <entityname.artminigunminimagazinefire>EW-P-“转轮机枪”的小型燃素弹药盒</entityname.artminigunminimagazinefire>
   <entitydescription.artminigunminimagazinefire>一盒使用燃素水晶弹芯的5.56口径子弹。它包含的弹药较少，但你可以同时携带几件。</entitydescription.artminigunminimagazinefire>
-  <entityname.artminigunmagazinepierc>EW-P1的穿甲弹药盒</entityname.artminigunmagazinepierc>
-  <entitydescription.artminigunmagazinepierc>一盒使用摄魂弹芯的5.56口径穿甲弹。虽然我们对摄魂矿块仍然是一知半解，但这种材料绝对是制造穿甲弹的最佳选择。这种弹药伤害较小，但能穿透绝大多数的护甲。</entitydescription.artminigunmagazinepierc>
-  <entityname.artminigunminimagazinepierc>EW-P1的小型穿甲弹药盒</entityname.artminigunminimagazinepierc>
-  <entitydescription.artminigunminimagazinepierc>一盒使用摄魂弹芯的5.56口径穿甲弹。这种弹盒装弹量更少，但允许你一次携带多个。</entitydescription.artminigunminimagazinepierc>
-  <entityname.artminigunmagazinefisic>EW-P1的刚素弹药盒</entityname.artminigunmagazinefisic>
+  <entityname.artminigunmagazinefisic>EW-P-“转轮机枪”的刚素弹药盒</entityname.artminigunmagazinefisic>
   <entitydescription.artminigunmagazinefisic>一盒使用刚素弹芯的5.56口径子弹。虽然其尾流留下的出血伤害较少，但它们是一种更致命的弹药类型。</entitydescription.artminigunmagazinefisic>
-  <entityname.artminigunminimagazinefisic>EW-P1的小型刚素弹盒</entityname.artminigunminimagazinefisic>
+  <entityname.artminigunminimagazinefisic>EW-P-“转轮机枪”的小型刚素弹盒</entityname.artminigunminimagazinefisic>
   <entitydescription.artminigunminimagazinefisic>一盒使用刚素弹芯的5.56口径子弹。这种弹盒装弹量更少，但允许你一次携带多个。</entitydescription.artminigunminimagazinefisic>
-  <entityname.alienminigun>EW-P2"Arzi"</entityname.alienminigun>
-  <entitydescription.alienminigun>联盟新研发的几种原型武器之一。以高速发射激光，使用较少的异星电池能量，而且不会诱发精神错乱。尽管外观漂亮，但武器内部是由各种部件组成的一团糟——传统部件外星部件都有——而且很重，使用起来很不方便。使用时会逐渐崩解。需要能熟练地操作武器（60以上），否则会比平时更快地崩解。消耗异星电池。</entitydescription.alienminigun>
-  <entityname.bighotflamer>EW-P3"Glick"</entityname.bighotflamer>
+  <entityname.bighotflamer>EW-P-"Glick"-1</entityname.bighotflamer>
   <entitydescription.bighotflamer>联盟新研发的几种原型武器之一。最初，它只是一个重型火焰喷射器的过时版本，装着一个破碎的瞄准器。不知道用于这头野兽身上的部件究竟是如何组合的，但现在这可怕的武器射出的是密集的异常火焰凝块。瞄准器依然是破损的。"是这儿本来就很热，还是只是因为你，烧到只剩灰烬？"</entitydescription.bighotflamer>
-  <entityname.bighotflamer_fuel>EW-P3的燃料</entityname.bighotflamer_fuel>
-  <entitydescription.bighotflamer_fuel>可怕的大杂烩。燃料罐，仅与EW-P3兼容。易燃！</entitydescription.bighotflamer_fuel>
-  <entityname.meganucleargun>EW-P4"BFG"</entityname.meganucleargun>
-  <entitydescription.meganucleargun>联盟新研发的几种原型武器之一。在与地球失去联系之前，从地球获得的一把原型枪。使用了大量外星材料进行强化，这种武器能发射出密集的能量束，可以穿透任何材料，对任何阻碍它的东西造成巨大的伤害。也许地球人真的自相残杀。请勿在靠近障碍物的地方使用。</entitydescription.meganucleargun>
-  <entityname.meganucleargun_battery>EW-P4的能量单元</entityname.meganucleargun_battery>
-  <entitydescription.meganucleargun_battery>大容量电池, 只适配EW-P4。</entitydescription.meganucleargun_battery>
-  <entityname.crystalllaser>EW-P5"粉碎者"</entityname.crystalllaser>
-  <entitydescription.crystalllaser>联盟新研发的几种原型武器之一。曾有人尝试用红色水晶来制造一个治疗装置，实验倒是失败了。然而，它利用红色碎片的能量创造出一种透明的光束，能穿透障碍物，对生物造成灼伤和出血。但由于某种未知的原因，它不仅不会穿透目标所具有的护甲，而且当操作者在潜艇内时，它对潜艇外的生物也不起作用。一些反常现象有效地继续使研究人员着迷。</entitydescription.crystalllaser>
-  <entityname.am_railgun>EW-P6"磁轨炮"</entityname.am_railgun>
-  <entitydescription.am_railgun>联盟新研发的几种原型武器之一。作为 "BFG "的替代品，制造起来更容易，更经济。利用高斯炮的原理发射大口径子弹，但不需要能量来操作。该武器体积庞大，操作起来不舒服。瞄准器没有任何功能。该武器很可能尚未完成。</entitydescription.am_railgun>
-  <entityname.am_railgun_shell>EW-P6炮弹</entityname.am_railgun_shell>
-  <entitydescription.am_railgun_shell>钛铝合金制成的大口径弹丸，用于EW-P6。</entitydescription.am_railgun_shell>
-  <entityname.am_railgun_fisshell>EW-P6刚素炮弹</entityname.am_railgun_fisshell>
-  <entitydescription.am_railgun_fisshell>大口径刚素弹丸，用于EW-P6。能造成巨大伤害。</entitydescription.am_railgun_fisshell>
-  <entityname.am_railgun_insshell>EW-P6燃素炮弹</entityname.am_railgun_insshell>
-  <entitydescription.am_railgun_insshell>大口径燃素弹丸，用于EW-P6。可穿透任何物体表面，或直接击中生物造成多重伤害。</entitydescription.am_railgun_insshell>
-  <entityname.artmod_machete>EW-P7"等离子"</entityname.artmod_machete>
+  <entityname.bighotflamer_fuel>"Glick"的燃料</entityname.bighotflamer_fuel>
+  <entitydescription.bighotflamer_fuel>可怕的大杂烩。燃料罐，仅与"Glick"兼容。易燃！</entitydescription.bighotflamer_fuel>
+   <entityname.am_railgun>EW-P-"磁轨炮"-3</entityname.am_railgun>
+  <entitydescription.am_railgun>联盟新研发的几种原型武器之一。作为“BFG”的替代品，制造起来更容易，更经济。利用高斯炮的原理发射大口径子弹，但不需要能量来操作。该武器体积庞大，操作起来不舒服。瞄准器没有任何功能。该武器很可能尚未完成。</entitydescription.am_railgun>
+  <entityname.am_railgun_shell>“磁轨炮”炮弹</entityname.am_railgun_shell>
+  <entitydescription.am_railgun_shell>钛铝合金制成的大口径弹丸，用于“磁轨炮”。</entitydescription.am_railgun_shell>
+  <entityname.am_railgun_fisshell>“磁轨炮”刚素炮弹</entityname.am_railgun_fisshell>
+  <entitydescription.am_railgun_fisshell>大口径刚素弹丸，用于“磁轨炮”。能造成巨大伤害。</entitydescription.am_railgun_fisshell>
+  <entityname.am_railgun_insshell>“磁轨炮”燃素炮弹</entityname.am_railgun_insshell>
+  <entitydescription.am_railgun_insshell>大口径燃素弹丸，用于“磁轨炮”。可穿透任何物体表面，或直接击中生物造成多重伤害。</entitydescription.am_railgun_insshell>
+  <entityname.artmod_machete>EW-P-"等离子"-4</entityname.artmod_machete>
   <entitydescription.artmod_machete>联盟新研发的几种原型武器之一。有着不寻常的钝刃，当用电池供电时，它就会转化为致命的等离子体刀刃。看来，异星技术的使用已经达到了创作者自己都不知道最终结果如何的程度。</entitydescription.artmod_machete>
-  <entityname.artmod_antipsychohelmet>ED-P1"灵能头盔"</entityname.artmod_antipsychohelmet>
-  <entitydescription.artmod_antipsychohelmet>一种头盔装置。装备后，可抵御精神病和独目哨兵的凝视。已经积累的精神错乱不会被消除。不能保证对其他幻觉效果的保护。</entitydescription.artmod_antipsychohelmet>
-  <entityname.artmod_batteryrecharger>ED-P2"紧凑充电器"</entityname.artmod_batteryrecharger>
-  <entitydescription.artmod_batteryrecharger>一个利用ED-P6的能量为装入其中的电池充电的装置。由于缺乏常见的自动化设计，它使用起来很不方便——需要手动开关，当它被打开且里面有电池时就会消耗ED-P6的能量，无论电池电量多少……</entitydescription.artmod_batteryrecharger>
-  <entityname.artmod_quickbatteryrecharger>ED-P2.5"快速充电器"</entityname.artmod_quickbatteryrecharger>
+  <entityname.crystalllaser>EW-P-"粉碎者"-1</entityname.crystalllaser>
+  <entitydescription.crystalllaser>联盟新研发的几种原型武器之一。曾有人尝试用红色水晶来制造一个治疗装置，实验倒是失败了。然而，它利用红色碎片的能量创造出一种透明的光束，能穿透障碍物，对生物造成灼伤和出血。但由于某种未知的原因，它不仅不会穿透目标所具有的护甲，而且当操作者在潜艇内时，它对潜艇外的生物也不起作用。一些反常现象有效地继续使研究人员着迷。</entitydescription.crystalllaser>
+  <entityname.alienminigun>EW-P-"Arzi"-18</entityname.alienminigun>
+  <entitydescription.alienminigun>联盟新研发的几种原型武器之一。以高速发射激光，使用较少的异星电池能量，而且不会诱发精神错乱。尽管外观漂亮，但武器内部是由各种部件组成的一团糟——传统部件外星部件都有——而且很重，使用起来很不方便。使用时会逐渐崩解。需要能熟练地操作武器（60以上），否则会比平时更快地崩解。消耗异星电池。</entitydescription.alienminigun>
+    <entityname.meganucleargun>EW-P-"BFG"-40</entityname.meganucleargun>
+  <entitydescription.meganucleargun>联盟新研发的几种原型武器之一。在与地球失去联系之前，从地球获得的一把原型枪。使用了大量外星材料进行强化，这种武器能发射出密集的能量束，可以穿透任何材料，对任何阻碍它的东西造成巨大的伤害。也许地球人真的自相残杀。请勿在靠近障碍物的地方使用。</entitydescription.meganucleargun>
+  <entityname.meganucleargun_battery>"BFG"的能量单元</entityname.meganucleargun_battery>
+  <entitydescription.meganucleargun_battery>大容量电池, 只适配"BFG"。</entitydescription.meganucleargun_battery>
+  <entityname.artmod_antipsychohelmet>未知装置</entityname.artmod_antipsychohelmet>
+  <entitydescription.artmod_antipsychohelmet>一种充当头盔的装置。使用时要注意。</entitydescription.artmod_antipsychohelmet>
+  <entityname.artmod_batteryrecharger>紧凑充电器</entityname.artmod_batteryrecharger>
+  <entitydescription.artmod_batteryrecharger>一个利用雷素的能量为装入其中的电池充电的装置。</entitydescription.artmod_batteryrecharger>
+  <entityname.artmod_buffbeacon>未知设备</entityname.artmod_buffbeacon>
+  <entitydescription.artmod_buffbeacon>打捞自废弃的实验室。小心使用。</entitydescription.artmod_buffbeacon>
+  <entityname.artmod_multitool>多功能工具</entityname.artmod_multitool>
+  <entitydescription.artmod_multitool>发现自废弃的实验室，一个集螺丝刀、扳手、焊接工具和手电筒功能于一身的多功能设备。</entitydescription.artmod_multitool>
+  <entityname.artmod_quickbatteryrecharger>ED-P-"快速充电器"-2.5</entityname.artmod_quickbatteryrecharger>
   <entitydescription.artmod_quickbatteryrecharger>ED-P2的修改版。当激活时，会有一阵快速的能量爆发，来为电池远程充电。该装置的资源是有限的。这种装置能存在存粹是因为其副作用--这种能量爆发能够修复接线盒。</entitydescription.artmod_quickbatteryrecharger>
-  <entityname.artmod_buffbeacon>ED-P3"守望灯塔"</entityname.artmod_buffbeacon>
-  <entitydescription.artmod_buffbeacon>一个基于传统声纳信标的装置。激活后，它发出类似于独目哨兵的光环，但效果相反——它能削弱小型生物，增强人的力量。会导致精神错乱。且不能克服真正独目哨兵的影响效果。</entitydescription.artmod_buffbeacon>
-  <entityname.artmod_oxygendispenser>ED-P4"紧凑型氧气发生器"</entityname.artmod_oxygendispenser>
+   <entityname.artmod_oxygendispenser>ED-P-"紧凑型氧气发生器"-1</entityname.artmod_oxygendispenser>
   <entitydescription.artmod_oxygendispenser>使用时在小范围内产生氧气的设备，能立即补充房间内的氧气水平并充满装入其中的氧气罐，更重要的是，补充液氧罐。运行时不需要第三方能源，但能使用的资源有限。</entitydescription.artmod_oxygendispenser>
-  <entityname.plasmacutter_plus>ED-P5"燃素切割器"</entityname.plasmacutter_plus>
-  <entitydescription.plasmacutter_plus>有人将等离子切割器、一些异星零件与燃素混合，并加入液氧。最后不仅没有爆炸，切割的效果甚至比远古兵器好。与自制异星手榴弹不同的是，这个样品和它的蓝图很快便落入了联盟手中。而现在，落在你的手中。消耗液氧罐。需要较高的机械技能（75），否则不起作用。</entitydescription.plasmacutter_plus>
-  <entityname.artmod_bigbatterycell>ED-P6 "NPS"</entityname.artmod_bigbatterycell>
+  <entityname.artmod_bigbatterycell>ED-P-"NPS"-2</entityname.artmod_bigbatterycell>
   <entitydescription.artmod_bigbatterycell>容量巨大的电池。液体燃素保存在一个特制的外壳内，以某种方式与浸在里面的放电器相互作用，从中提取能量。壳体上的指示器表明其电量。不能充电。</entitydescription.artmod_bigbatterycell>
-  <entityname.artmod_multitool>ED-P7 “多功能工具”</entityname.artmod_multitool>
-  <entitydescription.artmod_multitool>一个集螺丝刀、扳手、焊接工具和手电筒功能于一身的多功能设备。前两个功能的效率和一般品质的工具相同。焊接工具和手电筒一样，都是由电池供电，效率比普通焊接工具低，需要高级机械师（机修技能40以上）才能正常工作。</entitydescription.artmod_multitool>
+  <entityname.plasmacutter_plus>燃素切割器</entityname.plasmacutter_plus>
+  <entitydescription.plasmacutter_plus>有人将等离子切割器、一些异星零件与燃素混合，并加入液氧。最后不仅没有爆炸，切割的效果甚至比远古兵器好。与自制异星手榴弹不同的是，这个样品和它的蓝图很快便落入了联盟手中。而现在，落在你的手中。使用氧气瓶。需要较高的机械技能（75），否则不起作用。</entitydescription.plasmacutter_plus>
   <entityname.gpistol>未知武器</entityname.gpistol>
   <entitydescription.gpistol>在废弃的实验室中发现。谨慎使用。</entitydescription.gpistol>
-  <entityname.radplasmalauncher>未知武器</entityname.radplasmalauncher>
-  <entitydescription.radplasmalauncher>在废弃的实验室中发现。谨慎使用。似乎需要燃料棒才能发挥作用。</entitydescription.radplasmalauncher>
+  <entityname.unknowmagaz>能量组件</entityname.unknowmagaz>
+  <entitydescription.unknowmagaz>未知武器的一部分。</entitydescription.unknowmagaz>
   <entityname.artmod_geneknife>未知工具</entityname.artmod_geneknife>
   <entitydescription.artmod_geneknife>在废弃的实验室中发现。刀片由红色水晶制成。谨慎使用。</entitydescription.artmod_geneknife>
   <entityname.artmod_itiredmagazine>能量电池</entityname.artmod_itiredmagazine>
   <entitydescription.artmod_itiredmagazine>一种罕见的物品，可以在废弃的实验室中找到。它最常被用作不可充电的高功率电池，但可能还有其他用途。</entitydescription.artmod_itiredmagazine>
+  <entityname.somelabshitidk>未知设备</entityname.somelabshitidk>
+  <entitydescription.somelabshitidk>发现于废弃的实验室中。谨慎处理。</entitydescription.somelabshitidk>
   <entityname.artmod_toolbelt>工具带+</entityname.artmod_toolbelt>
   <entitydescription.artmod_toolbelt>从外观上看，它几乎与普通工具带没有区别，但不知为何，它包含更多的物品。考虑到普通工人的需要，它有专门用于放置药品的两个额外口袋。</entitydescription.artmod_toolbelt>
   <entityname.pillstube>药片包装</entityname.pillstube>
@@ -449,17 +551,21 @@
   <entityname.ek_am_expweaponparts>未知组件</entityname.ek_am_expweaponparts>
   <entitydescription.ek_am_expweaponparts>各种用途不明的组件。它们偶尔会在沉没的潜艇上被发现，由于缺乏其他选择，通常会在定居点被以合适的价格出租。这些部件出乎意料受到市场欢迎，因为不会有人问非必要的问题--也不会有人回答。</entitydescription.ek_am_expweaponparts>
   <entityname.laserlootcrate>密封箱</entityname.laserlootcrate>
-  <entitydescription.laserlootcrate>一个带密码锁的箱子，里面显然是个声纳信标。封得很严实。也许这就是那个蒙面人所说的"货物"？</entitydescription.laserlootcrate>
+  <entitydescription.laserlootcrate>一个带密码锁的箱子，箱身上绑着个水声信标。封得很严实。也许这就是那个蒙面人所说的"货物"？</entitydescription.laserlootcrate>
   <entityname.artmod_psiartifacttransportcase>摄魂质造物容器</entityname.artmod_psiartifacttransportcase>
   <entitydescription.artmod_psiartifacttransportcase>一个常规的造物运输箱，上面覆盖着摄魂石和金属板。看起来组装得非常随意，但却需要数量多得荒唐的摄魂石。也许它有特殊效果？</entitydescription.artmod_psiartifacttransportcase>
   <entityname.artmod_ammopack>弹药包</entityname.artmod_ammopack>
   <entitydescription.artmod_ammopack>容量不小的小容器。可以储存单个子弹和鱼叉。</entitydescription.artmod_ammopack>
   <entityname.artmod_toolboxsmall>异星饰品收容箱</entityname.artmod_toolboxsmall>
-  <entitydescription.artmod_toolboxsmall>由一个造物运输箱改造而成。可屏蔽置于其中的饰品的特殊效果。此箱足够紧凑，可以随身携带，并有额外的格子用于放置小物品。</entitydescription.artmod_toolboxsmall>
+  <entitydescription.artmod_toolboxsmall>由一个造物运输箱改造而成。可屏蔽大部分置于其中的饰品的特殊效果。此箱足够紧凑，可以随身携带，并有额外的格子用于放置小物品。</entitydescription.artmod_toolboxsmall>
   <entityname.artmod_toolboxbig>异星饰品收容箱——探索版</entityname.artmod_toolboxbig>
-  <entitydescription.artmod_toolboxbig>积极的遗迹探索使得大量的外星饰品被发现，这个笨重的容器被创造出来，作为它们的安全存储容器。最多可容纳30个异星小饰品。</entitydescription.artmod_toolboxbig>
+  <entitydescription.artmod_toolboxbig>积极的遗迹探索使得大量的外星饰品被发现，这个笨重的容器被创造出来，作为它们的安全存储容器。最多可容纳30个异星小饰品。\n不保证屏蔽所有的饰品效果。</entitydescription.artmod_toolboxbig>
   <entityname.artmod_dispenser>“萤火之巢”-9000</entityname.artmod_dispenser>
   <entitydescription.artmod_dispenser>一个简单的（根据制造商的说法），不断发出嗡嗡声的装置，可随身携带。每分钟产生一个荧光棒和照明弹。一个每艘潜艇都有的装置，揭示了新的外星技术的应用进展。“如果不起作用，轻轻地敲打它，如果还不起作用，就狠狠地敲打它。”制造商对遵循此建议后导致的设备和/或用户损坏不负责任。</entitydescription.artmod_dispenser>
+  <entityname.artmod_doorrepairtool>舱门维修工具</entityname.artmod_doorrepairtool>
+  <entitydescription.artmod_doorrepairtool>一个由电池供电的简单设备，即使是在没有经验的使用者手中也能快速修复门。\n“是休闲潜水员和迅猛龙训练者的理想选择！*”\n*不要试图教迅猛龙来使用这个。</entitydescription.artmod_doorrepairtool>
+  <entityname.artmod_exosuit>历战外骨骼</entityname.artmod_exosuit>
+  <entitydescription.artmod_exosuit>重型电池供电的套装，最初是为水下建筑作业而设计。装甲很厚，能够承载重物。不，更新后将添加描述。</entitydescription.artmod_exosuit>
   <entityname.artmod_rustmetalcrate>生锈铁箱</entityname.artmod_rustmetalcrate>
   <entitydescription.artmod_rustmetalcrate>海盗的生锈铁箱，不知为何缠着铁链。里面肯定有好东西!</entitydescription.artmod_rustmetalcrate>
   <entityname.artmod_batterycell>破损的电池</entityname.artmod_batterycell>
@@ -469,6 +575,8 @@
   <entityname.laserseller_backpack>神秘人的背包</entityname.laserseller_backpack>
   <entitydescription.laserseller_backpack>带有金属嵌件和紫色丝带的背包。它的外表与它的容量并不相符。它有三个口袋用来装医疗用品，两个口袋用来装外星饰品，还有一个装重型武器的维度口袋。当维度口袋里面有任何物品时，装备者的速度会降低25%。</entitydescription.laserseller_backpack>
   <!-- Labels已完工-->
+  <entityname.artmod_scrapmeat>废品堆</entityname.artmod_scrapmeat>
+  <entitydescription.artmod_scrapmeat>无鼻者放东西的地方。但为什么呢？</entitydescription.artmod_scrapmeat>
   <entityname.artmod_computerterminal>系统单元</entityname.artmod_computerterminal>
   <entityname.artmod_terminal>终端</entityname.artmod_terminal>
   <entityname.artmod_handheldterminal_forartifacts1>数据 - 系统</entityname.artmod_handheldterminal_forartifacts1>
@@ -477,7 +585,11 @@
   <entitydescription.artmod_handheldterminal_forartifacts2>关于废墟的各种信息，由传感器和人收集————当人们还在那里工作时。研究站的商人们会感兴趣的。</entitydescription.artmod_handheldterminal_forartifacts2>
   <entityname.artmod_handheldterminal_forartifacts3>数据 - 遗物</entityname.artmod_handheldterminal_forartifacts3>
   <entitydescription.artmod_handheldterminal_forartifacts3>在一处收集到关于遗物信息的一些片段。这会是研究站点的商人们感兴趣的东西。</entitydescription.artmod_handheldterminal_forartifacts3>
-  <subcategory.artmod_piratestuff>海盗装备</subcategory.artmod_piratestuff>
+  <box.beaconactive>关闭信标</box.beaconactive>
+  <subcategory.artmod_piratestuff>海盗装备 (更多遗物 MA(AOCS))</subcategory.artmod_piratestuff>
+  <subcategory.artmod_anomalyitems>异常装备 (更多遗物 MA(AOCS))</subcategory.artmod_anomalyitems>
+  <subcategory.artmod>更多遗物 MA(AOCS)</subcategory.artmod>
+  <blaseroffline>该武器已失效，不能再使用。</blaseroffline>
   <itemmsgcrystallshardrequired>需要水晶碎片</itemmsgcrystallshardrequired>
   <oxygenitetankRequired>需要氧气罐</oxygenitetankRequired>
   <deepgun.online>架设</deepgun.online>
@@ -504,7 +616,7 @@
   <entityname.artmod_extinguisher>灭火器</entityname.artmod_extinguisher>
   <entitydescription.artmod_extinguisher>一个普通的二氧化碳灭火器。几乎是空的。</entitydescription.artmod_extinguisher>
   <entityname.artmod_underwaterscooter>水下助推器</entityname.artmod_underwaterscooter>
-  <entitydescription.artmod_underwaterscooter>一个水下助推器，其螺旋桨由...雷素制成？</entitydescription.artmod_underwaterscooter>
+  <entitydescription.artmod_underwaterscooter>一个水下助推器，其螺旋桨由...刚素制成？</entitydescription.artmod_underwaterscooter>
   <entityname.artmod_revolver>左轮手枪</entityname.artmod_revolver>
   <entitydescription.artmod_revolver>一把有密封弹鼓的左轮手枪，这使得子弹无法被取出或放入。</entitydescription.artmod_revolver>
   <entityname.noseless_clownmask_special>无鼻者小丑面具</entityname.noseless_clownmask_special>
@@ -694,11 +806,11 @@
   <npctitle.noseless_pirate>无鼻者海盗</npctitle.noseless_pirate>
   <npctitle.noseless_bandit>无鼻者土匪</npctitle.noseless_bandit>
   <npctitle.noseless_clown>无鼻者</npctitle.noseless_clown>
-  <npctitle.noseless_clowneng>无鼻者工程师</npctitle.noseless_clowneng>
-  <npctitle.noseless_clownsb>无鼻者安全官</npctitle.noseless_clownsb>
-  <npctitle.noseless_clownmecha>无鼻者机修工</npctitle.noseless_clownmecha>
+  <npctitle.noseless_clowneng>无鼻者</npctitle.noseless_clowneng>
+  <npctitle.noseless_clownsb>无鼻者</npctitle.noseless_clownsb>
+  <npctitle.noseless_clownmecha>无鼻者</npctitle.noseless_clownmecha>
   <npctitle.noseless_specialclown>无鼻者小丑</npctitle.noseless_specialclown>
-  <npctitle.laserbuyer>陌生人</npctitle.laserbuyer>
+  <npctitle.laserbuyer>神秘人</npctitle.laserbuyer>
   <jobname.who>未知</jobname.who>
   <lt.d>有人突然把一只手搭在你的肩膀上。猛地转过身来，你看到一个蒙面的身影。她用沙哑的声音问道。“你想挣点外快吗？”</lt.d>
   <lt.d1>你是谁？</lt.d1>
@@ -741,6 +853,8 @@
   <loadingscreentip>...1orF336FyEGnfdDkKvFfBHejwNaSzQ1orF336FyEGnfdDkKvFfBHejwNaSzQ1orF336FyEGnfdDkKvFfBHejwNaSzQ1orF3...</loadingscreentip>
   <loadingscreentip>虽然无鼻者与红鼻小丑有间接的联系，但他们与红鼻小丑有着本质的区别。红鼻子的可以用他们的笑话来烦人，但总的来说他们的任务是扮演小丑，只有少数人躲在小丑面具背后干肮脏的活。无鼻者则是群利用了小丑主题的杀手、疯子和精神病患者，他们只有一个共同目标——以各种方式杀死所有活物，尤其是人。</loadingscreentip>
   <loadingscreentip>有色苏打水是欧罗巴最好的苏打水! 现在就购买来，亲身体验它的效果吧……体验到极致。</loadingscreentip>
+  <entityname.artmod_prototypeminigun>原型转轮机枪</entityname.artmod_prototypeminigun>
+  <entitydescription.artmod_prototypeminigun>还有什么平衡问题吗？</entitydescription.artmod_prototypeminigun>
   <entityname.dragonrifle>奇特的步枪</entityname.dragonrifle>
   <entitydescription.dragonrifle>事实上，你不该拥有它。但没关系，既然你已经以某种方式得到了它。最重要的事儿是开心，不是吗？</entitydescription.dragonrifle>
 </infotexts>
