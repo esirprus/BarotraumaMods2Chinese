@@ -15,9 +15,11 @@
   <entitydescription.ekdockyard_divingsuitlocker_secure>潜水服储柜（需要权限）。</entitydescription.ekdockyard_divingsuitlocker_secure>
   <entityname.ekdockyard_divingsuitlocker_respawn>一次性潜水服柜</entityname.ekdockyard_divingsuitlocker_respawn>
   <entitydescription.ekdockyard_divingsuitlocker_respawn>用于存放应急潜水服。通电时补充氧气。</entitydescription.ekdockyard_divingsuitlocker_respawn>
-  <entityname.ekdockyard_cargocompartment_style1>板条箱柜A</entityname.ekdockyard_cargocompartment_style1>  <entitydescription.ekdockyard_cargocompartment_style1></entitydescription.ekdockyard_cargocompartment_style1>
+  <entityname.ekdockyard_cargocompartment_style1>板条箱柜A</entityname.ekdockyard_cargocompartment_style1>
   <entitydescription.ekdockyard_cargocompartment_style1></entitydescription.ekdockyard_cargocompartment_style1>
-  <entityname.ekdockyard_cargocompartment_style2>板条箱柜B</entityname.ekdockyard_cargocompartment_style2>  <entitydescription.ekdockyard_cargocompartment_style2></entitydescription.ekdockyard_cargocompartment_style2>
+  <entitydescription.ekdockyard_cargocompartment_style1></entitydescription.ekdockyard_cargocompartment_style1>
+  <entityname.ekdockyard_cargocompartment_style2>板条箱柜B</entityname.ekdockyard_cargocompartment_style2>
+  <entitydescription.ekdockyard_cargocompartment_style2></entitydescription.ekdockyard_cargocompartment_style2>
   <entitydescription.ekdockyard_cargocompartment_style2></entitydescription.ekdockyard_cargocompartment_style2>
   <entityname.ekdockyard_cargocompartment_style3>板条箱柜C</entityname.ekdockyard_cargocompartment_style3>
   <entitydescription.ekdockyard_cargocompartment_style3></entitydescription.ekdockyard_cargocompartment_style3>

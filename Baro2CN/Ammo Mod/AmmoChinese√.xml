@@ -13,7 +13,7 @@
   <entityname.multibomb>深水鱼雷</entityname.multibomb>
   <entitydescription.multibomb>一份材料三份成品。</entitydescription.multibomb>
   <entityname.multinuclearbomb>深水核鱼雷</entityname.multinuclearbomb>
-  <entityname.copperbigshell>铜矛轨道炮炮弹</entityname.copperbigshell>
+  <entityname.copperbigshell>铜制轨道炮炮弹</entityname.copperbigshell>
   <entitydescription.copperbigshell>木卫二生物的护甲对这个来说只是打印纸。</entitydescription.copperbigshell>
   <entityname.boombigshell>爆破霰弹轨道炮炮弹</entityname.boombigshell>
   <entitydescription.boombigshell>发射三枚致命炸弹。</entitydescription.boombigshell>
@@ -22,7 +22,8 @@
   <entityname.a1>阿德莱德弹头</entityname.a1>
   <entityname.a2>阿德莱德弹体</entityname.a2>
   <entityname.a3>阿德莱德核心</entityname.a3>
-  <entityname.Adelaide>阿德莱德</entityname.Adelaide><entitydescription.Adelaide>梦中情人</entitydescription.Adelaide>
+  <entityname.Adelaide>阿德莱德</entityname.Adelaide>
+  <entitydescription.Adelaide>梦中情人</entitydescription.Adelaide>
   <entityname.copperingot>铜锭</entityname.copperingot>
   <entityname.coppertitaniumingot>钛铜合金</entityname.coppertitaniumingot>
   <entityname.coppershell>铜制霰弹枪弹药</entityname.coppershell>
@@ -30,11 +31,12 @@
   <entityname.shotgunslugtc>钛铜合金霰弹枪弹药</entityname.shotgunslugtc>
   <entitydescription.shotgunslugtc>百孔千疮，血肉横飞。</entitydescription.shotgunslugtc>
   <entityname.frygshotgunslug>三段式霰弹枪弹药</entityname.frygshotgunslug>
-  <entityname.shotgunburnshell>白磷霰弹枪弹药</entityname.shotgunburnshell><entitydescription.shotgunburnshell>木卫二上可没有所谓的人道主义。</entitydescription.shotgunburnshell>
+  <entityname.shotgunburnshell>白磷霰弹枪弹药</entityname.shotgunburnshell>
+  <entitydescription.shotgunburnshell>木卫二上可没有所谓的人道主义。</entitydescription.shotgunburnshell>
   <entityname.ckm>重机枪</entityname.ckm>
   <entitydescription.ckm>不要关心弹匣里还剩多少子弹。</entitydescription.ckm>
   <entityname.ckmamo>重机枪弹药盒</entityname.ckmamo>
-  <entityname.ckmfamo>重机枪刚素弹药盒</entityname.ckmfamo>
+  <entityname.ckmfamo>重机枪钢素弹药盒</entityname.ckmfamo>
   <entityname.ckmcamo>重机枪铜制弹药盒</entityname.ckmcamo>
   <entitydescription.ckmcamo>穿甲更高，子弹更少。</entitydescription.ckmcamo>
   <entityname.ckmbamo>重机枪白磷弹药盒</entityname.ckmbamo>
@@ -43,8 +45,10 @@
   <entitydescription.smgburnmag>噼里啪啦，惨绝人寰。</entitydescription.smgburnmag>
   <entityname.smgcoppermag>冲锋枪铜制弹匣</entityname.smgcoppermag>
   <entitydescription.smgcoppermag>穿甲更高，子弹更少。</entitydescription.smgcoppermag>
-  <entityname.assaultriflemagazinephosphorus>白磷突击步枪弹匣</entityname.assaultriflemagazinephosphorus><entitydescription.assaultriflemagazinephosphorus>一个弹匣，人人喊打。</entitydescription.assaultriflemagazinephosphorus>
-  <entityname.handcannonburnround>白磷手炮弹药</entityname.handcannonburnround><entitydescription.handcannonburnround>给予你最不人道的人道毁灭。</entitydescription.handcannonburnround>
+  <entityname.assaultriflemagazinephosphorus>白磷突击步枪弹匣</entityname.assaultriflemagazinephosphorus>
+  <entitydescription.assaultriflemagazinephosphorus>一个弹匣，人人喊打。</entitydescription.assaultriflemagazinephosphorus>
+  <entityname.handcannonburnround>白磷手炮弹药</entityname.handcannonburnround>
+  <entitydescription.handcannonburnround>给予你最不人道的人道毁灭。</entitydescription.handcannonburnround>
   <entityname.copperboltbox>铜制连射炮弹药箱</entityname.copperboltbox>
   <entitydescription.copperboltbox>穿甲率和精准度更高，不过子弹数量更少。</entitydescription.copperboltbox>
   <entityname.siliconboltbox>霰弹连射炮弹药箱</entityname.siliconboltbox>
@@ -53,4 +57,4 @@
   <entityname.uzimagazine>乌兹弹匣</entityname.uzimagazine>
   <entityname.uzimagburn>白磷乌兹弹匣</entityname.uzimagburn>
   <entitydescription.uzimagburn>木卫二上可没有所谓的人道主义。</entitydescription.uzimagburn>&gt;
-<entityname.uzimagafryg>雷素乌兹弹匣</entityname.uzimagafryg><entityname.spredammobox>霰弹电磁枪弹药箱</entityname.spredammobox><entitydescription.spredammobox>有谁不喜欢霰弹枪？</entitydescription.spredammobox><entityname.spearammobox>铜矛电磁枪弹药箱</entityname.spearammobox><entityname.spearfryammobox>铜制鱼叉电磁枪弹药箱</entityname.spearfryammobox><entityname.bigonebox>大激光</entityname.bigonebox><entityname.THNB>新太阳</entityname.THNB><entitydescription.THNB>别忘了带墨镜。</entitydescription.THNB><entityname.copperspear>铜矛</entityname.copperspear><entityname.demogrenadelauncher>六连榴弹发射器</entityname.demogrenadelauncher><entityname.40mmfist>拳击冠军</entityname.40mmfist><entitydescription.40mmfist>这一拳看着就疼。</entitydescription.40mmfist><entityname.test>固化泡沫手榴弹发射器</entityname.test><entityname.hammertool>铁锤</entityname.hammertool><entitydescription.hammertool>十九世纪的修船方式。</entitydescription.hammertool><entityname.sickle>镰刀</entityname.sickle><entitydescription.sickle>可以与锤子组成十字架，用以消灭资本主义。</entitydescription.sickle><entityname.sickleunique>噩梦缠绕</entityname.sickleunique><entityname.embag>轨道炮炮弹包</entityname.embag><entityname.ammobag>电磁枪弹药包</entityname.ammobag><entityname.ppdem>手持轨道炮原型机</entityname.ppdem><entitydescription.ppdem>去找个助手试试炮吧...</entitydescription.ppdem><entitydescription.pogshotgun>和平捍卫者</entitydescription.pogshotgun><entityname.flashgrenade>毒气手雷</entityname.flashgrenade><afflictionname.phburn>白磷烧伤</afflictionname.phburn><afflictiondescription.phburn>患者的皮肤正在烧伤和溃烂，疮口正在不断地扩散。</afflictiondescription.phburn><entityname.alofspart>文艺复兴</entityname.alofspart></infotexts>
+<entityname.uzimagafryg>雷素乌兹弹匣</entityname.uzimagafryg><entityname.spredammobox>霰弹电磁枪弹药箱</entityname.spredammobox><entitydescription.spredammobox>有谁不喜欢霰弹枪？</entitydescription.spredammobox><entityname.spearammobox>铜制电磁枪弹药箱</entityname.spearammobox><entityname.spearfryammobox>铜制鱼叉电磁枪弹药箱</entityname.spearfryammobox><entityname.bigonebox>大激光</entityname.bigonebox><entityname.THNB>新太阳</entityname.THNB><entitydescription.THNB>别忘了带墨镜。</entitydescription.THNB><entityname.copperspear>铜矛</entityname.copperspear><entityname.demogrenadelauncher>六连榴弹发射器</entityname.demogrenadelauncher><entityname.40mmfist>拳击冠军</entityname.40mmfist><entitydescription.40mmfist>这一拳看着就疼。</entitydescription.40mmfist><entityname.test>固化泡沫手榴弹发射器</entityname.test><entityname.hammertool>铁锤</entityname.hammertool><entitydescription.hammertool>十九世纪的修船方式。</entitydescription.hammertool><entityname.sickle>镰刀</entityname.sickle><entitydescription.sickle>可以与锤子组成十字架，用以消灭资本主义。</entitydescription.sickle><entityname.sickleunique>噩梦缠绕</entityname.sickleunique><entityname.embag>轨道炮炮弹包</entityname.embag><entityname.ammobag>电磁枪弹药包</entityname.ammobag><entityname.ppdem>手持轨道炮原型机</entityname.ppdem><entitydescription.ppdem>去找个助手试试炮吧...</entitydescription.ppdem><entitydescription.pogshotgun>和平捍卫者</entitydescription.pogshotgun><entityname.flashgrenade>毒气手雷</entityname.flashgrenade><afflictionname.phburn>白磷烧伤</afflictionname.phburn><afflictiondescription.phburn>患者的皮肤正在烧伤和溃烂，疮口正在不断地扩散。</afflictiondescription.phburn><entityname.alofspart>文艺复兴</entityname.alofspart></infotexts>

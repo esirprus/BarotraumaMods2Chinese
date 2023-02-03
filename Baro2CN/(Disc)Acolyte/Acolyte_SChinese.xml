@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Simplified Chinese" nowhitespace="false" translatedname="中文(简体)">
+  <jobname.acolyte>侍僧</jobname.acolyte>
+  <jobdescription.acolyte>献身于画皮教派的侍僧，寻求引导迷失的人们走上“正道”。他们借由自己的身体呈现画皮之力的潜力，并昭示：只有与画皮交融，才是在这欧罗巴异域存活的唯一通途。</jobdescription.acolyte>
+  <!-- Talent Trees -->
+  <talenttree.symbiosis>荣耀共生</talenttree.symbiosis>
+  <talenttree.missionary>宣道圣徒</talenttree.missionary>
+  <talenttree.hivemind>蜂巢思维</talenttree.hivemind>
+  <!-- Talent Names -->
+  <talentname.bettertogether>互利共生</talentname.bettertogether>
+  <talentname.supplication>恳求指点</talentname.supplication>
+  <talentname.blessed>受祝之子</talentname.blessed>
+  <talentname.cursed>诅咒之子</talentname.cursed>
+  <talentname.geneticenhancement>基因强化</talentname.geneticenhancement>
+  <talentname.waterbornepathogen>如鱼得水</talentname.waterbornepathogen>
+  <talentname.bloodfeast>鲜血盛宴</talentname.bloodfeast>
+  <talentname.resilientgenes>强韧基因</talentname.resilientgenes>
+  <talentname.spreadthefaith>正信宣扬</talentname.spreadthefaith>
+  <talentname.communityservice>社区服务</talentname.communityservice>
+  <talentname.forcefulconversion>强制改信</talentname.forcefulconversion>
+  <talentname.freesamples>免费样本</talentname.freesamples>
+  <talentname.archbishop>主教威严</talentname.archbishop>
+  <talentname.generousdonation>慷慨捐赠</talentname.generousdonation>
+  <talentname.assimilation>同化共融</talentname.assimilation>
+  <talentname.enthrall>寄生奴役</talentname.enthrall>
+  <talentname.induction>教徒入会</talentname.induction>
+  <talentname.greatmindsthinkalike>英雄所见略同</talentname.greatmindsthinkalike>
+  <talentname.shiningexample>光荣榜样</talentname.shiningexample>
+  <talentname.overmind>蜂群主脑</talentname.overmind>
+  <!-- Talent Descriptions -->
+  <talentdescription.bettertogether>极大减缓画皮感染速度，被感染后全技能获得[skillincrease]加成。</talentdescription.bettertogether>
+  <talentdescription.supplicationbuff>极大减缓画皮感染速度，被感染后全技能获得[skillincrease]加成。</talentdescription.supplicationbuff>
+  <talentdescription.supplication>靠近你的友方单位获得[amount]全属性减益并减少[amount]% [speedreduction]。</talentdescription.supplication>
+  <talentdescription.supplicationitems>每当你完成一个任务，如果所有船员都幸存，则能获得以下物品作为额外奖励：</talentdescription.supplicationitems>
+  <talentdescription.blessed>当你被画皮感染时，获得额外[health]% [maximumhealth]生命值，并缓慢自愈普通类型的伤害。</talentdescription.blessed>
+  <talentdescription.cursed>当你被画皮感染时，你所造成的所有伤害获得额外[dmgboost]%增益，但会受到[dmgtaken]%额外伤害。</talentdescription.cursed>
+  <talentdescription.geneticenhancement>当你被画皮感染时，获得额外[skillgainincrease]% [skillgain]，[meleeatkspeed]% [matkspeed]和[movementspeed]% [speedboost]。</talentdescription.geneticenhancement>
+  <talentdescription.waterbornepathogen>当你被画皮感染时，获得额外[swimmingboost]% [swimmingspeed]和[flowresist]% [flow]抵抗。</talentdescription.waterbornepathogen>
+  <talentdescription.waterbornepathogenwaterbuffs>当你被画皮感染时，在水中能获得额外[amount]% [affliction]抗性。</talentdescription.waterbornepathogenwaterbuffs>
+  <talentdescription.reductiontoresistanceself>降低[amount]%[affliction]抗性。</talentdescription.reductiontoresistanceself>
+  <talentdescription.bloodfeast>当你被画皮感染时，则能快速自愈[bleeding]伤害并对敌人造成额外[bleed]% [bleeding]效果。</talentdescription.bloodfeast>
+  <talentdescription.medicaleffectivenessreduction>施用在你身上的药品效力下降[amount]%。</talentdescription.medicaleffectivenessreduction>
+  <talentdescription.resilientgenes>当你被画皮感染时，每损失[health]%生命值，则获得额外[dmgresist]% [physicaldamage]抗性和[bleedingresist]% [bleeding]抗性。</talentdescription.resilientgenes>
+  <talentdescription.spreadthefaith>你向船员们传播了画皮教派的教义，你附近的友方单位开始受到启发，并获得以下增益持续[buffduration]秒：</talentdescription.spreadthefaith>
+  <talentdescription.spreadthefaithinfection>你每次给自己之外的友方单位施打[item]，获得[experience]经验。</talentdescription.spreadthefaithinfection>
+  <talentdescription.forcefulconversion>每当你完成一个任务，如果所有船员都幸存，则能获得一个[item]。</talentdescription.forcefulconversion>
+  <talentdescription.forcefulconversionstun>造成额外[amount]% [stun]效果。</talentdescription.forcefulconversionstun>
+  <talentdescription.freesamples>每当你或其他船员在潜艇外杀死一个怪物时，有[probability]%的几率掉落画皮基因材料。</talentdescription.freesamples>
+  <talentdescription.freesampleseggs>在完成至少一项任务后，获得物品[item]。</talentdescription.freesampleseggs>
+  <talentdescription.archbishop>除了启发增益外，你附近的友方单位还能获得[dmgresist]% [physicaldamage]抗性和以下增益持续[buffduration]秒：</talentdescription.archbishop>
+  <talentdescription.generousdonationmoney>每次你完成选定的所有任务后，获得额外[marks]马克奖励。</talentdescription.generousdonationmoney>
+  <talentdescription.generousdonationitem>在完成至少一项任务后，你有几率获得一个随机物品。</talentdescription.generousdonationitem>
+  <talentdescription.assimilation>略微减缓所有盟友的画皮感染速度，且每当你给其他角色下达命令时，将给予该角色圣餐，这会进一步减缓他们的画皮感染速度。</talentdescription.assimilation>
+  <talentdescription.assimilationreminder>最多两名友方单位可以受到圣餐增益，给新的角色下达命令时，会移除上一个角色的增益效果。</talentdescription.assimilationreminder>
+  <talentdescription.infection>每当你将[item]施用于一个友好角色，给予他们以下增益持续[buffduration]秒：</talentdescription.infection>
+  <talentdescription.infectionself>每当你将[item]施用在自己身上，获得[talent]天赋效果持续[buffduration]秒。</talentdescription.infectionself>
+  <talentdescription.infectionreminder>效果持续时间可以通过多次施用来延长，最高持续[buffduration]秒。</talentdescription.infectionreminder>
+  <talentdescription.greatmindsthinkalike>每当你获得一个技能点，有[probability]%几率所有其他友方单位也获得一个该技能点。</talentdescription.greatmindsthinkalike>
+  <talentdescription.shiningexamplerepair>每当你完全修复一个设备，所有其他友方单位获得额外[repair]% [repairspeed]持续[buffduration]秒。</talentdescription.shiningexamplerepair>
+  <talentdescription.shiningexampledamage>每当你杀死一个怪物，所有其他友方单位的所有攻击获得额外[dmgboost]%伤害加成持续[buffduration]秒。</talentdescription.shiningexampledamage>
+  <talentdescription.overmind>当你某项技能达到或超过[skillcap]，获得额外[skillgainincrease]% [skillgain]。</talentdescription.overmind>
+  <talentdescription.overmindbuffs>只要你某项技能达到或超过[skillcap]，给予全体船员以下增益：</talentdescription.overmindbuffs>
+  <talentdescription.overmindstat>[skill]：[statamount]% [stat]。</talentdescription.overmindstat>
+  <talentdescription.overmindresistance>[skill]：[resistanceamount]% [affliction]抗性。</talentdescription.overmindresistance>
+  <!-- Affliction Names -->
+  <afflictionname.drained>力竭</afflictionname.drained>
+  <afflictionname.enlightenment>启发</afflictionname.enlightenment>
+  <afflictionname.churchsecrets>教会秘传</afflictionname.churchsecrets>
+  <afflictionname.communion>圣餐</afflictionname.communion>
+  <afflictionname.enthrall1>寄生奴役</afflictionname.enthrall1>
+  <afflictionname.induction>教徒入会</afflictionname.induction>
+  <afflictionname.shiningexamplerepair>维修指令</afflictionname.shiningexamplerepair>
+  <afflictionname.shiningexampledamage>战斗指令</afflictionname.shiningexampledamage>
+  <afflictionname.medical100buff>医疗主脑</afflictionname.medical100buff>
+  <afflictionname.weapons100buff>战斗主脑</afflictionname.weapons100buff>
+  <afflictionname.helm100buff>驾驶主脑</afflictionname.helm100buff>
+  <afflictionname.mechanical100buff>机械工程主脑</afflictionname.mechanical100buff>
+  <afflictionname.electrical100buff>电气工程主脑</afflictionname.electrical100buff>
+  <!-- Affliction Descriptions -->
+  <afflictiondescription.drained>该角色感到虚弱无力。</afflictiondescription.drained>
+  <afflictiondescription.enlightenment>该角色感觉受到了启发。</afflictiondescription.enlightenment>
+  <afflictiondescription.churchsecrets>该角色被赐予了伟大的知识。</afflictiondescription.churchsecrets>
+  <afflictiondescription.communion>该角色已经接纳了共生。</afflictiondescription.communion>
+  <afflictiondescription.enthrall1>该角色已被寄生奴役。</afflictiondescription.enthrall1>
+  <afflictiondescription.induction>该角色已入会成为教徒。</afflictiondescription.induction>
+  <afflictiondescription.shiningexamplerepair>该角色受到榜样激励，渴望修理设备。</afflictiondescription.shiningexamplerepair>
+  <afflictiondescription.shiningexampledamage>该角色受到榜样激励，渴望与怪物战斗。</afflictiondescription.shiningexampledamage>
+  <afflictiondescription.medical100buff>该角色获得了主脑赐予的力量。</afflictiondescription.medical100buff>
+  <afflictiondescription.weapons100buff>该角色获得了主脑赐予的力量。</afflictiondescription.weapons100buff>
+  <afflictiondescription.helm100buff>该角色获得了主脑赐予的力量。</afflictiondescription.helm100buff>
+  <afflictiondescription.mechanical100buff>该角色获得了主脑赐予的力量。</afflictiondescription.mechanical100buff>
+  <afflictiondescription.electrical100buff>该角色获得了主脑赐予的力量。</afflictiondescription.electrical100buff>
+  <!-- Stat type names -->
+  <stattypenames.gainoredetachspeed>采矿速度</stattypenames.gainoredetachspeed>
+  <stattypenames.physicaldamage>物理伤害</stattypenames.physicaldamage>
+  <stattypenames.flow>水流冲刷作用</stattypenames.flow>
+</infotexts>

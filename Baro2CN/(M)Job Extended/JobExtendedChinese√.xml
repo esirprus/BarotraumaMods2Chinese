@@ -123,4 +123,10 @@
   <jobdescription.inmate2>尽管你信仰自由，但所有的线索都指向了你。没有人会知道，你即将为革命燃烧殆尽。</jobdescription.inmate2>
   <jobname.inmate3>邪教徒</jobname.inmate3>
   <jobdescription.inmate3>升华——为了欧罗巴的未来...以及你们这些压迫者的垮台！</jobdescription.inmate3>
+  <!-- Items -->
+  <entityname.promotionmedal>晋升勋章</entityname.promotionmedal>
+  <entitydescription.promotionmedal>使目标有资格晋升的奖章（允许他们改变职业而不损失经验）</entitydescription.promotionmedal>
+  <talentname.promotion>毕业典礼</talentname.promotion>
+  <entityname.navpda>手持导航终端</entityname.navpda>
+  <entitydescription.navpda>手持式的导航终端。允许你远程控制一艘潜艇。</entitydescription.navpda>
 </infotexts>

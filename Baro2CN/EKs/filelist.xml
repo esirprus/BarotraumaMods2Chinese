@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="EK汉化整合包" steamworkshopid="2885103456" corepackage="false" modversion="1.0.0" gameversion="0.19.14.0" installtime="1667722045" expectedhash="1AE9D41DBA2F6D4F5AF647E4961BACE1">
+  <Text file="%ModDir%/SimplifiedChineseEkArmory.xml" />
+  <Text file="%ModDir%/SimplifiedChineseEkUtilities.xml" />
+  <Text file="%ModDir%/SimplifiedChineseEkGunnery.xml" />
+  <Text file="%ModDir%/SimplifiedChineseEkDockyard.xml" />
+</contentpackage>

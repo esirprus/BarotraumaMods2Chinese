@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Life of a sailor 中文补丁" steamworkshopid="2859087590" corepackage="false" modversion="1.0.1" gameversion="0.18.15.1" installtime="1662624553" expectedhash="CBD423753A754BC12F303272A14F9CB9">
+  <Text file="%ModDir%/Simplified Chinese.xml" />
+</contentpackage>

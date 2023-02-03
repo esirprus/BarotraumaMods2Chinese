@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Enhanced Armaments 中文补丁" steamworkshopid="2856700611" corepackage="false" modversion="1.1.14" gameversion="0.20.16.1" installtime="1672128651" expectedhash="9D830A0637713AE54E3124A5B491ADBC">
+  <Text file="%ModDir%/EASCtext.xml" />
+</contentpackage>

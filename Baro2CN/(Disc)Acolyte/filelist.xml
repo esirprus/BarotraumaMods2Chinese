@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Acolyte 中文补丁" steamworkshopid="2877847453" corepackage="false" modversion="1.0.0" gameversion="0.19.14.0" installtime="1666336317" expectedhash="90A52582D3D8E27CFECEF5F4156BA13F">
+  <Text file="%ModDir%/Acolyte_SChinese.xml" />
+</contentpackage>

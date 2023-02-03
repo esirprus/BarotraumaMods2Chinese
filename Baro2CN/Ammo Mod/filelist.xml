@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Ammo Mod 中文补丁" steamworkshopid="2801386581" corepackage="false" modversion="1.0.11" gameversion="0.18.12.0" installtime="1657044340" expectedhash="BD02533FA0A232EDDB4A54991C262D82">
+  <Text file="%ModDir%/AmmoChinese.xml" />
+</contentpackage>
