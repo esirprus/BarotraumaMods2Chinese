@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
   <!--English text file made by Esirprus-->
   <!--weapons_alienweapons-->
@@ -23,7 +23,7 @@
   <entityname.scp_tbsr7>分形反器材步枪（TBSR-7）</entityname.scp_tbsr7>
   <entitydescription.scp_tbsr7>神秘的15*120mm口径无托反器材步枪，外观很不寻常，其究竟是如何运作的仍是一个谜。</entitydescription.scp_tbsr7>
   <entityname.scp_tbsr7mag>分形反物质步枪弹匣 15*120mm</entityname.scp_tbsr7mag>
-  <entitydescription.scp_tbsr7mag>沉重的5发15*120mm分形弹匣</entitydescription.scp_tbsr7mag>
+  <entitydescription.scp_tbsr7mag>沉重的5发15*120mm分形弹匣。</entitydescription.scp_tbsr7mag>
   <!--<entityname.scp_tbsr7projectile>15*120mm异星子弹</entityname.scp_tbsr7projectile>
   <entitydescription.scp_tbsr7projectile></entitydescription.scp_tbsr7projectile>-->
   <entityname.scp_tmg12>分形通用机枪（TMG-12）</entityname.scp_tmg12>
@@ -35,13 +35,13 @@
   <entityname.scp_tsg15>分形霰弹枪（TSG15）</entityname.scp_tsg15>
   <entitydescription.scp_tsg15>外形奇特的分形霰弹枪，使用的弹鼓通过奇怪的磁力吸在弹匣井上。</entitydescription.scp_tsg15>
   <entityname.scp_tsg15drummag>分型霰弹枪弹匣 10g</entityname.scp_tsg15drummag>
-  <entitydescription.scp_tsg15drummag>奇特的20发10号霰弹弹鼓，里面装的是类似箭弹的弹药，由于其复杂的设计，穿甲效率明显提高。</entitydescription.scp_tsg15drummag>
+  <entitydescription.scp_tsg15drummag>20发10号霰弹弹鼓，里面装的是类似箭弹的弹药，由于其复杂的设计，穿甲效率明显提高。</entitydescription.scp_tsg15drummag>
   <!--<entityname.tsg15shell>分形霰弹枪10号霰弹</entityname.tsg15shell>
   <entitydescription.tsg15shell></entitydescription.tsg15shell>-->
   <entityname.scp_tpdw57>分形个人防御武器（TPDW-57）</entityname.scp_tpdw57>
   <entitydescription.scp_tpdw57>看起来非同寻常的古老分形武器。其奇怪的内部结构使水手们感到困惑，即使有使用地球同类武器的经验。</entitydescription.scp_tpdw57>
   <entityname.scp_tpdw57mag>分形个人防御武器弹匣 5.7*35mm</entityname.scp_tpdw57mag>
-  <entitydescription.scp_tpdw57mag>方形的50发5.7*35mm弹匣，用于分形个人防御武器。</entitydescription.scp_tpdw57mag>
+  <entitydescription.scp_tpdw57mag>50发5.7*35mm弹匣，用于分形个人防御武器。</entitydescription.scp_tpdw57mag>
   <!--<entityname.scp_a57projectile>5.7*35mm子弹</entityname.scp_a57projectile>
   <entitydescription.scp_a57projectile></entitydescription.scp_a57projectile>-->
   <entityname.scp_tm3>分形转轮机枪(TM3)</entityname.scp_tm3>
@@ -52,111 +52,125 @@
   <entitydescription.scp_tm3proj></entitydescription.scp_tm3proj>-->
   <!--weapons_Enhanced_Armanents-->
   <entityname.scp_556mag>突击步枪弹匣 5.56*45mm</entityname.scp_556mag>
-  <entitydescription.scp_556mag>常见的30发5.56*45mm聚合物弹匣，在整个木卫二随处可见，这种弹匣在过去400年里的战斗中充分证明了其对无护甲目标的可靠杀伤力。</entitydescription.scp_556mag>
-  <entityname.scp_556extmag>突击步枪扩展弹匣 5.56*45mm</entityname.scp_556extmag>
-  <entitydescription.scp_556extmag>60发高容量5.56*45mm钢制弹匣，面对多目标时能提供更长时间的持续射击。</entitydescription.scp_556extmag>
+  <entitydescription.scp_556mag>常见的30发5.56*45mm聚合物弹匣，在整个木卫二随处可见，这种弹匣易于大规模生产，对常见威胁杀伤效果很好。然而其对护甲效果欠佳。</entitydescription.scp_556mag>
+  <entityname.scp_556extmag>突击步枪弹鼓 5.56*45mm</entityname.scp_556extmag>
+  <entitydescription.scp_556extmag>60发高容量5.56*45mm聚合物弹鼓，高弹容得益于该弹种的轻量与小体积，但也可靠性较低。</entitydescription.scp_556extmag>
   <!--<entityname.scp_556projectile>5.56*45mm子弹</entityname.scp_556projectile>
   <entitydescription.scp_556projectile></entitydescription.scp_556projectile>-->
   <entityname.scp_m4s90>联盟战斗霰弹枪（M4 Super 90）</entityname.scp_m4s90>
   <entitydescription.scp_m4s90>能快速射击的12号半自动霰弹枪，有着高弹匣容量和较高的射速。</entitydescription.scp_m4s90>
   <entityname.scp_m590>联盟泵动霰弹枪（Mossberg 590）</entityname.scp_m590>
-  <entitydescription.scp_m590>更加坚固和具有战斗力12号霰弹枪，主要用于替代之前的笨重的联盟旧式防暴霰弹枪，其特点是泵动结构更轻更平滑，射速更快，弹匣稍长。</entitydescription.scp_m590>
+  <entitydescription.scp_m590>更加坚固强力的12号霰弹枪，主要用于替代之前的笨重的联盟旧式防暴霰弹枪，其特点是泵动结构更轻更平滑，射速更快，弹匣稍长。</entitydescription.scp_m590>
+  <entityname.scp_rm93>叛军泵动霰弹枪（RM-93）</entityname.scp_rm93>
+  <entitydescription.scp_rm93>当搞不到联盟霰弹枪时，分离主义者就会使用这种12口径的霰弹枪。其特点是弹仓只有可怜的6发，而且泵式机构略显僵硬。但不管怎么说，它都能和联盟霰弹枪一样把事儿办了。</entitydescription.scp_rm93> 
   <entityname.scp_rsh12>突击左轮手枪（RSh-12.7）</entityname.scp_rsh12>
-  <entitydescription.scp_rsh12>12.7*55mm左轮手枪，其停止作用在手枪中无可比拟，几乎能够抑止任何东西前进的步伐，并因其难以置信的后坐力而臭名昭著。它有着一个较重的双动触发机构。</entitydescription.scp_rsh12>
-  <entityname.scp_arevolverround>突击左轮手枪子弹 12.7*33mm</entityname.scp_arevolverround>
-  <entitydescription.scp_arevolverround>短粗的12.7*55mm子弹，最初设计用于重型战斗步枪，其高质量弹丸在目标上施加的动能可以轻易地粉碎软组织和护甲。</entitydescription.scp_arevolverround>
+  <entitydescription.scp_rsh12>12.7*55mm大口径左轮手枪，考虑到其强烈的后坐力，实用性存疑，但其有着一众手枪几乎无可比拟的威力。其大口径弹药几乎能够抑止任何东西前进的步伐，并因其难以置信的后坐力而臭名昭著。它采用重型双动触发机构。</entitydescription.scp_rsh12>
+  <entityname.scp_arevolverround>突击左轮手枪子弹 12.7*55mm</entityname.scp_arevolverround>
+  <entitydescription.scp_arevolverround>12.7*55mm大型子弹，采用超音速装药，大大增加了后坐力，这使其能够抑止几乎任何生物活动。</entitydescription.scp_arevolverround>
+  <entityname.scp_arevolverduraround>突击左轮手枪耐用钢弹 12.7*55mm</entityname.scp_arevolverduraround>
+  <entitydescription.scp_arevolverduraround>12.7*55mm大口径弹药，有着大量的装药和相当坚硬的弹头，能够穿透多个目标。</entitydescription.scp_arevolverduraround>
   <entityname.scp_deagle>手炮（Desert Eagle）</entityname.scp_deagle>
-  <entitydescription.scp_deagle>又大又方的12.7*33mmRB弹手枪，非常笨重。尽管如此，由于其令人生畏的外形和价格标签，它常被人随身携带以彰显优越感。</entitydescription.scp_deagle>
+  <entitydescription.scp_deagle>12.7*33mm手枪，由于其令人生畏的外形和价格标签，它常被人随身携带以彰显优越感。</entitydescription.scp_deagle>
   <entityname.scp_deaglemag>手炮弹匣 12.7*33mm</entityname.scp_deaglemag>
-  <entitydescription.scp_deaglemag>7发12.7*33mmRB手枪弹匣，装有最初为猎杀大型动物而设计的大号JHP子弹，因此其对无护甲目标的杀伤力可以说是是毁灭性的。</entitydescription.scp_deaglemag>
+  <entitydescription.scp_deaglemag>7发12.7*33mm手枪弹匣，装有最初为猎杀大型动物而设计的大号子弹，因此其对无护甲目标的杀伤力可以说是是毁灭性的。</entitydescription.scp_deaglemag>
   <!--<entityname.scp_deagleprojectile>12.7*33mmRB弹</entityname.scp_deagleprojectile>
   <entitydescription.scp_deagleprojectile></entitydescription.scp_deagleprojectile>-->
   <entityname.scp_python>制式左轮（Colt Python）</entityname.scp_python>
   <entitydescription.scp_python>9*33mmR的左轮手枪，使用比联盟旧式防卫左轮更大、压力更高的弹仓，但也可以使用其前辈的子弹。它有着一个较轻的双动触发机构。</entitydescription.scp_python>
   <entityname.scp_357round>制式左轮子弹 9*33mm</entityname.scp_357round>
-  <entitydescription.scp_357round>9*33mmR子弹，弹壳加长以增加火药装量。它被设计用于左轮手枪或定制步枪。</entitydescription.scp_357round>
+  <entitydescription.scp_357round>9*33mmR子弹，相比9*29mm子弹有着更长的弹壳和更大的弹头，对敌效果更佳。</entitydescription.scp_357round>
   <entityname.scp_sg550>联盟突击步枪（SG550）</entityname.scp_sg550>
-  <entitydescription.scp_sg550>标准的5.56*45mm突击步枪，被设计成一种可以在各种情况下灵活使用的通用武器。它在潜艇上和联盟军队手中十分常见。</entitydescription.scp_sg550>
+  <entitydescription.scp_sg550>标准的5.56*45mm突击步枪，被设计成一种可以在几乎任何情况下灵活使用的通用武器。它在潜艇上和联盟军队手中十分常见。</entitydescription.scp_sg550>
   <entityname.scp_val>微声突击步枪（AS Val）</entityname.scp_val>
-  <entitydescription.scp_val>9*39mm突击步枪，带有整体式消音器，专为近距离作战而设计，它是分离主义分子在秘密行动中的最佳选择。然而，由于消音器保留的大量热量易使金属膨胀，从而影响导气机构的可靠性。</entitydescription.scp_val>
-  <entityname.scp_valmag>微声突击步枪弹匣 9*39mm</entityname.scp_valmag>
-  <entitydescription.scp_valmag>标准20发9*39mm聚合物弹匣，弹药的亚音速性能出众，但几乎没有穿透护甲的能力。</entitydescription.scp_valmag>
+  <entitydescription.scp_val>9*39mm突击步枪，带有整体式消音器，专为近距离作战而设计，因其在近距离上的杀伤力而同时被联盟军队和分离主义分子青睐。然而尽管使用的是亚音速弹药，消音器还是容易因继续大量热量，从而影响导气机构的可靠性。</entitydescription.scp_val>
+  <entityname.scp_valmag>微声突击步枪穿甲弹匣 9*39mm</entityname.scp_valmag>
+  <entitydescription.scp_valmag>标准20发9*39mm聚合物弹匣，装有钛质穿甲弹药，能轻松处理普通弹药难以应对的护甲目标。</entitydescription.scp_valmag>
   <!--<entityname.scp_valprojectile>9*39mm子弹</entityname.scp_valprojectile>
   <entitydescription.scp_valprojectile></entitydescription.scp_valprojectile>-->
-  <entityname.scp_valextmag>微声突击步枪扩展弹匣 9*39mm</entityname.scp_valextmag>
-  <entitydescription.scp_valextmag>30发9*39mm加长聚合物弹匣，以增加微声突击步枪的持续射击能力。</entitydescription.scp_valextmag>
-  <entityname.scp_ash12>重型战斗步枪（ASh-12.7）</entityname.scp_ash12>
-  <entitydescription.scp_ash12>笨重的12.7*55mm顶级战斗步枪，专为近距离交战而设计，使其成为攻击其他船只和站点的突击队的最佳选择。然而，由于弹药和设计原理的原因，容易出现由热量引起的供弹问题。</entitydescription.scp_ash12>
-  <entityname.scp_ash12mag>重型战斗步枪弹匣 12.7*55mm</entityname.scp_ash12mag>
-  <entitydescription.scp_ash12mag>标准的10发12.7*55mm弹匣，其大质量弹头和硬化弹芯有能力摧毁绝大多数目标。与类似容量的弹匣相比相当重</entitydescription.scp_ash12mag>
-  <entityname.scp_ash12extmag>重型战斗步枪扩展弹匣 12.7*55mm</entityname.scp_ash12extmag>
-  <entitydescription.scp_ash12extmag>长而笨重的20发12.7*55mm加长弹匣，其大质量弹头和硬化弹芯有能力摧毁绝大多数目标,由于其过于笨重所以难以大量携带。</entitydescription.scp_ash12extmag>
+  <entityname.scp_valextmag>微声突击步枪弹匣 9*39mm</entityname.scp_valextmag>
+  <entitydescription.scp_valextmag>30发9*39mm聚合物弹匣，装有亚音速弹药，能轻松粉碎无甲目标。</entitydescription.scp_valextmag>
+  <entityname.scp_ash12>镇暴战斗步枪（ASh-12.7）</entityname.scp_ash12>
+  <entitydescription.scp_ash12>12.7*55mm顶级无托战斗步枪，专为近距离交战而设计，使其成为攻击其他船只和站点的突击队的最佳选择。然而，由于弹药和设计原理的原因，容易出现由热量引起的供弹问题。</entitydescription.scp_ash12>
+  <entityname.scp_malyuk12>叛军镇暴战斗步枪（Malyuk 12）</entityname.scp_malyuk12>
+  <entitydescription.scp_malyuk12>做工粗劣的12.7*55mmAK式步枪，显然是分离主义分子容易搞到的武器。其射击速度明显较快，也因此对枪手提出了更高要求。</entitydescription.scp_malyuk12>
+  <entityname.scp_ash12mag>镇暴战斗步枪耐用钢弹匣 12.7*55mm</entityname.scp_ash12mag>
+  <entitydescription.scp_ash12mag>10发12.7*55mm弹匣，装有耐用钢质弹药，大大增强其已有的对护甲目标的强大破坏力，但对枪械的磨损也更严重。</entitydescription.scp_ash12mag>
+  <entityname.scp_ash12extmag>镇暴战斗步枪弹匣 12.7*55mm</entityname.scp_ash12extmag>
+  <entitydescription.scp_ash12extmag>20发12.7*55mm弹匣，其大质量弹头和硬化弹芯有能力摧毁绝大多数目标,由于其过于笨重所以难以大量携带。</entitydescription.scp_ash12extmag>
   <!--<entityname.scp_127x55projectile>12.7*55mm子弹</entityname.scp_127x55projectile>
   <entitydescription.scp_127x55projectile></entitydescription.scp_127x55projectile>-->
   <entityname.scp_9mmmag>手枪弹匣 9*19mm</entityname.scp_9mmmag>
-  <entitydescription.scp_9mmmag>16发9*19mm手枪弹匣，装有空尖弹。能提供一定的火力，然而穿甲能力非常糟糕。</entitydescription.scp_9mmmag>
+  <entitydescription.scp_9mmmag>16发9*19mm手枪弹匣，装有空尖弹。能在对抗无甲单位时提供不错的火力，然而穿甲能力糟糕得可笑。</entitydescription.scp_9mmmag>
   <!--<entityname.scp_9x19projectile>9mm子弹</entityname.scp_9x19projectile>
   <entitydescription.scp_9x19projectile></entitydescription.scp_9x19projectile>-->
   <!--<entityname.scp_9x19pprojectile>9mm手枪弹</entityname.scp_9x19pprojectile>
   <entitydescription.scp_9x19pprojectile></entitydescription.scp_9x19pprojectile>-->
   <entityname.scp_meusoc>联盟重型手枪（MEU(SOC)）</entityname.scp_meusoc>
-  <entitydescription.scp_meusoc>老式11.43*23mm手枪设计的现代化改型，使用的子弹比9mm手枪子弹动能更足。</entitydescription.scp_meusoc>
+  <entitydescription.scp_meusoc>源自旧时美国设计的11.43*23mm反冲手枪，使用的子弹比9mm手枪弹动能更足。</entitydescription.scp_meusoc>
   <entityname.scp_45mag>联盟重型手枪弹匣 11.43*23mm</entityname.scp_45mag>
-  <entitydescription.scp_45mag>10发11.43*23mm手枪弹匣，装有空尖弹药，使其对无护甲目标更有效，但对被甲目标完全没有作用。</entitydescription.scp_45mag>
+  <entitydescription.scp_45mag>10发11.43*23mm手枪弹匣，装有空尖弹药，大号射弹提供了勉强能看的抑止作用，但使其对无护甲目标更有效，但对被甲目标完全没有作用。</entitydescription.scp_45mag>
   <!--<entityname.scp_45projectile>11.43mm子弹</entityname.scp_45projectile>
   <entitydescription.scp_45projectile></entitydescription.scp_45projectile>-->
   <!--<entityname.scp_45pprojectile>11.43mm手枪弹</entityname.scp_45pprojectile>
   <entitydescription.scp_45pprojectile></entitydescription.scp_45pprojectile>-->
   <entityname.scp_p226>联盟手枪（SIG P226）</entityname.scp_p226>
-  <entitydescription.scp_p226>联盟配发的标准9*19mm手枪，设计旨在方便使用和制造。9*19mm反冲手枪，其设计旨在易于使用和制造。这种傻瓜式设计的手枪，在整个木卫二随处可见，尽管其子弹的速度和护甲穿透力都很低，但还是被联盟采用为主要的随身武器。</entitydescription.scp_p226>
+  <entitydescription.scp_p226>9*19mm反冲手枪，其设计旨在方便使用和制造。尽管其采用的弹药天生自带逆风属性，但简单好用的傻瓜式设计还是让其被联盟作为主要随身武器采用，也因此你能在木卫二任何地方见到它的踪影。</entitydescription.scp_p226>
   <entityname.scp_mxa1>联盟无壳弹突击步枪（CMMG MXA1）</entityname.scp_mxa1>
-  <entitydescription.scp_mxa1>枪身主要由聚合物构成的6.5*39mm突击步枪，使用这种不寻常的子弹，使其成为5.56和7.62mm步枪之间的一个过渡方案。虽然产量不如其它传统同类产品，但依然凭借其准确性收获了一些粉丝。</entitydescription.scp_mxa1>
+  <entitydescription.scp_mxa1>枪身主要由聚合物构成的6.5*39mm突击步枪，其不同寻常的口径，使其成为5.56和7.62mm步枪之间的一个过渡方案。虽然由于热对流设计的问题，产量不如其它传统同类产品，但依然凭借其准确性和工程学上的轻量化设计收获了一些粉丝。</entitydescription.scp_mxa1>
   <entityname.scp_65mag>联盟无壳弹突击步枪弹匣 6.5*39mm</entityname.scp_65mag>
-  <entitydescription.scp_65mag>30发6.5*39mm无壳弹聚合物弹匣。</entitydescription.scp_65mag>
+  <entitydescription.scp_65mag>30发6.5*39mm无壳弹聚合物弹匣，装有非常规C-FMJ弹药。</entitydescription.scp_65mag>
+  <entityname.scp_65incendmag>无壳弹突击步枪燃烧弹匣 6.5*39mm</entityname.scp_65incendmag>
+  <entitydescription.scp_65incendmag>30发6.5*39mm无壳弹聚合物弹匣，装有非常规C-AP-I弹药，对护甲目标效果更佳，但也给枪械本身带来了更重的热量管理压力。</entitydescription.scp_65incendmag>
   <!--<entityname.scp_65projectile>6.5*39mm无壳弹</entityname.scp_65projectile>
   <entitydescription.scp_65projectile></entitydescription.scp_65projectile>-->
   <entityname.scp_mag>联盟通用机枪</entityname.scp_mag>
-  <entitydescription.scp_mag>发射7.62*51mm子弹的通用轻机枪，用于替代联盟的旧制轻机枪。</entitydescription.scp_mag>
+  <entitydescription.scp_mag>7.62*51mm通用轻机枪，用于替代联盟的旧制轻机枪，其使用的步枪弹在带来更优秀末端弹道表现的同时，也增加了枪械总重和后坐力。</entitydescription.scp_mag>
   <entityname.scp_pkpboxmag>联盟通用机枪弹箱 7.62*51mm</entityname.scp_pkpboxmag>
   <entitydescription.scp_pkpboxmag>沉重的100发7.62*51mm弹链供弹式通用机枪弹箱。</entitydescription.scp_pkpboxmag>
   <!--<entityname.scp_762pkpprojectile>7.62*51mm通用机枪弹</entityname.scp_762pkpprojectile>
   <entitydescription.scp_762pkpprojectile></entitydescription.scp_762pkpprojectile>-->
-  <entityname.scp_ksg>无托式泵动霰弹枪（KSG-12）</entityname.scp_ksg>
-  <entitydescription.scp_ksg>外形优美而时尚的12号霰弹枪，双管设计使其比大多数霰弹枪的容量大得多。</entitydescription.scp_ksg>
-  <entityname.scp_spear>联盟重型突击步枪（MCX Spear）</entityname.scp_spear>
-  <entitydescription.scp_spear>现代化的6.8*51mm突击步枪，设计思路是在5.56和7.62mm步枪之间找到平衡，类似于无壳弹突击步枪。其发射的子弹速度与7.62*51mm相似，但整体更小、更轻。</entitydescription.scp_spear>
-  <entityname.scp_spearmag>联盟重型突击步枪弹匣 6.8*51mm</entityname.scp_spearmag>
-  <entitydescription.scp_spearmag>25发6.8*51mm弹匣。</entitydescription.scp_spearmag>
-  <!--<entityname.scp_68projectile>6.8*51mm子弹</entityname.scp_68projectile>
-  <entitydescription.scp_68projectile></entitydescription.scp_68projectile>-->
-  <entityname.scp_scar17>战斗步枪（SCAR-H）</entityname.scp_scar17>
-  <entitydescription.scp_scar17>外形优美而时尚的7.62*51mm战斗步枪，旨在为个人提供比中间威力弹更强大的火力。</entitydescription.scp_scar17>
-  <entityname.scp_scar20>轻型射手步枪（SCAR MK20）</entityname.scp_scar20>
-  <entitydescription.scp_scar20>以战斗步枪为基础改装而来的大型7.62*51mm射手步枪，有着较长的浮动枪管，精度十分出色。</entitydescription.scp_scar20>
+  <entityname.scp_ksg>联盟镇暴霰弹枪（KSG-12）</entityname.scp_ksg>
+  <entitydescription.scp_ksg>外形优美而时尚的12号泵动霰弹枪，源于旧时美国设计，可切换式双管设计使其比大多数霰弹枪的弹容量大得多。</entitydescription.scp_ksg>
+  <entityname.scp_scar17>联盟战斗步枪（SCAR 17）</entityname.scp_scar17>
+  <entitydescription.scp_scar17>7.62*51mm大型近程战斗步枪，基于原比利时设计，凭借其优秀的性能受到联盟成员的青睐。</entitydescription.scp_scar17>
+  <entityname.scp_g3>叛军战斗步枪（G3）</entityname.scp_g3>
+  <entitydescription.scp_g3>基于德国设计的7.62*51mm步枪，主要由分离主义分子使用，较长的枪管提供了更高的枪口初速和更强的威力。该型设计使用大型枪栓和离轴枪托，这大大增加了后坐力。</entitydescription.scp_g3>  
+  <entityname.scp_scar20>联盟射手步枪（SCAR MK20）</entityname.scp_scar20>
+  <entitydescription.scp_scar20>以战斗步枪为基础改进而来的7.62*51mm射手步枪，有着较长的自由浮置式枪管，精度十分出色。不过其较大的光学瞄准镜和较长的枪身可能会让缺乏经验的使用者难以快速精确射击。</entitydescription.scp_scar20>
+  <entityname.scp_tabuk>叛军射手步枪（Tabuk）</entityname.scp_tabuk>
+  <entitydescription.scp_tabuk>以分离主义者主力突击步枪为基础改进而来的7.62*39mm射手步枪，该口径弹药的远距离弹道系数很差，但很奇怪的是，这并没能阻止分离主义分子仍然将其用于远距离作战。</entitydescription.scp_tabuk>
   <entityname.scp_scarmag>战斗步枪弹匣 7.62*51mm</entityname.scp_scarmag>
-  <entitydescription.scp_scarmag>20发7.62*51mm弹匣，内装全金属被甲弹（FMJ)。</entitydescription.scp_scarmag>
+  <entitydescription.scp_scarmag>20发7.62*51mm钢制弹匣，内装全金属被甲弹（FMJ）。</entitydescription.scp_scarmag>
+  <entityname.scp_scarduramag>战斗步枪耐用钢弹匣 7.62*51mm</entityname.scp_scarduramag>
+  <entitydescription.scp_scarduramag>20发7.62*51mm钢制弹匣，内装稀有的耐用钢质穿甲弹，比FMJ弹的穿甲效果更好。然而，发射这些子弹在枪管和枪膛中产生的热量明显更多。</entitydescription.scp_scarduramag>
+  <entityname.scp_scarextmag>战斗步枪弹鼓 7.62*51mm</entityname.scp_scarextmag>
+  <entitydescription.scp_scarextmag>装有FMJ子弹的40发7.62*51mm大型钢制弹鼓，其大弹容弥补了大多数7.62口径步枪的主要缺点，代价是更低的可靠性。</entitydescription.scp_scarextmag>
   <!--<entityname.scp_762natoprojectile>7.62*51mm子弹</entityname.scp_762natoprojectile>
   <entitydescription.scp_762natoprojectile></entitydescription.scp_762natoprojectile>-->
-  <entityname.scp_t5000>精密步枪（Orsis T-5000）</entityname.scp_t5000>
-  <entitydescription.scp_t5000>为精确打靶射击而设计的大型8.6*70mm步枪，使用大威力弹药以实现高射程潜力，但自然使其成为近距离射击的极差选择。</entitydescription.scp_t5000>
+  <entityname.scp_t5000>联盟精密步枪（Orsis T-5000）</entityname.scp_t5000>
+  <entitydescription.scp_t5000>为快速而精确处理单体目标而设计的大型8.6*70mm步枪，其在长距离作战中优势显著，是欧罗巴上十分罕见的存在。</entitydescription.scp_t5000>
   <entityname.scp_t5000boxmag>精密步枪弹匣 8.6*70mm</entityname.scp_t5000boxmag>
-  <entitydescription.scp_t5000boxmag>小型5发8.6*70mm弹匣，装有比赛级别的弹药，以达到最高的精准度。</entitydescription.scp_t5000boxmag>
+  <entitydescription.scp_t5000boxmag>小型5发8.6*70mm弹匣，装有FMJ全金属被甲弹。</entitydescription.scp_t5000boxmag>
   <!--<entityname.scp_86projectile>8.6*70mm子弹</entityname.scp_86projectile>
   <entitydescription.scp_86projectile></entitydescription.scp_86projectile>-->
+  <entityname.scp_m24>叛军精密步枪（M24）</entityname.scp_m24>
+  <entitydescription.scp_m24>8.6*70mm步枪，用来替代制造工艺要求更高的联盟精密步枪。其弹药的后坐力很强，显然初始设计并未打算采用此弹药。</entitydescription.scp_m24>
   <entityname.scp_smg9>冲锋枪（SMG-9）</entityname.scp_smg9>
-  <entitydescription.scp_smg9>外形优美、紧凑、易于操作的9*19mm冲锋枪，旨在提供比手枪更好的准确性和可控性。它是平民和安全官经常使用的武器。</entitydescription.scp_smg9>
+  <entitydescription.scp_smg9>外形紧凑、易于操作的9*19mm冲锋枪，旨在提供比手枪更好的准确性和可控性。它是平民和安全官经常使用的武器。</entitydescription.scp_smg9>
   <entityname.scp_9mmsmgmag>冲锋枪弹匣 9*19mm</entityname.scp_9mmsmgmag>
-  <entitydescription.scp_9mmsmgmag>30发9*19mm冲锋枪弹匣，提供了重量较轻的持续射击方案，然而该弹对被甲目标性能极差。</entitydescription.scp_9mmsmgmag>
+  <entitydescription.scp_9mmsmgmag>30发9*19mm冲锋枪弹匣，有着相当的弹容但克服不了固有的破甲短板。</entitydescription.scp_9mmsmgmag>
+  <entityname.scp_9mmsmgdrummag>冲锋枪弹鼓 9*19mm</entityname.scp_9mmsmgdrummag>
+  <entitydescription.scp_9mmsmgdrummag>50发9*19mm冲锋枪弹鼓，增强了其对付多个无甲目标的能力，但在对付任何被甲目标时仍然表现得很无力。</entitydescription.scp_9mmsmgdrummag>
   <entityname.scp_ump45>重型冲锋枪（UMP-45）</entityname.scp_ump45>
   <entitydescription.scp_ump45>适合近距离作战的11.43*23mm冲锋枪。它使用比它更轻的同行更大口径的子弹，但为了适应更高的后坐力，其使用的更重枪机框架降低了射速。</entitydescription.scp_ump45>
   <entityname.scp_umpmag>重型冲锋枪弹匣 11.43*23mm</entityname.scp_umpmag>
-  <entitydescription.scp_umpmag>25发11.43*23mm弹匣，提供了比常见的手枪弹更大的冲击力，但对被甲目标的表现仍然很糟糕。</entitydescription.scp_umpmag>
+  <entitydescription.scp_umpmag>25发11.43*23mm弹匣，装有被甲空尖弹药（JHP），能提供比常见的9*19mm手枪弹更强的冲击力，但对被甲目标的表现仍然很糟糕。</entitydescription.scp_umpmag>
   <entityname.scp_ar50>反器材步枪（AR-50）</entityname.scp_ar50>
-  <entitydescription.scp_ar50>非常沉重的12.7*99mm单发栓动反器材步枪，用于对付木卫二上更大型的原住民，也可以在一定程度上破坏潜艇外壳。</entitydescription.scp_ar50>
-  <entityname.scp_50bmgfmj>12.7*99mm反器材FMJ子弹</entityname.scp_50bmgfmj>
-  <entitydescription.scp_50bmgfmj>12.7*99mm子弹，有着装有大量火药的大弹壳和一个重型铜套弹。</entitydescription.scp_50bmgfmj>
-  <entityname.scp_50bmgapi>12.7*99mm反器材AP-I子弹</entityname.scp_50bmgapi>
-  <entitydescription.scp_50bmgapi>12.7*99mm子弹，有着装有大量火药的大弹壳和一个装有燃烧材料的重型钢芯弹。</entitydescription.scp_50bmgapi>
+  <entitydescription.scp_ar50>非常沉重的12.7*99mm单发栓动反器材步枪，用于对付木卫二上更大型的生物，能穿透几乎任何护甲。</entitydescription.scp_ar50>
+  <entityname.scp_50bmgfmj>12.7*99mm反器材弹</entityname.scp_50bmgfmj>
+  <entitydescription.scp_50bmgfmj>12.7*99mm大口径弹药，有着标准大口径FMJ弹头和大量底火。</entitydescription.scp_50bmgfmj>
+  <entityname.scp_50bmgapi>12.7*99mm反器材AP-I弹</entityname.scp_50bmgapi>
+  <entitydescription.scp_50bmgapi>12.7*99mm大口径弹药，钢制弹头表面附有Ignis溶胶，接触到皮肤会立即燃烧。</entitydescription.scp_50bmgapi>
   <entityname.scp_lwmmg>特种用途机枪（LWMMG）</entityname.scp_lwmmg>
   <entitydescription.scp_lwmmg>笨重的8.6*70mm机枪，用于射击大群更大型的木卫二原住民，使用为精密步枪设计的弹药。由于金属在持续射击的高热下会膨胀，供弹机制将因此变得不可靠。</entitydescription.scp_lwmmg>
   <entityname.scp_lwmmgmag>特种用途机枪弹箱 8.6*70mm</entityname.scp_lwmmgmag>
@@ -164,17 +178,21 @@
   <!--<entityname.scp_86normaprojectile>8.6*70mm Norma子弹</entityname.scp_86normaprojectile>
   <entitydescription.scp_86normaprojectile></entitydescription.scp_86normaprojectile>-->
   <entityname.scp_12gslug>12号独头弹</entityname.scp_12gslug>
-  <entitydescription.scp_12gslug>12号口径霰弹，内含独头大质量铅弹，能够击穿护甲。</entitydescription.scp_12gslug>
-  <entityname.scp_12gapslug>12号穿甲弹</entityname.scp_12gapslug>
-  <entitydescription.scp_12gapslug>12号口径霰弹，内含一枚能够击穿中型护甲的钛制独头穿甲弹。</entitydescription.scp_12gapslug>
+  <entitydescription.scp_12gslug>12号口径霰弹，内含大质量独头铅弹，穿甲效果适中。</entitydescription.scp_12gslug>
+ <entityname.scp_12gbreachslug>12号破门独头弹</entityname.scp_12gbreachslug>
+  <entitydescription.scp_12gbreachslug>12号口径霰弹，内含专用于破门的独头弹，但用它来打其他任何东西的效果都不容小觑。</entitydescription.scp_12gbreachslug>  
+  <entityname.scp_12gapslug>12号穿甲独头弹</entityname.scp_12gapslug>
+  <entitydescription.scp_12gapslug>12号口径霰弹，内含一枚能够击穿甲效果更佳的钛制独头穿甲弹。</entitydescription.scp_12gapslug>
   <entityname.scp_12ghpbtslug>12号风帽空尖独头弹</entityname.scp_12ghpbtslug>
   <entitydescription.scp_12ghpbtslug>12号口径霰弹，内含独头、高质量的铜套铅弹，在击中目标后会膨胀变形。由于每个弹丸上都有一个塑料气动锥体风帽，因此比标准独头弹要精确得多，但对护甲没有任何作用。</entitydescription.scp_12ghpbtslug>
   <entityname.scp_12gmagbuck>12号马格南鹿弹</entityname.scp_12gmagbuck>
   <entitydescription.scp_12gmagbuck>12号口径霰弹，有着更大的弹头和火药装量，这提高了每颗子弹的威力但降低了准确性，对护甲威胁很小。</entitydescription.scp_12gmagbuck>
   <entityname.scp_12devilslug>12号“恶魔之血”霰弹</entityname.scp_12devilslug>
-  <entitydescription.scp_12devilslug>12号口径霰弹，里面有一个装有“恶魔之血”的针头，虽然直接命中的伤害不高，但在命中后针头里的“恶魔之血”会邪恶而可怕地结束目标的生命。不过美中不足的是针头在命中时非常容易折断。</entitydescription.scp_12devilslug>
+  <entitydescription.scp_12devilslug>12号口径霰弹，里面装有少量“恶魔之血”，会在命中后小范围散播。</entitydescription.scp_12devilslug>
   <entityname.scp_556apmag>突击步枪穿甲弹匣 5.56*45mm</entityname.scp_556apmag>
-  <entitydescription.scp_556apmag>普通的30发5.56*45mm冲压钢制弹匣，装有穿甲弹，以增强其对付潜艇上或更深的木卫二水域中被甲敌人的能力。</entitydescription.scp_556apmag>
+  <entitydescription.scp_556apmag>普通的30发5.56*45mm聚合物弹匣，装有穿甲弹，以增强其对付被甲敌人的能力，不过其小体积限制了其冲击力。</entitydescription.scp_556apmag>
+  <entityname.scp_556duramag>突击步枪耐用钢弹匣</entityname.scp_556duramag>
+  <entitydescription.scp_556duramag>普通的30发5.56*45mm聚合物弹匣，装有耐用钢穿甲弹，以增强其对付被甲敌人的能力，不过其小体积限制了其冲击力。</entitydescription.scp_556duramag>
   <!--<entityname.scp_556approjectile>5.56mm穿甲弹</entityname.scp_556approjectile>
   <entitydescription.scp_556approjectile></entitydescription.scp_556approjectile>-->
   <entityname.scp_9mmapmag>手枪穿甲弹匣 9*19mm</entityname.scp_9mmapmag>
@@ -183,7 +201,7 @@
   <entitydescription.scp_9x19capprojectile></entitydescription.scp_9x19capprojectile>-->
   <!--<entityname.scp_9x19cappprojectile>9mm穿甲手枪弹</entityname.scp_9x19cappprojectile>
   <entitydescription.scp_9x19cappprojectile></entitydescription.scp_9x19cappprojectile>-->
-  <entityname.scp_9mmsmgapmag>9mm冲锋枪穿甲弹匣 9*19mm</entityname.scp_9mmsmgapmag>
+  <entityname.scp_9mmsmgapmag>冲锋枪穿甲弹匣 9*19mm</entityname.scp_9mmsmgapmag>
   <entitydescription.scp_9mmsmgapmag>装有穿甲弹的30发9*19mm冲锋枪弹匣，对被甲目标有更好的效果。</entitydescription.scp_9mmsmgapmag>
   <entityname.scp_45apmag>重型手枪穿甲弹匣 11.43*23mm</entityname.scp_45apmag>
   <entitydescription.scp_45apmag>10发11.43*23mm手枪弹匣，装有穿甲弹药，用于对付叛徒和被甲生物，然而由于初速比9*19mm弹药低，故其穿透能力较弱。</entitydescription.scp_45apmag>
@@ -198,115 +216,136 @@
   <entityname.scp_44apround>轻型手炮穿甲弹</entityname.scp_44apround>
   <entitydescription.scp_44apround>有着钛质穿芯的10.9*33mmR子弹，用于将更多的动能集中于更小的表面积上，然而这种设计由于缺乏膨胀性而大大减少了对局部组织的损伤。</entitydescription.scp_44apround>
   <entityname.scp_m249>联盟轻机枪（M249）</entityname.scp_m249>
-  <entitydescription.scp_m249>老旧的、方方正正的5.56*45mm轻机枪，使用与常见的联盟突击步枪相同的弹药，故其弹药可以互用，且连续开火时积累的热量较低。</entitydescription.scp_m249>
+  <entitydescription.scp_m249>老旧的5.56*45mm轻机枪，使用与常见的联盟突击步枪相同的弹药，故其弹药可以互用，且连续开火时积累的热量较低。</entitydescription.scp_m249>
   <entityname.scp_m249mag>联盟轻机枪弹箱 5.56*45mm</entityname.scp_m249mag>
-  <entitydescription.scp_m249mag>笨重但相当独特的100发5.56*45mm弹箱。</entitydescription.scp_m249mag>
+  <entitydescription.scp_m249mag>笨重的100发5.56*45mm弹箱。</entitydescription.scp_m249mag>
   <!--<entityname.scp_556m249projectile>5.56*45mm轻机枪子弹</entityname.scp_556m249projectile>
   <entitydescription.scp_556m249projectile></entitydescription.scp_556m249projectile>-->
   <entityname.scp_mdr>精密突击步枪（Desert Tech MDR）</entityname.scp_mdr>
-  <entitydescription.scp_mdr>一支5.56*45mm的无托突击步枪，有着近乎完美的精度，这使其成为那些希望使用更轻武器的潜艇兵的理想之选。然而，为了提供这种精确度，使用了更重的枪栓，相比基础突击步枪后坐力更大、开火速度更慢。</entitydescription.scp_mdr>
-  <entityname.scp_railgunpiercingshell>轨道炮HEAT破甲弹</entityname.scp_railgunpiercingshell>
-  <entitydescription.scp_railgunpiercingshell>一种用轨道炮发射的大型炮弹，有着动能穿甲弹头和爆炸战斗部，设计用于穿透敌军薄弱装甲并在其内部爆炸。</entitydescription.scp_railgunpiercingshell>
+  <entitydescription.scp_mdr>5.56*45mm无托突击步枪，无托设计使其在突击卡宾枪的尺寸下仍有着较长的枪管，配合三发点放机构使其有着更高的命中率。</entitydescription.scp_mdr>
+  <entityname.scp_railgunpiercingshell>轨道炮穿甲弹</entityname.scp_railgunpiercingshell>
+  <entitydescription.scp_railgunpiercingshell>一种用轨道炮发射的大型炮弹，有着钛质动能穿甲弹头，设计用于穿透更坚固的船壳或大型生物的甲壳。</entitydescription.scp_railgunpiercingshell>
   <entityname.scp_railgundevilbloodshell>轨道炮“恶魔之血”炮弹</entityname.scp_railgundevilbloodshell>
   <entitydescription.scp_railgundevilbloodshell>一种用轨道炮发射的大型炮弹，弹头里装满了“恶魔之血”。</entitydescription.scp_railgundevilbloodshell>
-  <entityname.scp_railgunphyspiercingshell>轨道炮刚素HEAT破甲炮弹</entityname.scp_railgunphyspiercingshell>
+  <entityname.scp_railgunphyspiercingshell>轨道炮刚素HEAT破甲弹</entityname.scp_railgunphyspiercingshell>
   <entitydescription.scp_railgunphyspiercingshell>一种用轨道炮发射的大型高爆反装甲炮弹，得益于刚素的轻质和坚韧特性，使其同时拥有刚素动能穿甲弹头和威力更强的爆炸战斗部。</entitydescription.scp_railgunphyspiercingshell>
-  <entityname.scp_railgunthermoshell>核聚变轨道炮炮弹</entityname.scp_railgunthermoshell>
-  <entitydescription.scp_railgunthermoshell>使用极为复杂的内爆式核聚变设计轨道炮炮弹，经复古改装后安装在现有的核弹上。由于其威力过于巨大，使用它会被视为极度疯狂的行为。</entitydescription.scp_railgunthermoshell>
-  <entityname.scp_railgunbunkerbuster>轨道炮“碉堡克星”钻地弹</entityname.scp_railgunbunkerbuster>
-  <entitydescription.scp_railgunbunkerbuster>一枚带有非常规弹头的轨道炮弹，采用刚素-耐用钢合金穿甲弹头和分段式装药，其爆炸有效载荷逐渐增大。从它老旧的外观可以看出，这型设计很明显已经停产很久了。</entitydescription.scp_railgunbunkerbuster>
+  <entityname.scp_railgunthermoshell>轨道核聚变弹</entityname.scp_railgunthermoshell>
+  <entitydescription.scp_railgunthermoshell>使用极为复杂的高度小型化内爆式核聚变设计的轨道炮炮弹，经复古改装，安装在现有的核弹上。由于其威力过于巨大而臭名昭著，在没有极端防护措施的情况下使用它无异于自杀。</entitydescription.scp_railgunthermoshell>
+  <entityname.scp_railgunerdshell>轨道炮辐照弹</entityname.scp_railgunerdshell>
+  <entitydescription.scp_railgunerdshell>设计用于在几分之一秒内发射极大量伽马和中子辐射的笨重装置，其产生的巨额辐射量和物质穿透力对没有特殊防护的人来说是致命的。因此得名：“苦痛之矛”。</entitydescription.scp_railgunerdshell>
+  <entityname.scp_railgunbunkerbuster>轨道炮“潜艇克星”钻地弹</entityname.scp_railgunbunkerbuster>
+  <entitydescription.scp_railgunbunkerbuster>一枚带有非常规弹头的轨道炮弹，采用刚素-耐用钢合金穿甲弹头和分段式装药，其爆炸有效载荷逐渐增大。从它老旧的外观可以看出，这型弹药很明显已经停产很久了，尽管其有着无与伦比的对艇和对前哨站攻坚能力。</entitydescription.scp_railgunbunkerbuster>
+  <entityname.scp_railgunruinedshell>残破的轨道炮弹</entityname.scp_railgunruinedshell>
+  <entitydescription.scp_railgunruinedshell>一枚破损到完全无法辨认的轨道炮弹，很久以前就丧失了功能，现在只能用来报废回收。</entitydescription.scp_railgunruinedshell>
+  <entityname.scp_thermodepthcharge>热核深水炸弹</entityname.scp_thermodepthcharge>
+  <entitydescription.scp_thermodepthcharge>大型深水炸弹，其特点是采用了复杂的小型化内爆式聚变设计。鉴于其不需要特别快，因此可以使用更大的弹头，这大大增加了爆炸威力，使其成为更危险的选择。</entitydescription.scp_thermodepthcharge>
   <!--weapons_explosives-->
-  <entityname.scp_f1>防御型手雷（F1）</entityname.scp_f1>
-  <entitydescription.scp_f1>一种非常重的手榴弹，有厚厚的破片套和炸药载荷，很难投掷，但爆炸半径非常大。</entitydescription.scp_f1>
+  <entityname.scp_f1>防御型破片手雷（F1）</entityname.scp_f1>
+  <entitydescription.scp_f1>一种重型手榴弹，有着厚破片套和大量炸药载荷，因此很难投掷，但爆炸半径非常大。</entitydescription.scp_f1>
+  <entityname.scp_dm51>耐用钢破片手雷（DM51）</entityname.scp_dm51>
+  <entitydescription.scp_dm51>采用耐用钢质外壳的破片手雷，其爆炸产生的高速穿甲破片很适合用来对付被甲目标。</entitydescription.scp_dm51>
+  <entityname.scp_m67>贫铀破片手雷（M67）</entityname.scp_m67>
+  <entitydescription.scp_m67>采用贫铀质外壳的棒球形破片手雷，其破片对被甲目标非常有效。</entitydescription.scp_m67>
   <entityname.scp_latexgrenade>Preso溶胶手雷</entityname.scp_latexgrenade>
-  <entitydescription.scp_latexgrenade>非常规手榴弹，旨在通过爆炸在附近物体表面涂上Preso溶胶，被联盟直接禁止使用。由于能够从地板之间的微小缝隙中渗入，它们对潜艇特别有效。</entitydescription.scp_latexgrenade>
-  <entityname.scp_rpg7>火箭助推榴弹发射器（RPG-7)</entityname.scp_rpg7>
-  <entitydescription.scp_rpg7>84mm无后坐力武器系统，设计用于对付载具和固定炮台。</entitydescription.scp_rpg7>
-  <entityname.scp_rpg7he>火箭助推破片榴弹</entityname.scp_rpg7he>
-  <entitydescription.scp_rpg7he>84mm破片榴弹，用于对付聚集的敌人，使用类似于标准手榴弹的薄钢套筒。</entitydescription.scp_rpg7he>
-  <entityname.scp_rpg7incend>火箭助推燃素榴弹</entityname.scp_rpg7incend>
-  <entitydescription.scp_rpg7incend>装有燃素战斗部的84mm高爆榴弹,能引发大火。</entitydescription.scp_rpg7incend>
-  <entityname.scp_rpg7phys>火箭助推刚素榴弹</entityname.scp_rpg7phys>
-  <entitydescription.scp_rpg7phys>主要由刚素制成的84mm高爆反坦克榴弹，在牺牲爆炸潜力的情况下能对潜艇船体造成更大的伤害。</entitydescription.scp_rpg7phys>
-  <entityname.scp_rpg7latex>火箭助推Preso溶胶榴弹</entityname.scp_rpg7latex>
-  <entitydescription.scp_rpg7latex>84mm榴弹，其化学有效载荷含有Preso溶胶，非常不实用，并被联盟禁止使用。</entitydescription.scp_rpg7latex>
-  <entityname.scp_rpg7devilblood>火箭助推“恶魔之血”榴弹</entityname.scp_rpg7devilblood>
-  <entitydescription.scp_rpg7devilblood>装有“恶魔之血”化学载荷的84mm榴弹，能在远距离上发动恐怖的化学战。</entitydescription.scp_rpg7devilblood>
-  <entityname.scp_mgl>转轮榴弹发射器</entityname.scp_mgl>
+  <entitydescription.scp_latexgrenade>非常规化学武器，旨在通过爆炸在附近物体表面附上Preso溶胶，在没有保护措施的情况下使用这种武器是不明智的。</entitydescription.scp_latexgrenade>
+  <entityname.scp_rpg7>火箭助推榴弹发射器（RPG-7）</entityname.scp_rpg7>
+  <entitydescription.scp_rpg7>40mm简易无后坐力武器系统，基于就是俄罗斯设计，主要用于对付站点和潜艇目标。</entitydescription.scp_rpg7>
+  <entityname.scp_rpg7he>火箭助推破片榴弹 40mm</entityname.scp_rpg7he>
+  <entitydescription.scp_rpg7he>40mm破片榴弹，用于对付聚集的敌人，使用类似于标准手榴弹的薄钢套筒。</entitydescription.scp_rpg7he>
+  <entityname.scp_rpg7incend>火箭助推燃素榴弹 40mm</entityname.scp_rpg7incend>
+  <entitydescription.scp_rpg7incend>装有燃素战斗部的40mm高爆榴弹,能引发大火。</entitydescription.scp_rpg7incend>
+  <entityname.scp_rpg7phys>火箭助推刚素榴弹 40mm</entityname.scp_rpg7phys>
+  <entitydescription.scp_rpg7phys>主要由刚素制成的40mm高爆反坦克榴弹，在牺牲爆炸潜力的情况下能对潜艇船体造成更大的伤害。</entitydescription.scp_rpg7phys>
+  <entityname.scp_rpg7latex>火箭助推Preso溶胶榴弹 40mm</entityname.scp_rpg7latex>
+  <entitydescription.scp_rpg7latex>40mm榴弹，其化学有效载荷含有Preso溶胶，爆炸时能将周围的一切物体表面涂满Preso溶胶。</entitydescription.scp_rpg7latex>
+  <entityname.scp_rpg7devilblood>火箭助推“恶魔之血”榴弹 40mm</entityname.scp_rpg7devilblood>
+  <entitydescription.scp_rpg7devilblood>装有“恶魔之血”化学载荷的40mm榴弹，能在远距离上发动恐怖的化学战。</entitydescription.scp_rpg7devilblood>
+  <entityname.scp_mgl>转轮榴弹发射器（MGL）</entityname.scp_mgl>
   <entitydescription.scp_mgl>使用内部转轮弹仓供弹的40mm榴弹发射器，能显著提供更强的火力。</entitydescription.scp_mgl>
   <entityname.scp_pipebomb>简易雷管</entityname.scp_pipebomb>
   <entitydescription.scp_pipebomb>一种简易爆炸装置，没点出合成人也能生产，虽然爆炸威力比起普通手榴弹要低一些，但还是非常受分离主义者喜爱。</entitydescription.scp_pipebomb>
-  <entityname.scp_ag36>紧凑型榴弹发射器</entityname.scp_ag36>
+  <entityname.scp_ag36>紧凑型榴弹发射器（HK AG36）</entityname.scp_ag36>
   <entitydescription.scp_ag36>一种发射40*46mm榴弹的紧凑型发射器，其制造目的是成为一种高度便携的远程爆破手段，射程比手榴弹的投掷范围要更远，比起它的前身来说要更加轻便，不过代价是射速与精确度的降低。</entitydescription.scp_ag36>
   <entityname.scp_devilsbloodexplosive>“恶魔之血”化合物</entityname.scp_devilsbloodexplosive>
   <entitydescription.scp_devilsbloodexplosive>一块掺有恶魔之血的三氟化氯，爆炸的威力极大，杀伤范围内没有东西能够完好无损。</entitydescription.scp_devilsbloodexplosive>
-  <entityname.scp_devilsgrenade>“恶魔之血”手榴弹</entityname.scp_devilsgrenade>
-  <entitydescription.scp_devilsgrenade>看起来挺正常的手雷，但玄妙在于装药里装有小剂量的恶魔之血，爆炸时对周围造成物理魔法双重伤害。</entitydescription.scp_devilsgrenade>
-  <!--weapons_harpoons-->
-  <entityname.scp_harpoontitanium>钛质鱼叉</entityname.scp_harpoontitanium>
-  <entitydescription.scp_harpoontitanium>简单的钛棒加上前端锋利的倒刺，可以更有效地对付被甲目标。</entitydescription.scp_harpoontitanium>
-  <entityname.scp_harpoonserrated>锯齿鱼叉</entityname.scp_harpoonserrated>
-  <entitydescription.scp_harpoonserrated>简单的钢棒加上一长段小倒钩，能对无护甲目标造成可怕的伤害。</entitydescription.scp_harpoonserrated>
+  <entityname.scp_devilsgrenade>“恶魔之息”毒气弹</entityname.scp_devilsgrenade>
+  <entitydescription.scp_devilsgrenade>装有剧毒的恶魔之血蒸汽的粗制手雷，爆炸后毒气会在空气中传播。非常不建议在没有防护措施的情况下使用。</entitydescription.scp_devilsgrenade>
+  <entityname.scp_morbusinegasgrenade>窒死毒气弹</entityname.scp_morbusinegasgrenade>
+  <entitydescription.scp_morbusinegasgrenade>紧密封装的手榴弹，内含高效力神经毒剂，能在小范围内通过空气散播。由于神经毒剂会被皮肤吸收，所以使用时必须采取防护措施。</entitydescription.scp_morbusinegasgrenade>
+  <entityname.scp_hexgasgrenade>Hexa-Nova毒气弹</entityname.scp_hexgasgrenade>
+  <entitydescription.scp_hexgasgrenade>气密封装的手榴弹，里面装着难以捉摸的剧毒Hexa-Nova气体，能够在几秒钟内以可怕的、痛苦的方式杀死一个人。在没有周全防护措施的情况下使用它无异于自杀。</entitydescription.scp_hexgasgrenade>
+  <entityname.scp_40mmgrenadelatex>Preso溶胶化学榴弹 40mm</entityname.scp_40mmgrenadelatex>
+  <entitydescription.scp_40mmgrenadelatex>装有Preso溶胶载荷的40mm榴弹，爆炸时将对周围区域造成化学污染。</entitydescription.scp_40mmgrenadelatex>
+  <entityname.scp_40mmgrenadedevil>“恶魔之血”化学榴弹 40mm</entityname.scp_40mmgrenadedevil>
+  <entitydescription.scp_40mmgrenadedevil>装有“恶魔之血”载荷的40mm榴弹，爆炸时将对周围区域造成化学污染。</entitydescription.scp_40mmgrenadedevil>
+  <entityname.scp_40mmgrenadehex>Hexa-Nova化学榴弹 40mm</entityname.scp_40mmgrenadehex>
+  <entitydescription.scp_40mmgrenadehex>装有稀有且致命的Hexa-Nova毒气载荷的40mm榴弹，爆炸时将对周围区域造成化学污染。</entitydescription.scp_40mmgrenadehex>
+  <entityname.scp_40mmdirtygrenade>核子榴弹 40mm</entityname.scp_40mmdirtygrenade>
+  <entitydescription.scp_40mmdirtygrenade>40mm榴弹，主弹头下装有铀质破片层，设计用于污染某一区域。</entitydescription.scp_40mmdirtygrenade>
   <!--weapons_hightierweapons-->
-  <entityname.scp_m107>重型反器材步枪（M107）</entityname.scp_m107>
+  <entityname.scp_m107>原型反器材步枪（M107）</entityname.scp_m107>
   <entitydescription.scp_m107>枪身巨大令人生畏的12.7*99mm口径的半自动反器材步枪，枪栓反冲的巨大能量可以轻易地把毫无准备的人冲倒，或者更糟。</entitydescription.scp_m107>
-  <entityname.scp_m107fmjmag>重型反器材步枪FMJ弹匣 12.7*99mm</entityname.scp_m107fmjmag>
-  <entitydescription.scp_m107fmjmag>大而方的10发12.7*99mm弹匣，内装全金属被甲弹（FMJ）。</entitydescription.scp_m107fmjmag>
-  <entityname.scp_m107apimag>重型反器材步枪AP-I弹匣 12.7*99mm</entityname.scp_m107apimag>
-  <entitydescription.scp_m107apimag>大而方的10发12.7*99mm弹匣，装有穿甲燃烧弹（AP-I）。</entitydescription.scp_m107apimag>
-  <entityname.scp_rpt93>重机枪（RPT-93）</entityname.scp_rpt93>
-  <entitydescription.scp_rpt93>极其沉重的9.3*64mm弹链供弹机枪，主要由木卫二上最可靠的合金制成，能够摧毁大多数目标，甚至是那些重甲目标。</entitydescription.scp_rpt93>
-  <entityname.scp_rpt93mag>重机枪弹箱 9.3*64mm</entityname.scp_rpt93mag>
+  <entityname.scp_m107fmjmag>原型反器材步枪FMJ弹匣 12.7*99mm</entityname.scp_m107fmjmag>
+  <entitydescription.scp_m107fmjmag>10发12.7*99mm弹匣，内装全金属被甲弹（FMJ）。</entitydescription.scp_m107fmjmag>
+  <entityname.scp_m107apimag>原型反器材步枪AP-I弹匣 12.7*99mm</entityname.scp_m107apimag>
+  <entitydescription.scp_m107apimag>10发12.7*99mm弹匣，装有穿甲燃烧弹（AP-I）。</entitydescription.scp_m107apimag>
+  <entityname.scp_rpt93>原型重机枪（RPT-93）</entityname.scp_rpt93>
+  <entitydescription.scp_rpt93>非常规的多口径重机枪，既能用重机枪弹匣供弹，也能用其专有弹匣供弹。</entitydescription.scp_rpt93>
+  <entityname.scp_rpt93mag>原型重机枪弹箱 9.3*64mm</entityname.scp_rpt93mag>
   <entitydescription.scp_rpt93mag>笨重的150发9.3*64mm弹链供弹弹箱。</entitydescription.scp_rpt93mag>
   <!--<entityname.scp_rpt93projectile>9.3*64mm Brenneke子弹</entityname.scp_rpt93projectile>
   <entitydescription.scp_rpt93projectile></entitydescription.scp_rpt93projectile>-->
-  <entityname.scp_uts15>先进无托泵动霰弹枪（UTS-15）</entityname.scp_uts15>
-  <entitydescription.scp_uts15>重而方的12号霰弹枪，与其他霰弹枪相比，有着前所未有的大弹容和强大近距离火力，非常适合对付特别顽固的敌人或一大群目标。</entitydescription.scp_uts15>
+  <entityname.scp_uts15>原型镇暴霰弹枪（UTS-15）</entityname.scp_uts15>
+  <entitydescription.scp_uts15>12号霰弹枪，与其他霰弹枪相比，有着前所未有的大弹容和强大近距离火力，非常适合对付特别顽固的敌人或一大群目标。</entitydescription.scp_uts15>
   <entityname.scp_ks23>大口径霰弹枪（KS-23）</entityname.scp_ks23>
-  <entitydescription.scp_ks23>23*75mmR霰弹枪，使用军用制式中最大口径的霰弹，有着令人难以置信的抑止作用，能让你像迅猛龙一样横冲直撞，但由于弹药太大，所以弹容很小。</entitydescription.scp_ks23>
-  <entityname.scp_4gshell>大口径霰弹枪23*75mmR霰弹</entityname.scp_4gshell>
-  <entitydescription.scp_4gshell>23*75mmR霰弹，装有大而重的弹丸，这种弹丸对无护甲目标具有彻底的破坏力，并在一定程度上可以对被甲目标造成严重损害。</entitydescription.scp_4gshell>
-  <entityname.scp_4gslug>大口径霰弹枪23*75mmR独头弹</entityname.scp_4gslug>
-  <entitydescription.scp_4gslug>23*75mmR霰弹，具有非常大的穿甲能力，其巨大的质量能够炸开软组织和护甲。</entitydescription.scp_4gslug>
+  <entitydescription.scp_ks23>23*75mm霰弹枪，使用军用制式中最大口径的霰弹，弹容小，不过弹药威力大到就像是一整艘潜艇撞到你身上。</entitydescription.scp_ks23>
+  <entityname.scp_4gshell>大口径霰弹枪23*75mm霰弹</entityname.scp_4gshell>
+  <entitydescription.scp_4gshell>23*75mm霰弹，装有大而重的弹丸，这种弹丸对无护甲目标具有彻底的破坏力，并在一定程度上可以对被甲目标造成严重损害。</entitydescription.scp_4gshell>
+  <entityname.scp_4gslug>大口径霰弹枪23*75mm独头弹</entityname.scp_4gslug>
+  <entitydescription.scp_4gslug>23*75mm霰弹，具有非常大的穿甲能力，其巨大的质量能够炸开软组织和护甲。</entitydescription.scp_4gslug>
   <entityname.scp_rsh14>实验性突击左轮（RSh-14.5）</entityname.scp_rsh14>
   <entitydescription.scp_rsh14>14.5*114mm大号左轮手枪，有着对手枪来说大得离谱的口径，因此它的后坐力非常大，但几乎可以抑止进入它射界的任何东西。</entitydescription.scp_rsh14>
   <entityname.scp_erevolverround>实验性突击左轮子弹 14.5*114mm</entityname.scp_erevolverround>
   <entitydescription.scp_erevolverround>一颗14.5*114mm反器材弹，提供无可比拟的抑止作用。</entitydescription.scp_erevolverround>
-  <entityname.scp_ma37>先进无托战斗步枪（MA-37）</entityname.scp_ma37>
-  <entitydescription.scp_ma37>由先进材料制成的7.62*51mm战斗步枪。它高度符合人机工程学原理，除了使用特制大威力子弹外，还有着一个复杂的后坐力减弱系统。</entitydescription.scp_ma37>
-  <entityname.scp_ma37mag>先进无托战斗步枪弹匣 7.62*51mm</entityname.scp_ma37mag>
+  <entityname.scp_ma37>原型战斗步枪（MA-37）</entityname.scp_ma37>
+  <entitydescription.scp_ma37>由先进材料制成的7.62*51mm战斗步枪。得益于无托设计，其在保有长枪管的同时还能将尺寸控制在普通战斗步枪的水平。</entitydescription.scp_ma37>
+  <entityname.scp_ma37mag>原型无托战斗步枪弹匣 7.62*51mm</entityname.scp_ma37mag>
   <entitydescription.scp_ma37mag>32发7.62*51mm弹匣，内含特制高速弹。</entitydescription.scp_ma37mag>
   <!--<entityname.scp_762ma37projectile>7.62*51mm M330子弹</entityname.scp_762ma37projectile>
   <entitydescription.scp_762ma37projectile></entitydescription.scp_762ma37projectile>-->
-  <entityname.scp_mk18>先进精密步枪（Mk18）</entityname.scp_mk18>
+  <entityname.scp_mk18>原型精密步枪（Mk18）</entityname.scp_mk18>
   <entitydescription.scp_mk18>修长的8.6*70mm精密步枪，是远距离阻击能力和精度的巅峰之作，充当7.62mm步枪和12.7mm步枪的中间过渡。</entitydescription.scp_mk18>
-  <entityname.scp_mk18mag>先进精密步枪弹匣 8.6*70mm</entityname.scp_mk18mag>
+  <entityname.scp_mk18mag>原型精密步枪弹匣 8.6*70mm</entityname.scp_mk18mag>
   <entitydescription.scp_mk18mag>10发8.6*70mm弹匣，内含穿甲弹以提供最强的穿甲性能，对任何木卫二被甲生物都有很强的抑止作用。</entitydescription.scp_mk18mag>
   <!--<entityname.scp_86mk18projectile>8.6*70mm Mk18子弹</entityname.scp_86mk18projectile>
   <entitydescription.scp_86mk18projectile></entitydescription.scp_86mk18projectile>-->
   <entityname.scp_taucannon>粒子加速炮</entityname.scp_taucannon>
-  <entitydescription.scp_taucannon>使用裂变材料、以十分之一光速发射大量基本粒子的实验装置，提供令人难以置信的穿甲能力，紧随其后的是一记结实的原子铁拳。</entitydescription.scp_taucannon>
-  <entityname.scp_taucannonuranium>粒子炮铀弹丸盒</entityname.scp_taucannonuranium>
-  <entitydescription.scp_taucannonuranium>一盒用于粒子加速炮的铀-235弹丸。这些弹丸为武器提供少量的能量，从而使加速器以较慢的速度喷射出大量粒子。</entitydescription.scp_taucannonuranium>
-  <entityname.scp_tauuraniumshot>铀弹丸</entityname.scp_tauuraniumshot>
-  <entitydescription.scp_tauuraniumshot></entitydescription.scp_tauuraniumshot>
-  <entityname.scp_taucannonthorium>粒子炮钍弹丸盒</entityname.scp_taucannonthorium>
-  <entitydescription.scp_taucannonthorium>一盒用于粒子加速炮的钍-228弹丸。这些弹丸为加速器提供了更多能量，提高了炮口初速和潜在威力。</entitydescription.scp_taucannonthorium>
-  <entityname.scp_tauthoriumshot>钍弹丸</entityname.scp_tauthoriumshot>
-  <entitydescription.scp_tauthoriumshot></entitydescription.scp_tauthoriumshot>
-  <entityname.scp_taucannonfulgurium>粒子炮雷素弹丸盒</entityname.scp_taucannonfulgurium>
-  <entitydescription.scp_taucannonfulgurium>一盒用于粒子加速炮的雷素弹丸。这些弹丸，尽管装在盒子里，但并不具有放射性，不过可以大大增加弹丸的速度。</entitydescription.scp_taucannonfulgurium>
-  <entityname.scp_taufulgshot>雷素弹丸</entityname.scp_taufulgshot>
-  <entitydescription.scp_taufulgshot></entitydescription.scp_taufulgshot>
-  <entityname.scp_hk433>先进突击步枪（HK433）</entityname.scp_hk433>
-  <entitydescription.scp_hk433>轻型5.56*45mm突击步枪，依靠其口径和枪口制动，具有出色的射速和准确性，而不会产生明显的后坐力。</entitydescription.scp_hk433>
+  <entitydescription.scp_taucannon>高度实验性质的装置，利用小型化的粒子加速器和裂变材料，以十分之一光速发射大量基本粒子，高能粒子巨大的动能和热量能够将绝大多数东西炸得粉碎，并能深入到那些具有极高抗压强度的材料中去。</entitydescription.scp_taucannon>
+  <entityname.scp_taucannonuranium>粒子炮铀弹丸仓</entityname.scp_taucannonuranium>
+  <entitydescription.scp_taucannonuranium>一小盒用于粒子加速炮的铀-235弹丸。这些弹丸为武器提供少量的能量，从而使加速器以较慢的速度喷射出大量粒子。</entitydescription.scp_taucannonuranium>
+  <!--<entityname.scp_tauuraniumshot>铀弹丸</entityname.scp_tauuraniumshot>
+  <entitydescription.scp_tauuraniumshot></entitydescription.scp_tauuraniumshot>-->
+  <entityname.scp_taucannonthorium>粒子炮钍弹丸仓</entityname.scp_taucannonthorium>
+  <entitydescription.scp_taucannonthorium>一小盒用于粒子加速炮的钍-228弹丸。这些弹丸为加速器提供了更多能量，提高了炮口初速和潜在威力。</entitydescription.scp_taucannonthorium>
+  <!--<entityname.scp_tauthoriumshot>钍弹丸</entityname.scp_tauthoriumshot>
+  <entitydescription.scp_tauthoriumshot></entitydescription.scp_tauthoriumshot>-->
+  <entityname.scp_taucannonfulgurium>粒子炮雷素弹丸仓</entityname.scp_taucannonfulgurium>
+  <entitydescription.scp_taucannonfulgurium>一小盒用于粒子加速炮的雷素弹丸。这些弹丸的能量是如此巨大，据测试其Tau粒子的速度甚至超过了光速。</entitydescription.scp_taucannonfulgurium>
+  <!--<entityname.scp_taufulgshot>雷素弹丸</entityname.scp_taufulgshot>
+  <entitydescription.scp_taufulgshot></entitydescription.scp_taufulgshot>-->
+  <entityname.scp_hk433>原型突击步枪（HK433）</entityname.scp_hk433>
+  <entitydescription.scp_hk433>轻型5.56*45mm突击步枪，依靠其口径和枪口制动，具有出色的射速和准确性，而不会产生明显的后坐力。配有40mm悬挂式榴弹发射器（UGL）。</entitydescription.scp_hk433>
+  <entityname.scp_ak15zlobin>原型叛军镇暴突击步枪（AK-15 Zlobin）</entityname.scp_ak15zlobin>
+  <entitydescription.scp_ak15zlobin>经过现代化改造的叛军镇暴突击步枪，枪体经过彻底升级，有着非常规弹匣井和自调节排气系统。既能使用7.62*39mm也能使用5.45*39mm弹药。配有40mm悬挂式榴弹发射器（UGL）。</entitydescription.scp_ak15zlobin>
+  <entityname.scp_mxa3>原型无壳弹突击步枪（MX-ARMA3）</entityname.scp_mxa3>
+  <entitydescription.scp_mxa3>经过大幅改进的重型无壳弹突击步枪，旨在克服此前的设计缺陷。使用更轻更硬的耐用钢制成的后坐弹簧，并加装了40mm榴弹发射器，提高了进攻能力。</entitydescription.scp_mxa3>
   <entityname.scp_smaw>肩扛式火箭筒（SMAW）</entityname.scp_smaw>
   <entitydescription.scp_smaw>83mm火箭弹发射装置，仍是一种对付潜艇的强大武器。</entitydescription.scp_smaw>
   <entityname.scp_smawrocketcontainer>肩扛式火箭筒高爆两用火箭弹</entityname.scp_smawrocketcontainer>
   <entitydescription.scp_smawrocketcontainer>83mm高爆两用弹头（HEDP），能够摧毁大多数潜艇的船体和周围的个体。</entitydescription.scp_smawrocketcontainer>
   <entityname.scp_smawprojectile>肩扛式火箭筒火箭弹</entityname.scp_smawprojectile>
   <entitydescription.scp_smawprojectile></entitydescription.scp_smawprojectile>
-  <entityname.scp_ruger9>先进手枪（Ruger9）</entityname.scp_ruger9>
+  <entityname.scp_ruger9>原型手枪（Ruger9）</entityname.scp_ruger9>
   <entitydescription.scp_ruger9>精致小巧的9*19mm手枪，实际上是一把超夸张的全自动手枪，与其他半自动手枪相比，Ruger9拥有强大的火力和优秀的精准度，但其口径是硬伤，对披甲目标效果很差。</entitydescription.scp_ruger9>
   <entityname.scp_p90>个人防卫武器（P90）</entityname.scp_p90>
   <entitydescription.scp_p90>无托的5.7*28mmPDW，具有高度隐蔽性和傻瓜的操作流程以及优秀的可控性、精准度和高达900的射速。虽然P90发射的小口径穿甲弹能够打穿绝大多数护甲，但肉伤是真的低。</entitydescription.scp_p90>
@@ -315,17 +354,23 @@
   <!--<entityname.scp_57projectile>5.7*28mm P90子弹</entityname.scp_57projectile>
   <entitydescription.scp_57projectile></entitydescription.scp_57projectile>-->
   <entityname.scp_microgun>加特林机枪</entityname.scp_microgun>
-  <entitydescription.scp_microgun>令人震撼的5.56*45mm转轮机枪，拥有驱动马达和自充电电池系统。</entitydescription.scp_microgun>
+  <entitydescription.scp_microgun>5.56*45mm转轮机枪，拥有驱动马达和自充电电池系统。</entitydescription.scp_microgun>
   <entityname.scp_microgunmag>加特林机枪弹箱 5.56*45mm</entityname.scp_microgunmag>
-  <entitydescription.scp_microgunmag>非常沉的200发装5.56*45mm全金属被甲弹药箱（FMJ）。</entitydescription.scp_microgunmag>
+  <entitydescription.scp_microgunmag>笨重的200发装5.56*45mm全金属被甲弹药箱（FMJ）。</entitydescription.scp_microgunmag>
   <!--<entityname.scp_microproj>加特林机枪子弹</entityname.scp_microproj>
   <entitydescription.scp_microproj></entitydescription.scp_microproj>-->
-  <entityname.scp_fnx45>先进重型手枪（FNX-45）</entityname.scp_fnx45>
+  <entityname.scp_fnx45>原型重型手枪（FNX-45）</entityname.scp_fnx45>
   <entitydescription.scp_fnx45>经过精细调整的11.43*23mm手枪，装有轻质滑轨，强化的耐用钢质后坐力弹簧和清脆的竞赛级扳机，可以快速而准确地射击。比起其前辈，除了有着这些固有优势，其弹药对任何种类的护甲也都有可怕的杀伤力。</entitydescription.scp_fnx45>
-  <entityname.scp_m6>先进手炮（M6）</entityname.scp_m6>
+  <entityname.scp_m6>原型手炮（M6）</entityname.scp_m6>
   <entitydescription.scp_m6>造型奇特但优雅的以12.7x33mmRB为口径设计的威力巨大的手枪，最先进的封闭式枪栓结构和耐用钢制后坐力弹簧能够显著抑制后坐力。</entitydescription.scp_m6>
   <entityname.scp_railgunlauncher>手持轨道发射器</entityname.scp_railgunlauncher>
   <entitydescription.scp_railgunlauncher>尺寸巨大的发射器，其上的大型电磁铁需要巨大的能量供给，尽管其尺寸比全尺寸的轨道炮要小，但还是可以通过装载几乎所有类型的轨道炮弹，对毫无准备的前哨站或潜艇造成巨大破坏。</entitydescription.scp_railgunlauncher>
+  <entityname.scp_vector>原型冲锋枪（Vector）</entityname.scp_vector>
+  <entitydescription.scp_vector>9*19mm冲锋枪，采用独特的延迟反冲设计降低了后坐力，因此可以达到极高的射速而不被后坐力冲倒。</entitydescription.scp_vector>
+  <entityname.scp_customrifle>老兵步枪</entityname.scp_customrifle>
+  <entitydescription.scp_customrifle>12.7*55mm栓动步枪，超大口径非常少见，其威力也比前辈要大得多，但射击时后坐力巨大，难以驾驭。</entitydescription.scp_customrifle>
+  <entityname.scp_aa12>原型战斗霰弹枪（AA-12）</entityname.scp_aa12>
+  <entitydescription.scp_aa12>先进的12号口径半自动霰弹枪，由叛军战斗霰弹枪弹匣供弹，能够迅速消灭走廊或巢穴中的任何目标。然而，对于不熟练的人来说，其扳机是非常难用的。</entitydescription.scp_aa12>
   <!--weapons_meleeweapons-->
   <entityname.scp_m9bayonet>战斗刀（M9）</entityname.scp_m9bayonet>
   <entitydescription.scp_m9bayonet>为战斗而生的军刀，比标准的多用途潜水刀有着更强的杀伤能力。</entitydescription.scp_m9bayonet>
@@ -337,33 +382,34 @@
   <entitydescription.scp_machete>多用途弯刀，最初是为战斗和杀穿兽群而设计的。与大多数刀不同的是，它具有一定程度的穿甲能力。</entitydescription.scp_machete>
   <entityname.scp_dementonitemachete>摄魂弯刀</entityname.scp_dementonitemachete>
   <entitydescription.scp_dementonitemachete>沉重而坚固的刀，能够对非被甲和被甲目标造成可观的杀伤。</entitydescription.scp_dementonitemachete>
+  <entityname.scp_physicoriumsword>刚素战术刀</entityname.scp_physicoriumsword>
+  <entitydescription.scp_physicoriumsword>由刚素打造的大型战术刀，重量很轻，能切穿相当厚度的护甲。</entitydescription.scp_physicoriumsword>
   <entityname.scp_dementonitemachetelatex>涂有Preso溶胶的摄魂弯刀</entityname.scp_dementonitemachetelatex>
   <entitydescription.scp_dementonitemachetelatex>这把摄魂弯刀上涂有一层薄薄的Preso溶胶，可以在战斗中对目标采取“一击即离”的游击战术，或者使他们迷失方向，不过这种打法意味着对目标伤害的减少。</entitydescription.scp_dementonitemachetelatex>
   <entityname.scp_baton>警棍</entityname.scp_baton>
   <entitydescription.scp_baton>简单的可折叠钢制警棍，外层包裹橡胶，可作为非致命性的吓阻手段使用。</entitydescription.scp_baton>
   <entityname.scp_sledge>长柄大锤</entityname.scp_sledge>
-  <entitydescription.scp_sledge>一种大而重的工具，用于破门或击碎船壳。</entitydescription.scp_sledge>
+  <entitydescription.scp_sledge>重型长柄工具，用于破门或击碎船壳，也可以作为临时武器。</entitydescription.scp_sledge>
   <entityname.scp_sledgetitan>钛制大锤</entityname.scp_sledgetitan>
-  <entitydescription.scp_sledgetitan>一种大而重的工具，其坚硬的锤头能够击碎任何东西。</entitydescription.scp_sledgetitan>
+  <entitydescription.scp_sledgetitan>重型长柄工具，其坚硬的锤头能够击碎任何东西。</entitydescription.scp_sledgetitan>
   <entityname.scp_submissionbaton>训诫棍</entityname.scp_submissionbaton>
   <entitydescription.scp_submissionbaton>重型警棍，能够储存大得多的电量，以迅速使危险人物丧失行动能力。为了更耐用，警棍底部的大型电容器需要有金属保护，这增加了重量并使其更难挥舞。</entitydescription.scp_submissionbaton>
   <!--weapons_misc-->
   <entityname.scp_starboundorgan>奇怪的簧风琴</entityname.scp_starboundorgan>
-  <entitydescription.scp_starboundorgan>块状外观乐器，类似于电子键盘。</entitydescription.scp_starboundorgan>
+  <entitydescription.scp_starboundorgan>像素外观乐器，能大致看出有电子键盘，该怎么拿着它都只能靠猜。</entitydescription.scp_starboundorgan>
   <entityname.scp_starboundguitar>奇怪的吉他</entityname.scp_starboundguitar>
-  <entitydescription.scp_starboundguitar>块状外观吉他，拿在手里很别扭。</entitydescription.scp_starboundguitar>
+  <entitydescription.scp_starboundguitar>像素外观吉他，拿在手里很别扭。</entitydescription.scp_starboundguitar>
   <entityname.scp_starboundharmonica>奇怪的口琴</entityname.scp_starboundharmonica>
-  <entitydescription.scp_starboundharmonica>块状外观口琴，你说它是乐器，不如说是砖头。</entitydescription.scp_starboundharmonica>
+  <entitydescription.scp_starboundharmonica>像素外观口琴，你说它是乐器，不如说是砖头。</entitydescription.scp_starboundharmonica>
   <entityname.scp_memehorn>自行车喇叭？</entityname.scp_memehorn>
   <entitydescription.scp_memehorn>一个类似于自行车喇叭的物体，当球被挤压时似乎会发出随机的声音。</entitydescription.scp_memehorn>
   <!--weapons_overrides-->
-  <!--(整合包不使用Override文本)
   <entityname.smg>联盟旧式冲锋枪</entityname.smg>
   <entitydescription.smg>老旧过剩的11.43*23mm冲锋枪，基于以色列的设计，自从人类来到木卫二后就一直存在。其大型密封枪栓严重阻碍了它的射击速度，介于更复杂的枪栓设计使得更可靠的选择被开发了出来，这款枪已被其他选择所淘汰。</entitydescription.smg>
   <entityname.smgmagazine>联盟旧式冲锋枪弹匣 11.43*23mm</entityname.smgmagazine>
   <entitydescription.smgmagazine>老旧过剩的、有些笨重的25发11.43*23mm弹匣，用于联盟旧式冲锋枪，其形状是为装有老式氧化推进剂的弹体设计的。</entitydescription.smgmagazine>
-  <entityname.smground>联盟旧式冲锋枪子弹</entityname.smground>
-  <entitydescription.smground></entitydescription.smground>
+  <!--<entityname.smground>联盟旧式冲锋枪子弹</entityname.smground>
+  <entitydescription.smground></entitydescription.smground>-->
   <entityname.revolver>联盟旧式防卫手枪</entityname.revolver>
   <entitydescription.revolver>9*29mm左轮手枪，使用一种用于左轮手枪的旧式制式子弹，能一直追溯到400多年前的越南战争。它有着一个非常轻的双动触发机构。</entitydescription.revolver>
   <entityname.revolverround>联盟旧式防卫手枪子弹 9*29mm</entityname.revolverround>
@@ -381,16 +427,16 @@
   <entityname.shotgununique>老兵双管霰弹枪</entityname.shotgununique>
   <entitydescription.shotgununique>非常古老的霰弹枪，有2个并排的枪管和2个扳机，几乎可以立即射出2枚子弹。不幸的是，由于其是双管霰弹枪，所以其弹容几乎比其他所有霰弹枪都要差。</entitydescription.shotgununique>
   <entityname.handcannon>老兵手炮</entityname.handcannon>
-  <entitydescription.handcannon>超大号的15.5*50mmR左轮手枪，其口径大得离谱，相当于小型榴弹。它有一个非常重的双动触发机构。</entitydescription.handcannon>
-  <entityname.handcannonround>老兵手炮子弹 15.5.*50mmR</entityname.handcannonround>
-  <entitydescription.handcannonround>大号15.5mmR子弹，其带有钛合金护套的刚素弹头能够穿透多个敌人，并能保证立即使他们中的每一个人丧失作战能力。</entitydescription.handcannonround>
-  <entityname.assaultrifle>掠夺者突击步枪</entityname.assaultrifle>
+  <entitydescription.handcannon>15.5*50mm超大口径左轮手枪，其口径大得离谱，相当于小型榴弹。它有一个非常重的双动触发机构。</entitydescription.handcannon>
+  <entityname.handcannonround>老兵手炮子弹 15.5.*50mm</entityname.handcannonround>
+  <entitydescription.handcannonround>15.5mm大口径子弹，其带有钛合金护套的刚素弹头能够穿透多个敌人，并能保证立即使他们中的每一个人丧失作战能力。</entitydescription.handcannonround>
+  <entityname.assaultrifle>旧式突击步枪</entityname.assaultrifle>
   <entitydescription.assaultrifle>6.8*51mm突击步枪，曾在分离主义运动早期被使用，然而现在大部分已经被联盟的重型突击步枪所取代。因此，其原型图纸非常罕见。</entitydescription.assaultrifle>
-  <entityname.assaultriflemagazine>掠夺者突击步枪弹匣</entityname.assaultriflemagazine>
+  <entityname.assaultriflemagazine>旧式突击步枪弹匣</entityname.assaultriflemagazine>
   <entitydescription.assaultriflemagazine>20发6.8*51mm钢制弹匣，装有的EAP弹药主要由钢制弹壳和刚素弹芯组成，提供了出色的破甲能力。</entitydescription.assaultriflemagazine>
-  <entityname.assaultrifleround>突击步枪子弹</entityname.assaultrifleround>
-  <entitydescription.assaultrifleround></entitydescription.assaultrifleround>
-  <entityname.autoshotgun>掠夺者自动霰弹枪</entityname.autoshotgun>
+  <!--<entityname.assaultrifleround>突击步枪子弹</entityname.assaultrifleround>
+  <entitydescription.assaultrifleround></entitydescription.assaultrifleround>-->
+  <entityname.autoshotgun>旧式自动霰弹枪</entityname.autoshotgun>
   <entitydescription.autoshotgun>非常早期的12号自动霰弹枪设计型号，是在木卫二定居者几乎还没有什么武器装备的时候设计的。</entitydescription.autoshotgun>
   <entityname.stungundart>电击针</entityname.stungundart>
   <entitydescription.stungundart>小型电击飞镖，设计用于在一段时间内向被扎中的人施加多次短促的电流，造成肌肉运动不受控制和暂时的瘫痪。</entitydescription.stungundart>
@@ -405,17 +451,17 @@
   <entityname.stungrenade>闪光震撼弹</entityname.stungrenade>
   <entitydescription.stungrenade>低致命性手榴弹，用于使具有攻击性的敌人失去战斗力和判断力而不造成致命伤，爆炸时产生巨大的声音和刺眼的强光。</entitydescription.stungrenade>
   <entityname.shotgunshellblunt>12号橡胶独头弹</entityname.shotgunshellblunt>
-  <entitydescription.shotgunshellblunt>由橡胶制成的低致命性12号霰弹，对付船上不听话和失控之人的不二选择。不过由于其低致命性，所以对付拥有武器的敌人还是换正常点的家伙吧。</entitydescription.shotgunshellblunt>-->
+  <entitydescription.shotgunshellblunt>由橡胶制成的低致命性12号霰弹，对付船上不听话和失控之人的不二选择。不过由于其低致命性，所以对付拥有武器的敌人还是换正常点的家伙吧。</entitydescription.shotgunshellblunt>
   <!--weapons_renegadeweapons-->
-  <entityname.scp_ak103>叛军重型突击步枪（AK-103）</entityname.scp_ak103>
+  <entityname.scp_ak103>叛军镇暴突击步枪（AK-103）</entityname.scp_ak103>
   <entitydescription.scp_ak103>简单耐用但臭名昭著的7.62*39mm突击步枪。</entitydescription.scp_ak103>
-  <entityname.scp_akmag>叛军重型突击步枪弹匣 7.62*39mm</entityname.scp_akmag>
+  <entityname.scp_akmag>叛军镇暴突击步枪弹匣 7.62*39mm</entityname.scp_akmag>
   <entitydescription.scp_akmag>30发7.62*39mm聚合物弹匣。</entitydescription.scp_akmag>
-  <entityname.scp_akdrummag>叛军重型突击步枪弹鼓 7.62*39mm</entityname.scp_akdrummag>
-  <entitydescription.scp_akdrummag>75发7.62*39mm弹鼓，装载7.62*39mm全金属被甲弹（FMJ），可以插入RPK或者华约口径的AK上。</entitydescription.scp_akdrummag>
-  <entityname.scp_akapmag>叛军重型突击步枪穿甲弹匣 7.62*39mm</entityname.scp_akapmag>
+  <entityname.scp_akdrummag>叛军镇暴突击步枪弹鼓 7.62*39mm</entityname.scp_akdrummag>
+  <entitydescription.scp_akdrummag>50发7.62*39mm弹鼓，装载7.62*39mm全金属被甲弹（FMJ），可以插入RPK或者华约口径的AK上。</entitydescription.scp_akdrummag>
+  <entityname.scp_akapmag>叛军镇暴突击步枪穿甲弹匣 7.62*39mm</entityname.scp_akapmag>
   <entitydescription.scp_akapmag>装有穿甲弹的30发7.62*39mm聚合物弹匣，用来对付给你带来麻烦的安全官更有用。</entitydescription.scp_akapmag>
-  <entityname.scp_akdumag>叛军重型突击步枪贫铀弹匣 7.62*39mm</entityname.scp_akdumag>
+  <entityname.scp_akdumag>叛军镇暴突击步枪贫铀弹匣 7.62*39mm</entityname.scp_akdumag>
   <entitydescription.scp_akdumag>装有贫铀弹的30发7.62*39mm聚合物弹匣，由于该弹的硬度和密度很大，可以直接穿透船体和门。不过你得需要你的工程师朋友们为你制造贫化燃料。</entitydescription.scp_akdumag>
   <!--<entityname.scp_762x39projectile>7.62*39mm子弹</entityname.scp_762x39projectile>
   <entitydescription.scp_762x39projectile></entitydescription.scp_762x39projectile>-->
@@ -424,17 +470,17 @@
   <!--<entityname.scp_762x39duprojectile>7.62*33mm贫铀弹</entityname.scp_762x39duprojectile>
   <entitydescription.scp_762x39duprojectile></entitydescription.scp_762x39duprojectile>-->
   <entityname.scp_aks74u>叛军突击卡宾枪（AKS-74U）</entityname.scp_aks74u>
-  <entitydescription.scp_aks74u>坚固耐用的5.45*39mm突击卡宾枪，因其易于制造而被分离主义分子使用。它能被轻易隐藏，射速也很快，但是精度很差。此外，由于枪管较细，枪口制退器对导气系统的压力增加，因此非常容易过热。</entitydescription.scp_aks74u>
+  <entitydescription.scp_aks74u>坚固耐用的5.45*39mm突击卡宾枪，适合在狭窄的空间使用。它能被轻松地隐蔽携带，同时射速也很快，但是精度很差，进气量需求很高。</entitydescription.scp_aks74u>
   <entityname.scp_ak74mag>叛军突击步枪弹匣 5.45*39mm</entityname.scp_ak74mag>
   <entitydescription.scp_ak74mag>30发5.45*39mm聚合物弹匣。</entitydescription.scp_ak74mag>
   <entityname.scp_ak74apmag>叛军突击步枪穿甲弹匣 5.45*39mm</entityname.scp_ak74apmag>
   <entitydescription.scp_ak74apmag>30发5.45*39mm聚合物弹匣，内装穿甲弹，用于对付护甲。</entitydescription.scp_ak74apmag>
   <entityname.scp_ak74dumag>叛军突击步枪贫铀弹匣 5.45*39mm</entityname.scp_ak74dumag>
-  <entitydescription.scp_ak74dumag>30发5.45*39mm聚合物弹匣，内装贫铀弹，由于该弹的硬度和密度很大，可以直接穿透船体和门。不过你得需要你的工程师朋友们为你制造贫化燃料。</entitydescription.scp_ak74dumag>
+  <entitydescription.scp_ak74dumag>30发5.45*39mm聚合物弹匣，内装贫铀弹，由于该弹的硬度和密度很大，可以直接穿透船体和门。不过其末端弹道表现很差。</entitydescription.scp_ak74dumag>
   <entityname.scp_ak74extmag>叛军突击步枪扩展弹匣 5.45*39mm</entityname.scp_ak74extmag>
-  <entitydescription.scp_ak74extmag>有点笨重的60发5.45*39mm聚合物弹匣。</entitydescription.scp_ak74extmag>
+  <entitydescription.scp_ak74extmag>笨重的60发5.45*39mm聚合物弹匣。</entitydescription.scp_ak74extmag>
   <entityname.scp_ak74m>叛军突击步枪（AK-74M）</entityname.scp_ak74m>
-  <entitydescription.scp_ak74m>坚固耐用的5.45*39mm突击步枪，便宜且容易制造，具有比其更紧凑的同类产品更高的精度，然而由于基本结构的原因，其金属部件在热力作用下还是会出现明显膨胀。</entitydescription.scp_ak74m>
+  <entitydescription.scp_ak74m>坚固耐用的5.45*39mm突击步枪，已经成为分离主义分子的主要武器。由于易于生产和隐蔽携带，这支步枪成为发动抢劫或叛乱的首选。</entitydescription.scp_ak74m>
   <!--<entityname.scp_545x39projectile>5.45*39mm子弹</entityname.scp_545x39projectile>
   <entitydescription.scp_545x39projectile></entitydescription.scp_545x39projectile>-->
   <!--<entityname.scp_545x39approjectile>5.45*39mm穿甲弹</entityname.scp_545x39approjectile>
@@ -442,30 +488,32 @@
   <!--<entityname.scp_545x39duprojectile>5.45*39mm贫铀弹</entityname.scp_545x39duprojectile>
   <entitydescription.scp_545x39duprojectile></entitydescription.scp_545x39duprojectile>-->
   <entityname.scp_mp443>叛军手枪（MP443）</entityname.scp_mp443>
-  <entitydescription.scp_mp443>常见于分离主义分子手中的9*19mm手枪，性能上比简易手枪更好，却也需要更多的材料和时间来制作，不过它在高温下的供弹问题也同样令人绝望。</entitydescription.scp_mp443>
+  <entitydescription.scp_mp443>常见于分离主义分子手中的9*19mm手枪，结构简单易于拆卸，但简陋的部件通常导致热量滞留、散热缓慢。</entitydescription.scp_mp443>
   <entityname.scp_pm>简易手枪（PM）</entityname.scp_pm>
-  <entitydescription.scp_pm>快速制作的9*19mm手枪，使用了极其基础的后坐力系统和尽可能少的材料，这使其成为一款优秀的一次性手枪。然而，其简陋的后坐力系统导致它后坐力明显，并且容易出现供弹不畅的问题。</entitydescription.scp_pm>
+  <entitydescription.scp_pm>快速制作的9*19mm手枪，采用了极其基础的后坐力系统和尽可能少的材料，这使其成为一款优秀的一次性手枪。然而，其简陋的后坐力系统导致它后坐力明显，并且容易出现供弹不畅的问题。</entitydescription.scp_pm>
+  <entityname.scp_rpk74m>叛军轻机枪（RPK-74M）</entityname.scp_rpk74m>
+  <entitydescription.scp_rpk74m>坚固耐用的5.45*39mm轻机枪，更长、更粗的枪管可以支持持续射击，但是介于其整体长度和没有折叠枪托，所以很难隐蔽携带。</entitydescription.scp_rpk74m>
   <entityname.scp_kh2020>叛军无壳弹突击步枪（KH2020）</entityname.scp_kh2020>
-  <entitydescription.scp_kh2020>6.5*39mm无托突击步枪，使用一种少见的无弹壳，受到很多著名分离主义分子的青睐。 它更符合人体工程学，并且比传统型号的同类产品有更快的射速，但是不使用相同的弹匣，但是由于使用更基础的零件，其准确性还是明显降低。</entitydescription.scp_kh2020>
+  <entitydescription.scp_kh2020>6.5*39mm无托突击步枪，因其在威力与射速上的平衡受到更多知名分离主义分子的青睐。 然而，其更紧凑的结构使得它的精度比相同枪管长度的传统同类产品低得多。</entitydescription.scp_kh2020>
   <entityname.scp_65bullmag>叛军无壳弹突击步枪弹匣 6.5*39mm</entityname.scp_65bullmag>
   <entitydescription.scp_65bullmag>叛军无壳弹突击步枪使用的25发6.5*39mm无壳弹冲压钢制弹匣，更容易生产，但装的弹药更少。</entitydescription.scp_65bullmag>
   <entityname.scp_rhino>叛军左轮（Chiappa Rhino）</entityname.scp_rhino>
   <entitydescription.scp_rhino>9*33mmR左轮手枪，其枪管位于枪膛的底腔，减少了射击时枪口的上扬，但枪膛高度的增加降低了准确性。</entitydescription.scp_rhino>
   <entityname.scp_sawnoff>短管霰弹枪</entityname.scp_sawnoff>
   <entitydescription.scp_sawnoff>12号猎枪，出于隐蔽性考虑而被设计得非常短，然而太短的双枪管大大降低了准确性和枪口初速，同时也限制了使用者只能打两发。</entitydescription.scp_sawnoff>
-  <entityname.scp_pkp>通用机枪（PKP Pecheneg）</entityname.scp_pkp>
+  <entityname.scp_pkp>叛军通用机枪（PKP Pecheneg）</entityname.scp_pkp>
   <entitydescription.scp_pkp>有些老旧、沉重但耐用的7.62*54mmR通用机枪，设计用于面对大群目标时提供强大的持续火力。</entitydescription.scp_pkp>
-  <entityname.scp_saiga12>重型战斗霰弹枪（Saiga 12）</entityname.scp_saiga12>
+  <entityname.scp_saiga12>叛军战斗霰弹枪（Saiga 12）</entityname.scp_saiga12>
   <entitydescription.scp_saiga12>弹匣式12号口径战斗霰弹枪，用其专用弹匣更能发挥全部威力，但其基于基础AK式的后坐力系统设计使其后坐力很大。</entitydescription.scp_saiga12>
-  <entityname.scp_saigamag>重型战斗霰弹枪弹匣 12g</entityname.scp_saigamag>
+  <entityname.scp_saigamag>叛军战斗霰弹枪弹匣 12g</entityname.scp_saigamag>
   <entitydescription.scp_saigamag>5发12号霰弹弹匣，虽然容量不大，但可以随身携带不少。</entitydescription.scp_saigamag>
-  <entityname.scp_saigaextmag>重型战斗霰弹枪扩展弹匣 12g</entityname.scp_saigaextmag>
+  <entityname.scp_saigaextmag>叛军战斗霰弹枪扩展弹匣 12g</entityname.scp_saigaextmag>
   <entitydescription.scp_saigaextmag>10发12号霰弹加长弹匣，装有鹿弹。</entitydescription.scp_saigaextmag>
-  <entityname.scp_saigadrummag>重型战斗霰弹枪弹鼓 12g</entityname.scp_saigadrummag>
+  <entityname.scp_saigadrummag>叛军战斗霰弹枪弹鼓 12g</entityname.scp_saigadrummag>
   <entitydescription.scp_saigadrummag>沉重的20发12号霰弹弹鼓，里面装的都是响声很大的鹿弹。</entitydescription.scp_saigadrummag>
   <entityname.scp_uzi>叛军冲锋枪（UZI）</entityname.scp_uzi>
   <entitydescription.scp_uzi>9*19mm开膛待机冲锋枪，使用了简单的冲压件设计，使其生产起来非常容易，黑叔叔都会搓！就是人机功效和精准度有点堪忧。</entitydescription.scp_uzi>
-  <entityname.scp_pkpsmallboxmag>通用机枪小型弹箱 7.62*51mm</entityname.scp_pkpsmallboxmag>
+  <entityname.scp_pkpsmallboxmag>叛军通用机枪小型弹箱 7.62*51mm</entityname.scp_pkpsmallboxmag>
   <entitydescription.scp_pkpsmallboxmag>通用机枪的50发7.62*51mm弹链弹药盒。</entitydescription.scp_pkpsmallboxmag>
   <entityname.scp_sr1>叛军重型手枪（SR-1）</entityname.scp_sr1>
   <entitydescription.scp_sr1>旧制口径的11.43*23mm手枪，作为联盟重型手枪的丐版，有证据表明原设计并非.45口径。由于制作工艺太烂，其精准度堪忧，缓冲弹簧也不太行，会让枪机复位过快。</entitydescription.scp_sr1>
@@ -507,29 +555,39 @@
   <!--<entityname.scp_gm6round>12.7*108mm子弹</entityname.scp_gm6round>
   <entitydescription.scp_gm6round></entitydescription.scp_gm6round>-->
   <entityname.scp_dmr540>“迅猛龙”射手步枪（Kel-Tec DMR-540）</entityname.scp_dmr540>
-  <entitydescription.scp_dmr540>造型优美的7.62*67mm射手步枪，在不牺牲战斗力和后坐力减少的情况下，被设计得尽可能轻巧。</entitydescription.scp_dmr540>
+  <entitydescription.scp_dmr540>高度现代化的7.62*67mm射手步枪，与“锤头鲨”突击步枪同属某失败的武器计划的产物，曾计划用于取代战斗步枪和射手步枪。由于这种步枪已经不再生产，所以它非常罕见。</entitydescription.scp_dmr540>
   <entityname.scp_dmr540mag>“迅猛龙”射手步枪并联弹匣 7.62*67mm</entityname.scp_dmr540mag>
   <entitydescription.scp_dmr540mag>20发7.62*67mm并联弹匣，内装特种穿甲弹，有着钛合金穿芯。</entitydescription.scp_dmr540mag>
   <!--<entityname.scp_dmr540projectile>7.62*67mm子弹</entityname.scp_dmr540projectile>
   <entitydescription.scp_dmr540projectile></entitydescription.scp_dmr540projectile>-->
   <entityname.scp_m35a2>“锤头鲨”无托突击步枪（Kel-Tec M35A2）</entityname.scp_m35a2>
-  <entitydescription.scp_m35a2>看起来很新的5.7*48mm无托突击步枪，似乎将成为木卫二联盟的下一代作战小队武器，尽管这项计划很可能因为最近的事件而被取消。</entitydescription.scp_m35a2>
+  <entitydescription.scp_m35a2>崭新的5.56x45无托突击步枪，出自因为近期事件而被取消的联盟武器计划，尽管其整体性能比目前列装的步枪更优越，但却非常罕见。</entitydescription.scp_m35a2>
   <entityname.scp_m35a2mag>“锤头鲨”无托突击步枪四联装弹箱 5.7*48mm</entityname.scp_m35a2mag>
   <entitydescription.scp_m35a2mag>四联装50发5.7*48mm弹箱，出人意料得轻。</entitydescription.scp_m35a2mag>
   <!--<entityname.scp_m35projectile>5.7*48mm子弹</entityname.scp_m35projectile>
   <entitydescription.scp_m35projectile></entitydescription.scp_m35projectile>-->
   <entityname.scp_mxa1warsky>作战强化无壳突击步枪 （CMMG MXA1）</entityname.scp_mxa1warsky>
   <entitydescription.scp_mxa1warsky>一把经过奥拉夫爆改的联盟无壳突击步枪，原主人曾用它大杀四方。下机匣左侧印着一句短语：“Beta长官所丢弃”</entitydescription.scp_mxa1warsky>
-  <entityname.scp_ash12unique>重型战斗步枪“Veron”（Ash-12）</entityname.scp_ash12unique>
+  <entityname.scp_ash12unique>镇暴战斗步枪“Veron”（Ash-12）</entityname.scp_ash12unique>
   <entitydescription.scp_ash12unique>没有被奥拉夫但被不知道谁爆改的重型战斗步枪，主人的名字叫“Veron”，使用的非常频繁但保养的很好，枪上血迹斑斑，估计主人寄了不知道多少年了。</entitydescription.scp_ash12unique>
-  <entityname.scp_hk21>机关枪（HK21）</entityname.scp_hk21>
+  <entityname.scp_hk21>Maschinegewehr“机关枪”（HK21）</entityname.scp_hk21>
   <entitydescription.scp_hk21>小而轻的7.62*51mm轻机枪，似乎被遗弃了许久。为什么感觉这么像高级音频播放器MP6？</entitydescription.scp_hk21>
-  <entityname.scp_g3ka4>突击步枪（G3KA4）</entityname.scp_g3ka4>
+  <entityname.scp_sa80a3>Imperialist“帝国主义者”（SA80 A3）</entityname.scp_sa80a3>
+  <entitydescription.scp_sa80a3>基于原英国设计的6.5*39mm突击步枪，采用无托式结构，有着更高的精度和射速，但也显著增加了后坐力。</entitydescription.scp_sa80a3>
+  <entityname.scp_g3ka4>Sturmgewehr“突击步枪”（G3KA4）</entityname.scp_g3ka4>
   <entitydescription.scp_g3ka4>紧凑的7.62*51mm突击步枪，设计采用了滚轮式延迟反冲结构以实现更稳定的枪机循环，但这需要一个较重的枪栓来增加反冲冲量。</entitydescription.scp_g3ka4>
   <entityname.scp_m29>幸运朋克（M29）</entityname.scp_m29>
   <entitydescription.scp_m29>老旧的10.9*33mR左轮手枪，保存的较好，看不出岁月的痕迹。</entitydescription.scp_m29>
   <entityname.scp_r8>快人八手（R8)</entityname.scp_r8>
   <entitydescription.scp_r8>老旧的9*33mmR左轮手枪，使用更大的枪体框架和八发弹筒，让你能用手枪打出火力压制+10！</entitydescription.scp_r8>
+  <entityname.scp_spas12>Franchi“弗兰奇”（SPAS-12）</entityname.scp_spas12>
+  <entitydescription.scp_spas12>12号口径无托霰弹枪，能够迅速地将枪管中的子弹打光，对于任何靠近的目标来说都是不幸的。</entitydescription.scp_spas12>
+  <entityname.scp_akms>Avtomat“自动步枪”（AKMS）</entityname.scp_akms>
+  <entitydescription.scp_akms>看起来非常古老的7.62*39mm步枪，保留着非常不舒服的折叠式枪托和原始的枪口制退器。考虑到它的来历，其木制护手的状态出奇的好。</entitydescription.scp_akms>
+  <entityname.scp_m16a3>Stormer“突击队员”（M16A3）</entityname.scp_m16a3>
+  <entitydescription.scp_m16a3>老旧的、饱经战斗的5.56*45mm突击步枪，看起来曾被它的前主人大量使用，配有40mm榴弹发射器。</entitydescription.scp_m16a3>
+  <entityname.scp_pkm>Pulemyot“机枪”（PKM）</entityname.scp_pkm>
+  <entitydescription.scp_pkm>看起来非常古老的7.62*51mm通用机枪，有着自制的轻质枪托和扩大的气管，可以显著提高射速。</entitydescription.scp_pkm>
   <!--afflictions_afflictions-->
   <afflictionname.scp_presolatexinfection>Preso溶胶同化作用</afflictionname.scp_presolatexinfection>
   <afflictiondescription.scp_presolatexinfection>患者的真皮、皮下和肌肉组织正在迅速转化为Preso溶胶，受影响的部位开始迅速失去活性，患者的皮肤逐渐变成缺氧的黑色。</afflictiondescription.scp_presolatexinfection>
@@ -540,9 +598,9 @@
   <afflictioncauseofdeath.scp_devilpoisoning>死于内脏液化。</afflictioncauseofdeath.scp_devilpoisoning>
   <afflictioncauseofdeathself.scp_devilpoisoning>你的内脏被“恶魔之血”融化了。</afflictioncauseofdeathself.scp_devilpoisoning>
   <afflictionname.scp_wastingdisease>潜水员消瘦综合征（SWD）</afflictionname.scp_wastingdisease>
-  <afflictiondescription.scp_wastingdisease>患者的神经中枢因一种罕见但臭名昭著的朊病毒疾病出现严重地萎缩和病变，双眼发炎且无法聚焦，认知能力开始极速退化。</afflictiondescription.scp_wastingdisease>
-  <afflictioncauseofdeath.scp_wastingdisease>死于SWD引起的中枢神经萎缩。</afflictioncauseofdeath.scp_wastingdisease>
-  <afflictioncauseofdeathself.scp_wastingdisease>你的神经中枢因SWD而萎缩和崩溃。</afflictioncauseofdeathself.scp_wastingdisease>
+  <afflictiondescription.scp_wastingdisease>患者的神经中枢因一种罕见但臭名昭著的朊病毒疾病出现严重萎缩和病变，双眼发炎且无法聚焦，认知能力开始极速退化。</afflictiondescription.scp_wastingdisease>
+  <afflictioncauseofdeath.scp_wastingdisease>死于潜水员消瘦综合征（SWD）引起的中枢神经萎缩。</afflictioncauseofdeath.scp_wastingdisease>
+  <afflictioncauseofdeathself.scp_wastingdisease>你的神经中枢因潜水员消瘦综合征（SWD）而萎缩和崩溃。</afflictioncauseofdeathself.scp_wastingdisease>
   <afflictionname.scp_lineavirus>Brunhes线虫病毒</afflictionname.scp_lineavirus>
   <afflictiondescription.scp_lineavirus>患者疑似感染了Brunhes线虫病毒，出现了呼吸困难、咳嗽不止和肠胃炎等症状。不过皮肤变成绿色是这种病症的首要表现。</afflictiondescription.scp_lineavirus>
   <afflictioncauseofdeath.scp_lineavirus>死于Brunhes线虫病毒。</afflictioncauseofdeath.scp_lineavirus>
@@ -555,55 +613,67 @@
   <afflictiondescription.scp_vomiting>病人的胃肠道受到明显的扰乱，不得不时常停止活动以进行呕吐，呕吐物里的血液说明患者出现了吐血的迹象。</afflictiondescription.scp_vomiting>
   <afflictioncauseofdeath.scp_vomiting>死于呕吐物窒息。</afflictioncauseofdeath.scp_vomiting>
   <afflictioncauseofdeathself.scp_vomiting>你被你自己的呕吐物呛死了。</afflictioncauseofdeathself.scp_vomiting>
-  <afflictionname.scp_helmettunnelvision>视觉障碍</afflictionname.scp_helmettunnelvision>
-  <afflictiondescription.scp_helmettunnelvision>患者的视觉模糊，什么都看不清。</afflictiondescription.scp_helmettunnelvision>
-  <afflictioncauseofdeath.scp_helmettunnelvision>需要医疗包！等下...你就这么死了？</afflictioncauseofdeath.scp_helmettunnelvision>
-  <afflictioncauseofdeathself.scp_helmettunnelvision>死了，莫名其妙。</afflictioncauseofdeathself.scp_helmettunnelvision>
+  <afflictionname.scp_vomitingblood>吐血</afflictionname.scp_vomitingblood>
+  <afflictiondescription.scp_vomitingblood>病人的消化道有破裂的迹象，不时呕吐出大量的血。</afflictiondescription.scp_vomitingblood>
+  <afflictioncauseofdeath.scp_vomitingblood>死于内出血。</afflictioncauseofdeath.scp_vomitingblood>
+  <afflictioncauseofdeathself.scp_vomitingblood>你因内出血而死。</afflictioncauseofdeathself.scp_vomitingblood>
   <afflictionname.scp_ae035curse>奇怪的诅咒</afflictionname.scp_ae035curse>
   <afflictiondescription.scp_ae035curse>患者的身体内外都在迅速腐烂，每个组织都在缺氧和坏死。他们好像得了幻想症，痴妄的追逐着某个无以名状的对象。</afflictiondescription.scp_ae035curse>
   <afflictioncauseofdeath.scp_ae035curse>化为乌有。</afflictioncauseofdeath.scp_ae035curse>
   <afflictioncauseofdeathself.scp_ae035curse>你的肉体被神明所赐福，消逝在了这片无望星海里。</afflictioncauseofdeathself.scp_ae035curse>
+  <afflictionname.scp_ae035damage>化学残留刺激</afflictionname.scp_ae035damage>
+  <afflictiondescription.scp_ae035damage>在患者身上可以看到奇怪、发黑的瘢痕，瘢痕本身和局部组织对任何刺激都完全麻木。</afflictiondescription.scp_ae035damage>
+  <afflictioncauseofdeath.scp_ae035damage>萎缩凋零。</afflictioncauseofdeath.scp_ae035damage>
+  <afflictioncauseofdeathself.scp_ae035damage>你全身细胞萎缩，化为乌有。</afflictioncauseofdeathself.scp_ae035damage>
+  <afflictionname.scp_hexgasdamage>Hexa-Nova气体中毒</afflictionname.scp_hexgasdamage>
+  <afflictiondescription.scp_hexgasdamage>病人的中枢神经、心血管和肌肉系统正经历着快速退化，他们的皮肤在你眼前逐渐坏死。</afflictiondescription.scp_hexgasdamage>
+  <afflictioncauseofdeath.scp_hexgasdamage>从里到外化学烧蚀而死</afflictioncauseofdeath.scp_hexgasdamage>
+  <afflictioncauseofdeathself.scp_hexgasdamage>你死于暴露在Hexa-Nova气体中。</afflictioncauseofdeathself.scp_hexgasdamage>  
   <!--jobgear_armour-->
   <entityname.scp_bodyrig>防弹插板胸挂</entityname.scp_bodyrig>
   <entitydescription.scp_bodyrig>标准制式防弹背心，有用于储存弹药的子弹袋。</entitydescription.scp_bodyrig>
   <entityname.scp_heavyvest>重型防弹衣</entityname.scp_heavyvest>
-  <entitydescription.scp_heavyvest>硬质防弹衣，相比其更轻、更常见的同类产品具有更强的防护力。介于其重量，使用者的移动速度轻微下降。</entitydescription.scp_heavyvest>
+  <entitydescription.scp_heavyvest>标准制式防弹衣的改进版，以进一步提高对步枪射弹的防护力，制造材料更重，成本也更高。</entitydescription.scp_heavyvest>
   <entityname.scp_heavyrig>重型防弹胸挂</entityname.scp_heavyrig>
-  <entitydescription.scp_heavyrig>硬质防弹衣，相比其更轻、更常见的同类产品具有更强的防护力，且装有胸挂。介于其重量，使用者的移动速度轻微下降。</entitydescription.scp_heavyrig>
+  <entitydescription.scp_heavyrig>经过进一步改进的重型防弹衣，有着更厚的躯干防护和更多的物品袋，旨在进一步提高其作战能力，不过这也明显增加了重量。</entitydescription.scp_heavyrig>
   <entityname.scp_specialrig>特种防弹胸挂</entityname.scp_specialrig>
-  <entitydescription.scp_specialrig>很限制活动的重型防弹背心，其坚硬致密的材料对大多数小型武器的射击提供了很好的保护，但是由于其太过笨重，使得使用肩扛武器或船员基础武器时会显得非常笨拙。</entitydescription.scp_specialrig>
+  <entitydescription.scp_specialrig>大型重装防弹背心，使用的先进防弹材料能提供出色的防护力，甚至可以抵御穿甲步枪弹的射击。由于是专门为前哨站突击行动而设计的，它并不适合长时间穿着，其重量和体积使其在日常使用中非常不受欢迎。</entitydescription.scp_specialrig>
   <entityname.scp_renegadespecialrig>叛军的防弹胸挂</entityname.scp_renegadespecialrig>
-  <entitydescription.scp_renegadespecialrig>看起来又沉又笨的防弹背心，是分离主义者们对于联盟防弹胸挂的廉价复制品，虽然看起来不太轻便，但别担心，它的防御能力也不是很行！</entitydescription.scp_renegadespecialrig>
+  <entitydescription.scp_renegadespecialrig>看起来又沉又笨的防弹背心，是分离主义者们对于联盟防弹胸挂的廉价仿制品，由于无法获取到先进防弹材料，使其令人难以置信得累赘，同时防护效果也不尽人意。</entitydescription.scp_renegadespecialrig>
   <entityname.scp_simplehelmet>简易战斗头盔</entityname.scp_simplehelmet>
-  <entitydescription.scp_simplehelmet>易于生产的钢制头盔，可提供对头部的轻微保护，从名字就能看出，它比其他头盔要差，但绝对聊胜于无。</entitydescription.scp_simplehelmet>
+  <entitydescription.scp_simplehelmet>简易的钢与橡胶制头盔，对尖锐器具和钝器创伤提供基本保护，但鉴于头盔的质量和材料，其对射弹的防护力微乎其微。</entitydescription.scp_simplehelmet>
   <entityname.scp_combathelmet>战斗头盔</entityname.scp_combathelmet>
-  <entitydescription.scp_combathelmet>与标准的制式联盟头盔相比，战斗头盔具有更强的防护力，其特点是加强了防弹板，以应对高威力弹丸。</entitydescription.scp_combathelmet>
+  <entitydescription.scp_combathelmet>标准制式联盟头盔的改进版，以对抗不断进步的步枪设计和穿甲弹的普及。其包括了护目镜、防弹面罩和下颚防弹罩，视野受到一定限制。</entitydescription.scp_combathelmet>
   <entityname.scp_heavycombathelmet>重型战斗头盔</entityname.scp_heavycombathelmet>
-  <entitydescription.scp_heavycombathelmet>非常重但防护性能很强的头盔，旨在尽可能舒适的情况下提供最大程度的防护。</entitydescription.scp_heavycombathelmet>
+  <entitydescription.scp_heavycombathelmet>采用防弹超合金制造的重型头盔，甚至可以防护住顶级穿甲步枪弹的威胁，但代价是高昂的价格和更大的重量。</entitydescription.scp_heavycombathelmet>
   <entityname.scp_renegadeheavyhelmet>叛军重型战斗头盔</entityname.scp_renegadeheavyhelmet>
-  <entitydescription.scp_renegadeheavyhelmet>特殊头盔，制造工艺比起联盟的头盔要简单许多，成本也较为低廉，但综合前两者换来的不是优异的性能而是差劲的防护和笨重。</entitydescription.scp_renegadeheavyhelmet>
+  <entitydescription.scp_renegadeheavyhelmet>联盟重型战斗头盔的替代方案，更重但更易于制造。由于采用的材料更简单，所以不得不通过增加护甲层数来达到类似的防护水平。</entitydescription.scp_renegadeheavyhelmet>
   <entityname.scp_renegadecaptainhat>叛军船长帽</entityname.scp_renegadecaptainhat>
   <entitydescription.scp_renegadecaptainhat>使用芳纶纤维和帆布制作的船长帽，对于小口径和冷兵器兴许有点用，其帽壁厚度的较薄使防护能力不如戴个黑锅。</entitydescription.scp_renegadecaptainhat>
   <entityname.scp_alienhelmet>异星头盔</entityname.scp_alienhelmet>
   <entitydescription.scp_alienhelmet>能包住整个头部的异星大头盔，奇怪的是它符合人类的生理结构。</entitydescription.scp_alienhelmet>
   <entityname.scp_assaultpack>突击背包</entityname.scp_assaultpack>
-  <entitydescription.scp_assaultpack>旨在不妨碍佩戴者的情况下提供弹药和医疗物品存储空间的背包。</entitydescription.scp_assaultpack>
+  <entitydescription.scp_assaultpack>大小适中、穿戴方便的通用背包。从战地医疗、采矿任务到步兵战斗，几乎任何人员都能用上它。</entitydescription.scp_assaultpack>
   <entityname.scp_heavypack>巨型背包</entityname.scp_heavypack>
-  <entitydescription.scp_heavypack>又高又重的背包，除了基本的存储和货物运输外，几乎没有什么别的用处。不过，它确实可以方便地收纳工具和大量的材料，使之更适合你潜艇上的工程师。</entitydescription.scp_heavypack>
+  <entitydescription.scp_heavypack>巨大到几乎可以装下一个人的大型背包，主要用于打捞任务或在潜水艇外执行长途行动。其固有的重量和体积严重阻碍穿戴者的行动，使它在没有援助的情况下成为战斗中的一大累赘。</entitydescription.scp_heavypack>
   <entityname.scp_tacpack>战术背包</entityname.scp_tacpack>
-  <entitydescription.scp_tacpack>旨在为需要多设备执行任务的操作人员提供更宽敞空间的背包。</entitydescription.scp_tacpack>
+  <entitydescription.scp_tacpack>空间更宽敞的背包，旨在装入更多的设备或材料，但也因此而更重。</entitydescription.scp_tacpack>
+  <entityname.scp_protopack>原型背包</entityname.scp_protopack>
+  <entitydescription.scp_protopack>顶级、低调的背包，采用重型耐用钢框架和大型武器支架，使携带重型武器变得容易得多。</entitydescription.scp_protopack>
   <entityname.scp_fieldpack>野战背包</entityname.scp_fieldpack>
-  <entitydescription.scp_fieldpack>大而坚固的背包，作为战术背包和不实用的巨型背包之间的折中方案，多用于打捞任务。</entitydescription.scp_fieldpack>
+  <entitydescription.scp_fieldpack>更大更重的背包，旨在不严重妨碍穿戴者能力的情况下尽可能多地携带设备，在执行长途任务、采矿或携带弹药时尤其有用。</entitydescription.scp_fieldpack>
   <entityname.scp_renegadevest>叛军软甲</entityname.scp_renegadevest>
   <entitydescription.scp_renegadevest>软甲背心，旨在提供对低速小型武器的基本防护，同时便于叛乱分子在潜艇上制作。缝有小口袋，可以储存小物品。</entitydescription.scp_renegadevest>
   <entityname.scp_heavyuniform>联盟防破片服</entityname.scp_heavyuniform>
-  <entitydescription.scp_heavyuniform>专为涉及爆炸物的CQC行动而设计的高隐蔽性标准服装。它对小型武器射击和其他外部穿透性创伤提供少量保护，但体积和重量都较大。</entitydescription.scp_heavyuniform>
+  <entitydescription.scp_heavyuniform>专为涉及爆炸物的CQC行动而设计的高隐蔽性制服。它对小型武器射击和其他外部穿透性创伤提供少量保护，但体积和重量都较大。</entitydescription.scp_heavyuniform>
   <entityname.scp_heavyrenuniform>叛军防破片服</entityname.scp_heavyrenuniform>
-  <entitydescription.scp_heavyrenuniform>分离主义者对标联盟军装的低劣替代品，制作材料包含了从魔菇布到纺织纤维不等，它的厚度能让穿戴者感觉十分暖和。也许真的能提供一些防护吧，但穿着地感觉就像是套了个大棉被，十分不便。</entitydescription.scp_heavyrenuniform>
+  <entitydescription.scp_heavyrenuniform>分离主义者对标联盟军装的低劣替代品，主要由轻薄钢制插板构成，更重、穿着它更难移动，但确实有相当的防护效果。</entitydescription.scp_heavyrenuniform>
   <entityname.scp_renegadeplatecarrier>叛军防弹插板胸挂</entityname.scp_renegadeplatecarrier>
   <entitydescription.scp_renegadeplatecarrier>使用防弹插板的防弹衣，提供对小型武器火力的防护，虽然相对更轻的软甲有更强的保护作用，但也意味着它明显更重。</entitydescription.scp_renegadeplatecarrier>
   <entityname.scp_heavyhazmatuniform>重型防化服</entityname.scp_heavyhazmatuniform>
   <entitydescription.scp_heavyhazmatuniform>经过改装的危险品防护服，进一步增加了对电离辐射-主要是β和γ辐射-的防护。为了屏蔽更多辐射使用了更多重型材料，这显著增加了防护服的重量。</entitydescription.scp_heavyhazmatuniform>
+  <entityname.scp_liquidatorsuit>“清算者”防化服</entityname.scp_liquidatorsuit>
+  <entitydescription.scp_liquidatorsuit>主要由铅-摄魂辐射屏蔽层构成的实验性原型防护服，能够防护几乎所有放射性伤害。它还能够提供4500米水压保护，这在处理潜艇反应堆熔毁和需要紧急压力保护时非常有用。</entitydescription.scp_liquidatorsuit>  
   <entityname.scp_heavymechanicsuit>工程服</entityname.scp_heavymechanicsuit>
   <entitydescription.scp_heavymechanicsuit>旨在进一步减少因操作和维护机械装置而引起的割伤和挤压的工作服。</entitydescription.scp_heavymechanicsuit>
   <entityname.scp_heavymechanicsuitbluesuit2>工程服（蓝）</entityname.scp_heavymechanicsuitbluesuit2>
@@ -617,38 +687,62 @@
   <entityname.scp_renegadedivingsuit>叛军潜水服</entityname.scp_renegadedivingsuit>
   <entitydescription.scp_renegadedivingsuit>木星分离主义分子穿的潜水服，用以显示他们所属的阵营，主要针对防护小型武器火力设计。能承受6000米的水压。</entitydescription.scp_renegadedivingsuit>
   <entityname.scp_renegadecaptainuniform>叛军船长制服</entityname.scp_renegadecaptainuniform>
-  <entitydescription.scp_renegadecaptainuniform>木星分离主义船长们所穿的制服。</entitydescription.scp_renegadecaptainuniform>
+  <entitydescription.scp_renegadecaptainuniform>木星分离主义船长们所穿的制服，其芳纶层能对小型武器提供一些微不足道的的保护作用。</entitydescription.scp_renegadecaptainuniform>
   <entityname.scp_combathardsuit>战斗装甲</entityname.scp_combathardsuit>
-  <entitydescription.scp_combathardsuit>联盟军用装甲，提供比其他潜水服更强的对小型武器和生物的防护。然而，这种防护服严重阻碍了穿戴者使用维修工具和小型武器的能力，而且氧气循环效率较差。能承受15,000米的水压。</entitydescription.scp_combathardsuit>
+  <entitydescription.scp_combathardsuit>联盟军用装甲，提供比其他潜水服更强的对小型武器和生物的防护。然而，这种防护服严重阻碍了穿戴者使用维修工具和小型武器的能力，而且氧气循环效率较差。它的伺服电机也是非常耗电的，会迅速耗干电池。能承受15,000米的水压。</entitydescription.scp_combathardsuit>
   <entityname.scp_softvest>软甲防弹背心</entityname.scp_softvest>
   <entitydescription.scp_softvest>芳纶纤维制成的轻质隐蔽防弹衣，穿着更舒适，但对高速射弹的防护效果却大打折扣。专门设计的肩垫使穿戴者能够更舒适地架起枪支。</entitydescription.scp_softvest>
   <entityname.scp_riotvest>防暴背心</entityname.scp_riotvest>
-  <entitydescription.scp_riotvest>通过内外层衬垫抵御刀刃和钝器攻击的防弹衣，对小型武器射击的防护效果较差。</entitydescription.scp_riotvest>
+  <entitydescription.scp_riotvest>通过内外层衬垫抵御刀刃和钝器攻击的基础防弹衣，对小型武器射击的防护效果较差。</entitydescription.scp_riotvest>
   <entityname.scp_bulldozerhelm>斗牛士头盔</entityname.scp_bulldozerhelm>
   <entitydescription.scp_bulldozerhelm>又蠢又沉的超重型头盔，小口径武器击穿正面的护面防弹钢板的可能性微乎其微。由于护面板只留出一条缝一样的观察孔，佩戴者的视野和操作能力和可佩带的战术装备会极其受限。</entitydescription.scp_bulldozerhelm>
-  <entityname.scp_yuihelmet>特种部队头盔</entityname.scp_yuihelmet>
-  <entitydescription.scp_yuihelmet>由先进复合材料制成的头盔，非常的轻便，其造型酷似一头猎豹，对于某些人来说可能是陈塘关大捷——太潮了！</entitydescription.scp_yuihelmet>
-  <entityname.scp_yuirig>特种部队防弹背心</entityname.scp_yuirig>
-  <entitydescription.scp_yuirig>专门为特殊军事行动人员设计的硬甲防弹衣，由现代的钢板框架制成，最终的设计对使用者的要求进行了多处修改，并且使用者可以随心所欲DIY。</entitydescription.scp_yuirig>
-  <entityname.scp_specopsuniform>特种部队作战服</entityname.scp_specopsuniform>
-  <entitydescription.scp_specopsuniform>某位叛军的作战服，经过上一任使用者的爆改，穿戴者最不需要防护的地方都使用了复合软甲和柔性材料。</entitydescription.scp_specopsuniform>
+  <entityname.scp_yuihelmet>“渗透者”头盔</entityname.scp_yuihelmet>
+  <entitydescription.scp_yuihelmet>具有猫科动物外观的头盔，由先进复合材料制成，极其轻便但仍具有相当防护性的头盔，其“耳朵”里装有一个复杂的瞄准系统。专供分离主义“渗透者”分队使用，或以低廉的价格出售给最值得信赖的分离主义者。</entitydescription.scp_yuihelmet>
+  <entityname.scp_livhelmet>“先锋”头盔</entityname.scp_livhelmet>
+  <entitydescription.scp_livhelmet>具有犬科动物的外观、高度复杂的复合头盔，其“耳朵”里装有一个实验性的瞄准系统。专供分离主义“先锋”分队使用，或以低廉的价格出售给最值得信赖的分离主义者。</entitydescription.scp_livhelmet>
+  <entityname.scp_yuirig>“渗透者”防弹背心</entityname.scp_yuirig>
+  <entitydescription.scp_yuirig>低调的防弹背心，使用复杂的耐用钢-钛质“龙鳞”插板，极其轻便但仍具有相当防护性。专供分离主义“渗透者”分队使用，或以低廉的价格出售给最值得信赖的分离主义者。</entitydescription.scp_yuirig>
+  <entityname.scp_livrig>“先锋”防弹胸挂</entityname.scp_livrig>
+  <entitydescription.scp_livrig>经过精心定制和维护的胸挂，前后和两侧都插着结实的刚素-聚合物防弹插板，以提供最大程度的保护。专供分离主义“先锋”分队使用，或以低廉的价格出售给最值得信赖的分离主义者。</entitydescription.scp_livrig>
+  <entityname.scp_specopsuniform>“渗透者”防破片服</entityname.scp_specopsuniform>
+  <entitydescription.scp_specopsuniform>某个叛军的防破片服，经过上一任使用者的爆改，穿戴者最不需要防护的地方都使用了复合软甲和柔性材料。专供分离主义“渗透者”分队使用，或以低廉的价格出售给最值得信赖的分离主义者。</entitydescription.scp_specopsuniform>
+  <entityname.scp_livuniform>“先锋”防弹内衬</entityname.scp_livuniform>
+  <entitydescription.scp_livuniform>先进防弹服，采用实验性的耐用钢-硅碳化物插板，对破片和轻武器的射击都有很好的防护效果。专供分离主义“先锋”分队使用，或以低廉的价格出售给最值得信赖的分离主义者。</entitydescription.scp_livuniform>  
+  <entityname.scp_marauderuniform>“掠夺者”防弹内衬</entityname.scp_marauderuniform>
+  <entitydescription.scp_marauderuniform>经过重度改装的战斗医疗服，转而作为战斗内衬，采用了步枪级护甲和更厚的芳纶层。专供联盟“掠夺者”分队使用，或以高昂的价格出售给最值得信赖的联盟成员。</entitydescription.scp_marauderuniform>
+  <entityname.scp_veronuniform>“联合军”防破片服</entityname.scp_veronuniform>
+  <entitydescription.scp_veronuniform>经过重度改造的破片防护服，旨在降低非穿甲步枪的威胁，同时显著增强抗爆炸性能。专供联盟“联合军”使用，或以高昂的价格出售给最值得信赖的联盟成员。</entitydescription.scp_veronuniform>
+  <entityname.scp_marauderrig>“掠夺者”防弹胸挂</entityname.scp_marauderrig>
+  <entitydescription.scp_marauderrig>顶级、低调的防弹背心，采用耐用钢-钢素插板，旨在最大限度地减少重量体积并提供最大限度的保护。专供联盟“掠夺者”分队使用，或以高昂的价格出售给最值得信赖的联盟成员。</entitydescription.scp_marauderrig>
+  <entityname.scp_marauderhelmet>“掠夺者”头盔</entityname.scp_marauderhelmet>
+  <entitydescription.scp_marauderhelmet>顶级、低调的防弹头盔，采用了与其同系列防弹背心相同的材料，使得该头盔重量轻，防护性强。专供联盟“掠夺者”分队使用，或以高昂的价格出售给最值得信赖的联盟成员。</entitydescription.scp_marauderhelmet>
+  <entityname.scp_veronrig>“联合军”防弹胸挂</entityname.scp_veronrig>
+  <entitydescription.scp_veronrig>外观朴素而笨重的防弹胸挂，兼顾了防护和储存问题，设计用于防护大量火力，同时携带足够弹药来保持战斗力。专供联盟“联合军”使用，或以高昂的价格出售给最值得信赖的联盟成员。</entitydescription.scp_veronrig>
+  <entityname.scp_veronhelmet>“联合军”头盔</entityname.scp_veronhelmet>
+  <entitydescription.scp_veronhelmet>能将整个头部包裹在步枪防护等级的护甲中的大型头盔，采用耐用钢合金来大幅减轻重量。头盔顶部的听筒里有一个实验性的瞄准系统，可以提高武器射击的准确性。专供联盟“联合军”使用，或以高昂的价格出售给最值得信赖的联盟成员。</entitydescription.scp_veronhelmet>
   <entityname.scp_ae035>奇怪的面具</entityname.scp_ae035>
-  <entitydescription.scp_ae035>看起来十分奇怪的面具，应该是由一个审美不是很好设计也不是很好的设计师制造的低劣产品，眼睛和嘴巴的地方一直不断的流出Preso溶胶。而这个奇怪东西的研究价值高的离谱。</entitydescription.scp_ae035>
+  <entitydescription.scp_ae035>看起来不可思议且令人感到轻微不安的面具，应该是由一个审美不是很好设计也不是很好的设计师制造的低劣产品，眼睛和嘴巴的地方一直不断地流出Preso溶胶，但看不出这是如何做到的。谁做的，为何而做，如何做的，什么时候做的，这全都是个谜，不过前哨站的研究人员肯定会想得到这样一个神秘的造物。</entitydescription.scp_ae035>
+  <entityname.scp_ae035tragedy>悲剧面具</entityname.scp_ae035tragedy>
+  <entitydescription.scp_ae035tragedy>一个似乎不断扭曲变形的面具，它发出的奇怪信号冲击着你的感官，并且非常迅速地变得无法被你的头脑所理解。</entitydescription.scp_ae035tragedy>
   <entityname.scp_lightuniform>联盟作战服</entityname.scp_lightuniform>
-  <entitydescription.scp_lightuniform>由大多数联盟部队装备的两件式战斗服，其提供了一种简便的敌我识别手段。缝在其上的口袋在一定程度上为各种小物品提供了存储空间。</entitydescription.scp_lightuniform>
+  <entitydescription.scp_lightuniform>由大多数联盟部队装备的两件式专业战斗服，其提供了一种简便的敌我识别手段。缝在其上的口袋在为各种物品提供了少量存储空间。</entitydescription.scp_lightuniform>  
   <entityname.scp_hazmathelmet>防化服头罩</entityname.scp_hazmathelmet>
-  <entitydescription.scp_hazmathelmet>由疏水合成织物制成的铅衬头罩，可以套在头上或塞进制服中。这是一种具有更强防护性的特制潜水面罩，其更厚的橡胶部件可以更好地阻挡β粒子辐射。</entitydescription.scp_hazmathelmet>
+  <entitydescription.scp_hazmathelmet>由疏水合成织物制成的铅衬头罩，可以套在头上或塞进制服中。由强化潜水面罩改进而来，其更厚的橡胶部件可以更好地防护高穿透性的辐射。</entitydescription.scp_hazmathelmet>
   <entityname.scp_cbrnsuit>CBRN核生化防护服</entityname.scp_cbrnsuit>
-  <entitydescription.scp_cbrnsuit>一件式防护服，旨在防护电离辐射和气溶胶化学威胁。其防弹衬垫也能针对小型武器提供一定程度保护。</entitydescription.scp_cbrnsuit>
+  <entitydescription.scp_cbrnsuit>一件式防水防护服及头盔，旨在防护电离辐射和气溶胶化学威胁。其防弹衬垫也能对射弹提供少量防护。</entitydescription.scp_cbrnsuit>
   <entityname.scp_cbrnhelmet>CBRN核生化服头盔</entityname.scp_cbrnhelmet>
   <entitydescription.scp_cbrnhelmet>装有防化服头罩和强化潜水面罩的战斗头盔，头罩主要采用软甲防护。</entitydescription.scp_cbrnhelmet>
   <entityname.scp_hardeneddivingmask>强化潜水面罩</entityname.scp_hardeneddivingmask>
   <entitydescription.scp_hardeneddivingmask>重型潜水面罩，其钢制框架、加厚橡胶和有机玻璃镜片，可以更好地保护面部不受受伤。</entitydescription.scp_hardeneddivingmask>
+  <entityname.scp_clownbatuniform>圣母之蝠套装</entityname.scp_clownbatuniform>
+  <entitydescription.scp_clownbatuniform>为庇护小丑圣母的仆人而制的小丑服。</entitydescription.scp_clownbatuniform>
+  <entityname.scp_clownbatmask>圣母之蝠防弹面罩</entityname.scp_clownbatmask>
+  <entitydescription.scp_clownbatmask>全脸防弹面罩，既能防护低速射弹，又能守护你的信仰。</entitydescription.scp_clownbatmask>
   <!--materials_materials-->
-  <entityname.scp_replicatinglatex>Preso溶胶团</entityname.scp_replicatinglatex>
-  <entitydescription.scp_replicatinglatex>一种半有机碳基材料，它具有一种天然能力，能通过一种不甚明了的诱变过程将有机物用于自我复制。</entitydescription.scp_replicatinglatex>
-  <entityname.scp_firelatex>Ignis溶胶团</entityname.scp_firelatex>
-  <entitydescription.scp_firelatex>一种半有机碳基材料，与有机组织接触后会发生高能放热反应。</entitydescription.scp_firelatex>
+  <entityname.scp_replicatinglatex>Preso溶胶罐</entityname.scp_replicatinglatex>
+  <entitydescription.scp_replicatinglatex>一种由弹性蛋白植物合成的罕见聚合物，它能通过与动物细胞发生不甚明了的诱变反应，将有机物用于自我复制，因此它被认为是一种剧毒物质。必须装在屏蔽收容工具箱中才能安全处理。</entitydescription.scp_replicatinglatex>
+  <entityname.scp_firelatex>Ignis溶胶罐</entityname.scp_firelatex>
+  <entitydescription.scp_firelatex>一种合成聚合物，与有机组织接触后会发生高能放热反应。它是大多数致命化学武器和批量生产的弹药推进剂的主要成分。必须装在屏蔽收容工具箱中才能安全处理。</entitydescription.scp_firelatex>
   <entityname.scp_pistolkit>手枪零件箱</entityname.scp_pistolkit>
   <entitydescription.scp_pistolkit>武器零件箱，装有用于制造各种口径手枪的各种零件。</entitydescription.scp_pistolkit>
   <entityname.scp_shotgunkit>霰弹枪零件箱</entityname.scp_shotgunkit>
@@ -656,9 +750,9 @@
   <entityname.scp_riflekit>步枪零件箱</entityname.scp_riflekit>
   <entitydescription.scp_riflekit>武器零件箱，装有用于制造各种口径步枪的各种零件。</entitydescription.scp_riflekit>
   <entityname.scp_sniperkit>精密步枪零件箱</entityname.scp_sniperkit>
-  <entitydescription.scp_sniperkit>武器零件箱，装有用于制造各种大口径精密武器的精密零件。</entitydescription.scp_sniperkit>
+  <entitydescription.scp_sniperkit>武器零件箱，装有用于制造各种口径精密武器的精密零件。</entitydescription.scp_sniperkit>
   <entityname.scp_machinegunkit>机枪零件箱</entityname.scp_machinegunkit>
-  <entitydescription.scp_machinegunkit>大型武器零件箱，装有用于制造各种口径机枪的各种重型、高耐久的零件。</entitydescription.scp_machinegunkit>
+  <entitydescription.scp_machinegunkit>大型武器零件箱，装有用于制造各种口径重型机枪的各种重型、高耐久的零件。</entitydescription.scp_machinegunkit>
   <entityname.scp_explosiveskit>爆炸性武器零件箱</entityname.scp_explosiveskit>
   <entitydescription.scp_explosiveskit>大型武器零件箱，装有用于制造爆炸性武器的各种重型零件。</entitydescription.scp_explosiveskit>
   <entityname.scp_basicparts>基础武器组件</entityname.scp_basicparts>
@@ -672,33 +766,45 @@
   <entityname.scp_wreckglowingfuel>发光的燃料棒堆</entityname.scp_wreckglowingfuel>
   <entitydescription.scp_wreckglowingfuel>老旧的燃料棒发出阴森的青蓝色光芒。很明显，它们仍有一丝生命力，其中微量的铀235和钍232放射着高水平的α粒子。</entitydescription.scp_wreckglowingfuel>
   <entityname.scp_wreckarmor>被遗弃的装备组件</entityname.scp_wreckarmor>
-  <entitydescription.scp_wreckarmor>一堆各种衣物和装甲的碎片，海水的侵蚀使其中大部分变得毫无作用。</entitydescription.scp_wreckarmor>
+  <entitydescription.scp_wreckarmor>一堆乱七八糟各种衣物和装甲的碎片，海水的侵蚀使其中大部分变得毫无作用。</entitydescription.scp_wreckarmor>
   <entityname.scp_wreckweapons>损坏的武器组件</entityname.scp_wreckweapons>
-  <entitydescription.scp_wreckweapons>各种严重生锈的武器组件，它们扭曲着、腐蚀着，很可能是分离主义分子很久以前试图起义反对船上安全官时制造的。仍有一些材料可以被抢救出来。</entitydescription.scp_wreckweapons>
+  <entitydescription.scp_wreckweapons>各种零碎且严重生锈的武器组件，它们扭曲着、腐蚀着，很可能是分离主义分子很久以前试图起义反对船上安全官时制造的。仍有一些材料可以被抢救出来。</entitydescription.scp_wreckweapons>
+  <entityname.scp_erlangshenium>诺克西斯矿石</entityname.scp_erlangshenium>
+  <entitydescription.scp_erlangshenium>一种神秘的矿石，其表面有非常不自然的亮光裂缝。诺克西斯矿石极具放射性，使周围环境呈现出阴森的青色。为了安全起见，必须把它放在有辐射屏蔽的容器中。</entitydescription.scp_erlangshenium>
+  <entityname.scp_noxcium>诺克西斯水晶</entityname.scp_noxcium>
+  <entitydescription.scp_noxcium>一种亮绿色晶体，不断释放出极高剂量的电离辐射。为了安全起见，必须把它放在有辐射屏蔽的容器中。</entitydescription.scp_noxcium>  
   <entityname.scp_wreckammo>被遗弃的弹药堆</entityname.scp_wreckammo>
-  <entitydescription.scp_wreckammo>一堆乱七八糟的弹匣和散装弹药，看起来已经严重腐蚀，无法使用，大部分弹匣都缺少托弹板和托弹簧。</entitydescription.scp_wreckammo>
+  <entitydescription.scp_wreckammo>一堆破烂的弹匣和散装弹药，弹夹大多缺失托弹板、托弹簧或外壳，弹药基本也扭曲变形被腐蚀了。</entitydescription.scp_wreckammo>
   <entityname.scp_wreckflashpowder>旧闪光粉罐</entityname.scp_wreckflashpowder>
-  <entitydescription.scp_wreckflashpowder>非常旧的火药瓶，由于金属盖被锈蚀，现已无法正常打开。</entitydescription.scp_wreckflashpowder>
+  <entitydescription.scp_wreckflashpowder>老旧的火药瓶，由于金属盖被锈蚀，现已无法正常打开。</entitydescription.scp_wreckflashpowder>
   <entityname.scp_wreckfractal>分形遗迹残渣</entityname.scp_wreckfractal>
-  <entitydescription.scp_wreckfractal>一堆分形物品和结构构成的随机材料，解构后可能会找到一些有用的分形材料。</entitydescription.scp_wreckfractal>
+  <entitydescription.scp_wreckfractal>一堆出自分形物品和异星结构的随机岩块和冰冷金属碎片，其中可能藏有一些稀有材料。</entitydescription.scp_wreckfractal>
   <entityname.scp_wreckfractalactive>活性分形遗迹残渣</entityname.scp_wreckfractalactive>
   <entitydescription.scp_wreckfractalactive>一堆发光的分形遗迹和材料碎片，一股奇怪的紫色瘴气从这堆碎片上散发出来，让处理者感到不安。</entitydescription.scp_wreckfractalactive>
   <entityname.scp_wreckchem>被丢弃的化学品箱</entityname.scp_wreckchem>
   <entitydescription.scp_wreckchem>看起来很破旧的防水箱，估计装有各种化学品。</entitydescription.scp_wreckchem>
   <entityname.scp_wreckmetalpile>被遗弃的金属堆</entityname.scp_wreckmetalpile>
-  <entitydescription.scp_wreckmetalpile>一堆被忽视了很长时间的金属，金属正在生锈，然而有些材料可能是可再回收利用的。</entitydescription.scp_wreckmetalpile>
+  <entitydescription.scp_wreckmetalpile>一堆被遗忘了很久的金属材料，金属已被严重锈蚀，然而或许还有些材料可再回收利用。</entitydescription.scp_wreckmetalpile>
+  <entityname.scp_wreckammocrate>被遗弃的弹药组件箱</entityname.scp_wreckammocrate>
+  <entitydescription.scp_wreckammocrate>一个古旧、沉重的箱子，看起来已经在水里放了很久了，不管内容如何，应该保存相对完好。</entitydescription.scp_wreckammocrate>
   <entityname.scp_effigium>奇怪的金属</entityname.scp_effigium>
   <entitydescription.scp_effigium>一种高度反光的致密材料，拿着它的感觉很奇怪，好像金属本身与你的皮肤结合在一起。</entitydescription.scp_effigium>
   <entityname.scp_wreckorepile>被丢弃的矿堆</entityname.scp_wreckorepile>
-  <entitydescription.scp_wreckorepile>一小堆欧罗巴上的各种岩石和矿石碎片，被留在一个被忽视的储藏柜里，或许是很久以前就被丢弃的，现在只能拿来回收边角料。</entitydescription.scp_wreckorepile>
+  <entitydescription.scp_wreckorepile>一小堆杂乱的欧罗巴岩石和矿石碎片，其中一些或许还有回收价值。</entitydescription.scp_wreckorepile>
   <entityname.scp_smallweaponcase>被丢弃的小型武器箱</entityname.scp_smallweaponcase>
   <entitydescription.scp_smallweaponcase>看起来非常破旧的箱子，里面可能装有手枪或冲锋枪，但锁已经生锈，无法打开。</entitydescription.scp_smallweaponcase>
   <entityname.scp_largeweaponcase>被丢弃的大型武器箱</entityname.scp_largeweaponcase>
-  <entitydescription.scp_largeweaponcase>看起来非常破旧的箱子，可能装有步枪或霰弹枪，但是塑料箱外壳已经融成一块，锁也完全生锈了。</entitydescription.scp_largeweaponcase>
+  <entitydescription.scp_largeweaponcase>看起来非常破旧的箱子，可能装有长步枪或霰弹枪，但是聚合物箱外壳已经融成一块，锁也完全生锈了。</entitydescription.scp_largeweaponcase>
   <entityname.scp_durasteel>耐用钢</entityname.scp_durasteel>
   <entitydescription.scp_durasteel>一种钛铁超级合金，对抗外部压力时能有着极强的拉伸度和耐久性。由于其制造成本高昂，它在整个木卫二都很少被使用，这与钛铝合金有着很大不同。</entitydescription.scp_durasteel>
+  <entityname.scp_durasteelmunitionscase>耐用钢弹药包</entityname.scp_durasteelmunitionscase>
+  <entitydescription.scp_durasteelmunitionscase>装满耐用钢弹丸和高强度弹壳的重型弹药箱，它们可承受更高的火药装量。由于制造成本的原因，这些弹丸的产量非常稀少，而且只配发给联盟的高级成员。</entitydescription.scp_durasteelmunitionscase>
+  <entityname.scp_hexanovagent>Hexa-Nova试剂容器</entityname.scp_hexanovagent>
+  <entitydescription.scp_hexanovagent>聚四氟乙烯气密容器，里面装满了由浓缩“恶魔之血”和Ignis溶胶构成的高挥发性化合物。作为一种高深莫测的毒药，其毒性比任何其他毒药都大，是真正的撒旦工具。</entitydescription.scp_hexanovagent>  
   <entityname.scp_wreckexplosivescase>被丢弃的爆炸物箱</entityname.scp_wreckexplosivescase>
   <entitydescription.scp_wreckexplosivescase>一批老旧的、被损毁的爆炸物，希望还能找到些完好的。</entitydescription.scp_wreckexplosivescase>
+  <entityname.scp_prototypeusb>原型武器认证器</entityname.scp_prototypeusb>
+  <entitydescription.scp_prototypeusb>存有2个加工台认证密钥的强化记忆棒，用于解锁原型武器的制造蓝图。该型认证器已经停产且高度加密，因此只可能在沉船和废弃站点里找到些还能使用的。</entitydescription.scp_prototypeusb>
   <!--medical_medical-->
   <entityname.scp_smallcivkit>标准急救包</entityname.scp_smallcivkit>
   <entitydescription.scp_smallcivkit>为非致命伤而设计的紧凑急救箱，由于其易于生产，在整个木卫二随处可见，且基本上是联盟安全标准的最低要求。</entitydescription.scp_smallcivkit>
@@ -706,18 +812,18 @@
   <entitydescription.scp_largecivkit>标准急救包的放大版，包含更多的医疗用品，以处理更严重的伤情或简单处理大批船员的小伤。</entitydescription.scp_largecivkit>
   <entityname.scp_largearmykit>大军用急救包</entityname.scp_largearmykit>
   <entitydescription.scp_largearmykit>为在战场上没有条件开展重症监护的战地医护人员设计的大型医疗包，装有各种医疗器械和化学物质，可以处理大多数由武器造成的伤害，但需要一个熟练的使用者才能正常使用。</entitydescription.scp_largearmykit>
-  <entityname.scp_armykit>军用急救包</entityname.scp_armykit>
+  <entityname.scp_armykit>战斗急救包</entityname.scp_armykit>
   <entitydescription.scp_armykit>专门为处理枪支和带刃武器造成的伤害而设计的紧凑医疗包，因此，在应对止血和稳定极重的伤势方面非常出色。</entitydescription.scp_armykit>
   <entityname.scp_healthpills>魔鬼素</entityname.scp_healthpills>
   <entitydescription.scp_healthpills>高度实验性的粉末状致突变化学品胶囊，被装在塑料瓶里，使用后体内药物浓度能维持很长一段时间，以治疗大多数外伤及生理异常情况。然而由于这种化学品会对身体主要结构造成巨大的生理压力，所以要非常谨慎地使用。</entitydescription.scp_healthpills>
   <entityname.scp_painkillers>止痛药</entityname.scp_painkillers>
   <entitydescription.scp_painkillers>装在塑料瓶里的阿片药物粉末胶囊，可应对由物理创伤引起的轻微疼痛，最好是与卧床休息结合使用。</entitydescription.scp_painkillers>
   <entityname.scp_firelatexhot>精炼Ignis溶胶注射器</entityname.scp_firelatexhot>
-  <entitydescription.scp_firelatexhot>经过精炼的Ignis溶胶样品，这进一步提高了它的致命性，即使只是短时间接触，也能造成三到四级烧伤。</entitydescription.scp_firelatexhot>
+  <entitydescription.scp_firelatexhot>经过修改的Ignis溶胶样品，进一步增强了其放热反应，能在与皮肤接触后几秒钟内造成严重烧伤。</entitydescription.scp_firelatexhot>
   <entityname.scp_replicatinglatexrefined>稀释Preso溶胶注射器</entityname.scp_replicatinglatexrefined>
   <entitydescription.scp_replicatinglatexrefined>经过化学改造的Preso溶胶样品，利用Preso溶胶的诱变特性不仅直接抵消了所有Preso溶胶反应，还能部分逆转因暴露于电离辐射下而引起的细胞萎缩。</entitydescription.scp_replicatinglatexrefined>
   <entityname.scp_diamorphine>二乙酰吗啡</entityname.scp_diamorphine>
-  <entitydescription.scp_diamorphine>成瘾性极高的阿片类药物，比大多数止疼药的效力要强得多，以至于外星生物在血液中有二乙酰吗啡存在的情况下都很难存活。所以介于其效力，它能轻易而迅速地引起严重的阿片类制剂相关并发症。</entitydescription.scp_diamorphine>
+  <entitydescription.scp_diamorphine>效力惊人的阿片类药物，成瘾性和潜在使用风险极高。它可以用来治疗最剧烈的疼痛，并在一定程度上稀释化学品中毒和治疗感染。</entitydescription.scp_diamorphine>
   <entityname.scp_concoction>混合毒剂</entityname.scp_concoction>
   <entitydescription.scp_concoction>装有窒死毒剂、辐射毒剂和升天毒剂混合物的注射剂，能够让你特别不喜欢的人惨不忍睹地死去（一旦注射便难以补救）。由于这种注射混合毒素的做法会让人痛不欲生，因此是被严格禁止的。</entitydescription.scp_concoction>
   <entityname.scp_vodka>伏特加</entityname.scp_vodka>
@@ -725,13 +831,13 @@
   <entityname.scp_pomegrenadedrink>石榴果宾治</entityname.scp_pomegrenadedrink>
   <entitydescription.scp_pomegrenadedrink>由爆弹石榴果汁和烈酒调制成的鸡尾酒饮品，为口渴的潜艇兵提供了一种极好的饮料，他们想快速休息一下。</entitydescription.scp_pomegrenadedrink>
   <entityname.scp_propital>活化针</entityname.scp_propital>
-  <entitydescription.scp_propital>持久生效的小型自动注射器，使用合成代谢类固醇和其他成分，以加快伤势恢复，是应对迫在眉睫的战斗的绝佳选择。</entitydescription.scp_propital>
+  <entitydescription.scp_propital>持久生效的小型自动注射器，使用合成代谢类固醇和镇痛剂以加快组织再生与血液凝固，是应对迫在眉睫的战斗的绝佳选择。</entitydescription.scp_propital>
   <entityname.scp_condensedstabilozine>浓缩疗素</entityname.scp_condensedstabilozine>
   <entitydescription.scp_condensedstabilozine>装有合成代谢类固醇和高浓度疗素的自动注射器，它是大多数毒药的解毒剂和治疗轻中度辐射病的最佳选择。为了防止注射造成的潜在损害，它有一个多级注射系统，允许一次注射多个小剂量，但由于提炼不当，容易失败。</entitydescription.scp_condensedstabilozine>
   <entityname.scp_adrenaline>肾上腺素注射器</entityname.scp_adrenaline>
   <entitydescription.scp_adrenaline>装有肾上腺素的自动注射器，可用于抢救因缺氧而昏迷患者，并能略微提高战斗力。</entitydescription.scp_adrenaline>
   <entityname.scp_themedicbag>医疗包</entityname.scp_themedicbag>
-  <entitydescription.scp_themedicbag>拥有非常多种类的凝血剂和工具的医疗包，具有出色的治疗能力。</entitydescription.scp_themedicbag>
+  <entitydescription.scp_themedicbag>拥有非常多种类的凝血剂和工具的医疗包，具有出色的治疗能力。“啊啊啊啊啊啊疼！”</entitydescription.scp_themedicbag>
   <entityname.scp_panacea>万灵药</entityname.scp_panacea>
   <entitydescription.scp_panacea>神秘的、看起来近乎完美的胶囊，无论用什么技术都无法打开。里面的化学物质通过一个未知和不可复制的过程直接读取服用者的遗传信息，并能导致身体的所有异常和正常细胞结构的 "重置"，使服用者者摆脱任何伤害。这对外来病原体，如朊病毒、病毒和细菌感染，效果特别好。</entitydescription.scp_panacea>
   <entityname.scp_devilsblood>“恶魔之血”注射器</entityname.scp_devilsblood>
@@ -741,12 +847,277 @@
   <entityname.scp_wastingdiseasecure>潜水员消瘦综合征（SWD）解药</entityname.scp_wastingdiseasecure>
   <entitydescription.scp_wastingdiseasecure>主要含有疗素的注射器，能够中和引起SWD的恶性蛋白结构。</entitydescription.scp_wastingdiseasecure>
   <entityname.scp_lineavirussyringe>Brunhes线虫病毒注射器</entityname.scp_lineavirussyringe>
-  <entitydescription.scp_lineavirussyringe>注射器中装有一种可以通过水和空气传播的超强传染力病毒病原体，这种病毒自被发现以来，感染后影响的都主要是呼吸系统和消化系统。注射器里的病原体可用于生物战，使用升天毒剂和Preso溶胶作为强效活化剂。穿戴潜水服或氧气面罩可以有效避免感染。</entitydescription.scp_lineavirussyringe>
+  <entitydescription.scp_lineavirussyringe>注射器中装有一种可以通过水和空气传播的超强传染力病毒病原体，这种病毒自被发现以来，感染后影响的都主要是呼吸系统和消化系统。注射器里的病原体可用于生物战，使用升天毒剂和Preso溶胶作为强效活化剂。一旦该病毒开始传播，则必须穿戴CBRN核生化防护装备。</entitydescription.scp_lineavirussyringe>
   <entityname.scp_lineaviruscure>Brunhes线虫病毒解药</entityname.scp_lineaviruscure>
   <entitydescription.scp_lineaviruscure>主要成分为疗素和广谱抗生素的注射器，可以溶解Brunhes线虫病毒的蛋白质包衣，除了暂时免疫病毒外，还会快速的恢复病毒造成的伤害。</entitydescription.scp_lineaviruscure>
-  <entityname.scp_volatilereplicatinglatex>挥发性Preso溶胶团</entityname.scp_volatilereplicatinglatex>
+  <entityname.scp_volatilereplicatinglatex>挥发性Preso溶胶罐</entityname.scp_volatilereplicatinglatex>
   <entitydescription.scp_volatilereplicatinglatex>高度不稳定的Preso溶胶团，很容易与靠近它的有机物质产生反应。非常不推荐天天与这玩意打交道。</entitydescription.scp_volatilereplicatinglatex>
   <!--misc_containers-->
+  <entityname.scp_armory>军械库</entityname.scp_armory>
+  <entitydescription.scp_armory>可上锁的大柜子，用于储存大量的武器装备。</entitydescription.scp_armory>
+  <entityname.scp_engineeringcab>工程柜</entityname.scp_engineeringcab>
+  <entitydescription.scp_engineeringcab></entitydescription.scp_engineeringcab>
+  <entityname.scp_weaponrack>武器架</entityname.scp_weaponrack>
+  <entitydescription.scp_weaponrack></entitydescription.scp_weaponrack>
+  <entityname.scp_smallweaponrack>小武器架</entityname.scp_smallweaponrack>
+  <entitydescription.scp_smallweaponrack></entitydescription.scp_smallweaponrack>
+  <entityname.scp_coilgunammocabinet>电磁炮弹药储存柜</entityname.scp_coilgunammocabinet>
+  <entitydescription.scp_coilgunammocabinet></entitydescription.scp_coilgunammocabinet>
+  <entityname.scp_railguncabinet>轨道炮弹药储存柜</entityname.scp_railguncabinet>
+  <entitydescription.scp_railguncabinet>用于储存轨道炮弹药的大柜子。</entitydescription.scp_railguncabinet>
+  <!--misc_fabricators-->
+  <entityname.scp_ammofabricator>弹药加工台</entityname.scp_ammofabricator>
+  <entitydescription.scp_ammofabricator>专门用于制造枪支用弹药而设计的加工台。它的特殊加工程序允许更快地制造弹药。</entitydescription.scp_ammofabricator>
+  <entityname.scp_weaponfabricator>武器加工台</entityname.scp_weaponfabricator>
+  <entitydescription.scp_weaponfabricator>专门用于制造木卫二上现有的大多数枪支的加工台。它的特殊加工程序使它能更快地制造枪支。</entitydescription.scp_weaponfabricator>
+  <entityname.scp_portableammofabricator>便携式弹药加工台</entityname.scp_portableammofabricator>
+  <entitydescription.scp_portableammofabricator>更小、更紧凑的加工台，专门为没有弹药加工台的潜艇设计，或者只是为了制造弹药时不引起太多怀疑。使用鼠标右键+E放置。</entitydescription.scp_portableammofabricator>
+  <entityname.scp_portableweaponfabricator>便携式武器加工台</entityname.scp_portableweaponfabricator>
+  <entitydescription.scp_portableweaponfabricator>更小、更紧凑的加工台，专门为没有武器加工台的潜艇设计，或者只是为了制造武器时不引起太多怀疑。使用鼠标右键+E放置。</entitydescription.scp_portableweaponfabricator>
+  <entityname.scp_advportableweaponfabricator>便携式原型武器加工台</entityname.scp_advportableweaponfabricator>
+  <entitydescription.scp_advportableweaponfabricator>紧凑的顶级加工台，用于制造先进武器及其弹药。使用鼠标右键+E来放置。</entitydescription.scp_advportableweaponfabricator>
+  <entityname.scp_reloadfabricator>装弹加工台</entityname.scp_reloadfabricator>
+  <entitydescription.scp_reloadfabricator>用于补充空弹匣的加工台。可以使用鼠标右键+E来放置。</entitydescription.scp_reloadfabricator>
+  <entityname.scp_chemistrystation>化学品精炼台</entityname.scp_chemistrystation>
+  <entitydescription.scp_chemistrystation>用于合成各种有益或有害化学品的加工台。由于其包括众多复杂的组件，所以非常耗电。使用鼠标右键+E来放置。</entitydescription.scp_chemistrystation>
+  <entityname.scp_portablejunctionbox>便携式接线盒</entityname.scp_portablejunctionbox>
+  <entitydescription.scp_portablejunctionbox>一种占用空间更小、可热装卸的接线盒，设计用于扩展海底电网。介于其更小的尺寸和内部组件微型化技术的不成熟，其功能有限，且对电压过载更敏感。使用鼠标右键+E来放置。</entitydescription.scp_portablejunctionbox>  
+  <!--misc_misc-->
+  <entityname.scp_revolverammobox>左轮弹药盒</entityname.scp_revolverammobox>
+  <entitydescription.scp_revolverammobox>小而方便的弹药盒，可以存放各种口径的左轮手枪的弹药，相当便于随身携带。</entitydescription.scp_revolverammobox>
+  <entityname.scp_amrammobox>反器材步枪弹药盒</entityname.scp_amrammobox>
+  <entitydescription.scp_amrammobox>用来装各种反器材弹药的弹药盒。</entitydescription.scp_amrammobox>
+  <entityname.scp_shotgunammobox>霰弹弹药箱</entityname.scp_shotgunammobox>
+  <entitydescription.scp_shotgunammobox>设计用于装载大量霰弹弹药的弹药箱。</entitydescription.scp_shotgunammobox>
+  <entityname.scp_uniammobox>通用弹药箱</entityname.scp_uniammobox>
+  <entitydescription.scp_uniammobox>通用弹药箱，当整理船只不是优先事项时，可以直接把各种弹药扔到里面。</entitydescription.scp_uniammobox>
+  <entityname.scp_grenadeammobox>枪榴弹弹药箱</entityname.scp_grenadeammobox>
+  <entitydescription.scp_grenadeammobox>用来装40mm榴弹的保险箱。</entitydescription.scp_grenadeammobox>
+  <entityname.scp_rifleammobox>步枪弹药箱</entityname.scp_rifleammobox>
+  <entitydescription.scp_rifleammobox>大而重的箱子，用于装各种步枪或冲锋枪弹匣。</entitydescription.scp_rifleammobox>
+  <entityname.scp_weaponcrate>武器箱</entityname.scp_weaponcrate>
+  <entitydescription.scp_weaponcrate>大而重的箱子，设计用于储存枪支以节省储存空间。</entitydescription.scp_weaponcrate>
+  <entityname.scp_ammocrate>弹药箱</entityname.scp_ammocrate>
+  <entitydescription.scp_ammocrate>大而重的箱子，设计用于储存弹药箱以节省储存空间。</entitydescription.scp_ammocrate>
+  <entityname.scp_alienweaponcrate>异星武器箱</entityname.scp_alienweaponcrate>
+  <entitydescription.scp_alienweaponcrate>大而重的箱子，设计用于储存常规或异星武器。</entitydescription.scp_alienweaponcrate>
+  <entityname.scp_leadbox>屏蔽收容工具箱</entityname.scp_leadbox>
+  <entitydescription.scp_leadbox>沉重的工具箱，加厚内衬由铅和橡胶制成，用在安全储存高活性化学品和高放射性材料。</entitydescription.scp_leadbox>  
+  <!--turrets_turrets-->
+  <entityname.scp_tankcannon>重型线圈炮</entityname.scp_tankcannon>
+  <entitydescription.scp_tankcannon>从现有的线圈炮基础上衍生出来的80mm大炮，意在作为线圈炮和轨道炮之间的一个过渡方案。其冲击力更强，但需要特制弹药。</entitydescription.scp_tankcannon>
+  <entityname.scp_prototankcannon>原型重型线圈炮</entityname.scp_prototankcannon>
+  <entitydescription.scp_prototankcannon>经过重度改装的80mm加农炮，旨在进一步提高它的能力，发射速度明显加快，并且更加节能。然而，这是以极其笨重的回弹和高昂的价格为代价的。</entitydescription.scp_prototankcannon>
+  <entityname.scp_tankgunloader>重型线圈炮装弹器</entityname.scp_tankgunloader>
+  <entitydescription.scp_tankgunloader>重型线圈炮专用的供弹系统，与电磁枪装弹器共用部分零件。</entitydescription.scp_tankgunloader>
+  <entityname.scp_tankgunbox>重型线圈炮高爆弹药箱</entityname.scp_tankgunbox>
+  <entitydescription.scp_tankgunbox>装有20枚80mm高爆弹的重型弹药箱，用于重型线圈炮。</entitydescription.scp_tankgunbox>
+  <!--<entityname.scp_tankheatproj>重型线圈高爆射弹</entityname.scp_tankheatproj>
+  <entitydescription.scp_tankheatproj></entitydescription.scp_tankheatproj>-->
+  <entityname.scp_tankgunapbox>重型线圈炮穿甲弹药箱</entityname.scp_tankgunapbox>
+  <entitydescription.scp_tankgunapbox>装有20枚80mm高爆穿甲弹的重型弹药箱，用于重型线圈炮。</entitydescription.scp_tankgunapbox>
+  <!--<entityname.scp_tankapproj>重型线圈穿甲射弹</entityname.scp_tankapproj>
+  <entitydescription.scp_tankapproj></entitydescription.scp_tankapproj>-->
+  <entityname.scp_tankgunphysbox>重型线圈炮刚素弹药箱</entityname.scp_tankgunphysbox>
+  <entitydescription.scp_tankgunphysbox>装着20枚80mm穿甲刚素弹的重型弹药箱，用于重型线圈炮。刚素射弹由于相对于其他材料更轻，速度明显较高，但仍保留了出色的爆炸力和穿透力。</entitydescription.scp_tankgunphysbox>
+  <!--<entityname.scp_tankphysproj>重型线圈刚素射弹</entityname.scp_tankphysproj>
+  <entitydescription.scp_tankphysproj></entitydescription.scp_tankphysproj>-->
+  <entityname.scp_miniguncoilgun>原型电磁枪</entityname.scp_miniguncoilgun>
+  <entitydescription.scp_miniguncoilgun>一种高度先进的电磁线圈炮原型，多管转轮设计使其具有令人印象深刻的射速，但也因此十分耗电。</entitydescription.scp_miniguncoilgun>
+  <entityname.scp_xm25>实验性榴弹发射器</entityname.scp_xm25>
+  <entitydescription.scp_xm25>笨重但威力巨大的25*40mm榴弹发射器，能有效且快速地摧毁中等规模的无甲目标群。</entitydescription.scp_xm25>
+  <entityname.scp_xm25mag>实验性榴弹发射器弹匣 25*40mm</entityname.scp_xm25mag>
+  <entitydescription.scp_xm25mag>25*40mm弹匣，里面装着小型高爆榴弹。</entitydescription.scp_xm25mag>
+  <entityname.scp_mgturret>机枪炮塔</entityname.scp_mgturret>
+  <entitydescription.scp_mgturret>装在电磁枪底座上的7.62*51mm的通用机枪，用来对付快速移动的轻甲目标。由于其装填和连射机制非常传统，除了潜望探照灯和扳机系统，它几乎不消耗多少电力。</entitydescription.scp_mgturret>
+  <entityname.scp_machinegunturretloader>机枪炮塔装弹器</entityname.scp_machinegunturretloader>
+  <entitydescription.scp_machinegunturretloader></entitydescription.scp_machinegunturretloader>
+  <entityname.scp_mgturretfmjbox>机枪炮塔弹药箱</entityname.scp_mgturretfmjbox>
+  <entitydescription.scp_mgturretfmjbox>250发一箱的7.62*51mm全金属被甲弹，装在塑料弹箱中，供舰载机枪炮塔使用。</entitydescription.scp_mgturretfmjbox>
+  <entityname.scp_mgturretapbox>机枪炮塔穿甲弹药箱</entityname.scp_mgturretapbox>
+  <entitydescription.scp_mgturretapbox>250发一箱的7.62*51mm穿甲弹，装在塑料弹箱中，供舰载机枪炮塔使用。</entitydescription.scp_mgturretapbox>
+  <!--Missions-->
+  <missionname.abandonedoutpostassassinateliv>清剿“先锋”据点</missionname.abandonedoutpostassassinateliv>
+  <missiondescription.abandonedoutpostassassinateliv>我们在[location1]发现了“先锋”分队的活动迹象，他们可能会利用这个地方作为攻击附近前哨站的据点。他们全副武装、几乎无视交战规则，会不计代价地攻击你，因此建议你在此之前做好充足的准备。</missiondescription.abandonedoutpostassassinateliv>
+  <missionsuccess.abandonedoutpostassassinateliv>“先锋”分队已被成功消灭。</missionsuccess.abandonedoutpostassassinateliv>
+  <missionfailure.abandonedoutpostassassinateliv>清剿“先锋”分队失败。</missionfailure.abandonedoutpostassassinateliv>
+  <missionheader0.abandonedoutpostassassinateliv>“先锋”分队已被消灭</missionheader0.abandonedoutpostassassinateliv>
+  <missionmessage0.abandonedoutpostassassinateliv>“先锋”分队进行了激烈的抵抗，不过还是被成功消灭了，分离主义分子将对此十分不满。出港以完成任务。</missionmessage0.abandonedoutpostassassinateliv>
+  <missionname.abandonedoutpostassassinaterogues>清剿联盟土匪士兵</missionname.abandonedoutpostassassinaterogues>
+  <missiondescription.abandonedoutpostassassinaterogues>我们在[location1]发现了一队叛变的联盟土匪士兵，他们脱离联盟很可能是为了开展非法物品贩运或其他邪恶罪行。将头目和手下全部杀死一个不留，这对联盟和分离主义者都有好处。</missiondescription.abandonedoutpostassassinaterogues>
+  <missionsuccess.abandonedoutpostassassinaterogues>土匪兵头目已被成功击杀。</missionsuccess.abandonedoutpostassassinaterogues>
+  <missionfailure.abandonedoutpostassassinaterogues>击杀土匪兵头目失败。</missionfailure.abandonedoutpostassassinaterogues>
+  <missionheader0.abandonedoutpostassassinaterogues>土匪兵头目已击杀</missionheader0.abandonedoutpostassassinaterogues>
+  <missionmessage0.abandonedoutpostassassinaterogues>叛徒首领已被妥善解决，出港以完成任务。</missionmessage0.abandonedoutpostassassinaterogues>
+  <missionname.abandonedoutpostassassinateyui>清剿“渗透者”据点</missionname.abandonedoutpostassassinateyui>
+  <missiondescription.abandonedoutpostassassinateyui>我们在[location1]发现了一队“渗透者”，这意味着附近的前哨站即将面临袭击。分离主义者否认他们的存在，因此允许渗透者能几乎无视交战规则。要完成这项任务，没有充足的装备等同于自杀。</missiondescription.abandonedoutpostassassinateyui>
+  <missionsuccess.abandonedoutpostassassinateyui>“渗透者”分队已被成功消灭。</missionsuccess.abandonedoutpostassassinateyui>
+  <missionfailure.abandonedoutpostassassinateyui>清剿“渗透者”分队失败。</missionfailure.abandonedoutpostassassinateyui>
+  <missionheader0.abandonedoutpostassassinateyui>“渗透者”分队已被消灭</missionheader0.abandonedoutpostassassinateyui>
+  <missionmessage0.abandonedoutpostassassinateyui>尽管有所抵抗，“渗透者”还是被成功处理掉了，分离主义分子将对此十分不满。出港以完成任务。</missionmessage0.abandonedoutpostassassinateyui>
+  <missionname.abandonedoutpostassassinatescavs>清剿海盗拾荒者</missionname.abandonedoutpostassassinatescavs>
+  <missiondescription.abandonedoutpostassassinatescavs>我们发现了一大群拾荒者在[location1]劫掠物资补给。虽然装备很差，但他们人数众多，可能很难对付。除掉拾荒者的领头人，这将吓止其他蠢蠢欲动的人。</missiondescription.abandonedoutpostassassinatescavs>
+  <missionsuccess.abandonedoutpostassassinatescavs>拾荒者头目已被成功击毙。</missionsuccess.abandonedoutpostassassinatescavs>
+  <missionfailure.abandonedoutpostassassinatescavs>击杀拾荒者头目失败。</missionfailure.abandonedoutpostassassinatescavs>
+  <missionheader0.abandonedoutpostassassinatescavs>拾荒者头目已被处理</missionheader0.abandonedoutpostassassinatescavs>
+  <missionmessage0.abandonedoutpostassassinatescavs>拾荒者头目被推翻了，出港以完成任务。</missionmessage0.abandonedoutpostassassinatescavs>
+  <missionname.abandonedoutpostassassinatetemppirates>清剿海盗临时据点</missionname.abandonedoutpostassassinatetemppirates>
+  <missiondescription.abandonedoutpostassassinatetemppirates>我们在[location1]发现一群海盗，他们正在附近寻找建立据点的理想位置。把他们除掉对我们才是最理想的。</missiondescription.abandonedoutpostassassinatetemppirates>
+  <missionsuccess.abandonedoutpostassassinatetemppirates>海盗首领已被成功击毙。</missionsuccess.abandonedoutpostassassinatetemppirates>
+  <missionfailure.abandonedoutpostassassinatetemppirates>击杀海盗首领失败。</missionfailure.abandonedoutpostassassinatetemppirates>
+  <missionheader0.abandonedoutpostassassinatetemppirates>海盗首领已被处理</missionheader0.abandonedoutpostassassinatetemppirates>
+  <missionmessage0.abandonedoutpostassassinatetemppirates>海盗首领已死，他们的计划泡汤了。出港以完成任务。</missionmessage0.abandonedoutpostassassinatetemppirates>
+  <missionname.abandonedoutpostassassinateseparatists>分离主义分子站点行动</missionname.abandonedoutpostassassinateseparatists>
+  <missiondescription.abandonedoutpostassassinateseparatists>一伙分离主义分子决定在[location1]开始行动。考虑到联盟近期的攻击行动，他们不太可能对你的存在表示友好。如果你想让分离主义分子站在你这边，最好让他们去做他们的事。</missiondescription.abandonedoutpostassassinateseparatists>
+  <missionsuccess.abandonedoutpostassassinateseparatists>分离主义分子行动顾问已被成功击毙。</missionsuccess.abandonedoutpostassassinateseparatists>
+  <missionfailure.abandonedoutpostassassinateseparatists>击杀分离主义分子行动顾问失败。</missionfailure.abandonedoutpostassassinateseparatists>
+  <missionheader0.abandonedoutpostassassinateseparatists>分离主义分子行动顾问已被击毙</missionheader0.abandonedoutpostassassinateseparatists>
+  <missionmessage0.abandonedoutpostassassinateseparatists>负责监督此次行动的顾问已死，出港以完成任务。</missionmessage0.abandonedoutpostassassinateseparatists>
+  <missionname.abandonedoutpostassassinateveron>消灭“联合军”分队</missionname.abandonedoutpostassassinateveron>
+  <missiondescription.abandonedoutpostassassinateveron>我们在[location1]发现了一队“联合军”，他们可能是前来清理陷落前哨站的。他们拥有木卫二上最精良的武器，会攻击任何干扰他们执行任务的人。对此准备不足就是自杀。</missiondescription.abandonedoutpostassassinateveron>
+  <missionsuccess.abandonedoutpostassassinateveron>“联合军”分队已被成功消灭。</missionsuccess.abandonedoutpostassassinateveron>
+  <missionfailure.abandonedoutpostassassinateveron>消灭“联合军”分队行动失败。</missionfailure.abandonedoutpostassassinateveron>
+  <missionheader0.abandonedoutpostassassinateveron>“联合军”分队已被消灭</missionheader0.abandonedoutpostassassinateveron>
+  <missionmessage0.abandonedoutpostassassinateveron>尽管遭到激烈抵抗，“联合军”还是被成功处理掉了，联盟将对此次胜利非常愤怒。出港以完成任务。</missionmessage0.abandonedoutpostassassinateveron>
+  <missionname.abandonedoutpostassassinatemar>消灭“掠夺者”分队</missionname.abandonedoutpostassassinatemar>
+  <missiondescription.abandonedoutpostassassinatemar>我们在[location1]发现了一队“掠夺者”，估计是准备对一个分离主义分子的前哨站进行大规模突袭。他们以极具侵略性的战术著称，很可能会袭击你的潜艇。如果你有胆量的话，就与他们对峙吧。</missiondescription.abandonedoutpostassassinatemar>
+  <missionsuccess.abandonedoutpostassassinatemar>“掠夺者”分队已被成功消灭。</missionsuccess.abandonedoutpostassassinatemar>
+  <missionfailure.abandonedoutpostassassinatemar>消灭“掠夺者”分队行动失败。</missionfailure.abandonedoutpostassassinatemar>
+  <missionheader0.abandonedoutpostassassinatemar>“掠夺者”分队已被消灭</missionheader0.abandonedoutpostassassinatemar>
+  <missionmessage0.abandonedoutpostassassinatemar>尽管遭到激烈抵抗，“掠夺者”还是被成功处理掉了，联盟将对此次胜利非常不满。出港以完成任务。</missionmessage0.abandonedoutpostassassinatemar>
+  <!--Custom Display Names-->
+  <displayname.chemrefined>[itemname] （已精炼）</displayname.chemrefined>
+  <!--Extra Dialogue-->
+  <dialogattackedbyfriendly>I'M FRIENDLY!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>AGH GOD-JESUS-SHIT-FUCK MAN WHAT'S YOUR PROBLEM?!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>WATCH WHO YOU'RE ATTACKING MORON!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>WOAH-FRIENDLY FIRE!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>OW! WHAT THE?!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>CUT IT OUT YOU PALOOKA!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>OW FUCKING WATCH IT YOU RECKLESS MORON!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>STOP ATTACKING FRIENDLIES ASSHOLE!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>CAN YOU FUCKING STOP?!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>OW THE FUCK DID I DO YOU PRICK?!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>OW YOU TRAITOROUS BASTARD!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>ID YOUR TARGETS JACKOFF!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>WHAT THE HELL IS WRONG WITH YOU?</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>AAAGH YOU'RE KILLING ME YOU ASSHOLE!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>I'M ON YOUR SIDE YOU FUCKING IDIOT!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>AGH YOU'RE KILLNG ME HERE!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>HOLD YOUR FIRE!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendly>YOU MASSIVE BASTARD!</dialogattackedbyfriendly>
+  <dialogattackedbyfriendlysecurityresponse>Oh you're in for it now Private Trigger Happy!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>Don't fucking try to kill the king if you know you'll miss!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>Alright you're for it now you damn traitor!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>TRAITOR!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>ALRIGHT YOU'VE TESTED MY PATIENCE, I'M GONNA KICK YOUR ASS!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>I'M GONNA LAY YOU OUT SUNSHINE!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>YOU THINK YOU CAN JUST ATTACK ME AND GET AWAY WITH IT?!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>Oh you get your serial killer ass here right now!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>Time for your ass to learn the hard way!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>Oh you're fucked now!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>Time to teach you some fucking manners!</dialogattackedbyfriendlysecurityresponse>
+  <dialogattackedbyfriendlysecurityresponse>ND OR NOT I'M KICKING YOUR ASS!</dialogattackedbyfriendlysecurityresponse>
+  <dialogbleeding>I'M HIT!</dialogbleeding>
+  <dialogbleeding>WOUNDED!</dialogbleeding>
+  <dialogbleeding>SOMEBODY HELP ME!</dialogbleeding>
+  <dialogbleeding>I NEED A MEDIC!</dialogbleeding>
+  <dialogbleeding>AGH, I'M HURT BAD!</dialogbleeding>
+  <dialogbleeding>FUCK I'M PISSING BLOOD HERE!</dialogbleeding>
+  <dialogbleeding>BANDAGES, SOMEONE GET SOME BANDAGES TO ME!</dialogbleeding>
+  <dialoglowoxygen>cantfuckingbreathecantfuckingbreathesomeonehelpme</dialoglowoxygen>
+  <dialoglowoxygen>myvisionis... weird...</dialoglowoxygen>
+  <dialoglowoxygen>my fingers are... turning... blue...</dialoglowoxygen>
+  <dialoglowoxygen>i'm... really light headed...</dialoglowoxygen>
+  <dialoglowoxygen>helppleaseicantfuckingbreathehere</dialoglowoxygen>
+  <dialogaffirmative>Wilco.</dialogaffirmative>
+  <dialogaffirmative>Solid Copy.</dialogaffirmative>
+  <dialogaffirmative>Say less, sir.</dialogaffirmative>
+  <dialogaffirmative>Copy that.</dialogaffirmative>
+  <dialogaffirmative>Oscar Mike.</dialogaffirmative>
+  <dialogturrettargetdead>Target neutralized.</dialogturrettargetdead>
+  <dialogturrettargetdead>X-ray taken care of.</dialogturrettargetdead>
+  <dialogturrettargetdead>Got this motherfucker!</dialogturrettargetdead>
+  <dialogturrettargetdead>Minus one!</dialogturrettargetdead>
+  <dialogturrettargetdead>That one sure as hell ain't swimming no more!</dialogturrettargetdead>
+  <dialogturrettargetdead>Aand it's dead!</dialogturrettargetdead>
+  <dialogenemydown>Dropped 'em'.</dialogenemydown>
+  <dialogenemydown>One prick taken care of.</dialogenemydown>
+  <dialogenemydown>X-ray down.</dialogenemydown>
+  <dialogcombatnoweapons>WHERE THE FUCK ARE THE GUNS?!</dialogcombatnoweapons>
+  <dialogcombatnoweapons>NEED A FORCE MULTIPLIER HERE!</dialogcombatnoweapons>
+  <dialogcombatnoweapons>SECURTIY GET YOUR ASSES OVER HERE I CAN'T FIGHT THESE FUCKERS!</dialogcombatnoweapons>
+  <dialogcombatnoweapons>I CAN'T FIGHT THESE FUCKERS WITHOUT A GUN YOU KNOW?!</dialogcombatnoweapons>
+  <dialogcombatnoweapons>AH YES SECURITY WITH THEIR INFINITE WISDOM HAS HOARDED EVERY GUN, WHERE THE FUCK IS ANYTHING I CAN USE?!</dialogcombatnoweapons>
+  <dialogcannottreatself>WHERE THE FUCK THE MEDS AT?!</dialogcannottreatself>
+  <dialogcannottreatself>DOC I NEED YOU HERE NOW I CAN'T FIND SHIT TO FIX MYSELF UP WITH!</dialogcannottreatself>
+  <dialogrefusedragging>GET THE FUCK OFF ME YOU CREEPY PRICK!</dialogrefusedragging>
+  <dialogrefusedragging>OI STRANGER DANGER, BACK THE FUCK OFF!</dialogrefusedragging>
+  <dialogrefusedragging>YOU HAVE 3 SECONDS TO GET AWAY FROM ME!</dialogrefusedragging>
+  <dialogrefusedragging>You trynna' fucking pickpocket me?! Back the hell off!</dialogrefusedragging>
+  <dialogrefusedragging>Hey just what the fuck do you think you're doing you weirdo?!</dialogrefusedragging>
+  <dialogrefusedragging>Get away from me, right fucking now.</dialogrefusedragging>
+  <!--Extra Tips-->
+  <loadingscreentip>Vanguard Operators are the mainstay of Separatist raiding parties with their heavy armour and highly capable weaponry, be very well prepared in case you meet any.</loadingscreentip>
+  <loadingscreentip>Infiltrators are the Separatist's answer to covert operations on Europa, primarily used for assassinations, recon or, as their name states, infiltrating Coalition outposts.</loadingscreentip>
+  <loadingscreentip>Coalition Assault Rifles used across Europa are chambered in 5.56x45 or 6.5x39, whereas the Separatist's Assault Rifles use 5.45x39 and 7.62x39.</loadingscreentip>
+  <loadingscreentip>The Coalition has a wide variety of high quality, precision engineered firearms at their disposal, with production of such weapons significantly increasing as of recent events.</loadingscreentip>
+  <loadingscreentip>The Separatists primarily arm themselves with more primitive, more easily manufacturable firearms which makes them more readily available, but are overall inferior to their more expensive, precision tooled alternatives.</loadingscreentip>
+  <loadingscreentip>The mask will claim another life today...</loadingscreentip>
+  <loadingscreentip>It is common for both the Coalition and Separatists to heavily arm their offensive and defensive forces when attacking and occupying an outpost, with abandoned outposts tending to be the most heavily armed for thwarting counter attacks.</loadingscreentip>
+  <loadingscreentip>It is unclear as to when Preso and Ignis Latex where originally synthesized, however their properties have made them favourable in both chemical weapons and processing.</loadingscreentip>
+  <loadingscreentip>Preso Latex is a synthesized form of Elastin, created via refining the material with Morbusine.</loadingscreentip>
+  <loadingscreentip>Close Quarters Combat is bloody, desperate and often unfair, making it a hellish ordeal to be thrown into without adequate equipment.</loadingscreentip>
+  <loadingscreentip>Marksman Rifles, despite their highly situational nature are often used to trigger explosive devices from a distance without wasting any other ammunition, they're also used to reliably kill or incapacitate a person or lightly armoured creatures at arms reach.</loadingscreentip>
+  <loadingscreentip>Surplus firearms can be found all across Europa, being phased out by advanced bolt sealing techniques and state-of-the-art supercavitating ammo once thought to be impossible to create, having very similar velocity and stability in water as they do on land.</loadingscreentip>
+  <loadingscreentip>Hexa-Nova is an extremely potent nerve agent that is outright banned by both the Coalition and Separatists as a result of it's destructive capabilites and lingering danger, though that won't stop some people from trying.</loadingscreentip>
+  <loadingscreentip>Thermonuclear weapons are often seen as suicidal to use given their almost impractically large explosive potential, though with a bit of crew coordination it can end a fight in an instant.</loadingscreentip>
+  <loadingscreentip>"sorry I bashed your precious baby of a mod" - Sonar the Synth.</loadingscreentip>
+  <loadingscreentip>Don't get too cocky in combat, all it takes is one bad move and whatever advantages you had can be stripped away from you.</loadingscreentip>
+  <loadingscreentip>Pistols are generally considered inadequate for the vast majority of use cases, however can be better than nothing if for whatever reason your primary is unavailable, or just for simply taking out someone or something that has little armour.</loadingscreentip>
+  <loadingscreentip>Revolvers are chambered in cartridges that pack significantly more punch than pistols tend to chamber, though this does put a lot of demand on the user and requires both hands to be on the firearm to prevent nasty occurences.</loadingscreentip>
+  <loadingscreentip>Machine Guns are the prime choice for area-denial, dealing with crawler nests or any scenario that features lots of enemies, they are however very expensive to run ammo wise.</loadingscreentip>
+  <loadingscreentip>Assault Rifles are the go-to for most situations given their general purpose design, however intermediate cartridges may faulter depending on who or what you're engaging.</loadingscreentip>
+  <loadingscreentip>Submachine Guns are meant to provide an automatic means of dispensing pistol cartridges, being more favoured against multiple targets as a result, their poor capabilites however raise questions as to if SMGs are inadequate outside of basic self defence.</loadingscreentip>
+  <loadingscreentip>Prototype Weapons are top secret or mostly forgotten upgrades to existing designs, requiring Authentication keys in a compatible Fabricator in order to make them.</loadingscreentip>
+  <loadingscreentip>Battle Rifles are arguably the most suited for combat against most human targets as a result of 7.62x51mm's capabilites against unarmoured and armoured targets alike, however weapons that chamber it are very expensive and/or demanding on the shooter.</loadingscreentip>
+  <loadingscreentip>Ever since the beginning of the Coalition-Separatist arms race, outposts on both sides have heavily invested in civilian self defence measures and security budgets, making them significantly harder to attack.</loadingscreentip>
+  <loadingscreentip>The CBRN Suit, HAZMAT Suit and Liquidator Suit are capable of protecting against chemical and biological weapons, alongside having significant radiation resistance.</loadingscreentip>
+  <loadingscreentip>Ignis Latex can be used in the Chemical Refinery to bulk process Magnesium and Flash Powder.</loadingscreentip>
+  <loadingscreentip>It is unclear why Vanguard and Infiltrator Operators decided to design their helmets with canine and feline styles respectively, presumably to symbolically reflect their strengths and make them recongizable for intimidation purposes.</loadingscreentip>
+  <loadingscreentip>Fractal Ruins can occasionally harbour mysterious, vaguely humanoid holdable firearms, their origin unknown and are highly dangerous to use.</loadingscreentip>
+  <loadingscreentip>Anti-Materiel Rifles are very niche, but very powerful firearms used predominantly against large creatures, submarines or even heavily armoured combatants.</loadingscreentip>
+  <loadingscreentip>Firearms are dangerous, don't underestimate them even with armour.</loadingscreentip>
+  <loadingscreentip>An urban legend spread around Europa regarding a mysterious cursed mask has recently appeared and grown traction.</loadingscreentip>
+  <loadingscreentip>Fractal Ruins can occasionally harbour mysterious, vaguely humanoid holdable firearms, their origin unknown and are highly dangerous to use.</loadingscreentip>
+  <!--已删除物品-->
+  <entityname.scp_hs10>简易自动霰弹枪</entityname.scp_hs10>
+  <entitydescription.scp_hs10>仓促制造的具有半自动功能的紧凑型霰弹枪，可隐蔽携带，能提供可观的近距离火力，然而过大的零件制作误差使武器内部总是叮当作响，与其他霰弹枪相比，失去了相当程度的准确性和耐热性，而且弹容量也很差。</entitydescription.scp_hs10>
+  <entityname.scp_grenadeturret>榴弹炮</entityname.scp_grenadeturret>
+  <entitydescription.scp_grenadeturret>从现有的线圈枪基础上衍生出的60*50mm重管发射器，使用低速榴弹来对付小型集群目标。</entitydescription.scp_grenadeturret>
+  <entityname.scp_grenadeturretloader>榴弹炮装弹器</entityname.scp_grenadeturretloader>
+  <entitydescription.scp_grenadeturretloader></entitydescription.scp_grenadeturretloader>
+  <entityname.scp_grenadeturretboxhe>榴弹炮高爆榴弹弹药箱</entityname.scp_grenadeturretboxhe>
+  <entitydescription.scp_grenadeturretboxhe>一箱用于榴弹炮塔的60*50mm高爆榴弹。</entitydescription.scp_grenadeturretboxhe>
+  <entityname.scp_grenadehe>高爆榴弹</entityname.scp_grenadehe>
+  <entitydescription.scp_grenadehe></entitydescription.scp_grenadehe>
+  <entityname.scp_grenadeturretboxdevilsblood>“恶魔之血”榴弹弹药箱</entityname.scp_grenadeturretboxdevilsblood>
+  <entitydescription.scp_grenadeturretboxdevilsblood>一箱60*50mm的“恶魔之血”榴弹，能够同时影响多个目标。</entitydescription.scp_grenadeturretboxdevilsblood>
+  <entityname.scp_grenadedevilsblood>“恶魔之血”榴弹</entityname.scp_grenadedevilsblood>
+  <entitydescription.scp_grenadedevilsblood></entitydescription.scp_grenadedevilsblood>
+  <entityname.scp_spear>联盟重型突击步枪（MCX Spear）</entityname.scp_spear>
+  <entitydescription.scp_spear>现代化的6.8*51mm突击步枪，设计思路是在5.56和7.62mm步枪之间找到平衡，类似于无壳弹突击步枪。其发射的子弹速度与7.62*51mm相似，但整体更小、更轻。</entitydescription.scp_spear>
+  <entityname.scp_spearmag>联盟重型突击步枪弹匣 6.8*51mm</entityname.scp_spearmag>
+  <entitydescription.scp_spearmag>25发6.8*51mm弹匣。</entitydescription.scp_spearmag>
+  <!--<entityname.scp_68projectile>6.8*51mm子弹</entityname.scp_68projectile>
+  <entitydescription.scp_68projectile></entitydescription.scp_68projectile>-->
+  <entityname.scp_scar17>战斗步枪（SCAR-H）</entityname.scp_scar17>
+  <entitydescription.scp_scar17>7.62*51mm大型短程战斗步枪，采用步枪弹匣，对大多数目标的效果明显好于其他更小口径的选择。</entitydescription.scp_scar17>
+  <!--weapons_harpoons-->
+  <entityname.scp_harpoontitanium>钛质鱼叉</entityname.scp_harpoontitanium>
+  <entitydescription.scp_harpoontitanium>简单的钛棒加上前端锋利的倒刺，可以更有效地对付被甲目标。</entitydescription.scp_harpoontitanium>
+  <entityname.scp_harpoonserrated>锯齿鱼叉</entityname.scp_harpoonserrated>
+  <entitydescription.scp_harpoonserrated>简单的钢棒加上一长段小倒钩，能对无护甲目标造成可怕的伤害。</entitydescription.scp_harpoonserrated>
   <entityname.identifier>姓名</entityname.identifier>
   <entitydescription.identifier>描述</entitydescription.identifier>
   <entityname.corpse1>尸体</entityname.corpse1>
@@ -769,94 +1140,11 @@
   <entitydescription.corpse9></entitydescription.corpse9>
   <entityname.corpse10>尸体</entityname.corpse10>
   <entitydescription.corpse10></entitydescription.corpse10>
-  <entityname.scp_armory>军械库</entityname.scp_armory>
-  <entitydescription.scp_armory>可上锁的大柜子，用于储存大量的武器装备。</entitydescription.scp_armory>
-  <entityname.scp_engineeringcab>工程柜</entityname.scp_engineeringcab>
-  <entitydescription.scp_engineeringcab></entitydescription.scp_engineeringcab>
-  <entityname.scp_weaponrack>武器架</entityname.scp_weaponrack>
-  <entitydescription.scp_weaponrack></entitydescription.scp_weaponrack>
-  <entityname.scp_smallweaponrack>小武器架</entityname.scp_smallweaponrack>
-  <entitydescription.scp_smallweaponrack></entitydescription.scp_smallweaponrack>
-  <entityname.scp_coilgunammocabinet>电磁炮弹药储存柜</entityname.scp_coilgunammocabinet>
-  <entitydescription.scp_coilgunammocabinet></entitydescription.scp_coilgunammocabinet>
-  <entityname.scp_railguncabinet>轨道炮弹药储存柜</entityname.scp_railguncabinet>
-  <entitydescription.scp_railguncabinet>用于储存轨道炮弹药的大柜子。</entitydescription.scp_railguncabinet>
-  <!--misc_fabricators-->
-  <entityname.scp_ammofabricator>弹药加工台</entityname.scp_ammofabricator>
-  <entitydescription.scp_ammofabricator>专门用于制造枪支用弹药而设计的加工台。它的特殊加工程序允许更快地制造弹药。</entitydescription.scp_ammofabricator>
-  <entityname.scp_weaponfabricator>武器加工台</entityname.scp_weaponfabricator>
-  <entitydescription.scp_weaponfabricator>专门用于制造木卫二上现有的大多数枪支的加工台。它的特殊加工程序使它能更快地制造枪支。</entitydescription.scp_weaponfabricator>
-  <entityname.scp_portableammofabricator>便携式弹药加工台</entityname.scp_portableammofabricator>
-  <entitydescription.scp_portableammofabricator>更小、更紧凑的加工台，专门为没有弹药加工台的潜艇设计，或者只是为了制造弹药时不引起那么多怀疑。由于尺寸限制，与传统的同类产品相比，它缺乏存储大量制造数据的能力，因此与一般用途的加工台一样，加工速度很慢。可以用鼠标右键+E放置。</entitydescription.scp_portableammofabricator>
-  <entityname.scp_portableweaponfabricator>便携式武器加工台</entityname.scp_portableweaponfabricator>
-  <entitydescription.scp_portableweaponfabricator>更小、更紧凑的加工台，专门为没有武器加工台的潜艇设计，或者只是为了制造武器时不引起那么多怀疑。由于尺寸限制，与传统的同类产品相比，它缺乏存储大量制造数据的能力，因此与一般用途的加工台一样，加工速度很慢。可以用鼠标右键+E放置。</entitydescription.scp_portableweaponfabricator>
-  <entityname.scp_advportableweaponfabricator>便携式先进武器加工台</entityname.scp_advportableweaponfabricator>
-  <entitydescription.scp_advportableweaponfabricator>紧凑的顶级加工台，用于制造先进武器及其弹药。可以使用鼠标右键+E来放置。</entitydescription.scp_advportableweaponfabricator>
-  <!--misc_misc-->
-  <entityname.scp_revolverammobox>左轮弹药盒</entityname.scp_revolverammobox>
-  <entitydescription.scp_revolverammobox>小而方便的弹药盒，可以存放各种口径的左轮手枪的弹药，相当便于随身携带。</entitydescription.scp_revolverammobox>
-  <entityname.scp_amrammobox>反器材步枪弹药盒</entityname.scp_amrammobox>
-  <entitydescription.scp_amrammobox>用来装各种反器材弹药的弹药盒。</entitydescription.scp_amrammobox>
-  <entityname.scp_shotgunammobox>霰弹弹药箱</entityname.scp_shotgunammobox>
-  <entitydescription.scp_shotgunammobox>设计用于装载大量霰弹弹药的弹药箱。</entitydescription.scp_shotgunammobox>
-  <entityname.scp_uniammobox>通用弹药箱</entityname.scp_uniammobox>
-  <entitydescription.scp_uniammobox>通用弹药箱，当整理船只不是优先事项时，可以直接把各种弹药扔到里面。</entitydescription.scp_uniammobox>
-  <entityname.scp_grenadeammobox>枪榴弹弹药箱</entityname.scp_grenadeammobox>
-  <entitydescription.scp_grenadeammobox>用来装40mm榴弹的保险箱。</entitydescription.scp_grenadeammobox>
-  <entityname.scp_rifleammobox>步枪弹药箱</entityname.scp_rifleammobox>
-  <entitydescription.scp_rifleammobox>大而重的箱子，用于装各种步枪或冲锋枪弹匣。</entitydescription.scp_rifleammobox>
-  <entityname.scp_weaponcrate>武器箱</entityname.scp_weaponcrate>
-  <entitydescription.scp_weaponcrate>大而重的箱子，设计用于储存枪支以节省储存空间。</entitydescription.scp_weaponcrate>
-  <entityname.scp_ammocrate>弹药箱</entityname.scp_ammocrate>
-  <entitydescription.scp_ammocrate>大而重的箱子，设计用于储存弹药箱以节省储存空间。</entitydescription.scp_ammocrate>
-  <entityname.scp_alienweaponcrate>异星武器箱</entityname.scp_alienweaponcrate>
-  <entitydescription.scp_alienweaponcrate>大而重的箱子，设计用于储存常规或异星武器。</entitydescription.scp_alienweaponcrate>
-  <!--turrets_turrets-->
-  <entityname.scp_tankcannon>重型线圈炮</entityname.scp_tankcannon>
-  <entitydescription.scp_tankcannon>从现有的线圈炮基础上衍生出来的80mm大炮，意在作为线圈炮和轨道炮之间的一个过渡。</entitydescription.scp_tankcannon>
-  <entityname.scp_tankgunloader>重型线圈炮装弹器</entityname.scp_tankgunloader>
-  <entitydescription.scp_tankgunloader>重型线圈炮专用的供弹系统，与电磁枪装弹器共用部分零件。</entitydescription.scp_tankgunloader>
-  <entityname.scp_tankgunbox>重型线圈炮高爆弹药箱</entityname.scp_tankgunbox>
-  <entitydescription.scp_tankgunbox>一个大而笨重的盒子，里面装有20枚80mm高爆弹，用于重型线圈炮，</entitydescription.scp_tankgunbox>
-  <entityname.scp_tankheatproj>重型线圈高爆射弹</entityname.scp_tankheatproj>
-  <entitydescription.scp_tankheatproj></entitydescription.scp_tankheatproj>
-  <entityname.scp_tankgunapbox>重型线圈炮穿甲弹药箱</entityname.scp_tankgunapbox>
-  <entitydescription.scp_tankgunapbox>一个大而笨重的盒子，里面装有20枚80mm穿甲弹，用于重型线圈炮,</entitydescription.scp_tankgunapbox>
-  <entityname.scp_tankapproj>重型线圈穿甲射弹</entityname.scp_tankapproj>
-  <entitydescription.scp_tankapproj></entitydescription.scp_tankapproj>
-  <entityname.scp_tankgunphysbox>重型线圈炮刚素弹药箱</entityname.scp_tankgunphysbox>
-  <entitydescription.scp_tankgunphysbox>一个大而笨重的盒子里装着20枚80mm的刚素弹，用于重型线圈炮。刚素射弹由于相对于其他材料更轻，速度明显较高，但仍保留了出色的爆炸力和穿透力。</entitydescription.scp_tankgunphysbox>
-  <entityname.scp_tankphysproj>重型线圈刚素射弹</entityname.scp_tankphysproj>
-  <entitydescription.scp_tankphysproj></entitydescription.scp_tankphysproj>
-  <entityname.scp_miniguncoilgun>先进电磁枪</entityname.scp_miniguncoilgun>
-  <entitydescription.scp_miniguncoilgun>一种高度先进的电磁线圈炮，多管转轮设计使其具有令人印象深刻的射速，但也因此十分耗电。</entitydescription.scp_miniguncoilgun>
-  <entityname.scp_xm25>实验性榴弹发射器</entityname.scp_xm25>
-  <entitydescription.scp_xm25>笨重但威力巨大的25*40mm榴弹发射器，能有效且快速地摧毁中等规模的无甲目标群。</entitydescription.scp_xm25>
-  <entityname.scp_xm25mag>实验性榴弹发射器弹匣 25*40mm</entityname.scp_xm25mag>
-  <entitydescription.scp_xm25mag>25*40mm弹匣，里面装着小型高爆榴弹。</entitydescription.scp_xm25mag>
-  <entityname.scp_mgturret>机枪炮塔</entityname.scp_mgturret>
-  <entitydescription.scp_mgturret>装在电磁枪底座上的7.62*51mm的通用机枪，用来对付快速移动的轻甲目标。由于其装填和连射机制非常传统，除了潜望探照灯和扳机系统，它几乎不消耗多少电力。</entitydescription.scp_mgturret>
-  <entityname.scp_machinegunturretloader>机枪炮塔装弹器</entityname.scp_machinegunturretloader>
-  <entitydescription.scp_machinegunturretloader></entitydescription.scp_machinegunturretloader>
-  <entityname.scp_mgturretfmjbox>机枪炮塔弹药箱</entityname.scp_mgturretfmjbox>
-  <entitydescription.scp_mgturretfmjbox>250发一箱的7.62*51mm全金属被甲弹，装在塑料弹箱中，供舰载机枪炮塔使用。</entitydescription.scp_mgturretfmjbox>
-  <entityname.scp_mgturretapbox>机枪炮塔穿甲弹药箱</entityname.scp_mgturretapbox>
-  <entitydescription.scp_mgturretapbox>250发一箱的7.62*51mm穿甲弹，装在塑料弹箱中，供舰载机枪炮塔使用。</entitydescription.scp_mgturretapbox>
-  <!--已删除物品-->
-  <entityname.scp_hs10>简易自动霰弹枪</entityname.scp_hs10>
-  <entitydescription.scp_hs10>仓促制造的具有半自动功能的紧凑型霰弹枪，可隐蔽携带，能提供可观的近距离火力，然而过大的零件制作误差使武器内部总是叮当作响，与其他霰弹枪相比，失去了相当程度的准确性和耐热性，而且弹容量也很差。</entitydescription.scp_hs10>
-  <entityname.scp_rpk74m>叛军轻机枪（RPK-74M）</entityname.scp_rpk74m>
-  <entitydescription.scp_rpk74m>坚固耐用的5.45*39mm轻机枪，更长、更粗的枪管可以支持持续射击，但是介于其整体长度和没有折叠枪托，所以很难隐蔽携带。</entitydescription.scp_rpk74m>
-  <entityname.scp_grenadeturret>榴弹炮</entityname.scp_grenadeturret>
-  <entitydescription.scp_grenadeturret>从现有的线圈枪基础上衍生出的60*50mm重管发射器，使用低速榴弹来对付小型集群目标。</entitydescription.scp_grenadeturret>
-  <entityname.scp_grenadeturretloader>榴弹炮装弹器</entityname.scp_grenadeturretloader>
-  <entitydescription.scp_grenadeturretloader></entitydescription.scp_grenadeturretloader>
-  <entityname.scp_grenadeturretboxhe>榴弹炮高爆榴弹弹药箱</entityname.scp_grenadeturretboxhe>
-  <entitydescription.scp_grenadeturretboxhe>一箱用于榴弹炮塔的60*50mm高爆榴弹。</entitydescription.scp_grenadeturretboxhe>
-  <entityname.scp_grenadehe>高爆榴弹</entityname.scp_grenadehe>
-  <entitydescription.scp_grenadehe></entitydescription.scp_grenadehe>
-  <entityname.scp_grenadeturretboxdevilsblood>“恶魔之血”榴弹弹药箱</entityname.scp_grenadeturretboxdevilsblood>
-  <entitydescription.scp_grenadeturretboxdevilsblood>一箱60*50mm的“恶魔之血”榴弹，能够同时影响多个目标。</entitydescription.scp_grenadeturretboxdevilsblood>
-  <entityname.scp_grenadedevilsblood>“恶魔之血”榴弹</entityname.scp_grenadedevilsblood>
-  <entitydescription.scp_grenadedevilsblood></entitydescription.scp_grenadedevilsblood>
+  <!--Missions-->
+  <missionname.abandonedoutpostassassinatecultistextremist>消灭画皮教派极端分子</missionname.abandonedoutpostassassinatecultistextremist>
+  <missiondescription.abandonedoutpostassassinatecultistextremist>臭名昭著的画皮教派已经开始在[location1]设立邪恶仪式。</missiondescription.abandonedoutpostassassinatecultistextremist>
+  <missionsuccess.abandonedoutpostassassinatecultistextremist>画皮教派祭司已被成功击毙。</missionsuccess.abandonedoutpostassassinatecultistextremist>
+  <missionfailure.abandonedoutpostassassinatecultistextremist>击杀画皮教派祭司失败。</missionfailure.abandonedoutpostassassinatecultistextremist>
+  <missionheader0.abandonedoutpostassassinatecultistextremist>画皮教派祭司已被成功处理</missionheader0.abandonedoutpostassassinatecultistextremist>
+  <missionmessage0.abandonedoutpostassassinatecultistextremist>画皮教派祭司已死，他们的邪恶仪式也被终止。出港以完成任务。</missionmessage0.abandonedoutpostassassinatecultistextremist>
 </infotexts>
